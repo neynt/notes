@@ -19,8 +19,8 @@ No notes taken.
 * 13:55: what a nice guy!
 * 15:21: "This town is surrounded by walls."
 * 16:38: crow scene
-* 21:47: so emotional strain can cause haibane to go weak. and the halo is sticking to Rakka now!
 * 17:37: "What's beyond the walls?" "Nobody knows." SHINGEKI
+* 21:47: so emotional strain can cause haibane to go weak. and the halo is sticking to Rakka now!
 
 ## Episode 3
 
