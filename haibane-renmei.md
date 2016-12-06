@@ -33,3 +33,15 @@ No notes taken.
 * 19:38: Hikari invented the Montreal-style bagel
 * 20:04: omg they used their halo mold to make bagels that's fantastic
 * 21:19: Rakka washing her halo
+
+## Episode 4
+
+* 00:33: This is a pretty sublime soundtrack.
+* 01:40: Crow symbol
+* 05:23: "There are rules for crows too. You can't spoil them." -- Just like there are rules for Haibane.
+* 05:58: "It might be happy for them, but... I feel sorry for them."
+* 13:37: "I'm giving you discipline because you have potential."
+* 14:13: Saltblock would like this apron action
+* 14:44: "It's kind of like being treated like children." (on the town being protective of Haibane)
+* 18:35: "We're not supposed to meddle too much in the Haibane's lives."
+* 19:51: He's such a big bloop
