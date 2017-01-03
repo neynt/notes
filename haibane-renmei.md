@@ -45,3 +45,56 @@ No notes taken.
 * 14:44: "It's kind of like being treated like children." (on the town being protective of Haibane)
 * 18:35: "We're not supposed to meddle too much in the Haibane's lives."
 * 19:51: He's such a big bloop
+
+## Episode 5
+
+* 01:16: "the beginning of the world"
+* 01:26: "I wonder if those are the years of the books."
+* 03:21: I also don't really remember what it was like when I was born.
+* 03:48: Clever
+* 04:00: Sumika is moto-senpai
+* 05:05: aren't you supposed to be labelling
+* 06:01: the start of the world
+* 06:28: "A dream is beautiful because it stays a dream."
+* 09:26: "sekai no hajimari" book
+* 09:36: came up with the rest of the story
+* 13:00: everyone is supporting each other in unseen ways. I wonder if I deserve to be happy as I am. tru feel 
+* 23:00: one hell of a creation story. I feel like the haibane represent something very relevant.
+
+## Episode 6
+
+* 02:36: daww winter coat gift
+* 15:28: that column of light was definitely kuu
+* 17:19: nishi no mori. not just the birds though. a light.
+* 18:01: Day of Flight (sudachi no hi): haibane's leaving-day.
+* 20:57: it's his halo
+* 21:20: with feathers.motherfuck
+* 21:49: memorial
+* 22:47: "In the end, everyone leaves me." whoa where did that come from
+
+The Day of Flight represents... death, maybe? A coming-of-age, maybe? Either way, you're leaving behind people who cherish you.
+
+## Episode 7
+
+* 00:53: this show has a beautiful ost
+* 01:15: so they ended up following the bell home, great
+* 02:48: moldy feather? blackened feather
+* 05:47: again with the moldy feather
+* 06:45: accepting handouts
+* 07:54: Hyouko is person
+* 08:37: haha he likes a haibane
+* 08:57: this anime has few heavy scenes, but it makes good use of them (every pixel it has)
+* 09:31: again with the crows, the fully black feathered crows.
+* 10:53: when everyone has moved on but you're stuck in the gutter
+* 11:10: oh shit the moldy feathers spread
+* 11:30: bad feeling
+* 13:07: wow, they make their hanebukuro from a low level
+* 13:48: discovered. and damn, cutting individual feathers in half?
+* 14:43: i sure hope someone knows what's going on
+* 15:03: crying because something is wrong with me, but I don't know why
+* 16:27: "No, you're not sick. You haven't done anything wrong."
+* 18:06: Sin-Bound haibane: doesn't remember dream, town is prison.
+* 18:50: Reki is a Sin-Bound. Black feathers at birth.
+* 19:20: Kuramori was parent-like figure to many. Left five years ago.
+* 21:20: Reki has sad dreams. horrible dreams. "always the same dream."
+* 22:30: Old Home is literally Sift Science
