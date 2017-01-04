@@ -1,3 +1,3 @@
 # Notes
 
-Notes taken while consuming media. Spoilers abound.
+Notes taken while watching things. Has spoilers.
