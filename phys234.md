@@ -6,7 +6,7 @@ Professor: Qing-Bin Lu
 
 A while back, physics had some problems.
 
-- **The Michelson-Morley experiment** failed to measure any movement relative to the "luminiferous aether".
+- The **Michelson-Morley experiment** failed to measure any movement relative to the "luminiferous aether".
 - The distribution of **blackbody radiation**, or cavity radiation, could not be explained.
   - Wien's approximation worked for short wavelengths, not long
   - Rayleigh-Jeans worked for long wavelengths, not short
