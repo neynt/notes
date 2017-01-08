@@ -1,3 +1,3 @@
 # Notes
 
-Notes taken while watching things. Has spoilers.
+These are my notes. Spoilers abound!
