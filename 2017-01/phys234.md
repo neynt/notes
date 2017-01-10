@@ -2,7 +2,7 @@
 
 Professor: Qing-Bin Lu
 
-## History
+## Quiz 1 cramming
 
 ### Equations
 
@@ -85,6 +85,8 @@ Professor: Qing-Bin Lu
   * Transistors, lasers, scanning tunneling microscope
 * Quantum numbers
   * n. k from 1 to n. m from -k to k exclusive. s \pm 1/2.
+
+## Actual notes
 
 A while back, physics had some problems which they solved.
 
