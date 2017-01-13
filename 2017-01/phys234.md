@@ -2,7 +2,7 @@
 
 Professor: Qing-Bin Lu
 
-## Quiz 1 cramming
+## Background / History
 
 ### Equations
 
@@ -22,8 +22,7 @@ Professor: Qing-Bin Lu
 * Atomic spectra: Hydrogen emits in several series. Lyman, Balmer, Paschen are first three. Balmer's formula is miraculous.
 * Atomic model: Thomson came up with plum pudding. Rutherford disproves with gold foil / \alpha scattering experiment, comes up with planetary model. Bohr extends this model to be very good.
 
-### By person
-
+### By person 
 * Heinrich Hertz: Initially observed photoelectric effect.
 * Wien: Did an empirical formula for blackbody radiation.
 * JJ Thompson: Discovered the electron. Plum pudding model.
@@ -71,7 +70,7 @@ Professor: Qing-Bin Lu
 * 1932: Heisenberg
 * 1933: Schrödinger and Dirac
 
-### Terms
+### Facts
 
 * Einstein's five miracle papers
   * Photoelectric effect, atoms exist, Brownian motion, special relativity, E = mc^2
@@ -86,39 +85,28 @@ Professor: Qing-Bin Lu
 * Quantum numbers
   * n. k from 1 to n. m from -k to k exclusive. s \pm 1/2.
 
-## Actual notes
-
-A while back, physics had some problems which they solved.
-
-Problems were solved like so:
-
-- Blackbody radiation: Planck's energy quanta
-- Photoelectric effect: Einstein's light quanta
-- Heat capacity of solids: Einstein's model of solids
-- Bright line optical spectra: Bohr's model of the atom
-
 ### Michelson-Morley experiment
 
-The **Michelson-Morley experiment** failed to measure any movement relative to the "luminiferous aether".
-
-### Blackbody radiation
-
-Classical EM theory couldn't explain the distribution of light frequencies in blackbody radiation.
-
-Wien's empirical approximation (1896) worked for only short wavelengths.
-
-$$ u(v) dv = c_1 v^3 e^{-c_2 v} $$
-
-Rayleigh-Jeans equation based on EM theory worked for only long wavelengths.
-
-$$ u(v) dv = \frac{8 \pi}{c^2} k T v^2 dv $$
-
-But Planck's empirical formula worked for **all** wavelengths! He fixed the ultraviolet catastrophe.
-
-$$ u(v) dv = \over{c_1}{e^{c₂v/T} - 1} v^3 dv $$
-
-Planck explained this formula using **energy quanta** -- it can be derived if you assume that electromagnetic radiation with frequency $$\nu$$ can only be absorbed or emitted in energies of $$nh\nu$$.
+Failed to measure any movement relative to the "luminiferous aether".
 
 ### Photoelectric effect
 
 Einstein proposed **light quanta** to explain the photoelectric effect. He later used energy quanta to explain the heat capacity of solids.
+
+## De Broglie's matter wave
+
+De Broglie extended Einstein's equation,
+
+$$
+p = \frac{h}{\lambda}
+$$
+
+from photons to electrons, ions, and all other particles. Einstein said that this was "the first feeble ray of light on the worst of our physics enigmas".
+
+## The Schrödinger Equation
+
+$$
+i \hbar \frac{\partial \Psi(x,t)}{\partial t} = \left[ -\frac{\hbar^2}{2m} \nabla^2 + V \right] \Psi(x,t)
+$$
+
+This is the $$F=ma$$ of quantum.
