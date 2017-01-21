@@ -2,7 +2,7 @@
 
 Professor: Qing-Bin Lu
 
-## Background / History
+## History
 
 ### Equations
 
@@ -103,10 +103,32 @@ $$
 
 from photons to electrons, ions, and all other particles. Einstein said that this was "the first feeble ray of light on the worst of our physics enigmas".
 
-## The Schrödinger Equation
+## Wave functions
+
+$$\Psi(x,t)$$ is the wave function. It describes a quantum state.
+
+### The Schrödinger Equation
 
 $$
 i \hbar \frac{\partial \Psi(x,t)}{\partial t} = \left[ -\frac{\hbar^2}{2m} \nabla^2 + V \right] \Psi(x,t)
 $$
 
-This is the $$F=ma$$ of quantum.
+This is the $$F=ma$$ of quantum mechanics. It tells you how the wave function evolves over time. How did Schrödinger obtain this equation? See [here](http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/Schr2.html#c1) for an intuition.
+
+### Properties of $$\Psi$$
+
+$$\Psi$$ must be square-integrable and continuous in space.
+
+### Statistical interpretation
+
+The probability of finding a particle described by $$\Psi(x,t)$$ in the region $$x$$ to $$x+dx$$ is
+
+$$
+P(x,t)dx = | \Psi(x,t) |^2 dx = \Psi^{*} \Psi
+$$
+
+We call $$P(x,t)$$ the probability amplitude or probability density. For this to make sense, $$\Psi$$ must be normalized, i.e.
+
+$$
+\int_{-\infty}^\infty P(x,t)dx = 1
+$$
