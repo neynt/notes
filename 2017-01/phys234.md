@@ -139,7 +139,7 @@ The momentum-space wave function $$\Phi(p,t)$$ is another wave function. It is t
 
 $$
 \begin{eqnarray}
-\Psi(x,t) = \frac{1}{\sqrt{2\pi\hbar}} \int e^{ipx/\hbar} \Phi(p,t)dx
+\Psi(x,t) = \frac{1}{\sqrt{2\pi\hbar}} \int e^{ipx/\hbar} \Phi(p,t)dx \\
 \Phi(p,t) = \frac{1}{\sqrt{2\pi\hbar}} \int e^{-ipx/\hbar} \Psi(x,t)dx
 \end{eqnarray}
 $$
@@ -154,11 +154,11 @@ $$
 \bar{p} = \left\langle p \right\rangle = \int \Psi^* \hat{p} \Psi dx
 $$
 
-where $$\hat{p} = -ih\bar \frac{\partial}{\partial x} = -ih\bar\nabla$$ is the **momentum operator**.
+where $$\hat{p} = -i\hbar \frac{\partial}{\partial x} = -i\hbar\nabla$$ is the **momentum operator**.
 
 Now that we have the momentum operator, we can derive other operators based on it. These let us compute the expectation value of other quantities, such as:
 
 - Kinetic energy: $$T = \frac{1}{2} mv^2 = \frac{p^2}{2m}$$, so $$\hat{T} = \frac{-\hbar^2\nabla^2}{2m}$$
 - Angular momentum: $$\vec{L} = \vec{r} \times \vec{p}$$, so $$\hat{\vec{L}} = -i\hbar(\vec{r} \times \nabla)$$
 
-In general, the expectation value of any dynamical quantity $$Q(x,p)$$ is $$\bar{Q}x,p) = \left\langle Q(x,p) \right\rangle = \int \Psi^* Q(x, -i\hbar\nabla) \Psi dx$$.
+In general, the expectation value of any dynamical quantity $$Q(x,p)$$ is $$\bar{Q}(x,p) = \left\langle Q(x,p) \right\rangle = \int \Psi^* Q(x, -i\hbar\nabla) \Psi dx$$.
