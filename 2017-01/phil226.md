@@ -10,15 +10,37 @@ Brian Orend
 
 ## Moral systems
 
-### Value ethics (Teleology)
-
-By Aristotle. "What does a virtuous person do?"
-
-### Duty-based ethics (Deontology)
-
-By Kant. "Just follow rules and don't use people."
-
-### Utilitarianism
+- Value ethics (Teleology)
+  - By Aristotle.
+  - "What does a virtuous person do?"
+- Duty-based ethics (Deontology)
+  - By Kant.
+  - "Follow the rules deep within you and everyone else. Also, don't use people."
+- Utilitarianism
+  - By Jeremy Bentham.
+  - A kind of consequentialism (actions judged based on outcomes)
+  - Utility is net pleasure minus pain
+  - Moral act maximizes utility
+  - Felicific / Hedonistic Calculus:
+    - Intensity, Duration, Certainty, Propinquity (soonness), Fecundity (generation of other pleasures), Purity (not followed by pain), Extent.
+  - Cons:
+    - Other things are vital for human goodness.
+    - Ends justifying the means.
+    - Does not take intent into account
+    - Nozick's "Pleasure Machine", "Utility Monsters"
+    - Excessive self-sacrifice
+- Rule utilitarianism
+  - By
+  - 
+- Rights-based ethics
+  - By John Locke
+  - People have rights which must be respected
+  - Negative rights (others should not do this), positive rights (others should do this)
+  - Three generations of rights:
+    - 1st generation: life, personal security, property, personal freedom, voting
+    - 2nd generation: money, education, health care
+  - Cons:
+    - Sets bar too low
 
 ## Applying ethics to doctor-patient relationships
 
@@ -93,3 +115,19 @@ Types of law:
 True story: Woke up in the middle of surgery, bolted straight up. Held right down by medical team.
 
 Movie: Tuskegee syphilis study.
+
+---
+
+Jeremy Bentham monologue: Atheist. University College. Panopticon. Animal rights. Gender equality. Microeconomics. He's preserved in University College.
+
+Kant vs. Bentham on exam.
+
+MK Ultra
+
+Equipoise: Be neutral. Let data guide you, not the other way around.
+
+Medical testing:
+1. Toxicity testing. Find highest possible dose.
+2. Optimization.
+3. Large test population. Success -> go to market!
+4. After-market. Keep track of side-effects.
