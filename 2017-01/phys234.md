@@ -1,7 +1,6 @@
 # PHYS 234: Quantum Physics 1
 
 Professor: Qing-Bin Lu
-
 ## History
 
 ### Equations
@@ -95,13 +94,13 @@ Einstein proposed **light quanta** to explain the photoelectric effect. He later
 
 ## De Broglie's matter wave
 
-De Broglie extended Einstein's equation,
+De Broglie rearranged Einstein's equation to get
 
 $$
 p = \frac{h}{\lambda}
 $$
 
-from photons to electrons, ions, and all other particles. Einstein said that this was "the first feeble ray of light on the worst of our physics enigmas".
+and extended it from photons to electrons, ions, and all other particles. Einstein said that this was "the first feeble ray of light on the worst of our physics enigmas".
 
 ## Wave functions
 
@@ -162,3 +161,41 @@ Now that we have the momentum operator, we can derive other operators based on i
 - Angular momentum: $$\vec{L} = \vec{r} \times \vec{p}$$, so $$\hat{\vec{L}} = -i\hbar(\vec{r} \times \nabla)$$
 
 In general, the expectation value of any dynamical quantity $$Q(x,p)$$ is $$\bar{Q}(x,p) = \left\langle Q(x,p) \right\rangle = \int \Psi^* Q(x, -i\hbar\nabla) \Psi dx$$.
+
+### The uncertainty principle
+
+$$
+\sigma_x \sigma_p \geq \hbar / 2
+$$
+
+where $$\sigma_x = (\left\langle x^2 \right\rangle - \left\langle x \right\rangle ^2)^\frac{1}{2}$$, similar for $$\sigma_p$$.
+
+### Separable solutions
+
+Suppose that $$ \Psi(x,t) = \psi(x) \phi(t) $$. By the method of separation of variables, we can obtain
+
+$$
+\phi(t) = e^{-iEt/\hbar}
+$$
+
+for some constant $$ E $$. Let the Hamiltonian be
+
+$$
+H(x,p) = \frac{p^2}{2m} + V(x)
+$$
+
+be the total energy in the system (kinetic + potential), and let the Hamiltonian operator be
+
+$$
+\hat{H} = -\frac{\hbar^2}{2m} \frac{\partial^2}{\partial x^2} + V
+$$
+
+This lets obtain the time independent Schrödinger equation as:
+
+$$
+\hat{H} \phi = E \psi
+$$
+
+and has solutions $$ \Phi(x,t) = \phi{x} e^{iEt/\hbar} $$. These solutions are all stationary states ($$|\Psi|^2$$ doesn't change over time) and have definite total energy $$ E $$.
+
+Also, **every** solution of the general Schrödinger equation can be written as a linear combination of these separable solutions!
