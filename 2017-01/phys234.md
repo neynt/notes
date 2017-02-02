@@ -198,4 +198,17 @@ $$
 
 and has solutions $$ \Phi(x,t) = \phi{x} e^{iEt/\hbar} $$. These solutions are all stationary states ($$|\Psi|^2$$ doesn't change over time) and have definite total energy $$ E $$.
 
-Also, **every** solution of the general Schrödinger equation can be written as a linear combination of these separable solutions!
+Also, **every** solution of the general Schrödinger equation can be written as a linear combination of these separable solutions.
+
+## Solving the Schrödinger equation
+
+### The infinite square potential well
+
+- $$V(x) = 0$$ if $$ x \leq 0 \leq a $$, $$ \infty $$ otherwise.
+- Solution: Let $$ k = \frac{\sqrt{2mE}{\hbar}} $$, $$ n \in \mathbb{Z}^+ $$. Then, solving TISE and normalizing, the separable solutions are $$ \psi_n(x) = \sqrt{\frac{2}{a}} \sin \left(\frac{n\pi x}{a}\right) $$.
+- Note that $$ E = \frac{n^2 \pi^2 \hbar^2}{2ma^2} $$, so energy is quantized.
+- Cool facts:
+  1. $$ E_1 = \frac{\pi^2 \hbar^2}{2ma^2} $$ -- the minimal energy is more than zero. (Can understand through uncertainty principle)
+  2. $$ E_n ~ n^2 $$. Can show this by considering $$ \Delta E $$ for some $$n$$. As $$ n \to \infty $$, $$ \frac{\Delta E_n}{E_n} \to 0 $$ and the energy is eventually like a continuum. This is Bohr's correspondence principle.
+  3. $$ \psi_n(x) $$ are **mutually orthogonal**, i.e. $$ \int \psi^*_m(x) \psi_n(x) = \delta_{mn} $$ (the Kronecker delta). Can see by using trig rules.
+  4. $$ \psi_n(x) $$ is **complete**. Any other function from 0 to a is a linear combination of the functions in that family.
