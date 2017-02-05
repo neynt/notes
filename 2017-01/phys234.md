@@ -1,7 +1,14 @@
 # PHYS 234: Quantum Physics 1
 
+## Table of Contents
+
+<!-- toc -->
+
 Professor: Qing-Bin Lu
+
 ## History
+
+You'd better know all this for Quiz 1 boi
 
 ### Equations
 
@@ -102,23 +109,21 @@ $$
 
 and extended it from photons to electrons, ions, and all other particles. Einstein said that this was "the first feeble ray of light on the worst of our physics enigmas".
 
+Know this for Quiz 2 or it will trigger you forever.
+
 ## Wave functions
 
-$$\Psi(x,t)$$ is the wave function. It describes a quantum state.
+$$\Psi(x,t)$$ is a wave function. It describes a quantum state. It must be square-integrable and continuous in space.
 
 ### The Schrödinger Equation
 
 $$
-i \hbar \frac{\partial \Psi(x,t)}{\partial t} = \left[ -\frac{\hbar^2}{2m} \nabla^2 + V \right] \Psi(x,t)
+i \hbar \frac{\partial \Psi}{\partial t} = \left[ -\frac{\hbar^2}{2m} \nabla^2 + V \right] \Psi
 $$
 
-This is the $$F=ma$$ of quantum mechanics. It tells you how the wave function evolves over time. How did Schrödinger obtain this equation? See [here](http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/Schr2.html#c1) for an intuition.
+This is the $$F=ma$$ of quantum mechanics. It tells you how the wave function evolves over time. It came out Schrödinger's mind — it cannot be derived from existing equations. But see [here](http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/Schr2.html#c1) for an intuition of how he may have come up with it.
 
-### Properties of $$\Psi$$
-
-$$\Psi$$ must be square-integrable and continuous in space.
-
-### Statistical interpretation
+### Statistical interpretation of the wave function
 
 The probability of finding a particle described by $$\Psi(x,t)$$ in the region $$x$$ to $$x+dx$$ is
 
@@ -131,6 +136,8 @@ We call $$P(x,t)$$ the probability amplitude or probability density. For this to
 $$
 \int_{-\infty}^\infty P(x,t)dx = 1
 $$
+
+Once $$\Psi$$ is normalized, it will stay normalized as it evolves over time according to the Schrödinger equation. To see this, show that $$ \frac{d}{dt} \int |\Psi|^2 dx = 0 $$.
 
 ### Momentum
 
@@ -145,9 +152,17 @@ $$
 
 The momentum probability density is $$\rho(p,t) = |\Phi(p,t)|^2 = \Phi^* \Phi$$, basically just like $$P$$ and $$\Psi$$. It follows the same normalization conditions too.
 
+The expectation value of momentum can also be calculated as
+
+$$
+\left\langle p \right\rangle = \frac{d\left\langle x \right\rangle}{dt}
+$$
+
+To see this, expand, move the derivative into the integral, use the Schrödinger equation to obtain and apply $$ \frac{\partial}{\partial t} |\Psi|^2 = \frac{\partial}{\partial x} \left[ \frac{i\hbar}{2m} \left(\Psi^* \frac{\partial\Psi}{\partial x} - \frac{\partial\Psi^*}{\partial x} \Psi \right) \right] $$, and integrate by parts twice.
+
 ### Operators
 
-If you calculate the expectation of momentum, you get
+If you calculate the expectation value of momentum, you get
 
 $$
 \bar{p} = \left\langle p \right\rangle = \int \Psi^* \hat{p} \Psi dx
@@ -155,7 +170,7 @@ $$
 
 where $$\hat{p} = -i\hbar \frac{\partial}{\partial x} = -i\hbar\nabla$$ is the **momentum operator**.
 
-Now that we have the momentum operator, we can derive other operators based on it. These let us compute the expectation value of other quantities, such as:
+Now that we have the momentum operator, we can derive other operators based on it. These let us compute the expectation value of other quantities — in fact, any dynamical quantity. For example:
 
 - Kinetic energy: $$T = \frac{1}{2} mv^2 = \frac{p^2}{2m}$$, so $$\hat{T} = \frac{-\hbar^2\nabla^2}{2m}$$
 - Angular momentum: $$\vec{L} = \vec{r} \times \vec{p}$$, so $$\hat{\vec{L}} = -i\hbar(\vec{r} \times \nabla)$$
@@ -164,51 +179,162 @@ In general, the expectation value of any dynamical quantity $$Q(x,p)$$ is $$\bar
 
 ### The uncertainty principle
 
+The more precisely you know position, the less precisely you can possibly know momentum, and vice-versa.
+
 $$
 \sigma_x \sigma_p \geq \hbar / 2
 $$
 
-where $$\sigma_x = (\left\langle x^2 \right\rangle - \left\langle x \right\rangle ^2)^\frac{1}{2}$$, similar for $$\sigma_p$$.
+where $$\sigma_x = \left(\left\langle x^2 \right\rangle - \left\langle x \right\rangle ^2\right)^\frac{1}{2}$$, similar for $$\sigma_p$$.
 
-### Separable solutions
+Proof is TODO. For intuition, think about the jump rope. You can also think about $$ p = h / \lambda $$.
 
-Suppose that $$ \Psi(x,t) = \psi(x) \phi(t) $$. By the method of separation of variables, we can obtain
+## Solving the Schrödinger equation
+
+### Separable solutions and the TISE
+
+Suppose that $$ \Psi(x,t) = \psi(x) \phi(t) $$. By plugging this into the Schrödinger equation, dividing through by $$\psi\phi$$, and noticing both sides must be constant, we can obtain
 
 $$
 \phi(t) = e^{-iEt/\hbar}
 $$
 
-for some constant $$ E $$. Let the Hamiltonian be
+where the constant $$ E $$ is the energy of the state. The Hamiltonian is
 
 $$
 H(x,p) = \frac{p^2}{2m} + V(x)
 $$
 
-be the total energy in the system (kinetic + potential), and let the Hamiltonian operator be
+(i.e. total energy = kinetic + potential). That means the Hamiltonian operator is
 
 $$
 \hat{H} = -\frac{\hbar^2}{2m} \frac{\partial^2}{\partial x^2} + V
 $$
 
-This lets obtain the time independent Schrödinger equation as:
+This lets write the time independent Schrödinger equation (TISE) as:
 
 $$
-\hat{H} \phi = E \psi
+\begin{eqnarray}
+-\frac{\hbar^2}{2m} \frac{d^2 \psi}{dx^2} + V\psi & = & E \psi \\
+\hat{H} \psi & = & E \psi
+\end{eqnarray}
 $$
 
-and has solutions $$ \Phi(x,t) = \phi{x} e^{iEt/\hbar} $$. These solutions are all stationary states ($$|\Psi|^2$$ doesn't change over time) and have definite total energy $$ E $$.
+This equation has solutions in the form $$ \Psi(x,t) = \psi(x) e^{iEt/\hbar} $$. These solutions are all stationary states ($$|\Psi|^2$$ doesn't change over time) and have definite total energy $$ E $$.
 
-Also, **every** solution of the general Schrödinger equation can be written as a linear combination of these separable solutions.
-
-## Solving the Schrödinger equation
+**Every solution of the general Schrödinger equation can be written as a linear combination of these separable solutions.**
 
 ### The infinite square potential well
 
-- $$V(x) = 0$$ if $$ x \leq 0 \leq a $$, $$ \infty $$ otherwise.
-- Solution: Let $$ k = \frac{\sqrt{2mE}{\hbar}} $$, $$ n \in \mathbb{Z}^+ $$. Then, solving TISE and normalizing, the separable solutions are $$ \psi_n(x) = \sqrt{\frac{2}{a}} \sin \left(\frac{n\pi x}{a}\right) $$.
-- Note that $$ E = \frac{n^2 \pi^2 \hbar^2}{2ma^2} $$, so energy is quantized.
+This is when we have $$V(x) = 0$$ if $$ x \leq 0 \leq a $$, $$ \infty $$ otherwise.
+
+The separable solution can be obtained by solving the TISE and normalizing. It is
+
+$$
+\psi_n(x) = \sqrt{\frac{2}{a}} \sin \left(\frac{n\pi x}{a}\right)
+$$
+
+Energy is $$ E_n = \frac{n^2 \pi^2 \hbar^2}{2ma^2} $$.
+
 - Cool facts:
-  1. $$ E_1 = \frac{\pi^2 \hbar^2}{2ma^2} $$ -- the minimal energy is more than zero. (Can understand through uncertainty principle)
-  2. $$ E_n ~ n^2 $$. Can show this by considering $$ \Delta E $$ for some $$n$$. As $$ n \to \infty $$, $$ \frac{\Delta E_n}{E_n} \to 0 $$ and the energy is eventually like a continuum. This is Bohr's correspondence principle.
+  1. $$ E_1 = \frac{\pi^2 \hbar^2}{2ma^2} $$ — the minimal energy is more than zero. (Can understand through uncertainty principle)
+  2. $$ E_n \sim n^2 $$. Can show this by considering $$ \Delta E $$ for some $$n$$. As $$ n \to \infty $$, $$ \frac{\Delta E_n}{E_n} \to 0 $$ and the energy is eventually like a continuum. This is Bohr's correspondence principle.
   3. $$ \psi_n(x) $$ are **mutually orthogonal**, i.e. $$ \int \psi^*_m(x) \psi_n(x) = \delta_{mn} $$ (the Kronecker delta). Can see by using trig rules.
-  4. $$ \psi_n(x) $$ is **complete**. Any other function from 0 to a is a linear combination of the functions in that family.
+  4. $$ \psi_n(x) $$ is **complete**. Any other function $$f(x)$$ from 0 to a is a linear combination of the functions in that family.
+
+The Fourier Trick lets you obtain the coefficients for the linear combination:
+
+$$
+c_n = \int \psi_n(x)^* f(x) dx
+$$
+
+In particular, this means that the general solution for the infinite square potential well is
+
+$$
+\Psi(x,t) = \sum_{n=1}^\infty c_n \sqrt{\frac{2}{a}} \sin \left( \frac{n\pi x}{a} \right) e^{-i(n^2 \pi^2 \hbar / 2ma^2)t}
+$$
+
+where
+
+$$
+c_n = \sqrt{\frac{2}{a}} \int_0^a \sin \left( \frac{n\pi x}{a} \right) \Psi(x, 0) dx
+$$
+
+### The harmonic oscillator
+
+We can locally approximate any potential well with a parabola. Then, $$ V(x) = \frac{1}{2} m \omega^2 x^2 $$, and
+
+$$
+\begin{eqnarray}
+H &=& \frac{p^2}{2m} + \frac{1}{2} m \omega^2 x^2 \\
+  &=& \frac{\hat{p}^2}{2m} + \frac{1}{2} m \omega^2x^2
+\end{eqnarray}
+$$
+
+where $$\hat{p} = -i\hbar \frac{\partial}{\partial x}$$, $$\omega$$
+
+#### Algebraic method
+
+To solve the Schrödinger equation for this case, rewrite it like this.
+
+$$
+\begin{eqnarray}
+-\frac{\hbar^2}{2m} \frac{d^2\psi}{dx^2} + \frac{1}{2}m \omega^2 x^2 \psi &=& E \psi \\
+\frac{1}{2m} [p^2 + (m\omega x)^2] \psi &=& E\psi \\
+\end{eqnarray}
+$$
+
+We introduce the ladder operators
+
+$$
+a_\pm = \frac{1}{\sqrt{2\hbar m \omega}} (\mp i \hat{p} + m\omega x)
+$$
+
+And the commutator
+
+$$
+\begin{eqnarray}
+[x,\hat{p}] &=& x\hat{p} - \hat{p}x
+            &=& i \hbar
+\end{eqnarray}
+$$
+
+One can check that this means $$ a_\mp a_\pm = \frac{1}{\hbar \omega} \hat{H} \pm \frac{1}{2} $$. So we can write $$ \hat{H} = \hbar \omega (a_\mp a_\pm \mp \frac{1}{2}) $$.
+
+$$ a_+ $$ is called the raising operator and $$ a_- $$ is called the lowering operator, since
+
+$$
+\hat{H} (a_\pm \Psi) = (E \pm \hbar \omega)(a_\pm \Psi)
+$$
+
+This means that the lowest energy state of the harmonic oscillator is given by
+
+$$
+\begin{eqnarray}
+a_- \psi_0 & = & 0 \\
+\psi_0 & = & \left( \frac{m\omega}{\pi\hbar} \right)^{(1/4)} e^{-m\omega x^2/2\hbar}
+\end{eqnarray}
+$$
+
+with an energy of $$ \frac{1}{2} \hbar \omega $$. So allowable energy levels are $$ \left( \frac{1}{2} + k \right) \hbar \omega $$ for natural numbers $$k$$.
+
+So the separable solutions to the harmonic oscillator are
+
+$$
+\psi_n(x) = \frac{1}{\sqrt(n!)} (a_+)^n \psi_0(x)
+$$
+
+(You can prove the $$\frac{1}{\sqrt(n!)}$$ normalization part with some Hermitian operator stuff.)
+
+In particular, you should know this:
+
+$$
+\begin{eqnarray}
+a_+ \psi_n & = & \sqrt{n+1} \psi_n+1 \\
+a_- \psi_n & = & \sqrt{n} \psi_{n-1}
+\end{eqnarray}
+$$
+
+#### Analytic method
+
+TODO

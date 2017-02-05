@@ -30,8 +30,7 @@ Brian Orend
     - Nozick's "Pleasure Machine", "Utility Monsters"
     - Excessive self-sacrifice
 - Rule utilitarianism
-  - By
-  - 
+  - By TODO
 - Rights-based ethics
   - By John Locke
   - People have rights which must be respected
@@ -41,6 +40,43 @@ Brian Orend
     - 2nd generation: money, education, health care
   - Cons:
     - Sets bar too low
+- Feminist ethics
+  - (old) By Mary Wollestonecroft, Olympe de Gouge
+  - (new) By Carol Gilligan
+  - "What would a good mother do?"
+  - Other theories are men-biased.
+    - Virtue ethics: Aristotle was a chauvinist. Role model is MALE-PHILOSOPHER-WARRIOR.
+    - Deontology:
+      - Religious kind: God is a male metaphysics.
+      - Secular kind: Excess rationality. Legalistic. Unemotional.
+    - Utilitarianism: Excess rationality. Crude and visceral. Calculating.
+    - Rights-based: Selfish. Unemotional. Minimizes constraints and obligations.
+    - Also, all main figures are male.
+  - Carol Gilligan's "In a Different Voice"
+    - Women think better than men when it comes ot ethics, morality, justice
+    - Men are:
+      - Selfish
+      - Untrusting
+      - Abstract
+      - Universal
+      - Rational (unemotional)
+      - Wish to transcend reality
+    - Women are:
+      - Other-oriented
+      - Trusting
+      - Concrete
+      - Emotional
+      - Realistic
+      - Relational databases representing social graphs
+  - Pros:
+    - Diagnoses biases, shortcomings in other theories
+    - Quite true
+    - Good fit for medicine
+  - Cons:
+    - Stereotyping, unfair comparisons
+    - Individuality vs. group membership
+    - Vague
+  
 
 ## Applying ethics to doctor-patient relationships
 
@@ -131,3 +167,15 @@ Medical testing:
 2. Optimization.
 3. Large test population. Success -> go to market!
 4. After-market. Keep track of side-effects.
+
+The Pill
+- Documentary about the birth control pill. Sexual liberation. Gregory Pincus supported by Margaret Sanger, John Rock.
+
+Today's standards: medical experiments require:
+- Voluntary informed consent of all subjects
+- Realistic good consequences
+- No exploitation or discrimination
+- Privacy, confidentiality
+- Oversight of an ethics research board
+
+UChicago: 93% of research subjects "understood", 33% understood.
