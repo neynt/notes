@@ -1,5 +1,7 @@
 # PHYS 234: Quantum Physics 1
 
+These notes have been discontinued in favor of a formula sheet.
+
 ## Table of Contents
 
 <!-- toc -->
