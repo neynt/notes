@@ -2,7 +2,7 @@
 
 Brian Orend
 
-## Background
+## Ethics, morality, and justice
 
 - Ethics are how you should live your life.
 - Morals are how you should treat others.
@@ -10,15 +10,43 @@ Brian Orend
 
 ## Moral systems
 
-- Value ethics (Teleology)
+This is a difficult moral dilemma, and we draw upon five schools of ethics to aid us in making a decision.
+
+1. Virtue ethics
+
+Virtue ethics was developed by Aristotle. It states that the ethical decision in any situation is one that shows virtue, or excellence of character. In particular, Aristotle believed that there were four cardinal virtues that could form the basis for most ethical judgements: Prudence, temperance, courage, and justice.
+
+In order to apply virtue ethics to this case, we must ask, "would ___ show that the doctor is virtuous?" In this case, the answer is emphatical "no". A virtuous person would not ___.
+
+2. Duty-based ethics
+
+Duty-based ethics were developed by Kant, and it was based on this one fundamental idea: that there is a fixed set of rules, or duties, inherent within all of us, and that the ethical action is the one that best follows this set of duties. For example, we all have a duty to tell the truth, and to help the needy.
+
+In this case, ...
+
+3. Utilitarianism
+
+Utilitarianism is a school of ethics that takes a different approach.
+
+4. Rights-based ethics
+
+Does this violate the rights of ...?
+
+5. Feminist ethics
+
+Feminist ethics was created as a response to the other four ethical systems. 
+
+- Virtue ethics (Teleology)
   - By Aristotle.
   - "What does a virtuous person do?"
+  - A type of consequentialism
 - Duty-based ethics (Deontology)
   - By Kant.
+  - We all have a fixed set of duties deep inside us. The moral action is to follow these duties.
   - "Follow the rules deep within you and everyone else. Also, don't use people."
 - Utilitarianism
   - By Jeremy Bentham.
-  - A kind of consequentialism (actions judged based on outcomes)
+  - A kind of consequentialism. (actions judged based on outcomes)
   - Utility is net pleasure minus pain
   - Moral act maximizes utility
   - Felicific / Hedonistic Calculus:
@@ -29,8 +57,8 @@ Brian Orend
     - Does not take intent into account
     - Nozick's "Pleasure Machine", "Utility Monsters"
     - Excessive self-sacrifice
-- Rule utilitarianism
-  - By TODO
+  - Rule utilitarianism: General types of actions are judged
+  - Act utilitarianism: Individual acts are judged
 - Rights-based ethics
   - By John Locke
   - People have rights which must be respected
