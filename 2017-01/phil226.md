@@ -207,3 +207,89 @@ Today's standards: medical experiments require:
 - Oversight of an ethics research board
 
 UChicago: 93% of research subjects "understood", 33% understood.
+
+---
+
+2016-03-06
+
+- Robert Nozick: Social determinants of health don't real.
+- 1/2 of Ontario budget goes to healthcare.
+- America is top in healthcare spending; 30th in longevity.
+- John Rawls: 
+  - Book: A Theory of Justice.
+  - Welfare liberalism
+  - The theory of justice is "the basic structure" of society: social institutions that affect our lives in a "profound, pervasive, inescapable, and present from birth" way
+    - economy
+    - political system
+    - legal system
+    - family
+    - military
+    - education / health care
+  - What if everyone comes together and designs a fair and just society from the original position (nobody knows what privileges you will have)?
+    - don't know:
+      - gender
+      - income level
+      - religion
+      - general health
+      - status of parents
+      - intelligence
+    - would we agree on anything? --> yes! we would unanimously agree on:
+      - 1. The Liberty Principle:
+        - Everyone has the most extensive set of personal freedoms possible, and everyone gets the same freedoms
+      - 2. Primary Goods For All:
+        - Everyone has access to primary goods: personal security, and material subsistence.
+      - 3. The Difference Principle:
+        - Allow inequalities, as long as they benefit everyone. --> Progressive tax, welfare state
+- Nozick criticizes Rawls:
+  - Defection from the deal
+  - Risk-taking gamblers: screw up the poorest in case they are lucky
+    --> Rawls: but think about what you're risking.
+- Norman Daniels: Public health professor at Harvard.
+  - Book: Just Health.
+  - Health care justice. Borrowed from John Rawls.
+  - Health care is a human right, to an extent.
+    - Basic preventative measures:
+      - Vaccinations
+      - Health literacy
+      - Water supply, garbage, sewage sanitation, public health and safety
+      - Goods or means to purchase vital physical needs (water, air, clothing, shelter, food w/ enough calories)
+    - Minimum regularity of access:
+      - Physical once every seven years
+      - Dental every two years
+      - E-medicine is helping make things cheaper
+    - Live saving care
+      - Done to a certain degree.
+      - Not too expensive.
+      - Probability of success taken into account.
+  - Pros:
+    - Fair and rights-fulfilling
+    - Similar systems achieve amazing results (Western Europe, Japan)
+    - Reflective equilibrium
+  - Cons:
+    - A bit less efficient. Triage, wait times
+    - Misallocation of resources possible
+    - Brain drain of medical talent
+    - "The bare minimum" ambiguous
+- More Ethiopian doctors in Chicago than in Ethiopia
+- Sen: economist who did stuff.
+- Why should we care?
+  - Fairness and justice
+  - Higher productivity in the developing world
+  - Diseases cross borders
+- Diseases:
+  - Infectious:
+    - Sudden onset
+    - One cause: usually bacteria or virus
+    - Easily treatable
+  - Chronic:
+    - Long-onset
+    - Multiple factors (genes, lifestyle)
+    - Expensive to treat
+- Developed world:  life expectancy 80
+- Devleoping world: life expectancy 60
+- Infant mortality: 6/1000 --> 70/1000
+- Deaths of mother: None --> 500,000
+- Watched vaccine movie
+- Strategies for improving global public health (8 of them)
+- #1 vector for disease: Hand. #2 vector: Mosquito
+- Jeffrey Fong
