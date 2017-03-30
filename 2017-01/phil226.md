@@ -293,3 +293,29 @@ UChicago: 93% of research subjects "understood", 33% understood.
 - Strategies for improving global public health (8 of them)
 - #1 vector for disease: Hand. #2 vector: Mosquito
 - Jeffrey Fong
+
+---
+
+- Cloning.
+  - Reproductive cloning: Creating a new being entirely.
+  - Therapeutic cloning: For research and spare parts.
+- Cloning process:
+  - Take donor cell from original
+  - Take egg cell from adult female
+  - Remote nucleus of egg, replace with donor nucleus
+  - Let fused cell divide
+- Cloning is hard
+- $100 for sperm, $100,000 for an egg. (Columbia University)
+- PIGD: Preimplantation genetic diagnosis. Screening embryos for defects. Reverse eugenics.
+- Gene: Basic unit of heredity, writable in DNA, that specifies amino acid sequences for proteins.
+- Gene therapy two kinds
+  - Somatic cell gene therapy
+    - Corrects body cells
+  - Germline gene therapy
+    - Corrects reproductive cells
+- Testing vs. Screening
+  - Genetic testing: Done on an at-risk individual
+  - Genetic screening: Done on random individuals
+- Movie: DNA - Pandora's Box - PBS Documentary.
+  - Jim Watson: DNA Guy
+  - Monsanto: Controversial genmodfood company
