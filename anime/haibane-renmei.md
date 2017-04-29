@@ -98,3 +98,21 @@ The Day of Flight represents... death, maybe? A coming-of-age, maybe? Either way
 * 19:20: Kuramori was parent-like figure to many. Left five years ago.
 * 21:20: Reki has sad dreams. horrible dreams. "always the same dream."
 * 22:30: Old Home is literally Sift Science
+
+## Episode 8
+
+Restarting this show after a 4-month hiatus (thanks school)
+
+- 1:40: damn those wings are rekt
+- 3:49: wing match cut
+- 5:35: small haibane bloops
+- 7:44: crows
+- 10:37: rikka doesn't like getting handouts, due to low self esteem
+- 11:18: sawaranaide. is this what it means to feel disgusting?
+- 13:16: imposter syndrome taken to the highest level
+- 13:35: like, "I am not a haibane, I am that crow"
+- 16:41: dangerous well climbing. what ist hat thing at the bottom?
+- 19:59: yeah, depression does make you less scared of things
+- 21:45: proper
+- 22:35: reminds me of someone I know
+
