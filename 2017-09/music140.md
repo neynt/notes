@@ -1,0 +1,161 @@
+# MUSIC 140
+
+Professor: Simon Wood
+
+## 2017 Sep 7
+
+- This course will focus mainly on the 1950s-1980s.
+- Required text: Where's That Sound: An Introduction to Rock and its History, 4th. BUY IT
+- Daniel Warren: Legendary songwriter. Wrote all the stuff you know about.
+- Big Bands
+  - 1930s-1945
+  - Like "jazz band" in Canadian schools
+  - Mainly instrumental, sometimes featured vocalists
+- Song: "Sentimental Journey"
+  - 1944
+  - Big Band by Les Brown, Homer, Green.
+  - Vocals: Doris Day
+  - Popular because WWII ended
+- Band *leaders* were stars: Benny Goodman, Count Basie, Duke Ellington, Tommy Dorsey
+- Song: "I've Got A Crush On You"
+  - By George and Ira Gershwin
+  - Frank Sinatra blew up; "crooner"
+- 1945 music categories:
+  - **Pop**: White, middle class, urban
+  - **Race**: Black
+  - **Hillbilly**: White, poor, rural, southern. Became country and western
+- Sheet music and recordings until late 1920s
+- Late 1700s: Music becomes an industry, made possible by **copyright law**
+- Copyright law
+  - English: Pamphleteers.
+  - Queen set up Stationer's Company
+  - 1790s-1830s: Copyright law amended to cover sheet music
+- **The Victorian Ballad**: "Victorian song"
+- People went from rural to urban because of jobs; middle class was born
+- Middle class showed off middle-classness by making their women play piano
+- **Parlour**: Front guestroom. Young daughters play piano, older sings and gets married off.
+- **Parlour song**: Type of Victorian Ballad.
+- Song: "Believe Me, If All Those Endearing Young Charms"
+  - Thomas Moore
+  - Idealized love
+  - AABA melody template
+- Tin Pan Alley: Manhattan, New York
+  - Division of labour: Separate roles of composer, lyricist, publisher, publicity, performer
+- Song: "After The Ball"
+  - 1891
+  - Charles K. Harris
+  - Crazy hit; 5M copies
+
+## 2017 Sep 14
+
+- Lots of bad news, but...
+- Cassini above Saturn; will become Saturn in 12 hours. Whoa, awesome. Do some math.
+- Simon is an astronomy nerd
+- Tin Pan Alley style:
+  - Lyrical style
+    - Basic rhyme scheme
+    - Idealized romance: beginning and end
+  - Musical style
+    - Easy to play
+    - Easy to sing (phrasing and range)
+    - AABA form
+- Song: "Somewhere Over The Rainbow"
+  - 1939
+  - Arlen/Harburg
+  - The Wizard of Oz
+    - Producers didn't want it; director fought tooth and nail for it
+    - AABA
+    - B is 4x as fast as A; also contains the highest note in the song
+- North American Slave Trade
+  - 1619-(1863) 1865
+  - Work song:
+    - Work Song
+    - Used to pass time, set pace, coordinate work.
+    - Not a fixed song
+    - Song leader procedurally generates a new song every day!
+    - "Floating pool of verse": Set from which song bits are picked
+- Song: "Old Alabama":
+  - Recording 1947, sung by African chain gang.
+- I like chalkboards. Chalkboards are good.
+- Folk music:
+  - Performed by amateurs
+  - For self, or community entertainment
+  - Oral tradition
+  - Tradition > Innovation; lack self-consciousness
+    - Self-conscious: Trying to distinguish oneself
+- To study Scottish folk music, go to Cape Breton
+  - Was settled by Scots back when Scotland actually had Scottish folk music
+- **African retentions**
+  - Characteristics of West-African music brought over by the slave trade
+  - Stays even today in pop, rock
+  - Percussive and distorted timbres
+    - Percussive: Short attack
+    - Distortion: Overflowing intensity
+      - Overloaded term in western culture
+      - Little engineers design a circuit; a lot of distortion (unintended alteration of a signal)
+  - Value in the Ecstatic and Cathartic
+    - Similar to Distortion.
+  - Riffs
+    - Short, self-contained musical gesture
+    - Repeated to make longer composition 
+    - e.g. Led Zeppelin - Whole Lot of Love
+    - Nowadays, we get a guy with a laptop and a drum machine; beats.
+    - Motive: Repeated variation; not the same as riff
+  - Call and response
+    - "eeeey-yoooo"
+    - can also happen between vocalist and music
+    - rock/pop concerts: Two way energy transfer.
+      - Contrast to Western symphony concert: One way transfer. Just soak up the greatness.
+- Post-slavery
+  - American Civil War (1861 - 1865) was largely a power grab
+  - Institutionalized racism
+    - Laws passed by southern states to say "fuck you" to Africans
+    - 13 years old boy jailed and lynched
+    - Statues too
+  - Rural -> Urban
+    - Mississippi River
+    - New Orleans, Memphis, Atlanta, ... Chicago, Detroit
+  - New forms late 1800s (no time for deets though)
+  - Ragtime, Jazz: Urban and incorporated into pop music
+    - Ragtime: e.g. The Entertainer.
+- **Country Blues** (aka Rural Blues)
+  - Wandering musician
+  - Male vocalist, with acoustic guitar
+  - Themes: Travel, economics, love
+  - Musical characteristics:
+    - 12 measure phrases
+    - a-a-b *lyric* pattern
+    - Call and response betw. guitar and voice
+    - Early also used floating pool of verse
+    - 1   2   3   4   5   6   7   8   9   10  11  12
+    - I               IV      I       V   IV  I
+    - a               a               b
+    - One note: note.
+    - Two notes: interval.
+    - >= 3 notes: chord.
+    - 12 notes: ALL NOTES, because West is Best!
+    - Subsets of 12 notes: Scales
+    - "Well I woke up this morning" -- good opener for blues song.
+    - Batman is blues.
+- Song: "Travelin' Blues"
+  - 1929
+  - Blind Willie McTell
+  - Country blues.
+  - Sections are only 3.5 measures long; 2 beats dropped from end of each section
+- Robert Johnson
+  - 1911 - 1938 (member of the 27 club)
+  - Famous country blues musician
+  - Brought the blues world revolution
+  - Short career: 1936 Nov - 1937 Jun
+  - Mythic character:
+    - Poisoned
+    - Many jealous girlfriends
+    - Irate husbands of girlfriends
+    - Three grave sites: nobody knows where he's actually buried
+    - Used to suck at guitar; 1920s he disappears; 18 months later reemerges a legend.
+    - Made a deal with the devil
+- Song: "Sweet Home Chicago"
+  - 1936 Nov
+  - Introduction and ending well crafted
+  - Call and response
+  - **Boogie-woogie**-influenced accompaniment; simplified for guitar
