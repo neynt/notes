@@ -1,0 +1,65 @@
+# MUSIC 140 Things
+
+## Songs
+
+- "Sentimental Journey"
+  - 1944, Les Brown, Homer, Green
+  - Vocals: Doris Day
+  - Popular because WWII ended.
+- "I've Got A Crush On You"
+  - TODO, George and Ira Gershwin
+  - Vocals: Frank Sinatra
+  - "Crooner" style vocals. Smooth and mellow.
+- "Believe Me, If All Those Endearing Young Charms"
+  - TODO, Thomas Moore
+  - Very popular
+  - Idealized love ("Hey you hottie / even if you got ugly / I'd still love you")
+  - AABA melody structure
+- "After The Ball"
+  - 1892, Charles K. Harris
+  - Extremely popular; sold over 5M copies of sheet music (8% of US population)
+  - Move to urban areas made "super hit" possible
+- "Somewhere Over The Rainbow"
+  - 1939, Arlen/Harburg
+  - In the Wizard of Oz; Director saved it from producers who didn't want it
+  - AABA melody structure; B is 4x as fast and contains highest pitch in song
+- "Old Alabama"
+  - 1947 (recorded), sung by African chain gang
+  - Work song
+- "Travelin' Blues"
+  - 1929 by Blind Willie McTell
+  - Country blues
+  - Sections are only 3.5 measures long
+- "Sweet Home Chicago"
+  - 1936 Nov, Robert Johnson
+  - Crafted introduction and ending
+  - Call and response betw. instrument and vocals
+  - "Boogie-woogie"-influenced accompaniment simplified for guitar
+- "Crazy Blues"
+  - 1920, Mamie Smith
+  - First significant recording by black singer (cavalry after singer ditched)
+  - Modest hit
+- "Carve That Possum"
+  - 1927, Uncle Dave Macon and the Fruit Jar Drinkers
+  - "Hillbilly" (early Country and Western)
+- "How Long Blues"
+  - 1928, Carr and Blackwell
+  - "Race" (early Rhythm and Blues)
+  - Piano chords meant guitar could be a bit more free (the start of solos!)
+- "How Much Is That Doggie In The Window?"
+  - 1953, Patti Page
+  - Quite popular (2M copies)
+  - Safe post-WWII song from Tin Pan Alley
+- "Good Rockin' Tonight"
+  - 1948, Wynonie Harris
+  - Jump Blues
+- "I Got A Woman"
+  - TODO, Ray Charles
+  - "Gospel" -- ecclesiastical singing, secular lyrics
+  - Considered sacriligious
+  - Popular with white teens
+- "Hoochie Coochie Man"
+  - 1954, Willie Dixon
+  - Chicago Electric Blues
+  - Verse-chorus
+  - Self-conscious stop time

@@ -5,8 +5,8 @@ Professor: Simon Wood
 ## 2017 Sep 7
 
 - This course will focus mainly on the 1950s-1980s.
-- Required text: Where's That Sound: An Introduction to Rock and its History, 4th. BUY IT
-- Daniel Warren: Legendary songwriter. Wrote all the stuff you know about.
+- Required text: Where's That Sound: An Introduction to Rock and its History, 4th.
+- Diane Warren: Legendary songwriter. Wrote all the stuff you know about.
 - Big Bands
   - 1930s-1945
   - Like "jazz band" in Canadian schools
@@ -85,23 +85,22 @@ Professor: Simon Wood
     - Self-conscious: Trying to distinguish oneself
 - To study Scottish folk music, go to Cape Breton
   - Was settled by Scots back when Scotland actually had Scottish folk music
-- **African retentions**
-  - Characteristics of West-African music brought over by the slave trade
-  - Stays even today in pop, rock
-  - Percussive and distorted timbres
+- **African retentions**: Characteristics of West-African music brought over by the slave trade
+  - Stays even today in pop, rock.
+  - 1. Percussive and distorted timbres
     - Percussive: Short attack
     - Distortion: Overflowing intensity
       - Overloaded term in western culture
       - Little engineers design a circuit; a lot of distortion (unintended alteration of a signal)
-  - Value in the Ecstatic and Cathartic
+  - 2. Value in the Ecstatic and Cathartic
     - Similar to Distortion.
-  - Riffs
+  - 3. Riffs
     - Short, self-contained musical gesture
     - Repeated to make longer composition 
     - e.g. Led Zeppelin - Whole Lot of Love
     - Nowadays, we get a guy with a laptop and a drum machine; beats.
     - Motive: Repeated variation; not the same as riff
-  - Call and response
+  - 4. Call and response
     - "eeeey-yoooo"
     - can also happen between vocalist and music
     - rock/pop concerts: Two way energy transfer.
@@ -109,9 +108,9 @@ Professor: Simon Wood
 - Post-slavery
   - American Civil War (1861 - 1865) was largely a power grab
   - Institutionalized racism
-    - Laws passed by southern states to say "fuck you" to Africans
+    - Laws passed by southern states to make Africans sour
     - 13 years old boy jailed and lynched
-    - Statues too
+    - Statues put up too (recently taken down with much controversy)
   - Rural -> Urban
     - Mississippi River
     - New Orleans, Memphis, Atlanta, ... Chicago, Detroit
@@ -159,3 +158,139 @@ Professor: Simon Wood
   - Introduction and ending well crafted
   - Call and response
   - **Boogie-woogie**-influenced accompaniment; simplified for guitar
+
+## 2017 Sep 21
+
+- Don't take notes on your laptop, it'll lower your grade by 8% — oops
+- Don't have your phone in sight, even turned off — that also lowers your grade — oops
+- 1877: Edison invents phonograph
+  - People thought it was great even though it sucked
+- 1895-1912: Cylinder → Disks, disks have two sides
+- 1925: Industry standard set to 78 rpm, because record industry got big in the 1920s.
+- (Blu-ray vs. HD-DVD: Blu-ray won because Sony built them into Playstations.)
+- What was recorded:
+  - Sheet music and Tin Pan Alley stuff (Urban white culture of north)
+  - NOT black music and rural southern white music because cultural chauvinism
+- 1920: Commercial radio
+  - 1922 Jan: 28 stations
+  - 1922 Dec: 570 stations
+  - In Canada: ÷10 and round
+  - End of 1920s: Most stations are part of a **network** (CBS, NBC, Mutual)
+    - Cross-country telephone lines
+    - National advertising
+  - 1930s: Consumption patterns go from regional to national
+  - Radio almost killed record industry, since you don't have to buy records to get new content
+  - Radio was also television, in that there were lots of shows
+  - Radio music was originally done live to avoid quality hit from record playback
+- Ralph Peer
+  - Worked for Okeh Records
+  - Artists and repertoire guy
+  - Singer ditched at last minute; the cavalry was... Mamie Smith, black singer! Unheard of.
+  - Not "if you are black, you better turn back", just informal systematic discrimination
+  - 1922: Radio is killing records
+    - Ralph Peer says "let's record race and hillbilly", saving record industry
+- Song: "Crazy Blues"
+  - Mamie Smith, 1920
+  - First significant recording by African American artist
+  - Modest hit; whites would buy it, blacks would really buy it
+- Song: "Carve that Possum"
+  - Uncle Dave Macon and the Fruit Jar Drinkers, 1927
+  - Early form of country and western
+- Hillbilly / Country, Western
+  - Guitar, mandolin, banjo, fiddle
+    - Violin has strings, fiddle has *strangs*
+  - Nasal resonance
+  - Emotionally distant melody, regardless of lyrics
+- Race
+  - Next step in development of blues
+  - Increased complexity due to multiple musicians
+- Song: "How Long Blues"
+  - Carl and Blackwell, 1928
+  - Race
+  - Similar to country blues recordings; sweeping articulation
+  - Guitar: improvised "riffs" -> beginning of guitar solos!
+- Television
+  - 1927: First demonstration
+  - 1930s: Experimental, low-resolution broadcast
+  - 1939: Network broadcasts; slow growth because WWII
+  - 1945: 6 stations
+  - 1955: 411 stations
+  - Major networks move to television, radio stations become local again
+- WDIA
+  - Memphis Tennessee
+  - Radio station sold to two local white pharmacists. Started playing records.
+  - Playing records over radio thought bad.
+  - Disc jockey: Originally a pejorative. "Riding the records"
+  - Drove around with radio; found that black communities had best reception.
+  - 1948: First **Black Appeal** radio station
+  - 1954: 200 Black Appeal radio stations
+- 4 chords song lol
+  - Prof had to learn "Let it Go" for a gig; is also 4 chords
+- Baby boomers
+  - After WWII, birth rate explodes
+- Invention of "teenager"
+  - Most of human history: Child until ~13, then you're an adult
+  - WWII laid waste to everything except North America (except maybe Pearl Harbor)
+  - USA became state-of-the-art weapons-and-everything-else-too factory
+  - Lots of good jobs, lots of stuff for people with jobs to enjoy
+  - Baby boomers get to stay in school; 13-18 is now teenager, a new leisure class
+  - Youth culture becomes a thing
+  - TPA's music too tame, because people wanted safety after WWII horrors
+  - Teenagers liked Black Appeal radio
+  - Transistor radio offered privacy for these teens
+  - Rhythm and blues: new term for race music
+    - Hillbilly also changed to "country and western"
+- Song: How Much Is That Doggie In The Window?
+  - Patti Page, 1953
+  - Sold > 2M copies
+  - Safe post-WWII Tin Pan Alley song
+- Jump Blues
+  - Combination of Big Band (TPA/Jazz) + Blues/Race
+  - Focus on vocalist
+  - Smaller group, focus on sax, trumpet, rhythm (bass, drums, piano)
+- Song: Good Rockin' Tonight
+  - Wynonie Harris, 1948
+  - Jump Blues
+- (Fallout 4: Diamond City Radio)
+- Gospel and Spiritual
+  - Spiritual musical practice of African Americans
+  - Simple distinction: Spiritual is before the Civil War
+- Gospel in popular music
+  - Ray Charles Robinson "The Genius", 1930-2004
+  - Born into poverty; blind at age 7
+  - Learns music at a school for the blind; teacher noticed remarkable gift for music
+  - Could figure out any instrument on his own
+  - Insane memory; could hear song once and play it from memory years later
+  - 1952: Signed with Atlantic Records (Big independent label for black artists).
+  - Fuses energy of African American church with secular lyrics (I love Jesus -> I love my woman)
+- Song: I Got A Woman
+  - Ray Charles
+  - Considered sacriligeous
+  - Popular with white teens
+- Record labels
+  - Majors: Own their own manufacturing plants and distribution systems for records
+  - Independents: Don't.
+- Amplifiers
+  - They have a range where they work well, but eventually they distort the sound
+- Chicago Electric Blues
+- Muddy Waters (McKinley Morganfield)
+  - 1913-1983
+  - Born Mississippi
+  - Guitar and harmonica
+  - Emulated Robert Johnson
+  - 1941: Moves to Chicago and works in factory
+  - 1945: Switched to electric guitar
+  - 1946: Recorded for Aristocrat Records (later became Chess Records)
+- WWII: Women and black people get jobs
+- Song: Hoochie Coochie Man
+  - Willie Dixon, 1954
+  - Verse-chorus (modified 12-bar blues)
+    - Verse: Same music, different words
+    - Chorus: Same music, same words
+      - May include the song title
+      - May include a heightened level of intensity
+  - Stop time: Stop playing.
+    - Self-conscious way to increase interest of song.
+  - Electric guitar and harmonica are prominent
+  - Chicago Electric Blues
+- Living On A Prayer
