@@ -294,3 +294,107 @@ Professor: Simon Wood
   - Electric guitar and harmonica are prominent
   - Chicago Electric Blues
 - Living On A Prayer
+
+# 2017 Sep 28
+
+- About test 1:
+  - First hour of next class. Nothing tonight will be tested.
+  - ~35 questions.
+  - Mostly on lecture material.
+  - 4-5 textbook questions.
+  - Focus on big ideas; some detail questions (dates).
+  - Listening section: 3 examples w/ 2 questions each.
+  - May contain typos; you know what they mean
+  - See study guide!
+- Popularity charts:
+  - Three big charts: Pop, Race (R&B), Hillbilly (C&W)
+- **Crossover hit**: Song appears on one big chart, then another
+  - 1950s: Happens a lot more
+  - Moral panic
+  - Cover versions based on racial stereotypes
+- I can record any song and SELL IT as long as:
+  - I give credit to the songwriter
+  - I have to send a certain hardcoded percentage to the copyright holder
+  - I can't demean the copyright value
+- Two people have said no to Weird Al: Eminem, Prince.
+- Little Richard (Richard Wayne Penniman)
+  - Born 1932, Macon, Georgia
+  - Born very very poor
+  - Family was fanatically religious
+  - Bisexual. Self-loathing
+- Song: Tutti Frutti
+  - Little Richard, 1955
+  - Crossover hit: #2 R&B, #17 Pop
+  - Covered by Pat Boone
+    - No R&B, #10 Pop. (No crossback)
+- The Beatles were big Little Richard fans
+- Song: Sh-Boom
+  - The Chords (black), June 1954
+  - #3 R&B, #5 Pop
+  - Covered by The Crew Cuts (white, Canada), July 1954
+    - Cover: AABA happens TWICE, WTF?
+    - S i m p l i f i e d
+    - No R&B, #1 Pop for 9 weeks
+  - Differences:
+    - Voice: Raspy/distorted vs. Smooth/round/no lower octave
+    - Reverb: Crew Cuts are more reverbed and sound farther away
+    - Pitch: Crew Cuts are an octave higher; less sensual.
+    - Sax solo is gone, replaced with timpani (uberwhite instrument)
+      - Evokes children's cartoons, K I L L I N G the sexuality.
+- Not racist; this covering happened with country & western too.
+- Pop, C&W, and R&B. With their powers combined: Rock 'n Roll.
+  - Alan Freed came up with the term.
+  - Rock 'n Roll: Term for partying / sex.
+- Bill Haley and the Comets
+  - Born 1925
+  - Originally "Bill Haley and the Saddlemen" -- Named changed in 1952
+  - Western swing
+  - Early hits: "Crazy Man, Crazy", "Shake, Rattle and Roll"
+- Song: Rock Around the Clock
+  - By above, 1954.
+  - Popular in 1955.
+- Blackboard Jungle: Racist movie
+  - 12 bar blues
+- E L V I S . A A R O N . P R E S L E Y
+  - Born Tupelo, Mississippi.
+  - Poor family, unreliable father. Close relationship with mother.
+  - 1953: 18 yo.
+  - Truck driver after high school.
+  - Sam Phillips / Sun Records.
+  - Immediately sends recording to Red Hot and Blue.
+- 1954 Spring: Elvis records with Scotty Moore (guitar) and Bill Black (bass)
+- Song: Elvis Presley - That's All Right
+  - Elvis Presley's first serious recording.
+  - Played 18-21 times in a row.
+  - Elvis interviewed the next day
+    - "Where'd you got to high school?" --> I AM WHITE
+- Song: Blue Moon of Kentucky
+  - C&W
+  - Original by Bill Monroe
+    - 3/4 time. A country waltz.
+  - Covered by Elvis Presley
+    - 4/4 time.
+    - That's a pop song now little guy
+  - Covered again; very different this time
+    - Bass changed from C&W (2-beat) to R&B (walking baseline)
+    - Bill Black slapping for percussion
+    - Elvis's voice becomes percussive for A sections; gentle sweeping for B
+- Elvis (continued)
+  - 12 songs, all covers.
+  - Rockabilly: "The Hillbilly Cat"
+  - Drummer D.J. Fontana
+- 1956: Colonel Tom Parker
+  - Sam Phillips: Made $35k for Elvis
+    - $35k launched several other careers:
+      - Jerry Lee Lewis
+      - Johnny Cash
+  - RCA record label
+  - 11 appearances on national TV
+    - Watched 20-40M people
+- Song: Heartbreak Hotel
+  - Elvis, 1956
+  - #1 Pop, #1 C&W, #5 R&B
+  - Elvis can't stop!
+    - Hound Dog (#1 Pop/Country/R&B)
+    - Don't Be Cruel (#1 Pop/Country/R&B)
+    - Love Me Tender (#1 Pop)
