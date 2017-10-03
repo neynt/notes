@@ -7,11 +7,11 @@
   - Vocals: Doris Day
   - Popular because WWII ended.
 - "I've Got A Crush On You"
-  - TODO, George and Ira Gershwin
+  - 1939, George and Ira Gershwin
   - Vocals: Frank Sinatra
   - "Crooner" style vocals. Smooth and mellow.
 - "Believe Me, If All Those Endearing Young Charms"
-  - TODO, Thomas Moore
+  - 1808, Thomas Moore
   - Very popular
   - Idealized love ("Hey you hottie / even if you got ugly / I'd still love you")
   - AABA melody structure
@@ -54,12 +54,76 @@
   - 1948, Wynonie Harris
   - Jump Blues
 - "I Got A Woman"
-  - TODO, Ray Charles
+  - 1954, Ray Charles
   - "Gospel" -- ecclesiastical singing, secular lyrics
   - Considered sacriligious
   - Popular with white teens
 - "Hoochie Coochie Man"
   - 1954, Willie Dixon
+  - Vocals: Muddy Waters
   - Chicago Electric Blues
   - Verse-chorus
   - Self-conscious stop time
+
+## People
+
+- **Diane Warren**: Legendary songwriter who wrote all the stuff you know about.
+- **Les Brown**: Wrote music of "Sentimental Journey"
+- **Doris Day**: Sang "Sentimental Journey"
+- **George Gershwin**: Wrote "I've got a Crush on You"
+- **Frank Sinatra**: Very popular. "I've Got a Crush on You". Crooner style voice.
+- **Thomas Moore**: Wrote "Believe Me If All Those Endearing Young Charms"
+- **Charles K. Harris**: Wrote "After The Ball"
+- **Jimmie Rodgers**: First country star
+- **Blind Willie McTell**: "Travelin' Blues"
+- **Robert Johnson**: "Sweet Home Chicago"
+- **Ralph Peer**: Okeh Records, Mamie Smith
+- **Mamie Smith**: First significant black singer recording
+- **Dave Macon**: "Carve That Possum"
+- **Carl and Blackwell**: "How Long Blues"
+- **Patti Page**: "How Much Is That Doggie In The Window?"
+- **Wynonie Harris**: "Good Rockin' Tonight"
+- **Ray Charles Robinson**: Blind age 7; musical genius
+- **Willie Dixon**: Wrote "Hoochie Coochie Man"
+- **Muddy Waters**: (McKinley Morganfield): Chicago. Sang "Hoochie Coochie Man"
+
+## Musical styles
+
+- **Tin Pan Alley**: Pop. Urban white music.
+- **Hillbilly** / **C&W**: Rural white music.
+- **Race** / **R&B**: Black music.
+- **Work song**: Sang during labour, from African American slaves
+- **Ragtime**: Musical style with much syncopation. e.g. The Entertainer
+- **Country blues**: Traveling guitarist, 12 bar blues
+- **Jump blues**: Big Band + Blues/Race. Smaller group. Focus on vocalist, sax, trumpet, rhythm.
+- **Gospel**: Sacrilege.
+- **Chicago electric blues**: Electric amplification.
+
+## Terms
+
+- **Song leader**: Leader of work song
+- **Floating pool of verse**: Set from which work song bits are picked
+- **Folk**: Performed by amateur, for entertainment, no self-consciousness
+- **African retentions**:
+  - 1. Percussive & Distorted Timbres
+  - 2. Value in the Ecstatic and Cathartic
+  - 3. Riffs
+  - 4. Call and Response
+
+## Dates
+
+- 1920: Commercial radio
+- 1920: "Crazy Blues"
+- 1922 Jan: 28 stations
+- 1922 Dec: 570 stations
+- 1927: "Carve That Possum"
+- 1927: First demo of television
+- 1928: "How Long Blues"
+- 1930s: Consumption patterns go from regional to national
+- 1939: Television networks
+- 1945: 6 TV stations
+- 1948: First Black Appeal Radio station
+- 1952: Ray Charles Robinson signs with Atlantic Records
+- 1953: "How Much Is That Doggie In The Window?"
+- 1954: 200 Black Appeal Radio stations
+- 1955: 411 TV stations

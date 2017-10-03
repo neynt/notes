@@ -264,7 +264,7 @@ Professor: Simon Wood
   - 1952: Signed with Atlantic Records (Big independent label for black artists).
   - Fuses energy of African American church with secular lyrics (I love Jesus -> I love my woman)
 - Song: I Got A Woman
-  - Ray Charles
+  - 1954, Ray Charles
   - Considered sacriligeous
   - Popular with white teens
 - Record labels
