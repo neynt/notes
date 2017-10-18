@@ -4,23 +4,27 @@
 
 - "Sentimental Journey"
   - 1944, Les Brown, Homer, Green
+  - Big Band
   - Vocals: Doris Day
   - Popular because WWII ended.
 - "I've Got A Crush On You"
   - 1939, George and Ira Gershwin
+  - Big Band
   - Vocals: Frank Sinatra
   - "Crooner" style vocals. Smooth and mellow.
 - "Believe Me, If All Those Endearing Young Charms"
   - 1808, Thomas Moore
-  - Very popular
+  - Parlour song
   - Idealized love ("Hey you hottie / even if you got ugly / I'd still love you")
   - AABA melody structure
 - "After The Ball"
   - 1892, Charles K. Harris
+  - Parlour song
   - Extremely popular; sold over 5M copies of sheet music (8% of US population)
   - Move to urban areas made "super hit" possible
 - "Somewhere Over The Rainbow"
   - 1939, Arlen/Harburg
+  - Tin Pan Alley
   - In the Wizard of Oz; Director saved it from producers who didn't want it
   - AABA melody structure; B is 4x as fast and contains highest pitch in song
 - "Old Alabama"
@@ -32,6 +36,7 @@
   - Sections are only 3.5 measures long
 - "Sweet Home Chicago"
   - 1936 Nov, Robert Johnson
+  - Country blues
   - Crafted introduction and ending
   - Call and response betw. instrument and vocals
   - "Boogie-woogie"-influenced accompaniment simplified for guitar
@@ -61,7 +66,7 @@
 - "Hoochie Coochie Man"
   - 1954, Willie Dixon
   - Vocals: Muddy Waters
-  - Chicago Electric Blues
+  - Chicago electric blues
   - Verse-chorus
   - Self-conscious stop time
 
@@ -86,24 +91,28 @@
 - **Ray Charles Robinson**: Blind age 7; musical genius
 - **Willie Dixon**: Wrote "Hoochie Coochie Man"
 - **Muddy Waters**: (McKinley Morganfield): Chicago. Sang "Hoochie Coochie Man"
+- **Sam Phillips**: Found Elvis
 
 ## Musical styles
 
-- **Tin Pan Alley**: Pop. Urban white music.
-- **Hillbilly** / **C&W**: Rural white music.
+- **Big Band**: Old white "jazz band", many instruments.
+- **Parlour songs**: Old white lovey dovey pop. Type of Victorian Ballad.
+- **Tin Pan Alley**: Pop. Urban white pop.
+- **Hillbilly** / **C&W**: Rural white music. Nasal resonance. Distant singing.
 - **Race** / **R&B**: Black music.
-- **Work song**: Sang during labour, from African American slaves
-- **Ragtime**: Musical style with much syncopation. e.g. The Entertainer
-- **Country blues**: Traveling guitarist, 12 bar blues
+- **Folk**: Performed by amateur, for entertainment. No self-consciousness.
+- **Work song**: Sang during labour, from African American slaves.
+- **Ragtime**: Musical style with much syncopation. e.g. The Entertainer.
+- **Blues**: In general, deep south African American music.
+- **Country blues**: Traveling guitarist, 12 bar blues.
 - **Jump blues**: Big Band + Blues/Race. Smaller group. Focus on vocalist, sax, trumpet, rhythm.
 - **Gospel**: Sacrilege.
 - **Chicago electric blues**: Electric amplification.
 
 ## Terms
 
-- **Song leader**: Leader of work song
-- **Floating pool of verse**: Set from which work song bits are picked
-- **Folk**: Performed by amateur, for entertainment, no self-consciousness
+- **Song leader**: Leader of work song.
+- **Floating pool of verse**: Set from which work song bits are picked.
 - **African retentions**:
   - 1. Percussive & Distorted Timbres
   - 2. Value in the Ecstatic and Cathartic
@@ -112,10 +121,12 @@
 
 ## Dates
 
+- 1887: Gramophone invented
 - 1920: Commercial radio
 - 1920: "Crazy Blues"
 - 1922 Jan: 28 stations
 - 1922 Dec: 570 stations
+- 1922: Ralph Peer saves records from radio by recording race and hillbilly
 - 1927: "Carve That Possum"
 - 1927: First demo of television
 - 1928: "How Long Blues"

@@ -191,6 +191,7 @@ Professor: Simon Wood
     - Ralph Peer says "let's record race and hillbilly", saving record industry
 - Song: "Crazy Blues"
   - Mamie Smith, 1920
+  - Blues
   - First significant recording by African American artist
   - Modest hit; whites would buy it, blacks would really buy it
 - Song: "Carve that Possum"
@@ -380,6 +381,7 @@ Professor: Simon Wood
     - Bill Black slapping for percussion
     - Elvis's voice becomes percussive for A sections; gentle sweeping for B
 - Elvis (continued)
+  - On Sun.
   - 12 songs, all covers.
   - Rockabilly: "The Hillbilly Cat"
   - Drummer D.J. Fontana
@@ -389,12 +391,135 @@ Professor: Simon Wood
       - Jerry Lee Lewis
       - Johnny Cash
   - RCA record label
-  - 11 appearances on national TV
-    - Watched 20-40M people
 - Song: Heartbreak Hotel
   - Elvis, 1956
   - #1 Pop, #1 C&W, #5 R&B
-  - Elvis can't stop!
-    - Hound Dog (#1 Pop/Country/R&B)
-    - Don't Be Cruel (#1 Pop/Country/R&B)
-    - Love Me Tender (#1 Pop)
+- Elvis can't stop! 1956 Aug - Dec:
+  - Hound Dog (#1 Pop/Country/R&B)
+  - Don't Be Cruel (#1 Pop/Country/R&B)
+  - Love Me Tender (#1 Pop)
+
+# 2017 Oct 5
+
+- New Governor General: Julie Payette
+- this guy
+- People were terrified of Elvis.
+- 11 appearances on national TV
+  - Watched 20-40M people
+- Texaco Star Theater
+  - 1938-1949 radio, 1948-1956 TV.
+  - Live variety show.
+  - Elvis performed Hound Dog
+  - Milton Berle: Major star
+    - "Leave the guitar off-stage. Let the people see you move."
+      - Elvis was good guitar player, but not a huge part of Elvis
+      - Rather, singing and moving style.
+  - End of song: Elvis cut band off and...
+    - did legs & pelvis movements to much squee!
+- Huge response:
+  - TV stations: "Elvis will never perform"
+  - Cities tried to pass bylaws banning Elvis performances
+  - Catholic Church: "Condemn!"
+- Everyone was upset over not Elvis... but the squeeing white fangirls!
+  - "Our children are losing control of themselves!"
+- Elvis's popularity still grew, and he became the face of Rock and Roll.
+- 1956 end:
+  - Colonel Tom Parker pivots Elvis career toward pop.
+  - No R&B chart after 1957.
+- 1958 Mar - 1960 Mar: Elvis enters the army.
+  - Cold War
+  - West Germany, as deterrent
+  - After return, Colonel Tom reshapes Elvis.
+- 1961 Mar: Last public performance for seven years.
+- 1960s: Elvis is a bad movie star
+  - Also, Elvis made $$$$
+- 1968: Comeback special (2nd Elvis)
+  - Scotty Moore and DJ Fontana; bass player had died :(
+  - 10 minute DANGEROUS songs
+  - Elvis himself lights up
+- 1970-1977: Las Vegas Elvis (3rd Elvis)
+  - Elvis goes into decline
+  - Prescription drug addiction
+- 1977 Aug 16: Elvis dies at 42.
+  - Heart failure from prescription drug overdose.
+  - Simon Wood Grade 10
+
+- Chuck Berry
+  - The black man who sang like a white man.
+  - Middle-class background
+  - Music competitions
+  - Very deliberate and planned, unlike Elvis (who was more instinctual).
+  - Young Chuck Berry: "I want to be rich."
+    - How? Entertainment industry. Music.
+  - Entered talent competitions
+    - (These were part of black communities for a while)
+  - Self-conscious differentiation:
+    - Nasal cavity. Like C&W singer.
+    - Kept winning contests because he was unique.
+  - Chess Records, Chicago
+    - During a recording break, Chuck Berry started to play around with C&W song Ida Red.
+    - "He can do it! Rock and roll!"
+    - Chess to Chuck: "Rewrite the words so get more money!"
+    - Car chase metaphor for chasing a woman
+      - "side to side, bumper to bumper"
+      - "water getting under hood, doing motor good"
+    - Ida renamed to... MAYBELLINE
+
+- Song: Maybelline
+  - Chuck Berry, 1955 July
+  - Made Chuck Berry a rock & roll artist.
+
+- Chuck Berry (cont.)
+  - Very self-consciously constructed songs
+  - "Who is my target audience? Middle-class white teenagers."
+  - Themes:
+    - cars (represented freedom, independence, privacy)
+    - girls
+      - western music: women are perceived as objects
+      - things to be pursued, girlfriends to be obtained, to be admired for looks
+      - Chuck Berry is to thank for this ♥
+    - no school
+      - "School's out for summer! Let's do fun things!"
+    - rock & roll itself
+      - music celebrates itself
+  - So far, songs (I Got A Woman, Hoochie Coochie Man, orig Hound Dog) have been
+    - ... about adult relationships
+    - YOU MAKE ME FEEL SO BLUE
+  - ... Chuck Berry *consciously* makes songs less sexual
+  - (Don't worry about cover versions of Berry's songs)
+
+- Song: Johnny B. Goode
+  - Chuck Berry, 1958
+  - #2 R&B, #8 Pop
+  - 12 bar blues
+  - Balances white and black culture
+  - ONE VERSE:
+    - "Louisiana close to New Orleans, in the woods"
+    - "EVERGREENS: Coniferous forest"
+    - "Cabin made of earth and wood"
+    - "Grades not good"
+    - "He can play the guitar just like ringing a bell"
+  - "What black artists are popular with whites?"
+    - Found Nat King Cole, etc.
+    - 1. Lots of words.
+    - 2. Stories.
+  - White elements:
+    - **Text-heavy narrative**: Lots of words that tell a story
+    - Clear enunciation
+    - Country guitar sound
+      - Muddy Waters et. al: Bass heavy, distorted
+      - Chuck Berry: Less distortion, brighter
+  - Black elementes:
+    - Blues chord structure
+    - Added 6th (boogie woogie) (like Robert Johnson)
+    - Call and response between voice and guitar (go Johnny go!)
+    - Guitar solos based on timbre and rhythm (not just notes)
+      - Duplicated notes on guitar: open string is brighter.
+      - Bending strings for sweeps
+
+- Chuck Berry (cont.)
+  - His favourite song of his own was "My Dingaling"
+    - ... because it made him the most money!
+  - Impact: The electric guitar
+    - Chuck was actually good at guitar (unlike Elvis)
+    - Influenced The Beatles, John Lennon
