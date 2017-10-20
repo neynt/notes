@@ -296,7 +296,7 @@ Professor: Simon Wood
   - Chicago Electric Blues
 - Living On A Prayer
 
-# 2017 Sep 28
+## 2017 Sep 28
 
 - About test 1:
   - First hour of next class. Nothing tonight will be tested.
@@ -399,7 +399,7 @@ Professor: Simon Wood
   - Don't Be Cruel (#1 Pop/Country/R&B)
   - Love Me Tender (#1 Pop)
 
-# 2017 Oct 5
+## 2017 Oct 5
 
 - New Governor General: Julie Payette
 - this guy
@@ -523,3 +523,207 @@ Professor: Simon Wood
   - Impact: The electric guitar
     - Chuck was actually good at guitar (unlike Elvis)
     - Influenced The Beatles, John Lennon
+
+## 2017 Oct 19
+
+- Orange shirt: Mental health wellness Tuesday.
+- Simon personal story `;_;`
+
+- The Golden Age of Rock and Roll
+  - 1954 - 1959
+  - 1956: Cover versions stop working... because Elvis
+
+- Payola
+  - Corruption / Bribery.
+  - "Rock 'n' Roll is inferior (BLACK) music; how is it so popular?"
+  - Major Label Theory: DJs receiving bribes.
+  - Govt investigation: YES, bribes are happening!
+  - Alan Freed
+    - Life ruined by allegations
+    - Early 1960s: DEAD
+  - However: Bribery, threats, etc. have always been a part of the music industry.
+    - Break yo legs
+  - Recently: Sony $8M fine for music bribes
+  - All veiled racism
+
+- The Golden Age (cont.)
+  - 1954: Music industry worth $200M
+  - 1959: Music industry worth $600M (3X)
+  - 1955: 15% of pop top 10 are R&R
+  - 1959: 42% of pop top 10 are R&R
+  - 1955: 21% independent record companies
+  - 1959: 66% independent !!
+  - Major labels would not sign R&R because:
+    - Scared of backlash from puritanicals
+    - R&R does not follow **division of labour**.
+      - Singer-songwriter-musician-recorder -- SAME PERSON.
+      - Elvis didn't write songs.
+    - Ultimately based on racism.
+    - Integrated black and white youth. Terrifying.
+
+- Civil Rights Movement
+  - 1954 May: Brown v. The Board of Education. No more segregated schools.
+    - White parents protest outside school. National Guard called in.
+    - Little Rock Nine: Little black girl wants to go to school. Soldiers: Nope not safe today.
+  - 1955 Dec: Rosa Parks. Montgomery Bus Boycott.
+    - Rosa Parks: Very good seamstress.
+    - Bus sign: "Colored seating behind this line."
+    - Rosa Parks sits behind sign.
+    - White man gets on bus. RAAAAAA at Rosa.
+    - Bus driver gets involved.
+    - Bus driver moves sign behind Rosa. "Teehee now you're in front of the sign"
+    - Popo involved. Rosa Parks arrested for disturbing the peace.
+    - Black community boycotts bus system.
+    - After one year: Bus signs came down. Buses integrated. Brought the bus world revolution.
+  - Nonviolent peaceful protest.
+  - Freedom Riders
+    - Illegal for black/white to sit together as it passed a state line.
+    - Groups of blacks and whites were first-world anarchists.
+    - Violent responses. Buses beaten up, burned.
+  - Lunch Counter Sit-ins
+    - Polite young black chaps sat at segregated lunch counter for entire day.
+    - And the signs came down.
+  - Martin Luther King Jr.
+    - Led civil rights movement
+    - From Rosa Parks's church
+
+- The Golden Age (cont.)
+  - The Great Extinction
+    - 1958 Mar: Elvis joins the army. Is done.
+    - 1959 Dec: Chuck Berry arrested under the Mann act
+      - CB been investing; bought some night clubs
+      - CB offered white girl job; crossed state line river.
+      - The Mann act: Protects white women from being sold into prostitution
+      - Girl's family even said "no you got it wrong"
+      - Jail for 2 years
+    - 1958 May: Jerry Lee Lewis "The Killer" married 13-yo cousin
+      - Great Balls of Fire
+      - First wife divorce not technically finalized; therefore also polygamy
+    - 1957 Oct: Little Richard quit 
+      - "I am no longer performing."
+      - Became church minister
+      - Flip-flopped for a bit though
+    - 1959 Feb: Buddy Holly dies in plane crash
+      - 2nd gen rock and roll star
+      - After show: not feeling well
+      - Fly to next town w/ Richie Valens and JP Richardson... plane never made it
+      - The Day The Music Died
+    - Common theme: Their song ends and if they got back, the world already moved on.
+
+- The "In-Between" Years
+  - 1959 - 1963
+  - Between the end of rock and roll and the beginning of the British invasion
+  - Majors attempt to synthesize rock and roll
+  - The Dance Craze
+    - Lyrics tell you how to dance
+    - Chubby Checker: The Twist
+
+- Song: "The Locomotion"
+  - Little Eva, 1962
+  - Writers: Gerry Goffin, Carole King
+  - Very safe song, artifice of Majors
+
+- The "In-Between" Years (cont.)
+  - Teen idols
+    - Clean-cut, idealized boyfriend (instead of Golden Age bad boy)
+    - (One Dimension)
+    - Bobby Darin, Fabulous Fabian, Frankie Avalon, Bobby Vinton
+    - Romantic, non-sexualized love; dancing
+    - Generally did not write their own songs
+    - Many people came from the Brill Building (home of Aldon Music)
+
+- Song: "Blue Velvet"
+  - Bobby Vinton, 1963
+  - Composed 1950
+  - First hit: 1951 Tony Bennett
+  - Almost like a Big Band throwback
+
+- The "In-Between" Years (cont.)
+  - Aldon Music
+    - Controlled by Don Kirshaner, Al Nevins
+    - Pair songwriting: Lyricist and composer
+    - TPA approach to pop music
+    - Top 10 pop: Singers kept changing. Songwriters stayed the same.
+  - The Rise of the Producer
+    - Nowadays: Anyone with a laptop and some samples
+    - Back then:
+      - Knows music history, genres, styles
+      - Talented musician; can play basically anything
+      - Control of recording studio
+      - Records basically immutable
+  - The Magnetophon
+    - German tech from WWII was revolutionary
+      - Jet airplanes
+      - Americans went to space because they got smart rocket scientists from Nazi Germany
+    - Magnetophon: Basically, tape recorder
+    - Found by Sgt. Jack Mullin
+    - Enabled editing, cutting
+    - Ampex: Company that produced tapes. Bing Crosby invested.
+    - 1948: Bing Crosby gives first commercially produced reel-to-reel tape recorder to Les Paul
+    - "Les Paul. Isn't he a guitar?"
+  - Les Paul
+    - 1915 - 2009
+    - Jazz, pop, country
+    - Fanatical sound innovator
+    - 1941: The "Log"
+      - Guitar built from railroad tie
+      - "WTF are you playing? It's a stick!"
+      - Put fake sides on it
+      - "Oh my god that's the most beautiful thing I've ever heard"
+    - Talked to Gibson guitar company.
+    - 1952: Gibson Les Paul.
+    - Invented multitrack recording with tracks.
+    - Changed Reproduction ... to Production.
+      - Recording of event is just the beginning; not the whole thing.
+
+- Song: "Sitting on top of the world"
+  - Les Paul + Mary Ford (wife), 1953
+  - Les Paul is all the instruments
+  - Mary Ford is all the voices
+  - Made use of editing, audio pitch / playback speed effect
+  - When did performance occur? --> IT DIDN'T.
+    - 8 Les Pauls and 6 Mary Fords never got together and performed this.
+
+- The "In-Between" Years (cont.)
+  - Phil Spector
+    - Producer
+    - Highly influential on songs he produced; credited with song most of the time
+    - The "Wall of Sound"
+      - Highly layered
+      - Many duplicate instruments
+      - Many bands playing the same song, layered upon each other
+      - Made individual instruments indistinct
+
+- Song: "Be My Baby"
+  - The Ronettes (vocals) + Phil Spector (producer), 1963
+  - (Barry, Greenwich, Spector)
+  - Wall of Sound
+
+- The "In-Between" Years (cont.)
+  - Surf music
+    - Middle class, west coast prosperity
+    - Main instrument: Solid body electric guitar
+      - Also: Electric bass replaces double bass
+    - Dick Dale and the Del-tones
+    - The Ventures
+    - Lots of instrumental tracks (off vocal!)
+    - The Beach Boys
+      - Previous name: The Pendletones (from Pendleton shirts)
+      - Brian Wilson: Creative genius behind BB.
+        - Wrote all the songs, arrangements, precisely crafted
+        - Debilitating mental illness
+        - Stopped appearing in public; band got another bass player
+        - Stayed in bed for two years
+        - Barenaked Ladies: "Lyin' in bed just like Brian Wilson did"
+  - 1959: $600M music industry.
+  - 1963: STILL $600M. STAGNANT. Sad!
+
+- Song: "The Beach Boys - Surfin' USA"
+  - The Beach Boys, 1963 May
+  - Chuck Berry influence... A LOT OF IT
+  - There was a lawsuit. Chuck Berry added as songwriter.
+
+- Song: "Sweet Little Sixteen"
+  - Chuck Berry
+  - Surfin' USA copied from this
+  - 1964 Feb: The Beatles arrive
