@@ -621,6 +621,7 @@ Professor: Simon Wood
 - Song: "The Locomotion"
   - Little Eva, 1962
   - Writers: Gerry Goffin, Carole King
+  - Dance Craze song
   - Very safe song, artifice of Majors
 
 - The "In-Between" Years (cont.)
@@ -718,7 +719,7 @@ Professor: Simon Wood
   - 1959: $600M music industry.
   - 1963: STILL $600M. STAGNANT. Sad!
 
-- Song: "The Beach Boys - Surfin' USA"
+- Song: "Surfin' USA"
   - The Beach Boys, 1963 May
   - Chuck Berry influence... A LOT OF IT
   - There was a lawsuit. Chuck Berry added as songwriter.

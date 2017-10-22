@@ -69,6 +69,32 @@
   - Chicago electric blues
   - Verse-chorus
   - Self-conscious stop time
+- "The Locomotion"
+  - 1962, Little Eva
+  - Writers: Gerry Goffin, Carole King
+  - Dance Craze song.
+  - Very safe. Artificially produced with division of labor by Major labels.
+- "Blue Velvet"
+  - 1963, Bobby Vinton
+  - Composed 1950; First hit in 1951 by Tony Bennett
+  - Teen idol song.
+  - Almost like a Big Band throwback.
+- "Sitting on top of the world"
+  - 1953, Les Paul + Mary Ford (wife)
+  - Les Paul played *all* the instruments
+  - Mary Ford sang *all* the voices
+  - Heavily produced, thanks to multitrack recording
+  - First song that was never once performed
+- "Be My Baby"
+  - 1963, The Ronettes (vocals) + Phil Spector (producer)
+  - Writers: Jeff Barry, Ellie Greenwich
+  - Wall of Sound production
+- "Surfin' USA"
+  - 1963 May, The Beach Boys
+  - Ripped from Chuck Berry
+- "Sweet Little Sixteen"
+  - 1958 Jan, Chuck Berry
+  - Surfin' USA source music
 
 ## People
 
