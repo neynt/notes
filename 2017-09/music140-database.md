@@ -95,6 +95,20 @@
 - "Sweet Little Sixteen"
   - 1958 Jan, Chuck Berry
   - Surfin' USA source music
+- "A Hard Rain's a-Gonna Fall"
+  - 1962 Dec, Bob Dylan
+  - 1962 Oct: Cuban missile crisis
+  - Q&A lyrical style
+- "Please Please Me"
+  - 1963 Jan, The Beatles
+  - AABA
+  - Very short, not even 2min
+  - Numerous rehearsed details
+  - **Hook**: Simple unforgettable musical idea
+  - Utterly deliberate
+- "I Want to Hold Your Hand"
+  - 1963 Oct, The Beatles
+  - First Beatles hit in the USA.
 
 ## People
 

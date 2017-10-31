@@ -728,3 +728,139 @@ Professor: Simon Wood
   - Chuck Berry
   - Surfin' USA copied from this
   - 1964 Feb: The Beatles arrive
+
+## 2017 Oct 26
+
+Missed the first half of this lecture due to midterm. The following notes are synthesized from [this guy's notes](http://dzed.me/notes/2016/05/02/Music-140.html).
+
+- Bob Dylan
+  - 1961-1965: Traditional folk singer songwriter
+
+- Song: A Hard Rain's a Gonna Fall
+  - Nuclear missile: "black rain"
+  - 1962 Oct: Cuban Missile Crisis
+  - Lyric style
+
+- The British Invasion
+- US in early 60s
+  - JFK:
+    - Believed in equality.
+    - Well-liked by young people.
+    - Democratic.
+    - Sympathetic to civil rights movements.
+    - "Anything is possible"
+  - **The New Frontier**: The world as it would be with selflessness and equality.
+  - 1963 Aug: MLK "I Have a Dream"
+  - 1963 Nov: Kennedy assassinated in Dallas, TX.
+    - Shocked everyone.
+  - 1964 Feb: Beatles arrive in New York.
+- Post-war Britain
+  - No jobs or infrastructure. Rationing. All because of WWII.
+  - Entertainment industry rekt.
+  - DIY culture: Make music yourself.
+  - **Skiffle**:
+    - 3-6 cheap guitars
+    - Broomstick bass
+    - Washtub bass
+    - Influenced by American culture
+    - Based on R&B and R&R.
+  - Everyone knows: "US is good!"
+  - American soldiers brought supplies; gave American records to British teens
+- The Quarrymen
+  - Old name for the Beatles
+  - 1957 Jul: John Lennon (vocals), Paul McCartney (guitar) wrote songs together.
+    - Furiously wrote songs. Every day.
+    - Writing music is not done with flashes of inspiration. Done with persistence.
+    - Oh, that's pretty good. Hope I didn't steal it from someone.
+    - Weakness: No strong lead guitarist.
+  - 1958 Feb: George Harrison (lead guitarist)
+  - 1960 Jan: Stu Sutcliffe (bass); couldn't actually play bass
+  - 1960 Aug: Pete Best (drummer); changed name to "The Beatles"
+  - Played a lot for American soldiers in Germany
+  - Played in Hamburg, Germany
+  - **Rocker** image: Black leather jackets, jeans, boots, greased hair
+    - British idea of American motorcycle gangs
+  - Also played in Liverpool...
+- Liverpool: The Cavern Club
+  - Night club that Beatles played in
+  - 1961 Jul: Stu Sutcliffe leaves band to become an artist.
+    - Paul McCartney takes over bass.
+  - 1962 Apr: Stu Sutcliffe dies of brain hemorrhage
+  - The Beatles were ROUGH: Fights, drugs, spat on audience
+    - Early 1961: One fight; Stu Sutcliffe head hit in fight.
+- Brian Epstein
+  - 1961 Dec: Brian Epstein becomes Beatles manager
+  - First time Epstein managed a band
+  - Made Beatles more clean-cut. "If you want to get past the Cavern Club..."
+    - Went from leather jackets to suits with narrow ties.
+  - 1961: Beatles were background music for Tony Sheriton; small hit
+  - Tried to get a record label; every one turned them down
+  - Paul McCartney still has a framed thing saying "There is no future in guitar-based popular music."
+    - Dick Rowe: The guy who turned down the Beatles.
+    - At the same time: Les Paul gets a letter from Gibson saying "We are considering ramping down solid-body guitars."
+    - Dick Rowe later talks to Beatles; referred to The Rolling Stones and signs them.
+  - 1962 Jun: Beatles under Parlophone record label (division of EMI)
+    - More of a comedy label
+- George Martin: Producer
+  - Fired Pete Best, hired Ringo Starr
+    - Pete Best was dropped with incredible speed
+    - Theory: John Lennon did not like Pete Best
+    - Beatles took lots of amphetamines; Pete stayed clean
+    - "He's not taking the drugs; what's wrong with him?"
+    - Also: Pete Best got all the good looking girls
+    - Ringo had a rough start. "You're not the drummer yet you"
+  - 1962 Sep: "Love Me Do"
+    - Not Ringo playing drums; studio musician playing drums
+
+- Song: "Please Please Me"
+  - 1963 Jan
+  - AABA
+  - Very short; not even 2min
+  - Numerous rehearsed details
+    - Little licks; little details, especially after lines
+  - B section double time (like Somewhere Over the Rainbow)
+  - Change in rhythmic density in vocal
+  - Highest note at the end of the B section
+    - da da da da da da da da ba yooooooo
+  - Showed skill to write a **hook**: Very simple but unforgettable musical idea
+    - ba daa daa daaaa da da daa daaaaa daa
+    - "You know you never even ..."
+    - 13x repeated.
+  - TPA-style attention to detail in arrangement
+    - Utterly deliberate
+    - Extremely practiced voicing.
+
+- The Beatles (cont.)
+  - 1963 Nov: Beatles perform at Royal Variety Performance; London Palladium
+    - Charity event sponsored by royal family
+    - 26M viewers
+    - Now they are major stars. The Top of the Pops.
+  - John emerges as the funny, snarky one
+  - "Do you think Ringo Star is the best drummer in the world?"
+    - "Ringo Star isn't even the best drummer in the Beatles"
+  - British artists were not successful in the US
+  - Even Beatle songs were not doing well
+  - Brian Epstein: "The Beatles will not go to the US until they have a hit."
+
+- Song: "I Want to Hold Your Hand".
+  - First Beatle hit in USA.
+
+- The Beatles (cont.)
+  - 1964 Feb: The Beatles are coming (to the USA)
+  - "The New British Invasion"
+    - Refers to War of Independence
+  - 1964 Feb 09: Ed Sullivan Show
+    - pereptual squee in backgruond
+    - 70M viewers
+    - Story: "Zero crime in USA in hour before, during, and after the show"
+    - Story: "Gene Simmons inspired by 600 teenage girls screaming FUCK ME; later started band called Kiss."
+    - etc.
+    - Brought the guitar band world revolution.
+  - Band played in an arena. First performance in arena; people had no idea what they were doing.
+    - 90⁰ rotation every couple minutes
+  - Two week tour. sold 2 million albums, $2.5M merch
+    - "pillowcases"
+  - After Beatles return to England:
+    - 50K people showed up to see the Beatles get off an airplane
+    - Heathrow airport shut down for several hours
+  - **Beatlemania**: Medical condition
