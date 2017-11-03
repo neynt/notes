@@ -69,6 +69,47 @@
   - Chicago electric blues
   - Verse-chorus
   - Self-conscious stop time
+- "Tutti Frutti"
+  - 1955, Little Richard
+  - Crossover hit (#2 R&B, #17 Pop)
+  - Covered by Pat Boone (No R&B, #10 Pop; no crossback)
+- "Sh-Boom"
+  - 1954 Jun, The Chords (black)
+  - Crossover hit (#3 R&B, #5 Pop)
+  - 1954 Jul: The Crew Cuts (Canadian) cover. No R&B, #1 Pop for 9 weeks.
+  - Differences in voice, reverb, pitch, sensuality
+- "Rock Around the Clock"
+  - 1954, The Chords
+  - Popular in 1955.
+- "That's All Right"
+  - 1954, Elvis Presley
+  - Sudden release. Played 18-21 times in a row.
+  - Interview after. "Where'd you go to high school?" meant "Are you white?"
+- "Blue Moon of Kentucky"
+  - Original: 1947, Bill Monroe. C&W, 3/4 time country waltz.
+  - Cover: 1954, Elvis Presley. 4/4 time.
+  - "That's a pop song now little guy"
+  - Another cover also happened
+- "Heartbreak Hotel"
+  - 1956, Elvis Presley
+  - #1 Pop, #1 C&W, #5 R&B
+- "Maybelline"
+  - 1955 Jul, Chuck Berry
+  - Made Chuck Berry a rock and roll artist.
+- "Johnny B. Goode"
+  - 1958, Chuck Berry
+  - #2 R&B, #8 Pop
+  - 12 bar blues
+  - Balance between white and black culture
+  - White elements:
+    - Text-heavy narrative
+    - Clear enunciation
+    - Brighter sound of country guitar
+  - Black elements:
+    - Blues chord structure
+    - Added 6th like Robert Johnson
+    - Call and response (go Johnny go!)
+    - Timbre and rhythm used in guitar solos
 - "The Locomotion"
   - 1962, Little Eva
   - Writers: Gerry Goffin, Carole King
@@ -95,6 +136,15 @@
 - "Sweet Little Sixteen"
   - 1958 Jan, Chuck Berry
   - Surfin' USA source music
+- "This Land is Your Land"
+  - 1944, Woody Guthrie
+  - Folk, influence for Folk Revival
+  - Instruments: Guitar, bass, harmonica
+  - Lyrics criticized market-driven economy
+  - Successful until 1953, when fear of communism happened
+- "Tom Dooley"
+  - 1958, The Kingston Trio
+  - Folk Revival
 - "A Hard Rain's a-Gonna Fall"
   - 1962 Dec, Bob Dylan
   - 1962 Oct: Cuban missile crisis
@@ -109,6 +159,9 @@
 - "I Want to Hold Your Hand"
   - 1963 Oct, The Beatles
   - First Beatles hit in the USA.
+- "A Hard Rain's a Gonna Fall"
+  - 1962, Bob Dylan
+  - About the Cuban Missile Crisis (1962 Oct)
 
 ## People
 

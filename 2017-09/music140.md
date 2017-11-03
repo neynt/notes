@@ -162,6 +162,7 @@ Professor: Simon Wood
 ## 2017 Sep 21
 
 - Don't take notes on your laptop, it'll lower your grade by 8% — oops
+  - (AFTER MIDTERM 1: CONFIRMED TRUE. TAKE PAPER NOTES, FOLKS)
 - Don't have your phone in sight, even turned off — that also lowers your grade — oops
 - 1877: Edison invents phonograph
   - People thought it was great even though it sucked
@@ -295,6 +296,7 @@ Professor: Simon Wood
   - Electric guitar and harmonica are prominent
   - Chicago Electric Blues
 - Living On A Prayer
+- END OF MIDTERM 1
 
 ## 2017 Sep 28
 
@@ -364,7 +366,7 @@ Professor: Simon Wood
   - Sam Phillips / Sun Records.
   - Immediately sends recording to Red Hot and Blue.
 - 1954 Spring: Elvis records with Scotty Moore (guitar) and Bill Black (bass)
-- Song: Elvis Presley - That's All Right
+- Song: That's All Right
   - Elvis Presley's first serious recording.
   - Played 18-21 times in a row.
   - Elvis interviewed the next day
@@ -394,7 +396,7 @@ Professor: Simon Wood
 - Song: Heartbreak Hotel
   - Elvis, 1956
   - #1 Pop, #1 C&W, #5 R&B
-- Elvis can't stop! 1956 Aug - Dec:
+- 1956 Aug - Dec: The Elvis train has no brakes!
   - Hound Dog (#1 Pop/Country/R&B)
   - Don't Be Cruel (#1 Pop/Country/R&B)
   - Love Me Tender (#1 Pop)
@@ -731,15 +733,61 @@ Professor: Simon Wood
 
 ## 2017 Oct 26
 
-Missed the first half of this lecture due to midterm. The following notes are synthesized from [this guy's notes](http://dzed.me/notes/2016/05/02/Music-140.html).
+- Missed the first half of this lecture due to midterm.
+- Some of these notes are synthesized from [this guy's notes](http://dzed.me/notes/2016/05/02/Music-140.html).
+- And from kind stranger in class, whose name I don't know because I'm asocial af tbh.
 
-- Bob Dylan
-  - 1961-1965: Traditional folk singer songwriter
+- The Folk Revival:
+  - Many teen fans of the golden age of Rock and Roll are now in their early 20s.
+  - In university, many are looking for more "serious" music.
+  - Folk music is now professional
+  - Very self-aware industry in which musicians HIDE their professionalism
+
+- Pre-WWII folk music:
+  - Political left
+  - Union movement
+  - Possible song: Woodie Guthrie, Working Man
+  - Woody Guthrie: "This machine kills fascists"
+    - hmmmmmmmm
+  - The Weavers
+    - Led by Pete Seeger
+
+- Song: "This Land is Your Land"
+  - Woody Guthrie, 1945
+  - Vocals: No showboating
+  - Portable acoustic instruments: Guitar, bass, harmonica
+  - Lyrics: Strong critique of market-driven economy
+  - Successful from late 1940s to 1953.
+  - 1953: Fear of communism builds
+  - Blacklisted in 1953 because of left-wing connection
+  - Today would be considered far-right tbh, fkn imperialist pig
+
+- 1938: HUAC (House Un-american Activities Committee)
+  - Investigated suspected commies.
+- 1947-1956: McCarthyism
+  - Making scapegoats. Accusations of treason.
+
+- The Folk Revival (cont.)
+  - The Baby Boomers are reaching college and digging up old folk records.
+  - 1956~1964: The music industry sees an Opportunity.
+  - Folk Revival bands:
+    - The Kingston Trio
+    - Peter, Paul and Mary
+
+- Song: "Tom Dooley"
+  - The Kingston Trio, 1958
+  - 
+
+- Bob Dylan:
+  - Active 1961-1665
+  - Traditional folk singer/songwriter
 
 - Song: A Hard Rain's a Gonna Fall
   - Nuclear missile: "black rain"
   - 1962 Oct: Cuban Missile Crisis
   - Lyric style
+
+- END OF MIDTERM 2.
 
 - The British Invasion
 - US in early 60s
@@ -758,7 +806,7 @@ Missed the first half of this lecture due to midterm. The following notes are sy
   - No jobs or infrastructure. Rationing. All because of WWII.
   - Entertainment industry rekt.
   - DIY culture: Make music yourself.
-  - **Skiffle**:
+  - **Skiffle**: Music genre
     - 3-6 cheap guitars
     - Broomstick bass
     - Washtub bass
@@ -863,4 +911,224 @@ Missed the first half of this lecture due to midterm. The following notes are sy
   - After Beatles return to England:
     - 50K people showed up to see the Beatles get off an airplane
     - Heathrow airport shut down for several hours
-  - **Beatlemania**: Medical condition
+  - **Beatlemania**: Seriously considered as a medical condition
+
+## 2017 Nov 2
+
+- Fondness for cup noodles: Spent several months in Japan.
+- Test next week.
+  - In DC 1350, 1351. Mass migration to usual room after.
+  - Cover versions -> The folk revival. (No British Invasion)
+  - ~40 questions. Same difficulty as last test. Listening portions can start at any poiint in song.
+- Rant: This is very important. News story about Weinstein.
+  - For decades, it has been known that Weinstein was a sexual predator.
+  - Thank god that people are finding the courage to talk about this.
+  - The vast majority of these creeps are men. Bros, stop it.
+  - Does not preclude humorous rudeness; but know where the line is.
+    - Litmus test: How would I feel if somebody said that to your mother/sister/daughter?
+    - I have a son. Blinding rage; nameless dread. He's a good human, so far.
+    - JUST SAYIN'
+  - Be better than my generation apparently has been.
+
+- The Beatles.
+  - 1964 Apr: 12 songs in the Billboard Top 100 Pop...
+    - including positions 1 through 5 (for 3 wk).
+  - 3 weeks: Beatles accounted for 60% of all record sales WORLDWIDE.
+  - 1964 Jul: "A Hard Day's Night": First Beatles film.
+  - 1965: $65 million dollars of total revenue after the end of their 4th U.S. tour.
+  - 1965 Aug: Beatles play in Shea Stadium; first band to play in a sports stadium.
+    - Really needs LPF.
+    - Largest box guitar amps ever.
+    - Primitive lights and speakers; good lights haven't been invented yet.
+      - Inspired engineers to make better lights and PA systems.
+    - A lot more emotional impact from seeing live performance, due to lack of YouTube.
+  - Massive success served as a template for what is to follow.
+    - Re-asserted Golden Age system, in a way. ("Collective Self-contained Group")
+    - Other bands influenced by Beatles and were part of the British invasion:
+      - Mersey Beat, Gerry and the Pacemakers, The Searchers, The Swinging Blue Jeans
+  - 1965 Jul: "Help": Second Beatlesf ilm.
+    - Ringo gets ring stuck on finger
+    - Cult wants to get ring back even if they have to kill Ringo
+    - The Monkeys (corporate version of Beatles from Help)
+    - One song that was different...
+
+- Song: "Yesterday"
+  - 1965, The Beatles
+  - From album "Help"
+  - AABA
+  - First tangible result of US tour
+    - Beatles met Bob Dylan
+    - Dylan was a Beatles fan
+    - "Your music is great, but your lyrics don't say anything."
+    - Brought the Beatles lyrics revolution.
+  - Complex harmonic and lyric structures.
+    - Complex chord changes
+  - String quartet:
+    - Influence of George Martin
+  - Primarily written by Paul McCartney, unlike previously joint-written lyrics
+    - Other members of band didn't like this song.
+    - John Lennon and Paul McCartney starting to pull apart.
+
+- The Beatles (continued)
+  - Many regional releases, then...
+  - Albums standardized to original British releases.
+  - Albums:
+    - 1965 Aug: "Help"
+    - 1965 Dec: "Rubber Soul"
+      - More experimental album cover
+      - Skewed image from gust of wind
+      - Rubber sole: At bottom of shoe. Play on words.
+      - Album cover did not have "The Beatles" on it.
+    - 1966 Aug: "Revolver"
+      - Extremely surreal.
+      - Extremely artistic.
+
+- Song: "Tomorrow Never Knows"
+  - 1966, The Beatles
+  - From album "Revolver"
+  - Written primarily by John Lennon
+  - **Drone**
+    - From India, where they'd been studying meditation.
+    - Indian classical music had extremely complex rhythm
+    - Sitar, tabla, singers
+      - Sitar is actually Persian
+    - Also melodic complexity (quarter tones)
+      - Never invented chords though, oops
+      - Had drones instead: Notes that repeat throughout the entire piece
+  - Tamboura throughout entire song
+  - Lyrics based on Tibetan Book of the Dead
+  - Vocals are double-tracked (one perfect vocal line mixed with attempt to re-sing)
+    - Also, some vocals run through "Leslie" speaker cabinet (warbling, a bit bandpassed)
+  - Simon Wood brings the signal processing world revolution
+    - Comb filtering
+    - Delay does not have the same effect of double-tracking.
+    - Cancellation if delay is too short; echo if too long.
+    - Rule of 3: Microphones have to be at least 3 feet separated to prevent cancellation
+    - This won't be on the test
+  - Additional postprocessing:
+    - Tape "loops": Avant-garde technique where a tape was looped
+      - Used for eight different sounds
+      - Eight tape machines, eight guys with volume knobs
+      - These are the tech-sounding effects
+    - Backwards recording (!!)
+      - Sitar and electric guitar recorded backwards
+  - First known use of flanging (two identical tapes running side by side, made slightly out of phase by tugging)
+
+- The Beatles (continued)
+  - Clearly, Beatles became experimental
+  - Growing influence of non-western culture
+  - UNPLAYABLE live. Could not be performed in a concert.
+  - Beatles are now sick of live performance.
+  - 1966 tours
+    - Japan: Budokan theater
+      - Tirade of mock Japanese
+      - I have just made fun of your culture, and all you do is scream every time I open my mouth.
+    - Phillipines: Annoyed local government
+      - Phillipines was a dictatorship
+      - Annoyed el presidente's wife
+      - Thrown out of hotel, roughed up at airport
+      - John hid in a group of nuns
+      - Army truck blocked plane
+      - Soldiers pulled off Brian Epstein
+      - "If I don't come back please tell my family that I love them"
+      - Held at gunpoint on tarmac
+      - "Exit tax" of the amount they were paid
+    - United States (Aug)
+      - Things always go well in the US of A
+      - On flight, over pacfic ocean, something happened...
+      - 1966 Mar: John Lennon newspaper interview in England.
+        - John Lennon emerges as the intellectual.
+        - Poet and visual artist.
+        - Religion came up. "Atheist, but deep respect for spiritual traditions."
+        - What is the role of organized religion in 60s popular culture?
+          - The world's great religions have wonderful things at their core; wonderful ideas about treating each other.
+          - But they have been corrupted by organized religion. It has become a business. It is simply about money.
+          - I bet, if given the choice, most kids would rather go and see the Beatles than to go to Church.
+          - We're bigger than Jesus.
+      - Nobody is offended in the beginning, but...
+      - As they are headed to USA, magazine says "John Lennon: BEATLES BIGGER THAN JESUS."
+      - Massive protests. "Beatle burnings": thousands of young people burn Beatles paraphernalia.
+      - 1966 Aug 29: Candlestick Park, San Francisco.
+        - The last time the Beatles ever played live.
+        - Retiring from live performance.
+
+- Globalization Nissin cup noodle commercial (fantastic)
+
+- The Beatles (continued)
+  - 1967 Jun: Sgt. Pepper's Lonely Hearts Club Band.
+    - Single most important album EVER.
+    - Album cover extremely elaborate. Extension of the music.
+    - Back cover had ALL THE LYRICS. (First time this has been done.)
+    - The first (?) "concept album" (?): Album where every song is linked by some concept.
+      - According to Beatles, is not a concept album. They're wrong.
+      - All of the songs is about the Beatles' childhood.
+      - A year earlier, Beach Boys "Pet Sounds" -- also kind of a concept album.
+        - No attention though
+
+- Song: "A Day In The Life"
+  - From SPLHCB.
+  - Started out as two separate songs; John Lennon one and Paul McCartney the other
+  - Spliced together...
+    - with incredible cacophonous transitions
+  - "Postmodern" approach to creating forms
+    - you are allowed to draw on any sort of influence.break rules, mIx thIngs together.3mt01i0n4al 1mp4c7 is paramount
+  - Avant-garde technique with orchestra and piano: "Aleatory"
+    - Philharmonic orchestra:
+    - "Okay, I want you to start on the lowest note in your instrument, and in 20 seconds get to the highest. Get there however you wish."
+    - The piano that won't die: Ultra long-ringing piano. Six people, two pianos, microphones in the pianos. Very slowly turning up microphone sensitivity.
+
+- Shift to the **Hippie Aesthetic**.
+  - Still important today.
+  - Shift from Rock and Roll to just Rock, that is:
+  - Moving from:
+    - Singles -> Albums. Album is like a book. Should be consumed atomically.
+    - Dancing -> Listening.
+    - Entertainers -> Artists. Serious musicians.
+      - Entertainer: You have what you do, and you keep doing it.
+      - Artists: Experiment. Change. Bring the world revolution.
+    - AOR (Album Oriented Rock), and FM Radio.
+      - AM: Originally the dominant format, for technical reasons.
+      - FM: Significant advantage: Can broadcast in stereo.
+      - FM becomes the home of AOR.
+- Beatles Break Up
+  - Beatles on the verge of tearing themselves apart.
+  - John Lennon don't like, and don't be like, Paul McCartney.
+  - 1967 Aug: Brian Epstein dies at 32.
+  - John and Paul HATE each other.
+  - Film intended to bring band closer, instead just documented band's dissolution.
+  - 1970: Paul McCartney leaves The Beatles, and the band breaks up after six years.
+- The **British Blues Revival**.
+  - 50s-60s: Soul music replaces R&B as preferred black music.
+  - Blues musicians find themselves the new horse.
+  - Early 1950s: Young British white teens love blues.
+    - Chess Records tour blues artists in England.
+    - Headline: Muddy Waters.
+  - Names: Chris Barber, Cyril Davies, Spencer Davis, Alexis Korner (Blues Incorporated), John Mayall (Blues Breakers)
+  - Future members of: Fleetwood Mac, Cream, Eric Clapton, Led Zepplin, The Rolling Stones
+    - all played for one of those British Blues Names.
+- 1962 Jul: Marquee Club
+  - Brian Jones organized a little group to work at the Marquee Club.
+  - Brian Jones got the "Rolling Stones" name from a Muddy Waters song.
+  - Brian Jones was a blues fanatic. Extremely extensive blues record collection.
+  - Brian Jones wanted the Rolling Stones to play blues. That was the plan.
+- Andrew Loog Oldham:
+  - 1963 Apr: Became manager of the Rolling Stones. Changed their image.
+  - "You will never out-Beatle the Beatles. The Beatles will always be better Beatles than you will ever be. If you try to look like them, if you try to act like them, you will always be behind them."
+  - Be surly, snarly, unpleasant. Drink, swear, spit.
+    - Source of Mick Jagger's 3k-yd stare.
+    - Like The Beatles for ugly people!
+  - "WOULD YOU LET YOUR DAUGHTER DATE A ROLLING STONE?"
+  - 1963-1964: All singles are covers.
+    - Covered Chuck Berry, Buddy Holly, Willie Dixon
+    - 1963 Nov: I Wanna Be Your Man, written by Lennon & McCartney
+    - Keith Richards, Mick Jagger learn to write songs.
+  - Album: "England's Newest Hitmakers"
+
+- Song: "King Bee"
+  - 1964 Apr, The Rolling Stones
+  - From album "England's Newest Hitmakers"
+  - Blues form
+  - Cover of Slim Harpo song from 1957
+  - Is about NTR:
+    - I'm a king bee, I can buzz all night long
+    - But I can buzz better, baby, when your man is gone
