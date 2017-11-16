@@ -511,7 +511,7 @@ Professor: Simon Wood
     - Country guitar sound
       - Muddy Waters et. al: Bass heavy, distorted
       - Chuck Berry: Less distortion, brighter
-  - Black elementes:
+  - Black elements:
     - Blues chord structure
     - Added 6th (boogie woogie) (like Robert Johnson)
     - Call and response between voice and guitar (go Johnny go!)
@@ -734,7 +734,7 @@ Professor: Simon Wood
 ## 2017 Oct 26
 
 - Missed the first half of this lecture due to midterm.
-- Some of these notes are synthesized from [this guy's notes](http://dzed.me/notes/2016/05/02/Music-140.html).
+- Some of these notes are synthesized from this guy's notes: http://dzed.me/notes/2016/05/02/Music-140.html.
 - And from kind stranger in class, whose name I don't know because I'm asocial af tbh.
 
 - The Folk Revival:
@@ -760,7 +760,6 @@ Professor: Simon Wood
   - Successful from late 1940s to 1953.
   - 1953: Fear of communism builds
   - Blacklisted in 1953 because of left-wing connection
-  - Today would be considered far-right tbh, fkn imperialist pig
 
 - 1938: HUAC (House Un-american Activities Committee)
   - Investigated suspected commies.
@@ -776,7 +775,6 @@ Professor: Simon Wood
 
 - Song: "Tom Dooley"
   - The Kingston Trio, 1958
-  - 
 
 - Bob Dylan:
   - Active 1961-1665
@@ -1132,3 +1130,151 @@ Professor: Simon Wood
   - Is about NTR:
     - I'm a king bee, I can buzz all night long
     - But I can buzz better, baby, when your man is gone
+
+## 2017 Nov 9
+
+- Midterm postponed due to printing errors (AYY)
+- Simon writing music for Parks Canada
+  - "we like the drums better"
+- Will most likely have the test next week.
+  - Based Curve Incoming
+
+- The Rolling Stones (cont.)
+  - Advice from Lennon, McCartney: Keep a tape recorder near your bed and record your dream songs.
+  - One night, Keith Richards dreams a song.
+    - Brass section. "Nope" says the rest of the band; 
+
+- Song: "(I Can't Get No) Satisfaction"
+  - 1965 Feb, The Rolling Stones
+  - Written by Mick Jagger, Keith Richards
+  - First US #1 Pop.
+  - Performed on TV.
+  - Dark & Edgy:
+    - Mismatched clothes
+    - Mick Jagger burning eye look.
+    - Surly, Dangerous, Risky
+
+- The Rolling Stones (cont.)
+  - The "ultimate" rock star band. Established rock star image.
+  - Brian Jones, who started the band, wanted R&B covers...
+    - But band has moved on. Richards, Jagger become leaders of the band.
+    - Late 1960s: Brian participates very little. Is ded.
+    - 1969: Rolling Stones tour USA.
+      - They needed US work visas
+      - Brian's work visa rejected; reason: outstanding US drug charge.
+      - "You can quit, or we will fire you." > I will quit.
+    - Brian shattered; drinking, drugs.
+    - 1969: Brian Jones found dead in swimming pool at 27.
+  - Comparison with the Beatles:
+    - Image is important.
+      - Beatles are for the middle class, came from the working class.
+        - Thanks Brian Epstein
+      - Rolling Stones presented themselves as the blue collar band...
+      - but Rolling Stones really came from the middle class!
+        - Keith Richards was in art school.
+        - Mick Jagger was studying at London School of Economics.
+        - Mick Jagger made more as an online daytrader than as a rock star.
+    - Process vs. product
+      - Journey vs. destination.
+      - The Beatles focused on Product:
+        - You imagine perfection and work toward it.
+      - The Rolling Stones focused on Process:
+        - More focused on feeling. Two way energy transfer.
+      - Fundamentally, this was all about... RACE.
+        - White = Product, African American = Process
+        - Elvis Presley and Chuck Berry had broken this wall.
+
+- The Yardbirds
+  - Band from the British Blues Revival
+  - Notable guitar players
+  - Eric Clapton
+  - Similar history as The Rolling Stones.
+  - Eric Clapton replaced by Jeff Beck
+  - Jeff Beck is a "musician's musician" -- technical innovations
+    - Undependable though; major stage fright
+    - Backup studio musician: Jimmy Page
+  - 1967: Band breaks up
+  - Jeff Beck then put together a new band (The New Yardbirds)...
+  - Today, we call this band Led Zeppelin.
+
+- The Who
+  - No time. Read about them in textbook.
+
+- Soul to Funk
+  - All music is political. Civil rights movement, African-American identity.
+  - Simon on identity:
+    - I am a middle class straight white guy.
+    - When I grew up, I was presented with a world, where all I saw was ME.
+    - I saw myself so often that I stopped noticing.
+    - If you're not a middle class white guy, you never see yourself!
+  - Star Trek had forward-thinking ideas.
+    - Captain was white straight male, but...
+    - Helmsman was Japanese. WWII only over for 15yr.
+    - Helmsman was Russian.
+    - Communications officer was African American.
+      - Boring roles; was going to quit.
+      - Martin Luther King Jr phoned her. "You cannot quit."
+      - My daughters need to see that.
+      - First African American woman to enter space was inspired.
+  - 1950s, late: Growing anticipation of civil rights.
+  - Blues rejected as the sound of the past, the rural south, slavery.
+  - New sound of the urban: Soul Music.
+  - Fusion of:
+    - Vocal style from Gospel
+    - Rhythm and back beat of R&B (emphasizing bar positions 2,4 instead of 1,3)
+    - Arrangements and lyrical style of TPA (!!)
+
+- Motown, Detroit:
+  - Detroit used to be car building center. "Motor Town"
+  - Hitsville USA sign
+  - Founded by Berry Gordy
+  - Motown became the most successful business ever owned by an African American
+  - 1959: Division of labour, based on Gordy's experience in automotive plants.
+  - A well-optimized assembly line (all African American):
+    - Song writers: Holland/Dozier/Holland, Smokey Robinson.
+    - Maxine Powell:
+      - Woman who ran a "finishing school"
+      - School for young upper-class women to learn fancy household stuff
+      - Came to teach Motown artists how to behave
+      - Certainly accused of whitening.
+    - Cholly Atkins: Choreographer
+      - Artists move well.
+    - The Funk Brothers: House band
+      - sum o' the best jazz musicians in detroit.
+  - Result: Absolutely consistency of product.
+
+- Song: "You'd Better Shop Around"
+  - 1960, Smokey Robinson and The Miracles
+  - Innocent premise: Guy looks for girl like his mother.
+  - Sophisticated, restrained presentation.
+
+- The Supremes
+  - Motown group
+  - Diana Ross: Softest voice, lead singer
+  - (ALSO, Berry Gordy & Diana Ross dated, but this probably didn't cause anything)
+  - Berry Gordy thought that white listeners would prefer this.
+  - Also, targeted them with upper class white clothing.
+
+- Song: "Stop in the Name of Love"
+  - 1965, The Supremes
+  - The choreography will be on the test
+  - Tambourine drives the beat
+  - Electric organ: Swelling sound at beginning
+  - In Soul, piano & electric organ often combined
+  - Vibraphone, from jazz:
+    - Linked with jazz, respectable thing from black culture.
+
+- 1960s: Jazz recognized as an art form.
+  - You could study jazz in school. Big indicator of seriousness.
+  - MUSIC 140 would not have existed before mid 1990s.
+
+- Aside: google Little Stevie Wonder
+
+- Motown (cont.)
+  - Focus on arrangement. e.g. vibraphone, subtle instruments, bg vocals
+    - Made possible by better pre-amps, reel-to-reel tape, etc.
+  - Clarity of sound. (STOP! In the name of love!)
+  - Accuracy of performance. Recordings had to be PERFECT.
+  - Quality control. Often compared to other hit records. HITS were the goal.
+
+- Other place: Stax, Memphis. Will talk about next class.

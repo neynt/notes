@@ -214,20 +214,55 @@
 
 ## Dates
 
-- 1887: Gramophone invented
-- 1920: Commercial radio
-- 1920: "Crazy Blues"
-- 1922 Jan: 28 stations
-- 1922 Dec: 570 stations
-- 1922: Ralph Peer saves records from radio by recording race and hillbilly
-- 1927: "Carve That Possum"
-- 1927: First demo of television
-- 1928: "How Long Blues"
-- 1930s: Consumption patterns go from regional to national
-- 1939: Television networks
-- 1945: 6 TV stations
-- 1948: First Black Appeal Radio station
-- 1952: Ray Charles Robinson signs with Atlantic Records
-- 1953: "How Much Is That Doggie In The Window?"
-- 1954: 200 Black Appeal Radio stations
-- 1955: 411 TV stations
+- Ancient prehistory
+  - 1887: Gramophone invented
+- Tin Pan Alley. Pop, Race, Hillbilly. Radio.
+  - 1920: Commercial radio
+  - 1920: "Crazy Blues"
+  - 1922 Jan: 28 stations
+  - 1922 Dec: 570 stations
+  - 1922: Ralph Peer saves records from radio by recording race and hillbilly
+- Blues, TV
+  - 1927: "Carve That Possum"
+  - 1927: First demo of television
+  - 1928: "How Long Blues"
+  - 1930s: Consumption patterns go from regional to national
+  - 1938: HUAC
+  - 1939: Television networks
+  - 1945: 6 TV stations
+  - 1945: This Land is Your Land - Woody Guthrie
+  - 1948: First Black Appeal Radio station
+  - 1952: Ray Charles Robinson signs with Atlantic Records
+  - 1952: Gibson Les Paul released
+  - 1953: "How Much Is That Doggie In The Window?"
+  - 1953: Sitting On Top Of tHe World
+  - 1954: 200 Black Appeal Radio stations
+  - 1955: 411 TV stations
+- The Golden Age of Rock and Roll
+  - 1954: Rock Around the Clock (early R&R)
+  - 1954: Sh-Boom, and cover
+  - 1954: Elvis Presley found by Sam Phillips
+  - 1954: That's All Right
+  - 1954: Blue Moon of Kentucky cover by Elvis
+  - 1954: Civil Rights movement begins
+  - 1955: Tutti Frutti, and cover
+  - 1955: Maybellene
+  - 1955: Rosa Parks Montgomery Bus Boycott.
+  - 1956: Elvis bought by Colonel Tom Parker
+  - 1956: Heartbreak Hotel, and the Elvis train has no brakes
+  - 1956: Last year of Texaco Star Theater
+  - 1958: Johnny B. Goode
+  - 1958: Elvis joins the army
+  - 1958: Tom Dooley by The Kingston Trio
+  - 1959: Music industry worth $600M, 3x 1954's $200M
+  - 1959: Music industry is 66% independent, ~3x 1955's 21%
+- The In-between Years
+  - 1960s: Elvis is a bad movie star
+  - 1962: The Locomotion
+  - 1962: A Hard Rain's a Gonna Fall
+  - 1963: Blue Velvet
+  - 1963: Be My Baby
+  - 1963: Surfin' USA
+  - 1963: Music industry STILL worth $600M. Sad!
+  - 1964: Sweet Little Sixteen
+  - 1970s: Elvis is Las Vegas druggie

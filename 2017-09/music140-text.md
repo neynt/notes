@@ -47,4 +47,49 @@
 - 1935-1945: Big bands
 - Frank Sinatra: Made singer star rather than band
 
-## Chapter 2 75-88
+## Rockabilly in the Wake of Presley
+
+- Carl Perkins, Johnny Cash, Jerry Lee Lewis helped by Sam Phillips with Elvis money
+- Gene Vincent and Eddie Cochran were things
+- Brenda Lee, Janis Martin (the female Elvis), Wenda Jackson were rockabilly ladies
+
+## The Adults in the Room: Brill Building and Aldon Publishing
+
+- Aldon Music manufactured teen idol pop
+
+## Dance Craze, American Bandstand, and The Twist.
+
+- American Bandstand: Teenagers played and danced to hit records on TV.
+- The Twist: A popular dance. compare to The Fly, The Fish, and The Mashed Potato.
+- Adults also tuned in
+
+## Ambitious Pop: The Rise of the Producer
+
+- Well known producers: Leiber and Stoller, Phil Spector
+
+## Producers in the Brill Building
+
+- Girl groups: The Chantels, Shirelles, Crystals, Chiffons, Cookies, Dixie Cups, Ronettes
+  - Mostly black teen amateurs
+  - Singers treated as value objects
+- Creators were producers and songwriters, not singers
+
+## Phil Spector and the Wall of Sound
+
+- #1 hit with the teddy Bears as a TEEN (To Know Him Is to Love Him)
+- Signature sound: The Wall of sound.
+- Ronnie Bennet became Ronnie Spector!!! Oooooooh!!!
+- Composed "teenage symphonies"
+
+## Sweet Soul on the Rise
+
+- Sam Cookie: Black pop. Sweet soul (easy-listening soft-pop) from gospel.
+- The Drifters, Ben E. King (lead singer): The Crowns became the Drifters.
+  - Ben E. King fired from Drifters (complained about pay)
+
+## Teenage Romanticization of Death
+
+- 1959-1964 (in-betw.yrs.): Many SPLATTER PLATTER TEEN DEATH songs.
+- Teen Angel (Mark DinninG)
+- Aldon Music sold to Columbia Pictures - Screen Gems in 1963 Summer.
+- Jan and Dean: 1964 teen tragedy hit. 1966: Jan critically injured in car crash that killed 3.
