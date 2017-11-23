@@ -944,7 +944,7 @@ Professor: Simon Wood
     - Re-asserted Golden Age system, in a way. ("Collective Self-contained Group")
     - Other bands influenced by Beatles and were part of the British invasion:
       - Mersey Beat, Gerry and the Pacemakers, The Searchers, The Swinging Blue Jeans
-  - 1965 Jul: "Help": Second Beatlesf ilm.
+  - 1965 Jul: "Help": Second Beatles film.
     - Ringo gets ring stuck on finger
     - Cult wants to get ring back even if they have to kill Ringo
     - The Monkeys (corporate version of Beatles from Help)
@@ -1174,7 +1174,7 @@ Professor: Simon Wood
         - Keith Richards was in art school.
         - Mick Jagger was studying at London School of Economics.
         - Mick Jagger made more as an online daytrader than as a rock star.
-    - Process vs. product
+    - Process vs. Product
       - Journey vs. destination.
       - The Beatles focused on Product:
         - You imagine perfection and work toward it.
@@ -1236,7 +1236,7 @@ Professor: Simon Wood
       - Woman who ran a "finishing school"
       - School for young upper-class women to learn fancy household stuff
       - Came to teach Motown artists how to behave
-      - Certainly accused of whitening.
+      - Certainly had Berry Gordy accused of whitening.
     - Cholly Atkins: Choreographer
       - Artists move well.
     - The Funk Brothers: House band
@@ -1278,3 +1278,142 @@ Professor: Simon Wood
   - Quality control. Often compared to other hit records. HITS were the goal.
 
 - Other place: Stax, Memphis. Will talk about next class.
+
+## 2017 Nov 16
+
+- SAD performance on second midterm
+- Today, we take ALL our notes in cloze.py flashcard format. ALL OF THEM. And
+  they will be COMPREHENSIVE AF.
+
+- How to do a TED talk (THIS is THAT, CBC)
+  - Thought Leader? 36,000?
+
+- Over 70% of Motown's records sold to whites
+
+- Stax
+  - Unlike Motown, used collective decision making.
+  - Unlike Motown, used mono recording.
+  - Used the original speaker from the movie theatre
+  - Not seeking perfection. Energy more important.
+  - Unlike Motown, was raw rather than refined.
+
+- Song: [Try A Little Tenderness]
+  - Covered in [1966] by [Otis Redding]
+  - Originally a TPA song from 1920s
+  - Hit for Bing Crosby in 1933
+  - Style: [AABA]
+  - Highly soul. Cathartic, unrestrained energy
+  - One of Otis Redding's final performance. Plane crash
+
+- [Otis Redding]
+  - Singer with [Stax]
+  - Friend got phone call from the company too... bombed
+  - Otis sweeps the contract
+  - Died at [26]
+
+- Song: [Soul Man]
+  - By [Sam and Dave], [1967]
+  - Has Stax-characteristic mistake:
+    - Horn player forgot to play shot in second verse (periodic "weh")
+    - A mistake of omission, not commission
+    - "we missed our first entry"
+  - Cueing: "Play it, Steve!"
+  - Tongue in cheek meaning: Soul == Black, so this song celebrates the "Black Man"
+  - STILL optimistic: Won't be optimistic for much longer
+
+- Lipsyncing: Goes back to anger over Elvis's lewd dance. Used to control the performance.
+
+- Term "Soul" later becomes synonym for African American
+  - Soul food!
+
+- Civil rights
+  - Since JFK died in 1963, civil rights have stalled
+  - Soul music becomes more political
+
+- 1966: Atlantic begins working with FAME
+  - Atlantic had licensing agreements with small soul record companies
+  - Did a lot of work with Stax
+  - In 1966, worked with FAME (Fairmont Alabama Music Enterprises (not on test))
+
+- Song: [Respect]
+  - By [Aretha Franklin] in [1967]
+  - Beginning of a more militant sound
+  - Originally written by [Odis Redding], who had a minor hit with the song
+  - Originally, about relationships
+  - Becomes an anthem for the Civil Rights Movement
+  - Solid beat, simple arrangement
+
+- [Aretha Franklin]
+  - As a teen, planned to sing Christian gospel
+  - Father was church minister
+  - Quickly became interested in a secular career
+  - Powerful voice
+
+- [The Women's Movement]
+  - "Respect" also becomes an anthem for this
+
+- [James Brown]
+  - Woke up one morning and brought the music world revolution
+  - Soul Brother #1
+  - 3 costume changes during own funeral
+  - Phenomenal showman. Does knee-dropping thing on stage.
+  - First hit: "Please Please Please", 1956
+    - Historians point to this as the beginning of soul music
+  - 1963: "Live at the Apollo"
+    - Apollo theatre: Significant theatre in African American culture
+    - Known as first album by African American artist to sell over 1M copies.
+  - 1965: "Pappa's Got a Brand New Bag": Crossover hit
+
+- Song: [I Feel Good]
+  - By [James Brown], in [1965]
+  - Format: [12bb, 12bb, 4 bar beak, 8 bar bridge, 12bb]
+  - YEAAAH TOUCHDOWN
+  - Soul music
+  - Gospel vocal style, distortion of voice
+  - Popular with whites because META AABA FORMAT
+  - James Brown: "Black folks like the blues, white folks like a little something different in the middle."
+  - ABSOLUTELY CONSCIOUS
+
+- Civil rights
+  - Situation bad. Much civil unrest.
+  - 1965-1967: Inner city riots.
+  - Detroit: 3 day riot.
+    - Deaths. Hundreds of injuries. Thousands of arrests.
+    - 20k US troops and tanks.
+    - Much of downtown Detroit burned to the ground.
+    - Windsor, ON fire departments involved.
+  - Many cities had similar riots.
+  - Called "The Long Hot Summer".
+  - 1968 Apr 4: MLK shot dead.
+    - Attended protest in Memphis.
+
+- New civil rights movement.
+  - More militant.
+  - The Black Panthers
+    - Today, would be considered terrorists.
+    - Simply fed up. Responded to violence with violence.
+  - The Re-Africanization of black culture.
+    - Blacks disengaging from white culture.
+    - Based partially on stereotypes, due to lack of information.
+    - Reinvented themselves as perceived "authentic" west-African culture.
+    - Clothing styles, hair styles changed (Afro).
+    - Dropped their "slave names" and gave themselves African names.
+    - Cassius Clay -> Muhammad Ali.
+
+- James Brown comes into this world.
+  - Decides he will "Re-Africanize" soul.
+  - He creates... Funk.
+
+- Song: [Get Up]
+  - By [James Brown], []
+  - (I Feel Like Being A) Sex Machine
+  - Funk song.
+  - "Take them to the bridge!"
+  - Deprivileges melody and harmony. Chords not important.
+  - Privileges rhythm. Percussive timbre.
+  - Thus, James Brown reinvents his band... as ALL drummers.
+  - A west-African drum ensemble.
+
+- Say It Loud (I'm Black and I'm Proud)
+  - 1968
+  - In movie The Commitments, funny scene
