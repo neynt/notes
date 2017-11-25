@@ -1229,7 +1229,7 @@ Professor: Simon Wood
   - Hitsville USA sign
   - Founded by Berry Gordy
   - Motown became the most successful business ever owned by an African American
-  - 1959: Division of labour, based on Gordy's experience in automotive plants.
+  - Founded 1959: Division of labour, based on Gordy's experience in automotive plants.
   - A well-optimized assembly line (all African American):
     - Song writers: Holland/Dozier/Holland, Smokey Robinson.
     - Maxine Powell:
@@ -1284,6 +1284,8 @@ Professor: Simon Wood
 - SAD performance on second midterm
 - Today, we take ALL our notes in cloze.py flashcard format. ALL OF THEM. And
   they will be COMPREHENSIVE AF.
+  - Nevermind, let's not take ALL our notes in cloze.py format.
+  - But we will definitely convert them to cards COMPREHENSIVELY, unlike LAST TIME.
 
 - How to do a TED talk (THIS is THAT, CBC)
   - Thought Leader? 36,000?
@@ -1338,7 +1340,7 @@ Professor: Simon Wood
 - Song: [Respect]
   - By [Aretha Franklin] in [1967]
   - Beginning of a more militant sound
-  - Originally written by [Odis Redding], who had a minor hit with the song
+  - Originally written by [Otis Redding], who had a minor hit with the song
   - Originally, about relationships
   - Becomes an anthem for the Civil Rights Movement
   - Solid beat, simple arrangement
@@ -1409,6 +1411,7 @@ Professor: Simon Wood
   - (I Feel Like Being A) Sex Machine
   - Funk song.
   - "Take them to the bridge!"
+    - James acts as the Master Drummer.
   - Deprivileges melody and harmony. Chords not important.
   - Privileges rhythm. Percussive timbre.
   - Thus, James Brown reinvents his band... as ALL drummers.
@@ -1417,3 +1420,240 @@ Professor: Simon Wood
 - Say It Loud (I'm Black and I'm Proud)
   - 1968
   - In movie The Commitments, funny scene
+
+## 2017 Nov 23
+
+- Simon Wood is a noodle. Be nice!
+- Aston Martin Valkyrie AMR Pro is really fast.
+
+- Recall: James Brown created Funk, and African Americans withdrew from white culture.
+- Recall: This deprivileges melody and harmony in favour of rhythm.
+- James is reconceptualizing his band in terms of (his understanding of) a West-African drum ensemble.
+
+- West-African drum groups
+  - vague term, but some commonalities
+  - [Master Drummer] is the person in charge.
+    - Sets the tempo.
+    - Cues other musicians.
+    - James Brown acts as this.
+    - Note: Cueing is usually subtle. James makes it a big deal, to implant himself as the Master Drummer.
+  - [Interlock Groove]: Emergent beauty from simple individual rhythms.
+    - After this is established, the Master Drummer solos on top of this.
+  - [Community]
+    - Drum ensembles are not led by ruthless leaders.
+    - Everyone gets to participate.
+    - "I WANNA GET INTO IT YOU KNOW" "YEAH!"
+  - [Cyclical forms]
+    - Many bars from beginning 'til bridge.
+    - Doesn't actually MATTER how many.
+    - Departure from linear structures.
+    - Also related to riffs
+
+- [Funk]
+
+- [The Counterculture]
+  - Sparked by [The Beatles] and [Bob Dylan]
+    - Bob Dylan was almost Woody Guthrie reborn
+    - Recall: "Your music's great, but your songs don't say anything."
+    - The Beatles also influenced Bob Dylan.
+    - 1964 end during Beatlemania: Bob Dylan liked that everybody liked the Beatles...
+      - regardless of ethnicity, religion, age, economics...
+      - "Wow. If I could reach that many people with my songs..."
+  - 1965: Bob Dylan at Newport
+    - Bob Dylan played electric rock and roll at a folk festival
+    - Extremely negative reception from folkies
+    - "Dylan Goes Electric"
+    - Very spontaneous. Dylan had to buy an electric guitar on the spot.
+    - Led to the creation of "Folk Rock"
+    - Arlow Guthrie (Woody's son): It wasn't just a conflict between acoustic and electric. It was about integrity.
+    - Folk music musicians walked on a knife edge; had to balance success and purity.
+    - Electric guitar seen as selling out. Bob Dylan was bringing the industry back into folk.
+      - Story: Bob Dylan's original guitar kept until recently; sold for almost $1M.
+    - JUDAS! -> Guy who ratted out Jesus to the Romans
+      - PLAY THIS ONE AS LOUD AS YOU FUCKN CAN
+    - Despite negative initial reception, becomes popular. Style becomes known as "Folk Rock".
+    - Lyrics became more social, political.
+  - Mostly middle-class whites.
+  - bb boomers in university, well adjusted, starting to work
+  - Some of them look for something... else.
+  - Found it in [The Beats].
+
+- [The Beats]
+  - Refers to the first people to meaningfully question authority.
+    - Does government have our best interest at heart?
+    - What about big business?
+  - Author: Jack Kerouac
+  - Poet: Allan Ginsberg
+    - Howl: Beautiful poem about 
+    - Source of many jokes in the Simpsons
+  - Beaten down relentlessly by authorities. Communist accusations.
+  - [Beatitude]:
+    - Symbolic idea of achieving a higher state of consciousness.
+    - From South-Asian cultures.
+    - "We are blinded by stuff."
+    - Having all this stuff keeps us easy to control.
+    - If you achieve Beatitude, then you transcend Stuff and bring the world revolution to YOU!
+  - Revived in the early 1960s.
+    - Generational value gap developed.
+
+- [Hippie]: Term for those who ascribed to this ideology.
+  - From "yeah I'm hip" -- I'm up to date
+    - (today it would be wokies)
+  - Two main hippie centres:
+    - Greenwich Village (NYC). Still very arts-coffeehouse.
+    - Haight-Ashbury (SFO). More dominant.
+
+- [Homology of Sensory Stimulation]
+  - Homology: underlying similarity between superficially different concepts. (smartness metric maximal)
+  - [Psychedelic]: Stimulates your psyche. Gets your neurons firing.
+  - Poster art:
+    - Hard-to-read posters
+    - Readers feel stimulated
+  - Clothing:
+    - Vibrant, colorful. Most notably, tie dye shirt.
+    - Extremely long necklaces, sleeves.
+  - Drugs:
+    - Naive but genuine attempt to stimulate the psyche.
+    - LSD, Acid
+  - Music:
+    - Had:
+      - Extremely high volume: Even rock bands back then weren't this loud.
+        - Ringing in ears means you've permanently damaged your hearing. Wear earplugs.
+      - Lighting shows.
+      - Longer / unusual song forms.
+      - Jamming (collective improvisation).
+    - All (naive but genuine) attempts to stimulate the senses.
+
+- Simon hates the taste of alcohol
+  - doesn't like beer!
+  - also doesn't like wine! "a waste of grape juice"
+  - also has our grades and will post them tmrw :(
+
+- [The Grateful Dead]
+  - Known for being very down to earth
+  - If you needed a place to stay in SFO, you could crash at their place
+  - Played many many free shows
+  - Each musician was free to explore their part. Open, though not sloppy.
+  - Process over product.
+  - [Deadheads]: Fans who traveled with the band to see their unique performances each night.
+
+- Song: [Truckin']
+  - [1970] song by [The Grateful Dead]
+  - Influenced by genre [Folk Rock]
+  - Loose feel, though...
+  - Not distorted (i.e. not African American).
+  - Actual track is 17 min. Last 12 min was [jamming].
+
+- [Acid Rock]
+  - Counterculture-related musical genre (though distant from The Grateful Dead)
+  - Distortion, aggression
+  - References to drugs
+
+- Song: [White Rabbit]
+  - [1967] song by [Jefferson Airplane]
+  - Genre: [Acid Rock]
+  - Unusual:
+    - Quite short (2:30), unlike other counterculture songs
+    - Became popular on AM radio. Was a pop hit, unintentionally!
+  - One pill makes you bigger, one pill makes you small
+  - And the pills that mother gives you don't do anything at all
+  - Other references: smoking, mushrooms
+  - White rabbit: Reference to [Alice in Wonderland]
+    - More recently, also The Matrix
+  - Unique form: Crescendo throughout entire song
+    - What is like that? When you're high. When you're taking drugs.
+      - I was worried; sometimes people say sex
+      - I've been married for 25 years so I really don't remember
+      - omg this guy
+    - Also higher pitch
+
+- [The Summer of Love]
+  - Summer [1967] in [San Francisco]
+  - In contrast to The Long Hot Summer...
+  - Peak of the West Coast counterculture
+  - Downfall came quickly after.
+    - Drug use caused addiction, overdose. People began to die.
+    - Drugs also brought in crime. Gang wars over territory.
+    - Quest for Beatitude was interesting philosophically, but...
+      - does not solve any problems.
+      - In particular, civil rights.
+
+- [Vietnam War]
+  - "We are opposing communism and promoting freedom!"
+  - Previously, [Korean War]
+    - War never ended; they just stopped fighting in 1950
+  - WTF r we doing there?
+  - US was drafting soldiers; many died
+    - Statistically, more black men drafted
+  - After 1967, counterculture becomes more politically active.
+
+- [Youth International Party]
+  - aka Yippies
+  - Jerry Rubin
+  - Abbie Hoffman
+
+- [Psychedelic Blues]
+  - Louder, more aggressive, politically engaged
+  - Important guitar player: [Jimi Hendrix]
+
+- [Jimi Hendrix]
+  - Technical virtuoso; dude was really good
+    - First use of "virtuoso" for guitar player
+  - Part of genre [Psychedelic Blues]
+  - Trouble getting popular in USA; had to do England first
+  - Distinctive because of extreme volume and distortion
+  - Other things that aren't on the exam:
+    - Control of feedback
+    - Wah wah pedal
+    - Wammy bar
+
+- Song: [Voodoo Child]
+  - [1967] song by [Jimi Hendrix]
+
+- [Woodstock]
+  - Was a farm in upstate New York
+  - Free concert, since open air and hard to fence off and charge
+  - Took place [1969 Aug]
+  - Organizers expected 50k people, but 350-500k showed up.
+  - Was not the disaster that one might expect.
+    - Much sharing of food and water
+    - Line ups were civil
+    - Extraordinary number of bbs were conceived
+    - but this was the Counterculture, so it worked!
+  - although not perfect
+    - One man slept under tractor, died
+  - Created a belief that maybe there were other ways of being in the world.
+  - And then...
+
+- [Altamont, California]
+  - Took place at the Altamont Speedway in [1969 Dec]
+  - Attempt to recreate Woodstock
+  - Did not work well, since it was an enclosed racetrack and not an open field
+  - They kept letting people in... people packed so tight they could not move
+  - The Rolling Stones decided they needed security.
+    - They hired The Hell's Angels for security.
+    - Paid with $500 of beer.
+    - Showed up with chains, knives, 20lb lead pool cues.
+  - In the middle of a Rolling Stones song...
+    - Hell's Angel knifed green suite 3x.
+  - Brought the Counterculture world devastation.
+
+- And then everything went promptly to hell.
+  - 1970 Apr: Paul McCartney leaves The Beatles.
+  - 1970 May: Kent State, Ohio
+    - Like all universities, wrecked by protests of the Vietnam war.
+      - Very common pattern. Peaceful by day, after dark, protests would become violent.
+    - Small group of protestors broke off from main group.
+    - Group of national guardsmen broke off and... followed them, and
+    - Fired over 100 rounds.
+    - Ten students wounded. One wheelchaired perpetually. Four dead.
+    - No outrage, or call for investigation.
+      - "Security forces were protecting property. Young men at fault."
+      - ... though, 2 were just students walking to class.
+    - The establishment is unwilling to listen, change...
+      - and is willing to stand by and watch its young people shot down, murdered
+      - rather than entertain change.
+    - This kills the counterculture.
+  - 1970 Sep: Jimi Hendrix dies of drugs.
+  - 1970 Oct: Janice Joplin dies of drugs.
+  - 1971 Jul: Jim Morrison (of The Doors) dies of drugs.
