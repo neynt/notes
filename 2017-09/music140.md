@@ -1657,3 +1657,204 @@ Professor: Simon Wood
   - 1970 Sep: Jimi Hendrix dies of drugs.
   - 1970 Oct: Janice Joplin dies of drugs.
   - 1971 Jul: Jim Morrison (of The Doors) dies of drugs.
+
+## 2017 Nov 30
+
+- The last class!
+- Simon got an aerodynamic haircut
+- Last time: Everything went promptly to hell.
+
+- 1970s: The counterculture failed and worldviews became more cynical.
+  - 1963: JFK killed. Called "the end of America's childhood".
+
+- 1973-1974: The Energy Crisis.
+  - Triggered by the Yom Kippur War (1973 Oct) between Israel and its Arab
+    neighbours.
+  - USA made public statements supporting Israel.
+  - Thus, Arab nations stopped selling oil to the USA.
+  - Factories closed. No gas for cars. Gas theft by siphon.
+  - Caused the first economic recession since the end of WWII.
+  - Made Americans realize that they depend on other countries.
+  - Shook American confidence in the economy.
+
+- Early 1970s: Watergate
+  - Listening devices found in an office after a "burglary".
+  - Uncovered huge scandal, spying on democrats
+  - 1974 Aug: Richard Nixon resigns facing impeachment
+  - Shook American confidence in their political institutions.
+
+- 1975 Apr 30: Fall of Saigon
+  - USA loss of the Vietnam War
+  - 50k Americans dead
+  - People doubted whether the war was even necessary
+  - Desperate helicopter evacuation.
+  - Shook American ego.
+
+- Hard Rock and Heavy Metal
+  - Developed from psychedelic blues.
+  - Two genres on a continuum.
+  - Distinguish by:
+    - Level of distortion.
+      - Both have it on the guitar.
+      - Heavy metal has more (bass, voice).
+    - Tempo.
+      - Hard rock has mid-range, constant tempos.
+      - Heavy metal has more extreme tempos, and tempo can change during a song.
+    - Influence.
+      - Hard rock comes from R+B.
+      - Heavy metal is more classical. Almost virtuosic.
+    - Lyrics.
+      - Hard rock is more basic. Chuck Berry style. Parties, girls, freedom,
+        sex.
+      - Heavy metal is more alienation, loss of control, mental instability,
+        war, despair. Can also have religious/mythological themes.
+
+- [AC/DC]
+  - Band formed [1973] in [Australia].
+  - Genre: [Hard rock]
+  - 1980 album: Back in Black
+    - Sold over 50M copies. 2nd highest sales in history, second to Thriller.
+
+- Song: [Highway to Hell]
+  - Song by [AC/DC] from album [Back in Black].
+  - Strong blues influence. Steady tempo, piercing drums, vapid lyrics.
+  - Stop time.
+
+- Song: [Whole Lotta Rosie]
+  - Song by [AC/DC].
+  - Basically a rip of [Hoochie Coochie Man].
+
+- [Metallica]
+  - Band formed [1981] in [Los Angeles]
+  - Genre: [Heavy metal]
+
+- Song: [Master of Puppets]
+  - [1986] song by [Metallica]
+  - Highly technical. Tempo changes, instrumental sections, classical
+    influence. Virtuosic soloing.
+  - Lyrics: Alienation, loss of control.
+  - Heavy distortion.
+
+- Founding bands of the HR/HM continuum:
+  - [Black Sabbath, Deep Purple, Led Zeppelin].
+
+- [Black Sabbath].
+  - Born about end of WWII. Not devil worshippers; just wanted to annoy adults.
+  - Original name: [Earth].
+  - Doomy music, expressed dissatisfaction with world.
+    Insanity/madness/futility of war.
+
+- [Deep Purple].
+  - Important person: [Jon Lord], player of the [electric organ].
+    - Brought in knowledge of classical music.
+  - Blues-influenced.
+
+- Song: [Highway Star]
+  - [1972] song by Deep Purple
+  - From album [Machine Head]
+  - [Jon Lord]'s electric organ solos reveal much classical scale practice and
+    influence from a particular [Baroque] composer by the name of [JS Bach]
+  - Chuck Berry-style vapid lyrics
+  - Virtuosic vocal intro
+  - Kind of at the border of HR and HM
+
+- [Led Zeppelin]
+  - It's The Yardbirds!
+  - Hardest of the three to classify
+  - Very blues-influenced
+  - Also acoustic, almost Celtic Folky
+  - Virtuosic musicianship
+  - Recording studio well used. Almost psychedelic. Utilized stereo recording.
+  - No interesting in editing singles for the radio. (see Stairway to Heaven)
+
+- Song: Whole Lotta Love
+  - [1969] song by [Led Zeppelin]
+  - From album [Led Zeppelin II]
+  - Stolen from Muddy Waters song ("You Need Love", 1962).
+    - Willie Dixon of Chess Records sued.
+
+- General notes about Hard Rock and Heavy Metal
+  - Not just a performance. Concertgoers often aspire to be up on the stage one
+    day.
+  - More corporate.
+    - Band named dropped the "the" and became singular rather than plural.
+    - Logos!
+
+- Punk: There are no stars. TODO
+- Disco: Everyone is a star. TODO
+
+- Hip hop
+  - Very big influence on pop culture.
+  - Folk culture. Emerged from South Bronx, NYC in the 1970s.
+  - Three remarkable things from awful living conditions:
+    - Rap. No instruments or lessons, but did have turntables. Repeat repetitive parts of a song to make a beat and talk over it.
+    - Break dancing. No dance studios; just dance on mats on the street!
+    - Graffiti art. No canvases or art studios. Just spray paint art on the walls. Real prize: A subway car. Then everyone will see it until they erase it in a week.
+
+- Precursors to hip hop
+  - [The Dozens]
+    - Oral word game. "Cutting contests."
+    - Ritualized insults of African origin.
+  - [Jamaican Toasting]
+
+- Song: [Signifying Monkey]
+  - Recording date unknown. Some time in 1950s/60s.
+  - Exaggerated, funny.
+  - Form of [The Dozens].
+
+- [Jamaican Toasting]
+  - [Sound system man] played songs in Jamaica at [yard parties].
+  - They often produced records just to play at yard parties.
+  - These records had two sides; one was off-vocal.
+  - Talking over the off-vocal was called toasting.
+
+- History of hip hop
+  - 1973: [Kool Herc] arrives in NYC from Jamaica.
+    - Was not a sound system man, but was familiar with them.
+    - Brought **two** turntables. Used to extend dance breaks (exciting parts of the song where dancers go crazy).
+    - Called it [cutting and mixing]. Also toasted.
+    - This was the beginning of hip hop.
+  - 1976: [Grandmaster Flash].
+    - Further developed Kool Herc's techniques. Did [cutting and mixing] at a rate of once in 2s rather than once in 30s.
+    - Called it the [quick mix].
+  - 1976: [Grandmaster Melle Mel]
+    - Toasted for [Grandmaster Flash]
+    - Did very detailed full-length raps.
+    - Wrote them down, like songs -- this freezes them in time!
+    - Thus, was hip hop's first songwriter.
+  - 1978: [Grand Wizzard Theodore]
+    - Backspin: Sound in reverse.
+    - Invented [scratching]. Thus redefined the turntable from [consumption to production].
+
+- Song: [Good Time]
+  - [1979 Jun] song by [Chic]
+  - Charts: [#1 pop, R&B]
+
+- Song: [Rapper's Delight]
+  - [1979 Oct] song by TODO.
+  - Based on Good Time.
+  - First hip hop hit.
+  - Charts: #4 R&B, #36 Pop.
+  - "What you hear is not a test. I'm rapping to the beat."
+    - Was so new, it had to be explained.
+
+- MTV
+  - Started by middle class white guys
+  - In the beginning, didn't want any hip hop records
+  - Boycott threat, so they brought in Michael Jackson
+
+- Aerosmith / Run DMC
+  - TODO
+
+- Song: [Walk This Way]
+  - [1985 song] by [Run DMC / Aerosmith]
+  - First rap not excluded from MTV
+
+- And thus hip hop brings the world revolution.
+
+- This course was ultimately about... you.
+- Everything in the world is the way it is... for a reason.
+- And with just a bit of research, you can find out why.
+- If something is wrong with the world, you can change it.
+- Do better to the world than my generation did.
+- Thus Paraphased from Simon Wood.
