@@ -5,7 +5,8 @@ Professor: Simon Wood
 ## 2017 Sep 7
 
 - This course will focus mainly on the 1950s-1980s.
-- Required text: Where's That Sound: An Introduction to Rock and its History, 4th.
+- Required text: Where's That Sound: An Introduction to Rock and its History,
+  4th.
 - Diane Warren: Legendary songwriter. Wrote all the stuff you know about.
 - Big Bands
   - 1930s-1945
@@ -16,7 +17,8 @@ Professor: Simon Wood
   - Big Band by Les Brown, Homer, Green.
   - Vocals: Doris Day
   - Popular because WWII ended
-- Band *leaders* were stars: Benny Goodman, Count Basie, Duke Ellington, Tommy Dorsey
+- Band *leaders* were stars: Benny Goodman, Count Basie, Duke Ellington, Tommy
+  Dorsey
 - Song: "I've Got A Crush On You"
   - By George and Ira Gershwin
   - Frank Sinatra blew up; "crooner"
@@ -33,14 +35,16 @@ Professor: Simon Wood
 - **The Victorian Ballad**: "Victorian song"
 - People went from rural to urban because of jobs; middle class was born
 - Middle class showed off middle-classness by making their women play piano
-- **Parlour**: Front guestroom. Young daughters play piano, older sings and gets married off.
+- **Parlour**: Front guestroom. Young daughters play piano, older sings and
+  gets married off.
 - **Parlour song**: Type of Victorian Ballad.
 - Song: "Believe Me, If All Those Endearing Young Charms"
   - Thomas Moore
   - Idealized love
   - AABA melody template
 - Tin Pan Alley: Manhattan, New York
-  - Division of labour: Separate roles of composer, lyricist, publisher, publicity, performer
+  - Division of labour: Separate roles of composer, lyricist, publisher,
+    publicity, performer
 - Song: "After The Ball"
   - 1891
   - Charles K. Harris
@@ -49,7 +53,8 @@ Professor: Simon Wood
 ## 2017 Sep 14
 
 - Lots of bad news, but...
-- Cassini above Saturn; will become Saturn in 12 hours. Whoa, awesome. Do some math.
+- Cassini above Saturn; will become Saturn in 12 hours. Whoa, awesome. Do some
+  math.
 - Simon is an astronomy nerd
 - Tin Pan Alley style:
   - Lyrical style
@@ -85,13 +90,15 @@ Professor: Simon Wood
     - Self-conscious: Trying to distinguish oneself
 - To study Scottish folk music, go to Cape Breton
   - Was settled by Scots back when Scotland actually had Scottish folk music
-- **African retentions**: Characteristics of West-African music brought over by the slave trade
+- **African retentions**: Characteristics of West-African music brought over by
+  the slave trade
   - Stays even today in pop, rock.
   - 1. Percussive and distorted timbres
     - Percussive: Short attack
     - Distortion: Overflowing intensity
       - Overloaded term in western culture
-      - Little engineers design a circuit; a lot of distortion (unintended alteration of a signal)
+      - Little engineers design a circuit; a lot of distortion (unintended
+        alteration of a signal)
   - 2. Value in the Ecstatic and Cathartic
     - Similar to Distortion.
   - 3. Riffs
@@ -104,7 +111,8 @@ Professor: Simon Wood
     - "eeeey-yoooo"
     - can also happen between vocalist and music
     - rock/pop concerts: Two way energy transfer.
-      - Contrast to Western symphony concert: One way transfer. Just soak up the greatness.
+      - Contrast to Western symphony concert: One way transfer. Just soak up
+        the greatness.
 - Post-slavery
   - American Civil War (1861 - 1865) was largely a power grab
   - Institutionalized racism
@@ -140,7 +148,8 @@ Professor: Simon Wood
   - 1929
   - Blind Willie McTell
   - Country blues.
-  - Sections are only 3.5 measures long; 2 beats dropped from end of each section
+  - Sections are only 3.5 measures long; 2 beats dropped from end of each
+    section
 - Robert Johnson
   - 1911 - 1938 (member of the 27 club)
   - Famous country blues musician
@@ -151,7 +160,8 @@ Professor: Simon Wood
     - Many jealous girlfriends
     - Irate husbands of girlfriends
     - Three grave sites: nobody knows where he's actually buried
-    - Used to suck at guitar; 1920s he disappears; 18 months later reemerges a legend.
+    - Used to suck at guitar; 1920s he disappears; 18 months later reemerges a
+      legend.
     - Made a deal with the devil
 - Song: "Sweet Home Chicago"
   - 1936 Nov
@@ -163,11 +173,13 @@ Professor: Simon Wood
 
 - Don't take notes on your laptop, it'll lower your grade by 8% — oops
   - (AFTER MIDTERM 1: CONFIRMED TRUE. TAKE PAPER NOTES, FOLKS)
-- Don't have your phone in sight, even turned off — that also lowers your grade — oops
+- Don't have your phone in sight, even turned off — that also lowers your grade
+  — oops
 - 1877: Edison invents phonograph
   - People thought it was great even though it sucked
 - 1895-1912: Cylinder → Disks, disks have two sides
-- 1925: Industry standard set to 78 rpm, because record industry got big in the 1920s.
+- 1925: Industry standard set to 78 rpm, because record industry got big in the
+  1920s.
 - (Blu-ray vs. HD-DVD: Blu-ray won because Sony built them into Playstations.)
 - What was recorded:
   - Sheet music and Tin Pan Alley stuff (Urban white culture of north)
@@ -180,14 +192,18 @@ Professor: Simon Wood
     - Cross-country telephone lines
     - National advertising
   - 1930s: Consumption patterns go from regional to national
-  - Radio almost killed record industry, since you don't have to buy records to get new content
+  - Radio almost killed record industry, since you don't have to buy records to
+    get new content
   - Radio was also television, in that there were lots of shows
-  - Radio music was originally done live to avoid quality hit from record playback
+  - Radio music was originally done live to avoid quality hit from record
+    playback
 - Ralph Peer
   - Worked for Okeh Records
   - Artists and repertoire guy
-  - Singer ditched at last minute; the cavalry was... Mamie Smith, black singer! Unheard of.
-  - Not "if you are black, you better turn back", just informal systematic discrimination
+  - Singer ditched at last minute; the cavalry was... Mamie Smith, black
+    singer! Unheard of.
+  - Not "if you are black, you better turn back", just informal systematic
+    discrimination
   - 1922: Radio is killing records
     - Ralph Peer says "let's record race and hillbilly", saving record industry
 - Song: "Crazy Blues"
@@ -232,10 +248,12 @@ Professor: Simon Wood
   - After WWII, birth rate explodes
 - Invention of "teenager"
   - Most of human history: Child until ~13, then you're an adult
-  - WWII laid waste to everything except North America (except maybe Pearl Harbor)
+  - WWII laid waste to everything except North America (except maybe Pearl
+    Harbor)
   - USA became state-of-the-art weapons-and-everything-else-too factory
   - Lots of good jobs, lots of stuff for people with jobs to enjoy
-  - Baby boomers get to stay in school; 13-18 is now teenager, a new leisure class
+  - Baby boomers get to stay in school; 13-18 is now teenager, a new leisure
+    class
   - Youth culture becomes a thing
   - TPA's music too tame, because people wanted safety after WWII horrors
   - Teenagers liked Black Appeal radio
@@ -260,20 +278,25 @@ Professor: Simon Wood
 - Gospel in popular music
   - Ray Charles Robinson "The Genius", 1930-2004
   - Born into poverty; blind at age 7
-  - Learns music at a school for the blind; teacher noticed remarkable gift for music
+  - Learns music at a school for the blind; teacher noticed remarkable gift for
+    music
   - Could figure out any instrument on his own
   - Insane memory; could hear song once and play it from memory years later
-  - 1952: Signed with Atlantic Records (Big independent label for black artists).
-  - Fuses energy of African American church with secular lyrics (I love Jesus -> I love my woman)
+  - 1952: Signed with Atlantic Records (Big independent label for black
+    artists).
+  - Fuses energy of African American church with secular lyrics (I love Jesus
+    -> I love my woman)
 - Song: I Got A Woman
   - 1954, Ray Charles
   - Considered sacriligeous
   - Popular with white teens
 - Record labels
-  - Majors: Own their own manufacturing plants and distribution systems for records
+  - Majors: Own their own manufacturing plants and distribution systems for
+    records
   - Independents: Don't.
 - Amplifiers
-  - They have a range where they work well, but eventually they distort the sound
+  - They have a range where they work well, but eventually they distort the
+    sound
 - Chicago Electric Blues
 - Muddy Waters (McKinley Morganfield)
   - 1913-1983
@@ -459,7 +482,8 @@ Professor: Simon Wood
     - Nasal cavity. Like C&W singer.
     - Kept winning contests because he was unique.
   - Chess Records, Chicago
-    - During a recording break, Chuck Berry started to play around with C&W song Ida Red.
+    - During a recording break, Chuck Berry started to play around with C&W
+      song Ida Red.
     - "He can do it! Rock and roll!"
     - Chess to Chuck: "Rewrite the words so get more money!"
     - Car chase metaphor for chasing a woman
@@ -478,13 +502,15 @@ Professor: Simon Wood
     - cars (represented freedom, independence, privacy)
     - girls
       - western music: women are perceived as objects
-      - things to be pursued, girlfriends to be obtained, to be admired for looks
+      - things to be pursued, girlfriends to be obtained, to be admired for
+        looks
       - Chuck Berry is to thank for this ♥
     - no school
       - "School's out for summer! Let's do fun things!"
     - rock & roll itself
       - music celebrates itself
-  - So far, songs (I Got A Woman, Hoochie Coochie Man, orig Hound Dog) have been
+  - So far, songs (I Got A Woman, Hoochie Coochie Man, orig Hound Dog) have
+    been
     - ... about adult relationships
     - YOU MAKE ME FEEL SO BLUE
   - ... Chuck Berry *consciously* makes songs less sexual
@@ -543,7 +569,8 @@ Professor: Simon Wood
   - Alan Freed
     - Life ruined by allegations
     - Early 1960s: DEAD
-  - However: Bribery, threats, etc. have always been a part of the music industry.
+  - However: Bribery, threats, etc. have always been a part of the music
+    industry.
     - Break yo legs
   - Recently: Sony $8M fine for music bribes
   - All veiled racism
@@ -566,17 +593,20 @@ Professor: Simon Wood
 - Civil Rights Movement
   - 1954 May: Brown v. The Board of Education. No more segregated schools.
     - White parents protest outside school. National Guard called in.
-    - Little Rock Nine: Little black girl wants to go to school. Soldiers: Nope not safe today.
+    - Little Rock Nine: Little black girl wants to go to school. Soldiers: Nope
+      not safe today.
   - 1955 Dec: Rosa Parks. Montgomery Bus Boycott.
     - Rosa Parks: Very good seamstress.
     - Bus sign: "Colored seating behind this line."
     - Rosa Parks sits behind sign.
     - White man gets on bus. RAAAAAA at Rosa.
     - Bus driver gets involved.
-    - Bus driver moves sign behind Rosa. "Teehee now you're in front of the sign"
+    - Bus driver moves sign behind Rosa. "Teehee now you're in front of the
+      sign"
     - Popo involved. Rosa Parks arrested for disturbing the peace.
     - Black community boycotts bus system.
-    - After one year: Bus signs came down. Buses integrated. Brought the bus world revolution.
+    - After one year: Bus signs came down. Buses integrated. Brought the bus
+      world revolution.
   - Nonviolent peaceful protest.
   - Freedom Riders
     - Illegal for black/white to sit together as it passed a state line.
@@ -608,9 +638,11 @@ Professor: Simon Wood
     - 1959 Feb: Buddy Holly dies in plane crash
       - 2nd gen rock and roll star
       - After show: not feeling well
-      - Fly to next town w/ Richie Valens and JP Richardson... plane never made it
+      - Fly to next town w/ Richie Valens and JP Richardson... plane never made
+        it
       - The Day The Music Died
-    - Common theme: Their song ends and if they got back, the world already moved on.
+    - Common theme: Their song ends and if they got back, the world already
+      moved on.
 
 - The "In-Between" Years
   - 1959 - 1963
@@ -657,12 +689,14 @@ Professor: Simon Wood
   - The Magnetophon
     - German tech from WWII was revolutionary
       - Jet airplanes
-      - Americans went to space because they got smart rocket scientists from Nazi Germany
+      - Americans went to space because they got smart rocket scientists from
+        Nazi Germany
     - Magnetophon: Basically, tape recorder
     - Found by Sgt. Jack Mullin
     - Enabled editing, cutting
     - Ampex: Company that produced tapes. Bing Crosby invested.
-    - 1948: Bing Crosby gives first commercially produced reel-to-reel tape recorder to Les Paul
+    - 1948: Bing Crosby gives first commercially produced reel-to-reel tape
+      recorder to Les Paul
     - "Les Paul. Isn't he a guitar?"
   - Les Paul
     - 1915 - 2009
@@ -690,7 +724,8 @@ Professor: Simon Wood
 - The "In-Between" Years (cont.)
   - Phil Spector
     - Producer
-    - Highly influential on songs he produced; credited with song most of the time
+    - Highly influential on songs he produced; credited with song most of the
+      time
     - The "Wall of Sound"
       - Highly layered
       - Many duplicate instruments
@@ -734,11 +769,14 @@ Professor: Simon Wood
 ## 2017 Oct 26
 
 - Missed the first half of this lecture due to midterm.
-- Some of these notes are synthesized from this guy's notes: http://dzed.me/notes/2016/05/02/Music-140.html.
-- And from kind stranger in class, whose name I don't know because I'm asocial af tbh.
+- Some of these notes are synthesized from this guy's notes:
+  http://dzed.me/notes/2016/05/02/Music-140.html.
+- And from kind stranger in class, whose name I don't know because I'm asocial
+  af tbh.
 
 - The Folk Revival:
-  - Many teen fans of the golden age of Rock and Roll are now in their early 20s.
+  - Many teen fans of the golden age of Rock and Roll are now in their early
+    20s.
   - In university, many are looking for more "serious" music.
   - Folk music is now professional
   - Very self-aware industry in which musicians HIDE their professionalism
@@ -795,7 +833,8 @@ Professor: Simon Wood
     - Democratic.
     - Sympathetic to civil rights movements.
     - "Anything is possible"
-  - **The New Frontier**: The world as it would be with selflessness and equality.
+  - **The New Frontier**: The world as it would be with selflessness and
+    equality.
   - 1963 Aug: MLK "I Have a Dream"
   - 1963 Nov: Kennedy assassinated in Dallas, TX.
     - Shocked everyone.
@@ -814,9 +853,11 @@ Professor: Simon Wood
   - American soldiers brought supplies; gave American records to British teens
 - The Quarrymen
   - Old name for the Beatles
-  - 1957 Jul: John Lennon (vocals), Paul McCartney (guitar) wrote songs together.
+  - 1957 Jul: John Lennon (vocals), Paul McCartney (guitar) wrote songs
+    together.
     - Furiously wrote songs. Every day.
-    - Writing music is not done with flashes of inspiration. Done with persistence.
+    - Writing music is not done with flashes of inspiration. Done with
+      persistence.
     - Oh, that's pretty good. Hope I didn't steal it from someone.
     - Weakness: No strong lead guitarist.
   - 1958 Feb: George Harrison (lead guitarist)
@@ -841,10 +882,13 @@ Professor: Simon Wood
     - Went from leather jackets to suits with narrow ties.
   - 1961: Beatles were background music for Tony Sheriton; small hit
   - Tried to get a record label; every one turned them down
-  - Paul McCartney still has a framed thing saying "There is no future in guitar-based popular music."
+  - Paul McCartney still has a framed thing saying "There is no future in
+    guitar-based popular music."
     - Dick Rowe: The guy who turned down the Beatles.
-    - At the same time: Les Paul gets a letter from Gibson saying "We are considering ramping down solid-body guitars."
-    - Dick Rowe later talks to Beatles; referred to The Rolling Stones and signs them.
+    - At the same time: Les Paul gets a letter from Gibson saying "We are
+      considering ramping down solid-body guitars."
+    - Dick Rowe later talks to Beatles; referred to The Rolling Stones and
+      signs them.
   - 1962 Jun: Beatles under Parlophone record label (division of EMI)
     - More of a comedy label
 - George Martin: Producer
@@ -868,7 +912,8 @@ Professor: Simon Wood
   - Change in rhythmic density in vocal
   - Highest note at the end of the B section
     - da da da da da da da da ba yooooooo
-  - Showed skill to write a **hook**: Very simple but unforgettable musical idea
+  - Showed skill to write a **hook**: Very simple but unforgettable musical
+    idea
     - ba daa daa daaaa da da daa daaaaa daa
     - "You know you never even ..."
     - 13x repeated.
@@ -899,10 +944,12 @@ Professor: Simon Wood
     - pereptual squee in backgruond
     - 70M viewers
     - Story: "Zero crime in USA in hour before, during, and after the show"
-    - Story: "Gene Simmons inspired by 600 teenage girls screaming FUCK ME; later started band called Kiss."
+    - Story: "Gene Simmons inspired by 600 teenage girls screaming FUCK ME;
+      later started band called Kiss."
     - etc.
     - Brought the guitar band world revolution.
-  - Band played in an arena. First performance in arena; people had no idea what they were doing.
+  - Band played in an arena. First performance in arena; people had no idea
+    what they were doing.
     - 90⁰ rotation every couple minutes
   - Two week tour. sold 2 million albums, $2.5M merch
     - "pillowcases"
@@ -917,13 +964,15 @@ Professor: Simon Wood
 - Test next week.
   - In DC 1350, 1351. Mass migration to usual room after.
   - Cover versions -> The folk revival. (No British Invasion)
-  - ~40 questions. Same difficulty as last test. Listening portions can start at any poiint in song.
+  - ~40 questions. Same difficulty as last test. Listening portions can start
+    at any poiint in song.
 - Rant: This is very important. News story about Weinstein.
   - For decades, it has been known that Weinstein was a sexual predator.
   - Thank god that people are finding the courage to talk about this.
   - The vast majority of these creeps are men. Bros, stop it.
   - Does not preclude humorous rudeness; but know where the line is.
-    - Litmus test: How would I feel if somebody said that to your mother/sister/daughter?
+    - Litmus test: How would I feel if somebody said that to your
+      mother/sister/daughter?
     - I have a son. Blinding rage; nameless dread. He's a good human, so far.
     - JUST SAYIN'
   - Be better than my generation apparently has been.
@@ -933,17 +982,22 @@ Professor: Simon Wood
     - including positions 1 through 5 (for 3 wk).
   - 3 weeks: Beatles accounted for 60% of all record sales WORLDWIDE.
   - 1964 Jul: "A Hard Day's Night": First Beatles film.
-  - 1965: $65 million dollars of total revenue after the end of their 4th U.S. tour.
-  - 1965 Aug: Beatles play in Shea Stadium; first band to play in a sports stadium.
+  - 1965: $65 million dollars of total revenue after the end of their 4th U.S.
+    tour.
+  - 1965 Aug: Beatles play in Shea Stadium; first band to play in a sports
+    stadium.
     - Really needs LPF.
     - Largest box guitar amps ever.
     - Primitive lights and speakers; good lights haven't been invented yet.
       - Inspired engineers to make better lights and PA systems.
-    - A lot more emotional impact from seeing live performance, due to lack of YouTube.
+    - A lot more emotional impact from seeing live performance, due to lack of
+      YouTube.
   - Massive success served as a template for what is to follow.
-    - Re-asserted Golden Age system, in a way. ("Collective Self-contained Group")
+    - Re-asserted Golden Age system, in a way. ("Collective Self-contained
+      Group")
     - Other bands influenced by Beatles and were part of the British invasion:
-      - Mersey Beat, Gerry and the Pacemakers, The Searchers, The Swinging Blue Jeans
+      - Mersey Beat, Gerry and the Pacemakers, The Searchers, The Swinging Blue
+        Jeans
   - 1965 Jul: "Help": Second Beatles film.
     - Ringo gets ring stuck on finger
     - Cult wants to get ring back even if they have to kill Ringo
@@ -995,13 +1049,16 @@ Professor: Simon Wood
       - Had drones instead: Notes that repeat throughout the entire piece
   - Tamboura throughout entire song
   - Lyrics based on Tibetan Book of the Dead
-  - Vocals are double-tracked (one perfect vocal line mixed with attempt to re-sing)
-    - Also, some vocals run through "Leslie" speaker cabinet (warbling, a bit bandpassed)
+  - Vocals are double-tracked (one perfect vocal line mixed with attempt to
+    re-sing)
+    - Also, some vocals run through "Leslie" speaker cabinet (warbling, a bit
+      bandpassed)
   - Simon Wood brings the signal processing world revolution
     - Comb filtering
     - Delay does not have the same effect of double-tracking.
     - Cancellation if delay is too short; echo if too long.
-    - Rule of 3: Microphones have to be at least 3 feet separated to prevent cancellation
+    - Rule of 3: Microphones have to be at least 3 feet separated to prevent
+      cancellation
     - This won't be on the test
   - Additional postprocessing:
     - Tape "loops": Avant-garde technique where a tape was looped
@@ -1010,7 +1067,8 @@ Professor: Simon Wood
       - These are the tech-sounding effects
     - Backwards recording (!!)
       - Sitar and electric guitar recorded backwards
-  - First known use of flanging (two identical tapes running side by side, made slightly out of phase by tugging)
+  - First known use of flanging (two identical tapes running side by side, made
+    slightly out of phase by tugging)
 
 - The Beatles (continued)
   - Clearly, Beatles became experimental
@@ -1020,7 +1078,8 @@ Professor: Simon Wood
   - 1966 tours
     - Japan: Budokan theater
       - Tirade of mock Japanese
-      - I have just made fun of your culture, and all you do is scream every time I open my mouth.
+      - I have just made fun of your culture, and all you do is scream every
+        time I open my mouth.
     - Phillipines: Annoyed local government
       - Phillipines was a dictatorship
       - Annoyed el presidente's wife
@@ -1037,15 +1096,21 @@ Professor: Simon Wood
       - 1966 Mar: John Lennon newspaper interview in England.
         - John Lennon emerges as the intellectual.
         - Poet and visual artist.
-        - Religion came up. "Atheist, but deep respect for spiritual traditions."
+        - Religion came up. "Atheist, but deep respect for spiritual
+          traditions."
         - What is the role of organized religion in 60s popular culture?
-          - The world's great religions have wonderful things at their core; wonderful ideas about treating each other.
-          - But they have been corrupted by organized religion. It has become a business. It is simply about money.
-          - I bet, if given the choice, most kids would rather go and see the Beatles than to go to Church.
+          - The world's great religions have wonderful things at their core;
+            wonderful ideas about treating each other.
+          - But they have been corrupted by organized religion. It has become a
+            business. It is simply about money.
+          - I bet, if given the choice, most kids would rather go and see the
+            Beatles than to go to Church.
           - We're bigger than Jesus.
       - Nobody is offended in the beginning, but...
-      - As they are headed to USA, magazine says "John Lennon: BEATLES BIGGER THAN JESUS."
-      - Massive protests. "Beatle burnings": thousands of young people burn Beatles paraphernalia.
+      - As they are headed to USA, magazine says "John Lennon: BEATLES BIGGER
+        THAN JESUS."
+      - Massive protests. "Beatle burnings": thousands of young people burn
+        Beatles paraphernalia.
       - 1966 Aug 29: Candlestick Park, San Francisco.
         - The last time the Beatles ever played live.
         - Retiring from live performance.
@@ -1057,23 +1122,30 @@ Professor: Simon Wood
     - Single most important album EVER.
     - Album cover extremely elaborate. Extension of the music.
     - Back cover had ALL THE LYRICS. (First time this has been done.)
-    - The first (?) "concept album" (?): Album where every song is linked by some concept.
+    - The first (?) "concept album" (?): Album where every song is linked by
+      some concept.
       - According to Beatles, is not a concept album. They're wrong.
       - All of the songs is about the Beatles' childhood.
-      - A year earlier, Beach Boys "Pet Sounds" -- also kind of a concept album.
+      - A year earlier, Beach Boys "Pet Sounds" -- also kind of a concept
+        album.
         - No attention though
 
 - Song: "A Day In The Life"
   - From SPLHCB.
-  - Started out as two separate songs; John Lennon one and Paul McCartney the other
+  - Started out as two separate songs; John Lennon one and Paul McCartney the
+    other
   - Spliced together...
     - with incredible cacophonous transitions
   - "Postmodern" approach to creating forms
-    - you are allowed to draw on any sort of influence.break rules, mIx thIngs together.3mt01i0n4al 1mp4c7 is paramount
+    - you are allowed to draw on any sort of influence.break rules, mIx thIngs
+      together.3mt01i0n4al 1mp4c7 is paramount
   - Avant-garde technique with orchestra and piano: "Aleatory"
     - Philharmonic orchestra:
-    - "Okay, I want you to start on the lowest note in your instrument, and in 20 seconds get to the highest. Get there however you wish."
-    - The piano that won't die: Ultra long-ringing piano. Six people, two pianos, microphones in the pianos. Very slowly turning up microphone sensitivity.
+    - "Okay, I want you to start on the lowest note in your instrument, and in
+      20 seconds get to the highest. Get there however you wish."
+    - The piano that won't die: Ultra long-ringing piano. Six people, two
+      pianos, microphones in the pianos. Very slowly turning up microphone
+      sensitivity.
 
 - Shift to the **Hippie Aesthetic**.
   - Still important today.
@@ -1093,25 +1165,32 @@ Professor: Simon Wood
   - John Lennon don't like, and don't be like, Paul McCartney.
   - 1967 Aug: Brian Epstein dies at 32.
   - John and Paul HATE each other.
-  - Film intended to bring band closer, instead just documented band's dissolution.
-  - 1970: Paul McCartney leaves The Beatles, and the band breaks up after six years.
+  - Film intended to bring band closer, instead just documented band's
+    dissolution.
+  - 1970: Paul McCartney leaves The Beatles, and the band breaks up after six
+    years.
 - The **British Blues Revival**.
   - 50s-60s: Soul music replaces R&B as preferred black music.
   - Blues musicians find themselves the new horse.
   - Early 1950s: Young British white teens love blues.
     - Chess Records tour blues artists in England.
     - Headline: Muddy Waters.
-  - Names: Chris Barber, Cyril Davies, Spencer Davis, Alexis Korner (Blues Incorporated), John Mayall (Blues Breakers)
-  - Future members of: Fleetwood Mac, Cream, Eric Clapton, Led Zepplin, The Rolling Stones
+  - Names: Chris Barber, Cyril Davies, Spencer Davis, Alexis Korner (Blues
+    Incorporated), John Mayall (Blues Breakers)
+  - Future members of: Fleetwood Mac, Cream, Eric Clapton, Led Zepplin, The
+    Rolling Stones
     - all played for one of those British Blues Names.
 - 1962 Jul: Marquee Club
   - Brian Jones organized a little group to work at the Marquee Club.
   - Brian Jones got the "Rolling Stones" name from a Muddy Waters song.
-  - Brian Jones was a blues fanatic. Extremely extensive blues record collection.
+  - Brian Jones was a blues fanatic. Extremely extensive blues record
+    collection.
   - Brian Jones wanted the Rolling Stones to play blues. That was the plan.
 - Andrew Loog Oldham:
   - 1963 Apr: Became manager of the Rolling Stones. Changed their image.
-  - "You will never out-Beatle the Beatles. The Beatles will always be better Beatles than you will ever be. If you try to look like them, if you try to act like them, you will always be behind them."
+  - "You will never out-Beatle the Beatles. The Beatles will always be better
+    Beatles than you will ever be. If you try to look like them, if you try to
+    act like them, you will always be behind them."
   - Be surly, snarly, unpleasant. Drink, swear, spit.
     - Source of Mick Jagger's 3k-yd stare.
     - Like The Beatles for ugly people!
@@ -1140,7 +1219,8 @@ Professor: Simon Wood
   - Based Curve Incoming
 
 - The Rolling Stones (cont.)
-  - Advice from Lennon, McCartney: Keep a tape recorder near your bed and record your dream songs.
+  - Advice from Lennon, McCartney: Keep a tape recorder near your bed and
+    record your dream songs.
   - One night, Keith Richards dreams a song.
     - Brass section. "Nope" says the rest of the band; 
 
@@ -1221,15 +1301,18 @@ Professor: Simon Wood
   - New sound of the urban: Soul Music.
   - Fusion of:
     - Vocal style from Gospel
-    - Rhythm and back beat of R&B (emphasizing bar positions 2,4 instead of 1,3)
+    - Rhythm and back beat of R&B (emphasizing bar positions 2,4 instead of
+      1,3)
     - Arrangements and lyrical style of TPA (!!)
 
 - Motown, Detroit:
   - Detroit used to be car building center. "Motor Town"
   - Hitsville USA sign
   - Founded by Berry Gordy
-  - Motown became the most successful business ever owned by an African American
-  - Founded 1959: Division of labour, based on Gordy's experience in automotive plants.
+  - Motown became the most successful business ever owned by an African
+    American
+  - Founded 1959: Division of labour, based on Gordy's experience in automotive
+    plants.
   - A well-optimized assembly line (all African American):
     - Song writers: Holland/Dozier/Holland, Smokey Robinson.
     - Maxine Powell:
@@ -1251,7 +1334,8 @@ Professor: Simon Wood
 - The Supremes
   - Motown group
   - Diana Ross: Softest voice, lead singer
-  - (ALSO, Berry Gordy & Diana Ross dated, but this probably didn't cause anything)
+  - (ALSO, Berry Gordy & Diana Ross dated, but this probably didn't cause
+    anything)
   - Berry Gordy thought that white listeners would prefer this.
   - Also, targeted them with upper class white clothing.
 
@@ -1285,7 +1369,8 @@ Professor: Simon Wood
 - Today, we take ALL our notes in cloze.py flashcard format. ALL OF THEM. And
   they will be COMPREHENSIVE AF.
   - Nevermind, let's not take ALL our notes in cloze.py format.
-  - But we will definitely convert them to cards COMPREHENSIVELY, unlike LAST TIME.
+  - But we will definitely convert them to cards COMPREHENSIVELY, unlike LAST
+    TIME.
 
 - How to do a TED talk (THIS is THAT, CBC)
   - Thought Leader? 36,000?
@@ -1320,10 +1405,12 @@ Professor: Simon Wood
     - A mistake of omission, not commission
     - "we missed our first entry"
   - Cueing: "Play it, Steve!"
-  - Tongue in cheek meaning: Soul == Black, so this song celebrates the "Black Man"
+  - Tongue in cheek meaning: Soul == Black, so this song celebrates the "Black
+    Man"
   - STILL optimistic: Won't be optimistic for much longer
 
-- Lipsyncing: Goes back to anger over Elvis's lewd dance. Used to control the performance.
+- Lipsyncing: Goes back to anger over Elvis's lewd dance. Used to control the
+  performance.
 
 - Term "Soul" later becomes synonym for African American
   - Soul food!
@@ -1335,7 +1422,8 @@ Professor: Simon Wood
 - 1966: Atlantic begins working with FAME
   - Atlantic had licensing agreements with small soul record companies
   - Did a lot of work with Stax
-  - In 1966, worked with FAME (Fairmont Alabama Music Enterprises (not on test))
+  - In 1966, worked with FAME (Fairmont Alabama Music Enterprises (not on
+    test))
 
 - Song: [Respect]
   - By [Aretha Franklin] in [1967]
@@ -1373,7 +1461,8 @@ Professor: Simon Wood
   - Soul music
   - Gospel vocal style, distortion of voice
   - Popular with whites because META AABA FORMAT
-  - James Brown: "Black folks like the blues, white folks like a little something different in the middle."
+  - James Brown: "Black folks like the blues, white folks like a little
+    something different in the middle."
   - ABSOLUTELY CONSCIOUS
 
 - Civil rights
@@ -1426,9 +1515,11 @@ Professor: Simon Wood
 - Simon Wood is a noodle. Be nice!
 - Aston Martin Valkyrie AMR Pro is really fast.
 
-- Recall: James Brown created Funk, and African Americans withdrew from white culture.
+- Recall: James Brown created Funk, and African Americans withdrew from white
+  culture.
 - Recall: This deprivileges melody and harmony in favour of rhythm.
-- James is reconceptualizing his band in terms of (his understanding of) a West-African drum ensemble.
+- James is reconceptualizing his band in terms of (his understanding of) a
+  West-African drum ensemble.
 
 - West-African drum groups
   - vague term, but some commonalities
@@ -1436,7 +1527,8 @@ Professor: Simon Wood
     - Sets the tempo.
     - Cues other musicians.
     - James Brown acts as this.
-    - Note: Cueing is usually subtle. James makes it a big deal, to implant himself as the Master Drummer.
+    - Note: Cueing is usually subtle. James makes it a big deal, to implant
+      himself as the Master Drummer.
   - [Interlock Groove]: Emergent beauty from simple individual rhythms.
     - After this is established, the Master Drummer solos on top of this.
   - [Community]
@@ -1456,7 +1548,8 @@ Professor: Simon Wood
     - Bob Dylan was almost Woody Guthrie reborn
     - Recall: "Your music's great, but your songs don't say anything."
     - The Beatles also influenced Bob Dylan.
-    - 1964 end during Beatlemania: Bob Dylan liked that everybody liked the Beatles...
+    - 1964 end during Beatlemania: Bob Dylan liked that everybody liked the
+      Beatles...
       - regardless of ethnicity, religion, age, economics...
       - "Wow. If I could reach that many people with my songs..."
   - 1965: Bob Dylan at Newport
@@ -1465,13 +1558,18 @@ Professor: Simon Wood
     - "Dylan Goes Electric"
     - Very spontaneous. Dylan had to buy an electric guitar on the spot.
     - Led to the creation of "Folk Rock"
-    - Arlow Guthrie (Woody's son): It wasn't just a conflict between acoustic and electric. It was about integrity.
-    - Folk music musicians walked on a knife edge; had to balance success and purity.
-    - Electric guitar seen as selling out. Bob Dylan was bringing the industry back into folk.
-      - Story: Bob Dylan's original guitar kept until recently; sold for almost $1M.
+    - Arlow Guthrie (Woody's son): It wasn't just a conflict between acoustic
+      and electric. It was about integrity.
+    - Folk music musicians walked on a knife edge; had to balance success and
+      purity.
+    - Electric guitar seen as selling out. Bob Dylan was bringing the industry
+      back into folk.
+      - Story: Bob Dylan's original guitar kept until recently; sold for almost
+        $1M.
     - JUDAS! -> Guy who ratted out Jesus to the Romans
       - PLAY THIS ONE AS LOUD AS YOU FUCKN CAN
-    - Despite negative initial reception, becomes popular. Style becomes known as "Folk Rock".
+    - Despite negative initial reception, becomes popular. Style becomes known
+      as "Folk Rock".
     - Lyrics became more social, political.
   - Mostly middle-class whites.
   - bb boomers in university, well adjusted, starting to work
@@ -1492,7 +1590,8 @@ Professor: Simon Wood
     - From South-Asian cultures.
     - "We are blinded by stuff."
     - Having all this stuff keeps us easy to control.
-    - If you achieve Beatitude, then you transcend Stuff and bring the world revolution to YOU!
+    - If you achieve Beatitude, then you transcend Stuff and bring the world
+      revolution to YOU!
   - Revived in the early 1960s.
     - Generational value gap developed.
 
@@ -1504,7 +1603,8 @@ Professor: Simon Wood
     - Haight-Ashbury (SFO). More dominant.
 
 - [Homology of Sensory Stimulation]
-  - Homology: underlying similarity between superficially different concepts. (smartness metric maximal)
+  - Homology: underlying similarity between superficially different concepts.
+    (smartness metric maximal)
   - [Psychedelic]: Stimulates your psyche. Gets your neurons firing.
   - Poster art:
     - Hard-to-read posters
@@ -1518,7 +1618,8 @@ Professor: Simon Wood
   - Music:
     - Had:
       - Extremely high volume: Even rock bands back then weren't this loud.
-        - Ringing in ears means you've permanently damaged your hearing. Wear earplugs.
+        - Ringing in ears means you've permanently damaged your hearing. Wear
+          earplugs.
       - Lighting shows.
       - Longer / unusual song forms.
       - Jamming (collective improvisation).
@@ -1535,7 +1636,8 @@ Professor: Simon Wood
   - Played many many free shows
   - Each musician was free to explore their part. Open, though not sloppy.
   - Process over product.
-  - [Deadheads]: Fans who traveled with the band to see their unique performances each night.
+  - [Deadheads]: Fans who traveled with the band to see their unique
+    performances each night.
 
 - Song: [Truckin']
   - [1970] song by [The Grateful Dead]
@@ -1545,7 +1647,8 @@ Professor: Simon Wood
   - Actual track is 17 min. Last 12 min was [jamming].
 
 - [Acid Rock]
-  - Counterculture-related musical genre (though distant from The Grateful Dead)
+  - Counterculture-related musical genre (though distant from The Grateful
+    Dead)
   - Distortion, aggression
   - References to drugs
 
@@ -1642,7 +1745,8 @@ Professor: Simon Wood
   - 1970 Apr: Paul McCartney leaves The Beatles.
   - 1970 May: Kent State, Ohio
     - Like all universities, wrecked by protests of the Vietnam war.
-      - Very common pattern. Peaceful by day, after dark, protests would become violent.
+      - Very common pattern. Peaceful by day, after dark, protests would become
+        violent.
     - Small group of protestors broke off from main group.
     - Group of national guardsmen broke off and... followed them, and
     - Fired over 100 rounds.
@@ -1651,7 +1755,8 @@ Professor: Simon Wood
       - "Security forces were protecting property. Young men at fault."
       - ... though, 2 were just students walking to class.
     - The establishment is unwilling to listen, change...
-      - and is willing to stand by and watch its young people shot down, murdered
+      - and is willing to stand by and watch its young people shot down,
+        murdered
       - rather than entertain change.
     - This kills the counterculture.
   - 1970 Sep: Jimi Hendrix dies of drugs.
@@ -1699,7 +1804,8 @@ Professor: Simon Wood
       - Heavy metal has more (bass, voice).
     - Tempo.
       - Hard rock has mid-range, constant tempos.
-      - Heavy metal has more extreme tempos, and tempo can change during a song.
+      - Heavy metal has more extreme tempos, and tempo can change during a
+        song.
     - Influence.
       - Hard rock comes from R+B.
       - Heavy metal is more classical. Almost virtuosic.
@@ -1787,9 +1893,12 @@ Professor: Simon Wood
   - Very big influence on pop culture.
   - Folk culture. Emerged from South Bronx, NYC in the 1970s.
   - Three remarkable things from awful living conditions:
-    - Rap. No instruments or lessons, but did have turntables. Repeat repetitive parts of a song to make a beat and talk over it.
+    - Rap. No instruments or lessons, but did have turntables. Repeat
+      repetitive parts of a song to make a beat and talk over it.
     - Break dancing. No dance studios; just dance on mats on the street!
-    - Graffiti art. No canvases or art studios. Just spray paint art on the walls. Real prize: A subway car. Then everyone will see it until they erase it in a week.
+    - Graffiti art. No canvases or art studios. Just spray paint art on the
+      walls. Real prize: A subway car. Then everyone will see it until they
+      erase it in a week.
 
 - Precursors to hip hop
   - [The Dozens]
@@ -1811,11 +1920,13 @@ Professor: Simon Wood
 - History of hip hop
   - 1973: [Kool Herc] arrives in NYC from Jamaica.
     - Was not a sound system man, but was familiar with them.
-    - Brought **two** turntables. Used to extend dance breaks (exciting parts of the song where dancers go crazy).
+    - Brought **two** turntables. Used to extend dance breaks (exciting parts
+      of the song where dancers go crazy).
     - Called it [cutting and mixing]. Also toasted.
     - This was the beginning of hip hop.
   - 1976: [Grandmaster Flash].
-    - Further developed Kool Herc's techniques. Did [cutting and mixing] at a rate of once in 2s rather than once in 30s.
+    - Further developed Kool Herc's techniques. Did [cutting and mixing] at a
+      rate of once in 2s rather than once in 30s.
     - Called it the [quick mix].
   - 1976: [Grandmaster Melle Mel]
     - Toasted for [Grandmaster Flash]
@@ -1824,7 +1935,8 @@ Professor: Simon Wood
     - Thus, was hip hop's first songwriter.
   - 1978: [Grand Wizzard Theodore]
     - Backspin: Sound in reverse.
-    - Invented [scratching]. Thus redefined the turntable from [consumption to production].
+    - Invented [scratching]. Thus redefined the turntable from [consumption to
+      production].
 
 - Song: [Good Time]
   - [1979 Jun] song by [Chic]
