@@ -466,7 +466,7 @@
   - 1928: "How Long Blues"
   - 1930s: Consumption patterns go from regional to national
   - 1938: HUAC
-  - 1939: Television networks
+  - 1939: Networks
   - 1945: 6 TV stations
   - 1945: This Land is Your Land - Woody Guthrie
   - 1948: First Black Appeal Radio station
@@ -476,7 +476,7 @@
   - 1953: Sitting On Top Of tHe World
   - 1954: 200 Black Appeal Radio stations
   - 1955: 411 TV stations
-- The Golden Age of Rock and Roll
+- The Golden Age of Rock and Roll (1954 - 1959)
   - 1954: Rock Around the Clock (early R&R)
   - 1954: Sh-Boom, and cover
   - 1954: Elvis Presley found by Sam Phillips
@@ -494,7 +494,7 @@
   - 1958: Tom Dooley by The Kingston Trio
   - 1959: Music industry worth $600M, 3x 1954's $200M
   - 1959: Music industry is 66% independent, ~3x 1955's 21%
-- The In-between Years
+- The In-between Years (1959-1963)
   - 1960s: Elvis is a bad movie star
   - 1962: The Locomotion
   - 1962: A Hard Rain's a Gonna Fall
@@ -505,7 +505,103 @@
   - 1964: Sweet Little Sixteen
   - 1970s: Elvis is Las Vegas druggie
 - The British Invasion
+  - The Beatles
+    - 1957: John Lennon and Paul McCartney write songs together
+    - 1958: George Harrison joins
+    - 1960: Stu Sutcliffe joins, Pete Best joins
+    - 1961 Jul: Stu Sutcliffe leaves
+    - 1961 Dec: Brian Epstein becomes Beatles manager
+    - 1962 Apr: Stu Sutcliffe dies
+    - 1962 Jun: Beatles under Parlophone record label
+    - 1962 Sep: Beatles: "Love Me Do"
+    - 1963 Jan: Beatles: "Please Please Me"
+    - 1963 Aug: MLK: I Have a Dream
+    - 1963 Nov: JFK assassinated
+    - 1963 Nov: Beatles perform at Royal Variety Performance @ London Palladium. 26M viewers.
+    - 1964 Feb: Beatles arrive in NYC
+    - 1964 Feb 9: Ed Sullivan Show, perpetual squee, 70M viewers. Revolutionary.
+    - 1964 Apr: Beatles have 12 songs in Billboard Top 100 Pop
+    - 1964 Jul: Beatles first film: A Hard Day's Night
+    - 1965: Beatles have $65M revenue after 4th US tour
+    - 1965 Aug: Beatles play in Shea Stadium; first band performance in sports stadium
+    - 1965 Jul: Beatles second film: Help.
+    - 1965 Aug: Beatles album: "Help". "Yesterday" influenced by Bob Dylan
+    - 1965 Dec: Beatles album: "Rubber Soul". More experimental.
+    - 1966 Mar: John Lennon: BEATLES BIGGER THAN JESUS.
+    - 1966 Aug: Beatles album: "Revolver". Extremely surreal, artistic. "Tomorrow Never Knows"
+    - 1966: Beatles tour Japan, Phillipines, Candlestick Park SFO. Then quit performing.
+    - 1966 Aug 29: Beatles last performance.
+    - 1967 Jun: Beatles album: Sgt. Pepper's Lonely Hearts Club Band. "A Day In The Life"
+    - 1967 Aug: Brian Epstein dies.
+    - 1970: Paul McCartney quits, and Beatles break up.
+  - The Rolling Stones
+    - 1962 Jul: Rolling Stones meet in Marquee Club.
+    - 1963 Apr: Andrew Loog Oldham becomes Rolling Stones manager.
+    - 1963 Nov: Rolling Stones releases cover "I Wanna Be Your Man"
+    - 1964 Apr: "King Bee"
+    - 1965 Feb: "Satisfaction" is dark an edgy
+    - 1969: Rolling Stones tour USA, and Brian Jones is told to quit.
+  - Other
+    - 1967: The Yardbirds break up
 - Soul to Funk
+  - 1950s, late: Civil rights anticipation builds
+  - 1957: Stax founded.
+  - 1959: Motown founded.
+  - 1960s: Jazz recognized as art form
+  - 1960: "You'd Better Shop Around", Motown
+  - 1965: "Stop in the Name of Love", The Supremes, Motown
+  - 1965: "I Feel Good" by James Brown
+  - 1966: "Try A Little Tenderness" cover by Otis Redding, Stax
+  - 1966: Atlantic begins working with FAME
+  - 1967: "Soul Man" by Sam and Dave, Stax
+  - 1967: "Respect" by Aretha Franklin (originally written by Otis Redding)
+  - 1965-1967: Inner city riots
+  - 1968 Apr 4: MLK shot dead.
+  - 1968: "Say It Loud, I'm Black and I'm Proud"
+  - 1970: "Get Up", James Brown
 - The Counterculture
+  - 1960s, early: The Beats are revived
+  - 1965: Bob Dylan goes electric at Newport folk festival, creating Folk Rock
+  - 1967: "White Rabbit" by Jefferson Airplane, Acid Rock
+  - 1967: The Summer of Love in SFO, downfall came quickly after
+  - 1967: "Voodoo Child" by virtuosic Jimi Hendrix, Psychedelic Blues
+  - 1969 Aug: Woodstock farm festival is a huge success
+  - 1969 Dec: Altamont festival in Altamont Speedway (enclosed racetrack) is a huge violent failure
+  - 1970: "Truckin'" by The Grateful Dead, Folk Rock
+  - 1970 Apr: Paul McCartney leaves the Beatles and they break up
+  - 1970 May: Kent State
+  - 1970 Sep: Jimi Hendrix dies of drugs
+  - 1970 Oct: Janice Joplin dies of drugs
+  - 1971 Jul: Jim Morrison (of The Doors) dies of drugs.
 - Hard Rock and Heavy Metal
+  - 1973-1974: The Energy Crisis
+    - 1973 Oct: Yom Kippur War
+  - 1970s, early: Watergate
+  - 1975 Apr 30: The Fall of Saigon
+  - 1973: AC/DC formed
+  - 1979: "Highway to Hell" by AC/DC
+  - 1981: Metallica formed
+  - 1986: "Master of Puppets" by Metallica
+  - The Hard Rock / Heavy Metal Founding Trio
+    - 1970: "War Pigs" by Black Sabbath
+    - 1972: "Highway Star" by Deep Puprle
+    - 1969: "Whole Lotta Love" by Led Zeppelin
 - Hip hop
+  - 1973: Kool Herc arrives in NYC, uses two turntables and does cutting and mixing
+  - 1976: Grandmaster Flash uses the quick mix (very fast cutting and mixing)
+  - 1976: Grandmaster Melle Mel writes down raps as toaster for Grandmaster Flash
+  - 1978: Grandwizzard Theodore does backspin and scratching
+  - 1979 Jun: "Good Time" by Chic
+  - 1979 Oct: "Rapper's Delight" by The Sugarhill Gang, found by Sylvia Robinson
+  - 1986: "Walk This Way" by Run-DMC/Aerosmith is the first rap on MTV
+
+- Decade summary.
+  - 1880s: Gramaphone invented.
+  - 1890s: "After The Ball"
+  - 1920s: Radio springs up, Ralph Peer does Race and Hillbilly
+  - 1930s: Commie fear and radio networks
+  - 1940s: TV starts up but stays small because war
+  - 1950s: TV is big, Black Appeal Radio, Golden Age of Rock and Roll (1954-1959)
+  - 1960s: In-between years, British Invasion/Blues Revival, Counterculture
+  - 1970s: Counterculture fails, everything sucks, Hard Rock and Heavy Metal, Hip Hop
+  - 1980s: Basically today.
