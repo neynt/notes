@@ -147,7 +147,7 @@
   - Folk Revival
 - "A Hard Rain's a-Gonna Fall"
   - 1962 Dec, Bob Dylan
-  - 1962 Oct: Cuban missile crisis
+  - About the Cuban Missile Crisis (1962 Oct)
   - Q&A lyrical style
 - "Please Please Me"
   - 1963 Jan, The Beatles
@@ -159,9 +159,140 @@
 - "I Want to Hold Your Hand"
   - 1963 Oct, The Beatles
   - First Beatles hit in the USA.
-- "A Hard Rain's a Gonna Fall"
-  - 1962, Bob Dylan
-  - About the Cuban Missile Crisis (1962 Oct)
+- "Yesterday"
+  - 1965, The Beatles
+  - From album "Help"
+  - AABA
+  - Influenced by Bob Dylan ("Your lyrics don't say anything")
+  - Complex chord, lyric structures
+  - String quartet (influenced by George Martin)
+  - Primarily written by Paul McCartney. John Lennon didn't like so much.
+- "Tomorrow Never Knows"
+  - 1966, The Beatles
+  - From album "Revolver"
+  - Primarily written by John Lennon
+  - Drone, sitar, from India
+  - Tamboura played throughout entire song
+  - Lyrics based on the Tibetan Book of the Dead
+  - Double-tracked vocals
+  - Backwards playback of sitar and electric guitar
+  - First known use of flanging
+- "A Day In The Life"
+  - 1967 Jun, The Beatles
+  - From album SPLHCB
+  - A Lennon and a McCartney song spliced together.
+    - ... with incredible cacophonous transitions.
+  - Postmodern
+  - Aleatory (avant-garde) orchestra/piano recording
+- "King Bee"
+  - 1964 Apr, The Rolling Stones
+  - From album "England's Newest Hitmakers"
+  - Blues form
+  - Cover of Slim Harpo song from 1957
+- "(I Can't Get No) Satisfaction"
+  - 1965 Feb, The Rolling Stones
+  - Written by Mick Jagger, Keith Richards
+  - First US #1 Pop by RS
+  - Performed on TV. Really showed dark & edgy look.
+- "You'd Better Shop Around"
+  - 1960, Smokey Robinson and The Miracles
+  - Innocent premise (guy wants a girl like his mother)
+  - Sophisticated, restrained presentation.
+- "Stop in the Name of Love"
+  - 1965, The Supremes (Motown)
+  - Tambourine drives the beat
+  - Electric organ makes the swelling sound at the beginning
+    - (piano + electric organ combo was common in soul)
+  - Vibraphone from jazz
+- "Try A Little Tenderness"
+  - 1966, Otis Redding (Stax)
+  - Originally a TPA song from 1920s
+    - Was a hit for Bing Crosby in 1933
+  - AABA
+  - One of Otis Redding's final performances.
+- "Soul Man"
+  - 1967, Sam and Dave (Stax)
+  - Has a mistake (horn player missed entry in second verse)! Stax didn't care
+  - Cueing: "Play it, Steve!"
+- "Respect"
+  - 1967, Aretha Franklin
+  - Originally written by Otis Redding, who had a minor hit with the song
+  - Became an anthem for Civil Rights Movement, Feminism
+- "I Feel Good"
+  - 1965, James Brown
+  - Format: 12bb, 12bb, 4bbreak, 8bbridge, 12bb
+    - It's a hybrid 12bb/AABA !!!
+  - Still soul music
+  - Black folks like the blues, white folks like a little something different
+    in the middle
+- "Get Up"
+  - 1970, James Brown
+  - Funk song. Based on re-Africanized black culture.
+  - Deprivileges melody and harmony in favor of rhythm and timbre.
+- "Say It Loud, I'm Black and I'm Proud"
+  - 1968, James Brown. In movie The Commitments
+- "Truckin"
+  - 1970, The Grateful Dead
+  - Influenced by Folk Rock, started by Bob Dylan when he went electric
+  - Loose feel, but not distorted like African American music
+  - 2/3 of track is Jamming
+- "White Rabbit"
+  - 1967, Jefferson Airplane
+  - Genre: Acid Rock
+  - Very short (2:30). Crescendo through entire song.
+  - Psychedelic references
+- "Voodoo Child"
+  - 1967, Jimi Hendrix
+  - Virtuosic
+  - Part of genre: Psychedelic Blues
+  - Extreme volume and distortion
+- "Highway to Hell"
+  - 1980, AC/DC
+  - Album: Back in Black
+  - Hard rock. Strong blues influence, steady tempo, vapid lyrics.
+- "Whole Lotta Rosie"
+  - Song by AC/DC
+- "Master of Puppets"
+  - 1986, Metallica
+  - Highly technical. Tempo changes, instrumental sections, classical
+    influence. Virtuosic soloing.
+  - Lyrics: Alienation, loss of control.
+  - Heavy distortion.
+- Song: [War Pigs]
+  - 1970, Black Sabbath
+  - From album Paranoid
+  - Had extensive instrumental sections
+  - Lower level of distortion compared to other heavy metal
+- Song: [Highway Star]
+  - 1972, Deep Purple
+  - From album Machine Head
+  - Jon Lord's electric organ solos influenced by Baroque composer Bach
+  - Chuck Berry-style vapid lyrics
+  - Virtuosic vocal intro
+  - Kind of at the border of HR and HM
+- Song: [Whole Lotta Love]
+  - 1969, Led Zeppelin
+  - From album Led Zeppelin II
+  - Based on riffs from blues
+  - Stolen from Muddy Waters song ("You Need Love", 1962).
+    - Willie Dixon of Chess Records sued.
+- Song: [Signifying Monkey]
+  - Some time in 1950s/60s.
+  - Exaggerated, funny.
+  - Form of [The Dozens].
+- Song: [Good Time]
+  - [1979 Jun] song by [Chic]
+  - Charts: [#1 pop, R&B]
+- "Rapper's Delight"
+  - 1979 Oct, The Sugarhill Gang
+  - Produced by Sylvia Robinson
+  - Sugarhill Gang was local rappers
+  - Based on Good Time by Chic
+  - Charts: #4 R&B, #36 Pop
+- "Walk This Way"
+  - 1986, Run DMC / Aerosmith
+  - Based on Aerosmith's 1977 hit of the same title
+  - First rap not excluded from MTV
 
 ## People
 
@@ -211,8 +342,11 @@
   - 2. Value in the Ecstatic and Cathartic
   - 3. Riffs
   - 4. Call and Response
+- The 27 Club
+  - Brian Jones
+  - Otis Redding (26; honorary member)
 
-## Dates
+## Timeline
 
 - Ancient prehistory
   - 1887: Gramophone invented

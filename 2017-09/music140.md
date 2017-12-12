@@ -1238,7 +1238,7 @@ Professor: Simon Wood
   - The "ultimate" rock star band. Established rock star image.
   - Brian Jones, who started the band, wanted R&B covers...
     - But band has moved on. Richards, Jagger become leaders of the band.
-    - Late 1960s: Brian participates very little. Is ded.
+    - Late 1960s: Brian participates very little.
     - 1969: Rolling Stones tour USA.
       - They needed US work visas
       - Brian's work visa rejected; reason: outstanding US drug charge.
@@ -1253,7 +1253,7 @@ Professor: Simon Wood
       - but Rolling Stones really came from the middle class!
         - Keith Richards was in art school.
         - Mick Jagger was studying at London School of Economics.
-        - Mick Jagger made more as an online daytrader than as a rock star.
+        - Mick Jagger made more as an online daytrader than as a rock star. (??)
     - Process vs. Product
       - Journey vs. destination.
       - The Beatles focused on Product:
@@ -1295,7 +1295,8 @@ Professor: Simon Wood
       - Boring roles; was going to quit.
       - Martin Luther King Jr phoned her. "You cannot quit."
       - My daughters need to see that.
-      - First African American woman to enter space was inspired.
+      - First African American woman to enter space (Mae Carol Jemison) was
+        inspired.
   - 1950s, late: Growing anticipation of civil rights.
   - Blues rejected as the sound of the past, the rural south, slavery.
   - New sound of the urban: Soul Music.
@@ -1350,7 +1351,7 @@ Professor: Simon Wood
 
 - 1960s: Jazz recognized as an art form.
   - You could study jazz in school. Big indicator of seriousness.
-  - MUSIC 140 would not have existed before mid 1990s.
+  - MUSIC 140 could not have existed before mid 1990s.
 
 - Aside: google Little Stevie Wonder
 
@@ -1445,7 +1446,7 @@ Professor: Simon Wood
 - [James Brown]
   - Woke up one morning and brought the music world revolution
   - Soul Brother #1
-  - 3 costume changes during own funeral
+  - 3 costume changes during own funeral (?!?)
   - Phenomenal showman. Does knee-dropping thing on stage.
   - First hit: "Please Please Please", 1956
     - Historians point to this as the beginning of soul music
@@ -1456,7 +1457,7 @@ Professor: Simon Wood
 
 - Song: [I Feel Good]
   - By [James Brown], in [1965]
-  - Format: [12bb, 12bb, 4 bar beak, 8 bar bridge, 12bb]
+  - Format: [12bb, 12bb, 4 bar break, 8 bar bridge, 12bb]
   - YEAAAH TOUCHDOWN
   - Soul music
   - Gospel vocal style, distortion of voice
@@ -1496,7 +1497,7 @@ Professor: Simon Wood
   - He creates... Funk.
 
 - Song: [Get Up]
-  - By [James Brown], []
+  - By [James Brown], 1970
   - (I Feel Like Being A) Sex Machine
   - Funk song.
   - "Take them to the bridge!"
@@ -1595,7 +1596,7 @@ Professor: Simon Wood
   - Revived in the early 1960s.
     - Generational value gap developed.
 
-- [Hippie]: Term for those who ascribed to this ideology.
+- [Hippie]: Term for those who subscribed to this ideology.
   - From "yeah I'm hip" -- I'm up to date
     - (today it would be wokies)
   - Two main hippie centres:
@@ -1801,17 +1802,18 @@ Professor: Simon Wood
   - Distinguish by:
     - Level of distortion.
       - Both have it on the guitar.
-      - Heavy metal has more (bass, voice).
+      - Heavy metal has more, especially in the bass and vocals.
     - Tempo.
       - Hard rock has mid-range, constant tempos.
       - Heavy metal has more extreme tempos, and tempo can change during a
         song.
     - Influence.
-      - Hard rock comes from R+B.
-      - Heavy metal is more classical. Almost virtuosic.
+      - Hard rock comes from R+B, blues. Came from the British Blues Revival
+        and Psychedelic Blues.
+      - Heavy metal comes more from classical. Almost virtuosic.
     - Lyrics.
-      - Hard rock is more basic. Chuck Berry style. Parties, girls, freedom,
-        sex.
+      - Hard rock is more basic. Chuck Berry style. Parties, girls, cars,
+        freedom, sex.
       - Heavy metal is more alienation, loss of control, mental instability,
         war, despair. Can also have religious/mythological themes.
 
@@ -1850,6 +1852,12 @@ Professor: Simon Wood
   - Doomy music, expressed dissatisfaction with world.
     Insanity/madness/futility of war.
 
+- Song: [War Pigs]
+  - [1970] song by [Black Sabbath]
+  - From album [Paranoid]
+  - Had extensive instrumental sections
+  - Lower level of distortion compared to other heavy metal
+
 - [Deep Purple].
   - Important person: [Jon Lord], player of the [electric organ].
     - Brought in knowledge of classical music.
@@ -1873,18 +1881,22 @@ Professor: Simon Wood
   - Recording studio well used. Almost psychedelic. Utilized stereo recording.
   - No interesting in editing singles for the radio. (see Stairway to Heaven)
 
-- Song: Whole Lotta Love
+- Song: [Whole Lotta Love]
   - [1969] song by [Led Zeppelin]
   - From album [Led Zeppelin II]
+  - Based on riffs from blues
   - Stolen from Muddy Waters song ("You Need Love", 1962).
     - Willie Dixon of Chess Records sued.
 
 - General notes about Hard Rock and Heavy Metal
-  - Not just a performance. Concertgoers often aspire to be up on the stage one
-    day.
+  - Much a response to the failure of the counterculture.
+  - Hard Rock: "Ignore problems in society, focus on pleasure"
+  - Heavy Metal: Outwards reflection of youths' fears and pessimism
+  - Promoted the individual over the collective
   - More corporate.
     - Band named dropped the "the" and became singular rather than plural.
     - Logos!
+  - Fans often aspire to be up on the stage one day.
 
 - Punk: There are no stars. TODO
 - Disco: Everyone is a star. TODO
@@ -1933,7 +1945,7 @@ Professor: Simon Wood
     - Did very detailed full-length raps.
     - Wrote them down, like songs -- this freezes them in time!
     - Thus, was hip hop's first songwriter.
-  - 1978: [Grand Wizzard Theodore]
+  - 1978: [GrandWizzard Theodore]
     - Backspin: Sound in reverse.
     - Invented [scratching]. Thus redefined the turntable from [consumption to
       production].
@@ -1943,8 +1955,9 @@ Professor: Simon Wood
   - Charts: [#1 pop, R&B]
 
 - Song: [Rapper's Delight]
-  - [1979 Oct] song by TODO.
-  - Based on Good Time.
+  - [1979 Oct] song by [The Sugarhill Gang].
+  - Produced by [Sylvia Robinson]. The Sugarhill Gang was three local rappers she found.
+  - Based on [Good Time].
   - First hip hop hit.
   - Charts: #4 R&B, #36 Pop.
   - "What you hear is not a test. I'm rapping to the beat."
@@ -1955,18 +1968,16 @@ Professor: Simon Wood
   - In the beginning, didn't want any hip hop records
   - Boycott threat, so they brought in Michael Jackson
 
-- Aerosmith / Run DMC
-  - TODO
-
 - Song: [Walk This Way]
-  - [1985 song] by [Run DMC / Aerosmith]
+  - [1986 song] by [Run DMC / Aerosmith]
+  - Based on rock band's [1977] hit of the same title
   - First rap not excluded from MTV
 
 - And thus hip hop brings the world revolution.
 
 - This course was ultimately about... you.
 - Everything in the world is the way it is... for a reason.
-- And with just a bit of research, you can find out why.
+- And with just a bit of research, you can find out these reasons.
 - If something is wrong with the world, you can change it.
 - Do better to the world than my generation did.
-- Thus Paraphased from Simon Wood.
+- Thus Roughly Paraphased from Simon Wood.
