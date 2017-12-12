@@ -296,61 +296,165 @@
 
 ## People
 
-- **Diane Warren**: Legendary songwriter who wrote all the stuff you know about.
-- **Les Brown**: Wrote music of "Sentimental Journey"
-- **Doris Day**: Sang "Sentimental Journey"
-- **George Gershwin**: Wrote "I've got a Crush on You"
-- **Frank Sinatra**: Very popular. "I've Got a Crush on You". Crooner style voice.
-- **Thomas Moore**: Wrote "Believe Me If All Those Endearing Young Charms"
-- **Charles K. Harris**: Wrote "After The Ball"
-- **Jimmie Rodgers**: First country star
-- **Blind Willie McTell**: "Travelin' Blues"
-- **Robert Johnson**: "Sweet Home Chicago"
-- **Ralph Peer**: Okeh Records, Mamie Smith
-- **Mamie Smith**: First significant black singer recording
-- **Dave Macon**: "Carve That Possum"
-- **Carl and Blackwell**: "How Long Blues"
-- **Patti Page**: "How Much Is That Doggie In The Window?"
-- **Wynonie Harris**: "Good Rockin' Tonight"
-- **Ray Charles Robinson**: Blind age 7; musical genius
-- **Willie Dixon**: Wrote "Hoochie Coochie Man"
-- **Muddy Waters**: (McKinley Morganfield): Chicago. Sang "Hoochie Coochie Man"
-- **Sam Phillips**: Found Elvis
+- Diane Warren: Legendary songwriter who wrote all the stuff you know about.
+- Les Brown: Wrote music of "Sentimental Journey"
+- Doris Day: Sang "Sentimental Journey"
+- George Gershwin: Wrote "I've got a Crush on You"
+- Frank Sinatra: Very popular. "I've Got a Crush on You". Crooner style voice.
+- Thomas Moore: Wrote "Believe Me If All Those Endearing Young Charms"
+- Charles K. Harris: Wrote "After The Ball"
+- Jimmie Rodgers: First country star
+- Blind Willie McTell: "Travelin' Blues"
+- Robert Johnson: "Sweet Home Chicago"
+- Ralph Peer: Okeh Records, Mamie Smith
+- Mamie Smith: First significant black singer recording
+- Dave Macon: "Carve That Possum"
+- Carl and Blackwell: "How Long Blues"
+- Patti Page: "How Much Is That Doggie In The Window?"
+- Wynonie Harris: "Good Rockin' Tonight"
+- Ray Charles Robinson: Blind age 7; musical genius
+- Willie Dixon: Wrote "Hoochie Coochie Man"
+- Muddy Waters: (McKinley Morganfield): Chicago. Sang "Hoochie Coochie Man"
+- Sam Phillips: Found Elvis
 
-## Musical styles
+- Elvis Presley: Instinctual white singer
+- Chuck Berry: Self-conscious black musician who wanted to be rich
+- Brian Wilson: Creative genius behind The Beach Boys
+- Woody Guthrie: "This machine kills fascists" on his guitar
+- Pete Seeger: Led The Weavers
 
-- **Big Band**: Old white "jazz band", many instruments.
-- **Parlour songs**: Old white lovey dovey pop. Type of Victorian Ballad.
-- **Tin Pan Alley**: Pop. Urban white pop.
-- **Hillbilly** / **C&W**: Rural white music. Nasal resonance. Distant singing.
-- **Race** / **R&B**: Black music.
-- **Folk**: Performed by amateur, for entertainment. No self-consciousness.
-- **Work song**: Sang during labour, from African American slaves.
-- **Ragtime**: Musical style with much syncopation. e.g. The Entertainer.
-- **Blues**: In general, deep south African American music.
-- **Country blues**: Traveling guitarist, 12 bar blues.
-- **Jump blues**: Big Band + Blues/Race. Smaller group. Focus on vocalist, sax, trumpet, rhythm.
-- **Gospel**: Sacrilege.
-- **Chicago electric blues**: Electric amplification.
+- Sgt. Jack Mullin: Found Magnetophon
+- Les Paul: Sound innovator
+- Phil Spector: Influential producer
+- Stu Sutcliffe: Beatles' original guitar player; died of brain hemorrhage
+- Dick Rowe: The guy who turned down the Beatles.
+- George Martin: Producer for the Beatles. Fired Pete Best for Ringo Starr
+- Brian Epstein: Manager for the Beatles.
+- Ringo Starr: Not even the best drummer in the Beatles.
+- Ed Sullivan: Had a TV show that The Beatles played in.
+- John Lennon: Beatle. The intellectual. Bigger Than Jesus. Wrote Tomorrow Never Knows.
+- Paul McCartney: Beatle. Wrote Yesterday, influenced by Bob Dylan.
+- Andrew Loog Oldham: Manager for The Rolling Stones. "You will never out-Beatle the Beatles."
+- Brian Jones: Started The Rolling Stones, but got kicked out and died.
+- Mick Jagger: One leader of The Rolling Stones, did daytrading pretty well apparently ???
+- Keith Richards: One leader of The Rolling Stones. Dreamt up I Can't Get No Satisfaction
+- Eric Clapton: Left the Yardbirds
+- Jeff Beck: Technically innovative guitarist who replaced Eric Clapton. Stage fright.
+- Jimmy Page: Backup studio musicians for The Yardbirds
+- Berry Gordy: Created Motown.
+- Smokey Robinson: Songwriter for Motown
+- Maxine Powell: Finishing school teacher for Motown
+- Cholly Atkins: Choreographer for Motown
+- Diana Ross: Lead singer of The Supremes. Soft voice.
+- Otis Redding: Singer for Stax. Wrote Respect. Sang Try A Little Tenderness.
+- Aretha Franklin: Black female singer, powerful voice. Christian gospel turned secular.
+- Muhammad Ali: Changed name from Cassius Clay
+- James Brown: Created Funk based on his understanding of African culture.
+- Bob Dylan: Folk became electric, inspired by Beatles.
+- Jack Kerouac: Beats author.
+- Allan Ginsberg: Beats poet.
+- Jimi Hendrix: Virtuosic guitarist, psychedelic blues. Died after the counterculture failed.
+- Jon Lord: Classically trained keyboard player for Deep Purple.
+- Kool Herc: Brought cutting and mixing from Jamaica to NYC. 1973
+- Grandmaster Flash: Invented the quick mix (cutting and mixing faster). 1976
+- Grandmaster Melle Mel: Toasted for Grandmaster Flash. First wrote down raps. 1976
+- GrandWizzard Theodore: Invented scratching (turntable backspin). 1978
+- Sylvia Robinson: Found the Sugar Hill Gang. 1979
 
-## Terms
+## Bands
 
-- **Song leader**: Leader of work song.
-- **Floating pool of verse**: Set from which work song bits are picked.
-- **African retentions**:
+- The Ronettes: Did Be My Baby
+- The Beach Boys: Made surf music. Prev name: The Pendletones.
+- The Beatles: Became artistic, inspired by Bob Dylan. Prev name: The Quarrymen.
+- The Rolling Stones: The surly Beatles. Started at the Marquee Club.
+- The Yardbirds: Later became Led Zeppelin
+- The Funk Brothers: House band of Motown
+- The Miracles: Group with Motown
+- The Supremes: Group with Motown
+- Sam & Dave: R&B duo that worked with Stax
+- The Grateful Dead: Really down to earth SFO band. Fans: Deadheads.
+- Jefferson Airplane: Did Acid Rock song White Rabbit (1967).
+- AC/DC: 1973 Australia band. Did Hard Rock. Song: Highway to Hell (1980, Back in Black)
+- Metallica: 1981 Los Angeles band. Did Heavy Metal. Song: Master of Puppets (1986)
+- Black Sabbath: One of the three founding HR/HM bands. Song: War Pigs
+- Deep Purple: One of the three founding HR/HM bands. Had Jon Lord. Song: Highway Star
+- Led Zeppelin: One of the three founding HR/HM bands. Song: Whole Lotta Love
+- Run-DMC: One of two bands involved in Walk This Way
+- Aerosmith: Rock band that did Walk This Way
+- Chic: Made "Good Time", which Rapper's Delight was based off of
+- The Sugarhill Gang: Local kids who did Rapper's Delight
+
+## Musical styles and movements
+
+- Big Band: Old white "jazz band", many instruments.
+- Parlour songs: Old white lovey dovey pop. Type of Victorian Ballad.
+- Tin Pan Alley: Pop. Urban white pop.
+- Hillbilly / C&W: Rural white music. Nasal resonance. Distant singing.
+- Race / R&B: Black music.
+- Folk: Performed by amateur, for entertainment. No self-consciousness.
+- Work song: Sang during labour, from African American slaves.
+- Ragtime: Musical style with much syncopation. e.g. The Entertainer.
+- Blues: In general, deep south African American music.
+- Country blues: Traveling guitarist, 12 bar blues.
+- Jump blues: Big Band + Blues/Race. Smaller group. Focus on vocalist, sax, trumpet, rhythm.
+- Gospel: Sacrilege.
+- Chicago electric blues: Electric amplification.
+- Rock & Roll: Combined R&B and C&W
+- Dance craze: In-between years. Lyrics tell you how to dance
+- Teen idols: In-between years. Romantic, non-sexualized goodies.
+- Surf music: In-between years. About beaches and stuff.
+- Folk revival: Produced folk music for growing bb boomers.
+- British invasion: Beatles & Rolling Stones
+- British blues revival: Rolling Stones, Yardbirds
+- Hippie aesthetic: album oriented rock, for listening, not dancing.
+- Soul: New, optimistic African American sound. Fused gospel vocals, R&B backbeat, TPA style
+  - Motown and Stax
+- Funk: Nevermind, everything is still bad. Singlehandedly conjured up by James Brown
+- Counterculture/hippie: Enlightened young whites, lol
+- Folk Rock: Made when Bob Dylan went electric. Grateful Dead.
+- Acid Rock: Counterculture-related rock. White Rabbit by Jefferson Airplane.
+- Psychedelic Blues: More aggressive and political. Jimi Hendrix.
+- Hard Rock: Inspired by R&B. AC/DC.
+  - "Forget everything"
+- Heavy Metal: More distorted on bass and vocals, extreme tempos, virtuosic, deeper lyrics.
+  - Metallica
+  - "Everything sucks"
+- Punk: "Nobody is a star *spit*"
+- Disco: "Everyone is the star, everybody dance now"
+- Hip hop / rap: Spoken words on top of beat, from Jamaica.
+
+## Concepts
+
+- Work song
+  - Song leader: Leader of work song.
+  - Floating pool of verse: Set from which work song bits are picked.
+- African retentions:
   - 1. Percussive & Distorted Timbres
   - 2. Value in the Ecstatic and Cathartic
   - 3. Riffs
   - 4. Call and Response
 - The 27 Club
   - Brian Jones
+  - Robert Johnson
+  - Jimi Hendrix
   - Otis Redding (26; honorary member)
+- West-African drum groups
+  - Master Drummer
+  - Interlock groove
+  - Community
+  - Cyclical forms
+- After the counterculture
+  - 1973-1974: The Energy Crisis
+  - Early 1970s: Watergate
+  - 1975 Apr 30: The Fall of Saigon
 
 ## Timeline
 
 - Ancient prehistory
+  - 1700s, late: Copyright law introduced
   - 1887: Gramophone invented
 - Tin Pan Alley. Pop, Race, Hillbilly. Radio.
+  - 1891: "After The Ball"
   - 1920: Commercial radio
   - 1920: "Crazy Blues"
   - 1922 Jan: 28 stations
@@ -400,3 +504,8 @@
   - 1963: Music industry STILL worth $600M. Sad!
   - 1964: Sweet Little Sixteen
   - 1970s: Elvis is Las Vegas druggie
+- The British Invasion
+- Soul to Funk
+- The Counterculture
+- Hard Rock and Heavy Metal
+- Hip hop

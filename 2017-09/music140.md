@@ -927,8 +927,8 @@ Professor: Simon Wood
     - 26M viewers
     - Now they are major stars. The Top of the Pops.
   - John emerges as the funny, snarky one
-  - "Do you think Ringo Star is the best drummer in the world?"
-    - "Ringo Star isn't even the best drummer in the Beatles"
+  - "Do you think Ringo Starr is the best drummer in the world?"
+    - "Ringo Starr isn't even the best drummer in the Beatles"
   - British artists were not successful in the US
   - Even Beatle songs were not doing well
   - Brian Epstein: "The Beatles will not go to the US until they have a hit."
@@ -1898,8 +1898,8 @@ Professor: Simon Wood
     - Logos!
   - Fans often aspire to be up on the stage one day.
 
-- Punk: There are no stars. TODO
-- Disco: Everyone is a star. TODO
+- Punk: There are no stars. See textbook notes
+- Disco: Everyone is a star. See textbook notes
 
 - Hip hop
   - Very big influence on pop culture.
