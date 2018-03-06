@@ -145,13 +145,13 @@ Secrets](http://sonicbloom.net/en/63-in-depth-synthesis-tutorials-by-sound-on-so
 ## 10. Modulation
 
 - Much more than using an LFO to add tremolo or vibrato.
-- Tremolo: Modulating amplitude.
-- Vibrato: Modulating frequency.
+  - Tremolo: Modulating amplitude.
+  - Vibrato: Modulating frequency.
 - Modulating filter cutoff:
   - 0.1 Hz: Slow filter sweep. Nice and ambient.
   - 1-2 Hz: Wah-wah
   - 10-20 Hz: Growl
-- Pulse wave duty cycle:
+- Modulating pulse wave duty cycle:
   - 5-10%: Thin, nasal. Oboes.
   - 11-49%: Thickens up
   - 50%: Distinctively hollow. Clarinets.
@@ -163,3 +163,41 @@ Secrets](http://sonicbloom.net/en/63-in-depth-synthesis-tutorials-by-sound-on-so
   - Can also be applied to sawtooth.
 - Foreshadowing: Modulating with audio signals results in drastically different
   effects.
+
+## 11. Amplitude modulation
+
+- Modulating amplitude with an LFO results in tremolo, but...
+- Modulating amplitude with another audible signal "splits up" the original
+  frequencies in the frequency domain, since:
+      (a₁ + a₂ cos(ω₂t)) cos(ω₁t) 
+    = a₁ cos(ω₁t) + ½ a₂ (cos((ω₁+ω₂)t + cos((ω₁-ω₂)t)))
+  that is, the modulator frequency is added and subtracted from the carrier
+  freuqnecy, and those become NEW frequencies in the resulting sound!
+- This is an application of: pointwise multiplication in the time domain is
+  convolution in the frequency domain.
+- A ring modulator is just an amplitude modulator that only outputs the
+  sum/difference frequencies
+- Modulating filter cutoff with this technique just sweeps some harmonics in
+  and out
+- Next time: FM synthesis!
+
+## 12. Frequency modulation (I)
+
+- Discovered by John Chowning at Stanford
+- Sold license to Yamaha and engineer Ichimura brought the synthesis world
+  revolution.
+- The FM synth equation:
+    A₁ = a₁cos((ω₁+a₂cos(ω₂t))t)
+- When ω₂ << ω₁, this is just vibrato
+- FM synthesis is very very fast vibrato
+- FM synthesis produces side bands of the form
+    `ω_sb = ω_c ± nω_m`
+  where `ω_c` is the carrier frequency, `ω_m` is the modulator frequency, n is
+  an integer
+- The modulation index `β = Δω_c / ω_m` determines the shape of the sidebands
+- In a keyboard, to maintain consistent timbre, must scale carrier and
+  modulating frequency in proportion
+- Bandwidth of FM synth is approximately `B = 2ω_m(1+β)`.
+- (!!!) Modulate the modulator frequency and get... VARYING BRIGHTNESS OVER
+  TIME! One handle of the HOLY GRAIL!
+- Next time: Practical FM synth, and operators.
