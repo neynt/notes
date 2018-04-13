@@ -1,0 +1,33 @@
+Wikitext cheatsheet.
+
+= Heading 1 =
+== Heading 2 ==
+====== Heading 6 ======
+
+:Indentation
+
+* Unordered list
+** Nested item
+
+# Numbered list
+## Nested item
+
+; Term
+: Definition 1
+: Definition 2
+
+''italics''
+'''bold'''
+'''''italics and bold'''''
+
+[[Free link]]
+[[Free link|Displayed text]]
+
+NOTE: All these end up as "kingdom"
+  - [[kingdom (hidden)]]
+  - [[kingdom, hidden]]
+  - [[Wikipedia:kingdom]]
+
+[[fr:pomme]] -- link to other language
+
+{{template|param1|param2}}

@@ -201,3 +201,48 @@ Secrets](http://sonicbloom.net/en/63-in-depth-synthesis-tutorials-by-sound-on-so
 - (!!!) Modulate the modulator frequency and get... VARYING BRIGHTNESS OVER
   TIME! One handle of the HOLY GRAIL!
 - Next time: Practical FM synth, and operators.
+
+## 13. Frequency modulation (II)
+
+- C:M ratio: carrier:modulation ratio
+- recall that side band frequencies are at C+kM, k integer
+- call C±nM the nth order components
+- then the amplitude of each pair of side bands is given by the Bessel
+  function:
+    `J(n,β) = sum for k from 0 to ∞ of (-1^k)(β/2)^(n+2k) / (k!(n+k)!)`
+- positive side bands are added, negative side bands are subtracted
+  - but they are shifted away from each other; with 1:1, it's 2 shift away
+- terms get small real fast, often only need very small k
+- "cross modulation" on analog synths often means frequency modulation
+- 1:2 ratio gives side bands at C, 3C, 5C, ... -- a square wave!
+- 1:3 is 33% pulse wave; 1:4 is similar to square wave
+- operators
+  - block diagrams become unwieldy fast; introduce "operator"
+  - operators are oscillators + associated envelope generators, mixers, and
+    VCAs
+  - very useful to think of algorithms as diagrams of connected operators
+  - cascading operators is modulating modulators
+  - operators distribute (2,3->1 => 2->1 + 3->1)
+- feedback
+  - operators and operate on themselves, on in cycles
+  - oh dang how to represent this
+  - op1 -> op2 -> [2sines] -> feedback gives you noise (drums!)
+
+## 14. Additive synthesis
+
+- you can create sounds by adding a bunch of sine waves (thus point-specifying
+  the frequency domain)
+- Hammond Organ: nine integer harmonics
+- Synth secret: Organs sound like organs because their sounds do not change
+  over time.
+  - Any timbre will sound organ-like if it doesn't change in time!
+- How to make the sound more interesting?
+  - Add time-varying filters and amplifiers. (now like a minimoog)
+  - A real sound, like a plucked string, starts bright and goes darker over
+    time.
+      - Idea: time-varying amplifier BEFORE mixing the sines together.
+      - Called Fourier synthesis.
+- But we're still missing a piece. Flutes and trumpets have a component of
+  time-varying filtered noise.
+- Spectral Modelling Synthesis: You analyze a signal and then synthesize it
+  with additive synthesis + noise

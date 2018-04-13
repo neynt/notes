@@ -1,5 +1,7 @@
 # PD 8: Intercultural skills
 
+2018-01 offering.
+
 ## 1. Course introduction
 
 - This course is about how culture affects workplace interactions.
@@ -340,3 +342,71 @@
   - 2. Don't make automatic judgments
   - 3. Get to know your team members
   - 4. Clarify your expectations
+
+## 9. Attitudes towards work
+
+- Cultural cafe: In Austria, people work 85% of the time at 100% concentration.
+  In Canada, people work 100% of the time at 85% concentration.
+
+- In Japan, taking time off is viewed badly and can result in guilt.
+
+- It's about:
+  - Work-life balance
+  - Motivation for work
+  - Desired results of work
+
+- Work-oriented culture
+  - We live to work
+  - Value assertiveness, competition, success
+  - Korea, USA, Japan, China; Canada, Hong Kong, Singapore
+
+- High work-life balance
+  - Work to live, not live to work
+  - Saudi Arabia, UAE, Norway, France, Germany, Latin America
+  - Stores closed Sundays (le switz)
+  - People leave at 2PM on Fridays
+  - Laws enforce long vacations, limit work hours
+
+- Vacations
+  - Asia: 1-2 wk
+  - Europe: 4-6 wk
+  - NA: typically 2 wk
+
+- Reward systems
+  - Individualistic cultures like NA: recognize individual accomplishments
+  - Collectivist cultures: China, Japan, Korea don't like and reject.
+  - Praise and positive feedback
+    - Canada, US: Key motivator. Given frequently if you're doing well.
+    - France: Praise can be offensive.
+
+## 10. Developing your cultural intelligence
+
+- Mark Morton
+  - Guy liked languages
+  - French, Anglo-Saxon, ..., Arabic
+  - Learning languages helps your brain not deteriorate
+
+- Review of concepts
+  - Cultural differences
+    - Time
+    - Role of the individual vs. group
+    - View of power and hierarchy
+    - Task vs. relationships
+    - Attitude toward risk and change
+  - Communication
+    - Verbal: Direct vs. indirect, high context vs. low context
+    - Non-verbal
+  - Key ideas
+    - Everyone has culture
+    - Cultural generalization are necessary intellectual tools
+    - "Do's and don'ts" aren't enough. Need to know general categories of
+      differences.
+  - Intercultural skills
+  - Personal qualities good for being effective across cultures:
+    - Open-mindedness
+    - Patience
+    - Curiosity
+    - Self-awareness
+    - Cultural know-how haveness
+  - Learn another language!
+    - Spasybi. Dyakuyu.
