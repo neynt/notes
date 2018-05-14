@@ -246,3 +246,5 @@ Secrets](http://sonicbloom.net/en/63-in-depth-synthesis-tutorials-by-sound-on-so
   time-varying filtered noise.
 - Spectral Modelling Synthesis: You analyze a signal and then synthesize it
   with additive synthesis + noise
+
+## 15. ESPS and vocoders
