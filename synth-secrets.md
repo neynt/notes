@@ -248,3 +248,22 @@ Secrets](http://sonicbloom.net/en/63-in-depth-synthesis-tutorials-by-sound-on-so
   with additive synthesis + noise
 
 ## 15. ESPS and vocoders
+
+- You can DSP existing recorded sounds, like voice
+- Slew generator: An IIR lpf Like an ewma
+  - Can also be used for portamento
+- Pitch-to-voltage converter
+  - Given signal, output pitch level.
+  - Can use ifft.
+  - To make better: 
+    - Use input gain control
+    - Use slew generator
+- Envelope follower
+  - Given signal, output 
+- Vocoder
+  - Resynthesizes the input signal
+  - Signal -> Filter bank -> Envelope follower -> VCA
+  - Can be extended with a nosie generator for sibilants, consonants
+- "Alternatively, you could simply stick with conventional emulations of
+  woodwind, strings and brass, or continue to create silly bleeping and
+  squelchy noises. But where's the fun in that?"
