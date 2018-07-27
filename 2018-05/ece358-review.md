@@ -814,3 +814,271 @@ In which I go through every slide and consciously summarize it.
     - Intra-AS can focus on performance, whereas inter-AS may prioritize policy.
 
 ## Chapter 5: Link Layer
+
+- 1. Presented by Dr. Albert Wasef
+- 2. Goals
+
+- 3. -
+- 4. Link layer introduction
+  - Nodes are connected by links, over which frames travel
+- 5. Link layer context
+  - Princeton→JFK→Geneva→Lausanne analogy
+- 6. Link layer services
+  - Framing: Putting datagrams into frames
+  - Link access: Control access to a shared medium
+  - Reliable delivery: More efficient than waiting for higher level protocol to
+    do this on a high error link like wireless
+- 7.
+  - Flow control: Pacing sending and receiving nodes
+  - Error detection
+  - Error correction
+  - Half duplex vs. full duplex
+    - Half: Both ends can transmit, but not simultaneously
+- 8. Link layer implementation
+  - Implemented on the NIC (Network Interface Card)
+- 9. Adaptors communicating
+
+- 10. -
+- 11. Error detection
+  - EDC: Error detection and correction bits
+  - Not 100% reliable
+- 12. Parity checking
+  - Single bit parity: Use a single bit. Can detect single bit errors.
+  - Two-dimensional parity: Transmit parity of each row and column. Can
+    detect and correct single bit errors.
+- 13. Recall: Internet checksum (two's complement sum of 16-bit chunks)
+- 14-15. CRC: Cyclic redundancy check
+  - More powerful error detection.
+  - D: d data bits
+  - R: r CRC bits
+  - G: r+1 bit generator
+  - Want (concat DR) divisible by G
+  - Compute R = D×2^r / G
+  - Can detect all burst errors of at most r bits.
+
+- 16. -
+- 17. Multiple access links
+  - Point-to-point links connect two things
+  - Some media connect three or more things together
+- 18. Multiple access protocols
+  - With a single broadcast channel, nodes can collide if they transmit at the
+    same time
+  - Multiple access protocol helps coordinate against this
+- 19. Ideal multiple access protocol
+  - If the channel has rate R bps, we want:
+    - 1. Single transmitting node can send at rate R.
+    - 2. M transmitting nodes can send at average rate R/M.
+    - 3. Fully decentralized. No special node, no clock sync or slots.
+    - 4. Simple.
+- 20. Taxonomy of MAC protocols
+  - Channel partitioning:
+    - Channel is divided across time, frequency, or code
+  - Random access:
+    - Channel is not divided. Collisions are allowed, but you recover from
+      them.
+  - Taking turns:
+    - Nodes take turns, weighted by amount node has to send.
+
+<!-- Channel partitioning -->
+- 21. TDMA: Time division multiple access
+  - Channels take turns. Each channel has a fixed-length slot.
+  - Pros: Fair, collision free
+  - Cons: Bandwidth wasted, unnecessary waiting
+- 22. FDMA: Frequency division multiple access
+  - Same pros/cons as TDMA.
+
+<!-- Random access -->
+- 23. Random access protocols
+  - Nodes that have data transmit at full rate
+  - Collisions are detected and recovered from
+- 24. Slotted ALOHA
+  - Equal size frames, each timeslot can fit one frame, synchronized slots
+    between nodes
+  - Nodes immediately transmit when they get data
+  - If there's a collision, node retransmits in subsequent frames with
+    probability p until success
+  - 25.
+    - Pros:
+      - Single active node can fully use channel
+      - Decentralized
+      - Simple
+    - Cons:
+      - Collisions waste slots
+      - Idle slots with bad luck
+      - Collisions can be detected earlier
+      - Requires clock synchronized nodes
+  - 26. Efficiency
+    - Probability of success in a given frame is Np(1-p)^(N-1)
+    - Want to find p' that maximizes that
+    - As N→∞, max efficiency approaches 1/e = 0.37
+- 27. Pure ALOHA
+  - Just like Slotted ALOHA, but don't synchronize clocks
+  - Collision probability increases
+  - 28. Efficiency
+    - Probability of success for a given node is p(1-p)^(2(N-1))
+    - As N→∞, max efficiency approaches 1/(2e) = 0.18
+- 29. CSMA: Carrier sense multiple access
+  - Don't interrupt others! Listen before transmitting
+  - 30. Collisions can still occur due to propagation delay, and they waste the
+        entire packet transmission time.
+- 31. CSMA/CD: CSMA with collision detection
+  - When you detect a collision, stop transmitting
+  - 32. Ethernet CSMA/CD algorithm
+    - Basically, if you detect a collision, send a jam signal and use binary
+      backoff to decide when to retransmit
+  - 33. Flowchart for above
+  - 34. Ethernet details:
+    - Medium sensing done for 96 bit times
+    - Jamming signal 48 bits long
+    - Tp = 512 bit times
+    - Maximum i is 10; fails afterward
+  - 35. Chart for above
+  - 36. Efficiency
+    - Is 1/(1 + 5tprop/ttrans), where:
+    - tprop = max propagation delay between 2 nodes
+    - ttrans = time to transmit max-size frame
+
+- 37. Taking-turns MAC protocols
+  - Look for the best of both worlds between channel partitioning and random
+    access
+  - 38. Polling
+    - Master node invites slave nodes to transmit in turn
+    - Pros: No collisions, no empty slots
+    - Cons: Polling overhead, latency, and master is single point of failure
+  - 39. Token passing
+    - Token is passed to nodes successively
+    - Cons: Token overhead, latency, and token is single point of failure
+- 40. Cable access network
+- 41. DOCSIS: Data Over Cable Service Interface Spec
+  - Divides upstream and downstream channels using FDM
+  - Additionally TDMs upstream channels
+  - Downstream MAP frames assign upstream slots
+  - Upstream slot requests and data are transmitted random access with binary
+    backoff
+- 42. MAC protocols summary
+
+- 43. -
+- 44. MAC addresses and ARP
+  - 48-bit MAC address is burned into the NIC (though can sometimes be set by
+    software)
+- 45. LAN addresses and ARP
+  - Each adapter on a LAN has a unique LAN address
+- 46. More
+  - IEEE allocates MAC addresses
+  - Manufacturers buy MAC address space
+- 47. ARP: Address Resolution Protocol
+  - Used to determine an interface's MAC address from its IP address
+  - Every IP node has an ARP table that maps IP→MAC with a TTL
+- 48. ARP protocol
+  - Suppose A wants to send to B, but A doesn't know B's MAC address.
+  - A broadcasts an ARP query with B's IP address.
+    - (Broadcast MAC address = FF-FF-FF-FF-FF-FF)
+  - B replies with its MAC address (unicast).
+  - ARP is plug and play.
+- 49-54. Addressing example
+
+- 55. -
+- 56. Ethernet
+- 57. Ethernet physical topology
+  - Bus: Popular in mid 90s. All computes share a cable.
+  - Star: Popular today. Active switch in the center, so spokes don't collide.
+- 58. Ethernet frame structure
+  - Preamble: [10101010]×7 + [10101011] to synchronize clock rates
+  - 59. Destination MAC address
+  - Source MAC address
+  - Type (higher layer protocol; usually IP)
+  - CRC
+- 60. Ethernet properties
+  - Connectionless
+  - Unreliable: No ACKs or NAKs
+  - MAC protocol is unslotted CSMA/CD with binary backoff (as previously
+    mentioned)
+- 61. 802.3 Ethernet standards
+  - There are many of them of various speeds and for fiber and cable
+
+- 62. -
+- 63. Ethernet switch
+  - Plug-and-play, transparent, self-learning link layer device
+- 64. Each link is full duplex and its own collision domain
+- 65. Switch forwarding table
+  - Maps MAC address to interface, with a timestamp
+- 66. Self-learning
+  - Switches automatically learn which hosts are available through which
+    interface by recording information sent from each interface
+- 67. Frame filtering/forwarding
+  - If destination link = incoming link, frame is dropped. Otherwise forwarded.
+  - If no entry found, flood.
+- 68. Example
+- 69. Interconnecting switches: Self learning just works!
+- 70. Self-learning multi-switch example
+- 71. Institutional networks typically have a tree of internal switches with a
+      router to the outside
+- 72. Switches vs. routers
+  - Both are store-and-forward, but:
+    - Routers are network-layer, switches are link-layer
+    - Router pros:
+      - Routers have hierarchical addressing and traffic isolation
+      - Routers route from source to destination directly
+    - Router cons:
+      - Routers have a larger processing time
+      - Routers need IP configuration
+    - Switch pros: Fast, Plug and play
+    - Switch cons:
+      - Broadcast storms
+      - ARP tables can become very large
+  - Both have forwarding tables, but
+    - Routers use complex routing algorithms and forward based on IP address
+    - Switches learn the forwarding table by flooding and forward based on MAC
+      address
+
+- 73. VLANs
+- 74. A feature of switches that lets them operate as separate virtual switches
+- 75. Port-based VLAN
+  - Allows for traffic isolation
+  - And dynamic membership
+  - And forwarding between VLANs via routing
+    - Many vendors sell combined switches + routers
+- 76. Multi-switch VLANs
+  - Cross-switch frames are carried by a trunk port
+  - 802.1q adds header fields for trunk ports
+- 77. 802.1q VLAN frame format
+
+- 78. -
+- 79. MPLS: Multiprotocol label switching
+  - High-speed IP forwarding using a fixed length label
+  - Similar to virtual circuit approach
+- 80. MPLS capable routers
+  - Don't inspect IP address
+  - Flexible: Forwarding decisions can be different from IP for traffic
+    engineering, pre-computed backup paths
+- 81-82. MPLS vs. IP paths
+  - IP routing determines next hop based on destination address alone
+  - MPLS routing can use source and destination address
+- 83. MPLS signaling
+  - OSPF, IS-IS are modified to carry information used by MPLS routing
+  - RSVP-TE signaling protocol used to set up MPLS forwarding downstream
+- 84. MPLS forwarding tables
+  - Contain in label, out label, destination, and out interface
+
+- 85. -
+- 86. Data center networking
+  - Big companies have many many hosts in close proximity
+  - 87. Load balancer: Application-layer routing
+  - 88. Rich interconnection between switches and racks
+    - Tier 1 switches → Tier 2 switches → TOR switches → Racks
+
+- 89. A day in the life of a web request
+- 90. Student opens laptop, connects to campus wifi, requests/receives
+      www.google.com
+- 91. Scenario diagram
+- 92. Laptop uses DHCP to get an IP address
+  - DHCP request <: UDP <: IP <: 802.3 Ethernet
+  - Ethernet frame broadcast received by DHCP server
+  - 93. DHCP server responds with DHCP ACK
+- 94. Laptop uses ARP to get MAC address of router
+- 95. Laptop sends DNS query, forwarded to DNS server, which responds
+- 96. Laptop opens TCP socket to web server, SYN SYNACK ACK
+- 97. Reply is received from web server and the page is finally displayed!!
+
+- 98. Chapter 5 summary
+- 99. Let's take a breath
