@@ -26,4 +26,13 @@ By Jared Diamond. 1998 Pulitzer in general nonfiction.
 
 ## Chapter 1: Up to the starting line (before 11000BC)
 
+...
 
+## Chapter 9
+
+- Lots of factors have to come together for animals to be domesticated, just as
+  lots of factors have to come together for a marriage to be happy. (Anna
+  Karenina principle -- "Happy families are all alike; every unhappy family is
+  unhappy in its own way.")
+- Conquered societies did not fail to domesticate their local animals; their
+  local animals are incapable of being domesticated.

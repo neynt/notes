@@ -1,0 +1,763 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\begin_preamble
+\usepackage[margin=2cm, bottom=3cm]{geometry}
+\usepackage[thickqspace,thickspace,amssymb]{SIunits}
+\usepackage{enumitem}
+\usepackage{listings}
+\usepackage{tkz-graph}
+\setlist{itemsep=0pt}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures false
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 10
+\spacing single
+\use_hyperref false
+\papersize letterpaper
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification false
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip smallskip
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 2
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+How to not fail SE 463
+\end_layout
+
+\begin_layout Author
+Jim Zhang
+\end_layout
+
+\begin_layout Date
+2018 Spring
+\end_layout
+
+\begin_layout Section
+Main course content
+\end_layout
+
+\begin_layout Subsection
+Introduction
+\end_layout
+
+\begin_layout Itemize
+Most software projects fail, not because some phony design or code's blessing,
+ but because, they did not make something users want.
+\end_layout
+
+\begin_layout Itemize
+Requirements are hard when they are vague, ambiguous, changing, incomplete,
+ infeasible, made with insufficient user input, or plain wrong.
+\end_layout
+
+\begin_layout Subsection
+The lean business model
+\end_layout
+
+\begin_layout Standard
+Constantly iterate in all stages of development.
+\end_layout
+
+\begin_layout Subsubsection
+Lean canvas model
+\end_layout
+
+\begin_layout Standard
+For the purposes of this course, ignore 
+\begin_inset Quotes eld
+\end_inset
+
+cost structure
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+revenue streams
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Fill out in order: Outer, middle, NW, SE, SW, NE.
+ Practice filling one of these out.
+\end_layout
+
+\begin_layout Subsection
+Hypothesis testing
+\end_layout
+
+\begin_layout Standard
+Form hypotheses that are 
+\series bold
+testable
+\series default
+ as well as 
+\series bold
+clearly falsifiable
+\series default
+.
+\end_layout
+
+\begin_layout Subsubsection
+Problem interview
+\end_layout
+
+\begin_layout Standard
+Consists of these stages:
+\end_layout
+
+\begin_layout Itemize
+Welcome
+\end_layout
+
+\begin_layout Itemize
+Collect demographics
+\end_layout
+
+\begin_layout Itemize
+Tell a story
+\end_layout
+
+\begin_layout Itemize
+Problem ranking
+\end_layout
+
+\begin_layout Itemize
+Explore customer's worldview
+\end_layout
+
+\begin_layout Itemize
+Wrap up
+\end_layout
+
+\begin_layout Itemize
+Document results
+\end_layout
+
+\begin_layout Subsection
+Stakeholders
+\end_layout
+
+\begin_layout Standard
+A stakeholder is anyone who will be affected by the project.
+ The 
+\series bold
+champion/owner
+\series default
+ is the stakeholder paying for the software to be made.
+ The 
+\series bold
+customer
+\series default
+ buys the software after it is made.
+ 
+\series bold
+Users
+\series default
+ interact with the software.
+ The 
+\series bold
+domain expert
+\series default
+ is very familiar with the problem to be solved.
+ The 
+\series bold
+software engineer
+\series default
+ develops the product and makes sure it's feasible.
+ 
+\series bold
+Negative stakeholders
+\series default
+ want you to fail.
+ 
+\series bold
+Disfavored users
+\series default
+ should have have access to the system.
+\end_layout
+
+\begin_layout Subsubsection
+Personas
+\end_layout
+
+\begin_layout Standard
+Fake users with heavily detailed stories and a moniker like 
+\begin_inset Quotes eld
+\end_inset
+
+Ken the Keener
+\begin_inset Quotes erd
+\end_inset
+
+, used to understand a user class.
+ Can be data-driven.
+\end_layout
+
+\begin_layout Subsection
+User requirements
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+User requirements
+\series default
+ are things that users want to be able to do.
+ A 
+\series bold
+use case
+\series default
+ is a vertical slice of end-to-end functionality.
+\end_layout
+
+\begin_layout Subsubsection
+Use case diagram
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename se463-review/use-case-diagram.png
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Primary actors on the left, supporting actors on the right, and all your
+ use cases in circles in a nice big box in the center.
+ Can use actor generalization (UML inheritance).
+ Can also «include» sub-use cases, or «extend» existing use cases, but do
+ it sparingly\SpecialChar endofsentence
+
+\end_layout
+
+\begin_layout Subsubsection
+User stories
+\end_layout
+
+\begin_layout Standard
+Short stories written in the format 
+\begin_inset Quotes eld
+\end_inset
+
+As a ROLE, I want THING so that BENEFIT
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Three C's are Card (that format), Conversation (you should have one), and
+ Confirmations (you should have objective acceptance criteria).
+ This produces user requirements from which you can derive 
+\series bold
+conditions of satisfaction
+\series default
+, which are functional requirements.
+\end_layout
+
+\begin_layout Subsubsection
+Changing requirements
+\end_layout
+
+\begin_layout Standard
+When user requirements try to change, keep in mind
+\end_layout
+
+\begin_layout Enumerate
+Your requirements baseline
+\end_layout
+
+\begin_layout Enumerate
+Your unique value proposition
+\end_layout
+
+\begin_layout Enumerate
+Project scope
+\end_layout
+
+\begin_layout Standard
+And accordingly prioritize user requests.
+\end_layout
+
+\begin_layout Subsection
+Workflow models
+\end_layout
+
+\begin_layout Standard
+A 
+\series bold
+workflow
+\series default
+ is a series of tasks that accomplish some use case.
+\end_layout
+
+\begin_layout Subsubsection
+Scenario
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename se463-review/scenarios-and-exceptions.png
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A 
+\series bold
+scenario
+\series default
+ is a full execution path through a use case, listing only observable actions.
+ They are drawn as a table where columns are the actors/systems and rows
+ are time.
+ Actions can have If, For, While, or Go To 
+\begin_inset Formula $UC_{n}$
+\end_inset
+
+ but those are signs that you're making the scenario too detailed.
+ 
+\series bold
+Alternatives
+\series default
+ are sub-use cases where the same thing is achieved but the sequence of
+ actions is different.
+ 
+\series bold
+Exceptions
+\series default
+ are sub-use cases that are unwanted deviations.
+ Both start off somewhere in the main use case flow.
+\end_layout
+
+\begin_layout Subsubsection
+Activity diagram
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename se463-review/activity-diagram.png
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+An 
+\series bold
+activity diagram
+\series default
+ describes control flow from one activity to another.
+\end_layout
+
+\begin_layout Subsubsection
+Dataflow diagram
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename se463-review/dataflow-diagram.png
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A 
+\series bold
+dataflow diagram
+\series default
+ shows functional and data dependencies between functions.
+ Notably, data stores are represented by an over/under bar.
+\end_layout
+
+\begin_layout Subsection
+MVP hypothesis testing
+\end_layout
+
+\begin_layout Standard
+To assess customer risk (who has the pain?) and product risk (how will you
+ fix it?), conduct a 
+\series bold
+solution interview
+\series default
+:
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Welcome
+\series default
+.
+ Describe the rest of the interview.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Collect demographics
+\series default
+ — particularly, those numbers relevant to your project.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Tell a story
+\series default
+ about the problem you're trying to solve and ask if it resonates with them.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Demo
+\series default
+ your solution to each problem.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Wrap up
+\series default
+ — ask if they want to see the product, and ask for leads.
+\end_layout
+
+\begin_layout Subsection
+Elicitation
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Elicitation
+\series default
+ is getting requirements.
+ There are four types of it:
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Artifact-based elicitation
+\series default
+, where you study documentation and the domain without involving stakeholders.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Stakeholder-based elicitation
+\series default
+, where you interview, survey, or observe stakeholders.
+ 
+\series bold
+Ethnographic analysis
+\series default
+ is observing.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Model-based elicitation
+\series default
+, where you express existing requirements in a different language.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Creativity-based elicitation
+\series default
+, where you invent undreamt requirements.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Examples: Systemic thinking, brainstorming, creativity workshop, constraint
+ relaxation
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+A 
+\series bold
+requirements taxonomy
+\series default
+ is a tree of requirements.
+\end_layout
+
+\begin_layout Subsection
+Domain models
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Domain models
+\series default
+ are simplified UML class diagrams that model the environment.
+ Classes should have attributes and associations, and multiplicities on
+ all associations.
+\end_layout
+
+\begin_layout Subsection
+Prototyping
+\end_layout
+
+\begin_layout Standard
+Four types of prototypes.
+ We particularly care about the first two.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Presentation prototypes
+\series default
+ are throwaway proofs of concept used for explaining design features.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Exploratory prototypes
+\series default
+ are throwaway prototypes that determine problems.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Experimental prototypes
+\series default
+ (breadboards) explore technical feasibility.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Evolutionary prototypes
+\series default
+ improve upon an existing system.
+\end_layout
+
+\begin_layout Standard
+Users tend to read pages in an 
+\series bold
+F-layout
+\series default
+.
+\end_layout
+
+\begin_layout Subsubsection
+SPRINT kickoff
+\end_layout
+
+\begin_layout Standard
+TODO
+\end_layout
+
+\begin_layout Subsection
+Quality requirements
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Quality requirements
+\series default
+ constrain a solution beyond functionality.
+ They include performance, reliability, robustness, adaptability, security,
+ usability, scalability, efficiency/capacity, and accuracy/precision.
+ 
+\series bold
+Motherhood
+\series default
+ requirements are those that are general and always desirable, like 
+\begin_inset Quotes eld
+\end_inset
+
+reliable
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+user-friendly
+\begin_inset Quotes erd
+\end_inset
+
+, and 
+\begin_inset Quotes eld
+\end_inset
+
+maintainable
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection
+Fit criteria
+\end_layout
+
+\begin_layout Standard
+A 
+\series bold
+fit criterion
+\series default
+ quantifies the extent to which a quality requirement must be met; e.g.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+no more than 5 minutes per year
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
+\series bold
+Richer fit criteria
+\series default
+ additionally have a minimum and outstanding quantity.
+\end_layout
+
+\begin_layout Subsection
+Prioritizing requirements
+\end_layout
+
+\begin_layout Subsection
+Risk management
+\end_layout
+
+\begin_layout Subsection
+Specifications
+\end_layout
+
+\begin_layout Subsection
+Business rules and OCL
+\end_layout
+
+\begin_layout Subsection
+Conflict resolution
+\end_layout
+
+\begin_layout Subsection
+Behavior modeling
+\end_layout
+
+\begin_layout Subsection
+Temporal logic
+\end_layout
+
+\begin_layout Subsection
+Software estimation
+\end_layout
+
+\begin_layout Section
+Guest lectures
+\end_layout
+
+\begin_layout Subsection
+Michael Godfrey
+\end_layout
+
+\begin_layout Standard
+A workflow is a sequence of tasks.
+ A scenario is a full execution path through a use case, listing only observable
+ actions.
+\end_layout
+
+\begin_layout Subsection
+Shyam Sheth
+\end_layout
+
+\begin_layout Standard
+Idek
+\end_layout
+
+\end_body
+\end_document
