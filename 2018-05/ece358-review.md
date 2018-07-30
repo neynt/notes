@@ -299,7 +299,7 @@ In which I go through every slide and consciously summarize it.
 - 58. TCP
 - 59. TCP segment structure
 - 60-61. TCP sequence numbers and ACKs
-- 62-64. TCP timeout is set by EstimatedRTT + 4*DevRTT
+- 62-64. TCP timeout is set by EstimatedRTT + 4×DevRTT
   - Where EstimatedRTT is an EWMA of sampled RTTs with α=0.125
   - And DevRTT is an EWMA of how much sampled RTTs differ from EstimatedRTT,
     with β=0.25

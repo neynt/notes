@@ -709,32 +709,458 @@ Richer fit criteria
 Prioritizing requirements
 \end_layout
 
+\begin_layout Standard
+You can prioritize requirements by attempting to quantify their value and
+ cost and ordering them by value/cost ratio.
+ Typically you'll want to group the requirements into priority groups like
+ Critical, Standard, and Optional.
+ Here are some techniques.
+\end_layout
+
+\begin_layout Subsubsection
+100-dollar test
+\end_layout
+
+\begin_layout Standard
+Give stakeholders 100 dollars to distribute among the requirements.
+\end_layout
+
+\begin_layout Subsubsection
+Kano model
+\end_layout
+
+\begin_layout Standard
+In order of most to least important:
+\end_layout
+
+\begin_layout Itemize
+Performance: Stuff customer asked for
+\end_layout
+
+\begin_layout Itemize
+Basic: Stuff customer takes for granted
+\end_layout
+
+\begin_layout Itemize
+Excitement: Stuff customer would be pleasantly surprised by
+\end_layout
+
+\begin_layout Itemize
+Indifferent: Stuff customer doesn't care about
+\end_layout
+
+\begin_layout Subsubsection
+Kano survey
+\end_layout
+
+\begin_layout Standard
+Ask customers how they would feel with/without a requirement, giving them
+ the choices 
+\begin_inset Quotes eld
+\end_inset
+
+I like it
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+I expect it
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+I'm neutral
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+I can tolerate it
+\begin_inset Quotes erd
+\end_inset
+
+, and 
+\begin_inset Quotes eld
+\end_inset
+
+I dislike it
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Use the Kano Evaluation Table to figure out where in the model the requirement
+ fits.
+\end_layout
+
+\begin_layout Subsubsection
+Categorization plane
+\end_layout
+
+\begin_layout Standard
+Assign weights of 
+\begin_inset Formula $-2$
+\end_inset
+
+, 
+\begin_inset Formula $-1$
+\end_inset
+
+, 
+\begin_inset Formula $0$
+\end_inset
+
+, 
+\begin_inset Formula $2$
+\end_inset
+
+, and 
+\begin_inset Formula $4$
+\end_inset
+
+ to customer responses.
+ Results in the four quadrants of 
+\begin_inset Formula $[0,4]^{2}$
+\end_inset
+
+ corresponding to Indifferent, Basic, Performance, and Excitement.
+\end_layout
+
+\begin_layout Subsubsection
+Analytic hierarchy process
+\end_layout
+
+\begin_layout Standard
+Get stakeholder to compare all pairs of requirements and assign values of
+ 
+\begin_inset Formula $1,3,5,7,9$
+\end_inset
+
+ depending on how much more one is preferred over the other.
+ Put this in a matrix, then do AHP analysis by normalizing columns, taking
+ row sums, and normalizing those — this is your priority vector, and tells
+ you exactly how much goodness is in each requirement.
+\end_layout
+
+\begin_layout Standard
+To check consistency, multiply the original matrix by the priority vector,
+ pointwise divide by the priority vector, average the elements, calculate
+ the consistency index, and compare that with the consistency index of the
+ appropriately sized random matrix.
+\end_layout
+
 \begin_layout Subsection
 Risk management
+\end_layout
+
+\begin_layout Standard
+Let 
+\begin_inset Formula $X$
+\end_inset
+
+ be a risk, 
+\begin_inset Formula $P(X)$
+\end_inset
+
+ be the chance of it, and 
+\begin_inset Formula $C(X)$
+\end_inset
+
+ be the cost of it.
+ Then,
+\begin_inset Formula 
+\begin{align*}
+Risk\:Exposure(X) & =P(X)C(X)
+\end{align*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Risk consequence table
+\end_layout
+
+\begin_layout Standard
+Risks and their likelihood along the top.
+ Requirements and their weights along the left.
+ Fill in centre with impacts (estimates of the effect of the risk on the
+ requirement).
+ This lets you compute
+\end_layout
+
+\begin_layout Standard
+Loss of Objective for a requirement as the risk of the requirement 
+\begin_inset Formula $\times$
+\end_inset
+
+ SUMPRODUCT(likelihoods, impacts for requirement) and Risk Criticality of
+ a risk as the likelihood of the risk 
+\begin_inset Formula $\times$
+\end_inset
+
+ SUMPRODUCT(weights, impacts for risk).
+\end_layout
+
+\begin_layout Subsubsection
+Risk countermeasures table
+\end_layout
+
+\begin_layout Standard
+Risks and their criticalities along the top.
+ Countermeasures along left.
+ Fill in centre with effects (estimate of reduction on risk).
+ This lets you compute the Overall Single Effect of Countermeasure of a
+ countermeasure as SUMPRODUCT(criticalities, effect of countermeasure) and
+ Combined Risk Reduction of a risk as 
+\begin_inset Formula $1-\prod(1-\text{effects for risk})$
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Subsection
 Specifications
 \end_layout
 
+\begin_layout Standard
+Separate the world into the 
+\series bold
+environment
+\series default
+, the 
+\series bold
+interface
+\series default
+, and the 
+\series bold
+system
+\series default
+.
+
+\series bold
+ 
+\series default
+A 
+\series bold
+requirement
+\series default
+ is a desired change to the world.
+ The system can only interact with the world through the interface; it cannot
+ touch the environment directly.
+ A 
+\series bold
+specification
+\series default
+ describes how the system should behave in terms of interface phenomena.
+ Ideally, Spec 
+\begin_inset Formula $\models$
+\end_inset
+
+ Req, but in order to show that we usually need to make assumptions about
+ how the environment behaves (Dom 
+\begin_inset Formula $\subseteq$
+\end_inset
+
+ Env such that Dom, Spec 
+\begin_inset Formula $\models$
+\end_inset
+
+ Req).
+\end_layout
+
+\begin_layout Subsubsection
+Domain models for specs and reqs
+\end_layout
+
+\begin_layout Standard
+The system should interact only with other parts of the system and with
+ «interface» phenomena.
+\end_layout
+
 \begin_layout Subsection
 Business rules and OCL
+\end_layout
+
+\begin_layout Standard
+A 
+\series bold
+business rule
+\series default
+ constraints something.
+ We can use OCL, Object Constraint Language, to model these.
+ You just gotta know it.
 \end_layout
 
 \begin_layout Subsection
 Conflict resolution
 \end_layout
 
+\begin_layout Itemize
+
+\series bold
+Data conflict
+\series default
+: Different understandies of an issue
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Interest conflict
+\series default
+: Stakeholders have different goals
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Value conflict
+\series default
+: Stakeholders have different preferences
+\end_layout
+
+\begin_layout Itemize
+Yeah this was probably not a good lecture to skip
+\end_layout
+
 \begin_layout Subsection
 Behavior modeling
+\end_layout
+
+\begin_layout Standard
+Know FSMs, including hierarchy, (deep) history, concurrency, termination,
+ state actions, and activities.
+ Also know 
+\series bold
+navigation diagrams
+\series default
+, which are just state machines for screens of an app.
 \end_layout
 
 \begin_layout Subsection
 Temporal logic
 \end_layout
 
+\begin_layout Standard
+It's predicate logic with some additions for modelling time.
+ The connectives are:
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $\Box$
+\end_inset
+
+ (henceforth)
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $\diamond$
+\end_inset
+
+ (eventually)
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $\circ$
+\end_inset
+
+ (next state)
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $\mathcal{U}$
+\end_inset
+
+ (until)
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $\mathcal{W}$
+\end_inset
+
+ (unless)
+\end_layout
+
+\begin_layout Standard
+Practice using them, and practice using them to describe FSMs.
+\end_layout
+
 \begin_layout Subsection
 Software estimation
+\end_layout
+
+\begin_layout Standard
+Estimation error occurs from uncertainty, omitted activities, optimism,
+ bias, and subjectivity.
+\end_layout
+
+\begin_layout Standard
+You can estimate in a couple ways.
+\end_layout
+
+\begin_layout Subsubsection
+By analogy
+\end_layout
+
+\begin_layout Standard
+Compare a new project to an old project, and extrapolate from historical
+ data.
+\end_layout
+
+\begin_layout Subsubsection
+Function point analysis
+\end_layout
+
+\begin_layout Standard
+Estimate function points (arbitrary units of code), derive code size from
+ that, and estimate resources from code size.
+ Function points are counted by taking into account external inputs/outputs/quer
+ies, internal files, and external interfaces of low, medium, and high complexity
+, and putting it in a chart.
+ Code size is done by standard SLOC/FP tables.
+ PERT lets you compute expected case in a terrible way:
+\begin_inset Formula 
+\[
+Expected=\frac{Best+4\times MostLikely+Worst}{6}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Confidence intervals
+\end_layout
+
+\begin_layout Standard
+Once you have best, expected, and worst case effort estimates, you can estimate
+ the standard deviation by taking 
+\begin_inset Formula $(worst-best)/P$
+\end_inset
+
+ for each use case, where 
+\begin_inset Formula $P=6$
+\end_inset
+
+ if you're 
+\begin_inset Formula $99.7\%$
+\end_inset
+
+ confident in your estimate range and less if you're realistic.
+ Then compute variance for each use case, add 'em up, and square root to
+ get a standard deviation for your entire project.
+ Then it's just a matter of assuming your project finish time is normally
+ distributed and just consult a standard deviation table.
 \end_layout
 
 \begin_layout Section
@@ -749,6 +1175,9 @@ Michael Godfrey
 A workflow is a sequence of tasks.
  A scenario is a full execution path through a use case, listing only observable
  actions.
+ Wait a sec, that was also taught in class, so I have no idea what exam
+ question will be based off of this.
+ Shit.
 \end_layout
 
 \begin_layout Subsection
@@ -756,7 +1185,19 @@ Shyam Sheth
 \end_layout
 
 \begin_layout Standard
-Idek
+Sometimes users don't even know what they want, so it's not always correct
+ to ask users what they want.
+ Sorry Jo, nice course and all, but I'm here to wreck it!
+\end_layout
+
+\begin_layout Subsection
+James Corr
+\end_layout
+
+\begin_layout Standard
+SE2008.
+ I make boatloads of money by making sure my consultancy's engineers don't
+ play video games.
 \end_layout
 
 \end_body
