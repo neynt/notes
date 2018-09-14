@@ -1,0 +1,1246 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\begin_preamble
+\usepackage[margin=2cm, bottom=3cm]{geometry}
+\usepackage[thickqspace,thickspace,amssymb]{SIunits}
+\usepackage{enumitem}
+\usepackage{listings}
+\usepackage{tkz-graph}
+\setlist{itemsep=0pt}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures false
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 10
+\spacing single
+\use_hyperref false
+\papersize letterpaper
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification false
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip smallskip
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 2
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+How to most likely pass CS 486
+\end_layout
+
+\begin_layout Author
+Jim Zhang
+\end_layout
+
+\begin_layout Date
+2018 Spring
+\end_layout
+
+\begin_layout Section
+Introduction
+\end_layout
+
+\begin_layout Standard
+Intelligence is the capacity to think and learn.
+
+\series bold
+ 
+\series default
+The 
+\series bold
+Newell-Simon hypothesis
+\series default
+ says that a physical symbol system is necessary and sufficient for intelligence.
+ The dual dichotomy: We might want a system that can [think|act] [like humans|ra
+tionally].
+ The 
+\series bold
+Turing test
+\series default
+ says that if a human can't distinguish a machine from a human, the machine
+ is intelligent.
+\end_layout
+
+\begin_layout Section
+Problem-solving
+\end_layout
+
+\begin_layout Subsection
+Examples
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $n$
+\end_inset
+
+-queens, crosswords, sliding puzzles, river crossing, propositional satisfiabili
+ty, partition problem, TSP, set cover
+\end_layout
+
+\begin_layout Subsection
+By search
+\end_layout
+
+\begin_layout Standard
+Formulate your problem as search on a graph of states.
+ You have a start state and you want to reach a goal state.
+ BFS, DFS, greedy, and A* are all search algorithms.
+\end_layout
+
+\begin_layout Subsubsection
+A*
+\end_layout
+
+\begin_layout Standard
+An 
+\series bold
+admissible 
+\series default
+A* heuristic doesn't overestimate the remaining cost to the goal.
+ A 
+\series bold
+consistent
+\series default
+ A* heuristic never decreases total cost with a hop.
+ Admissible or consistent heuristics always find optimal paths.
+\end_layout
+
+\begin_layout Standard
+An admissible A* heuristic 
+\series bold
+dominates
+\series default
+ another if its estimates are always at least as pessimistic, and at least
+ one estimate is more pessimistic; using a dominating heuristic never makes
+ you search more nodes.
+\end_layout
+
+\begin_layout Standard
+The time complexity of A* is
+\begin_inset Formula 
+\[
+O(b^{\varepsilon d})
+\]
+
+\end_inset
+
+where 
+\begin_inset Formula $\varepsilon$
+\end_inset
+
+ is the maximum relative error 
+\begin_inset Formula $\max_{n}\frac{h^{*}(n)-h(n)}{h^{*}(n)}$
+\end_inset
+
+, 
+\begin_inset Formula $b$
+\end_inset
+
+ is the branching factor, and 
+\begin_inset Formula $d$
+\end_inset
+
+ is the depth of the goal node.
+\end_layout
+
+\begin_layout Standard
+Iterative-deepening A* saves memory by doing a complete DFS with the next
+ worst heuristic value each iteration.
+\end_layout
+
+\begin_layout Subsection
+Constraint satisfaction
+\end_layout
+
+\begin_layout Standard
+A CSP is a set of variables 
+\begin_inset Formula $x_{i}$
+\end_inset
+
+ with domains 
+\begin_inset Formula $\text{dom}(x_{i})$
+\end_inset
+
+ and constraints 
+\begin_inset Formula $C_{j}$
+\end_inset
+
+ on those variables.
+ A constraint can be intensional (use propositions), extensionally (write
+ out a table of all admissible variable assignments), or globally (alldifferent).
+\end_layout
+
+\begin_layout Subsubsection
+Arc consistency
+\end_layout
+
+\begin_layout Standard
+A constraint is 
+\series bold
+arc consistent
+\series default
+ if it's possible to assign any value to any variable and still satisfy
+ the constraint.
+ (Every value for every variable has domain support in the constraint.)
+\end_layout
+
+\begin_layout Standard
+You can make a CSP arc consistent by repeatedly removing unsupported values
+ in a domain of a variable.
+\end_layout
+
+\begin_layout Subsection
+Backtracking search
+\end_layout
+
+\begin_layout Standard
+Depth-first search of the search tree.
+ 
+\series bold
+Constraint propagation
+\series default
+ is removing inconsistent values in variable domains during the search.
+\end_layout
+
+\begin_layout Standard
+Types of backtracking algorithms: 
+\series bold
+Naïve backtracking
+\series default
+ is doing no constraint propagation.
+ 
+\series bold
+Forward checking
+\series default
+ maintains arc consistency on all constraints with a single uninstantiated
+ variable.
+ 
+\series bold
+Maintaining arc consistency
+\series default
+ maintains arc consistency on all constraints.
+\end_layout
+
+\begin_layout Standard
+Variable ordering: You typically want to instantiate variables that are
+ likely to fail first.
+ 
+\series bold
+dom
+\series default
+: Pick variable with smallest domain size.
+ 
+\series bold
+dom/deg
+\series default
+: Smallest domain size / degree.
+\end_layout
+
+\begin_layout Subsection
+Local search
+\end_layout
+
+\begin_layout Standard
+Using a state definition, cost function, and neighborhood function, search
+ a state's neighborhood until you can't find anything better.
+\end_layout
+
+\begin_layout Standard
+Can vary stopping criteria, initial solution (random or 
+\begin_inset Quotes eld
+\end_inset
+
+good
+\begin_inset Quotes erd
+\end_inset
+
+), neighborhood function (small vs.
+ large), neighbor to move to (first-improvement or best-improvement), threshold
+ accepting (accept diminishingly worse cost; simulated annealing; tabu search),
+ multiple starts, multiple levels (different neighborhoods).
+\end_layout
+
+\begin_layout Standard
+An 
+\series bold
+exact neighborhood
+\series default
+'s local optima are global optima.
+ TSP has no polynomially searchable exact neighborhood unless 
+\begin_inset Formula $P=NP$
+\end_inset
+
+.
+ A non-exact neighborhood's local optimum can be arbitrarily far from a
+ global optimum and local search can take an exponential number of steps
+ to find a local optimum.
+ All that said, local search TSP algorithms are pretty good.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+GSAT
+\series default
+ is a local search algorithm for propositional satisfiability where the
+ cost is the number of unsatisfied clauses and the neighborhood is 
+\begin_inset Quotes eld
+\end_inset
+
+flip a variable
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsection
+Genetic algorithms
+\end_layout
+
+\begin_layout Standard
+You have functions for fitness, crossover and mutation and evolve a population
+ of 
+\begin_inset Formula $N$
+\end_inset
+
+ individuals with parents weighted by fitness.
+\end_layout
+
+\begin_layout Section
+Knowledge, reasoning, and decision making
+\end_layout
+
+\begin_layout Subsection
+Probability
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{align*}
+P(X,Y) & =P(X|Y)P(Y)\tag{Product rule}\\
+P(X) & =\sum_{y\in dom(Y)}P(X|Y=y)P(Y=y)\tag{Sum rule}\\
+P(Y|X) & =P(X|Y)P(Y)/P(X)\tag{Bayes' rule}\\
+P(X_{1},...,X_{n}) & =\prod_{i=1}^{n}P(X_{i}|X_{i-1},...,X_{1})\tag{Chain rule}
+\end{align*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Bayesian networks
+\end_layout
+
+\begin_layout Standard
+A DAG where nodes are random variables, edges are direct influences, and
+ nodes are annotated with conditional probability tables.
+ Independence assumptions made: every node is independent of its non-descendants
+ given its parents.
+\end_layout
+
+\begin_layout Subsubsection
+Types of inference
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Diagnostic
+\series default
+: P(cause|effect).
+ 
+\series bold
+Causal
+\series default
+: P(effect|cause).
+ 
+\series bold
+Intercausal
+\series default
+: P(cause1|cause2,effect).
+ 
+\series bold
+Mixed
+\series default
+: Combined.
+\end_layout
+
+\begin_layout Subsubsection
+Three-layer model
+\end_layout
+
+\begin_layout Standard
+You want your 
+\series bold
+root causes
+\series default
+ pointing to 
+\series bold
+events
+\series default
+ pointing to 
+\series bold
+tests and reports
+\series default
+.
+\end_layout
+
+\begin_layout Subsubsection
+Modeling time
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Dynamic systems
+\series default
+ have one variable per discrete time slice and full future causality.
+ 
+\series bold
+Markov chains
+\series default
+ have directly observable states and causality only goes one forward.
+ A 
+\series bold
+hidden markov model
+\series default
+ has hidden states that you can only observe through observation variables.
+\end_layout
+
+\begin_layout Standard
+Inference types in hidden markov models are 
+\series bold
+monitoring
+\series default
+ (probability of states given current observations), 
+\series bold
+prediction
+\series default
+ (probability of future states given current observations), 
+\series bold
+hindsight
+\series default
+ (probability of previous states given observations), and 
+\series bold
+most probable explanation
+\series default
+ (the most probable past state that given observations).
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Dynamic Bayesian networks
+\series default
+ are also things; HMMs are just DBNs with one state variable and one observation
+ variable.
+\end_layout
+
+\begin_layout Subsection
+Decision networks
+\end_layout
+
+\begin_layout Standard
+It's Bayesian networks with decisions (rectangles) and a utility function
+ (diamond).
+ 
+\series bold
+Value of information
+\series default
+ is increase in expected utility given new information.
+\end_layout
+
+\begin_layout Subsubsection
+Utility theory
+\end_layout
+
+\begin_layout Standard
+States are capital letters.
+ 
+\begin_inset Formula $[p,A;1-p,B]$
+\end_inset
+
+ is a lottery with outcome 
+\begin_inset Formula $A$
+\end_inset
+
+ with probability 
+\begin_inset Formula $p$
+\end_inset
+
+ and outcome 
+\begin_inset Formula $B$
+\end_inset
+
+ with probability 
+\begin_inset Formula $1-p$
+\end_inset
+
+.
+ 
+\begin_inset Formula $A>B$
+\end_inset
+
+ means outcome 
+\begin_inset Formula $A$
+\end_inset
+
+ is preferred to 
+\begin_inset Formula $B$
+\end_inset
+
+.
+ 
+\begin_inset Formula $A\sim B$
+\end_inset
+
+ is indifferent between 
+\begin_inset Formula $A$
+\end_inset
+
+ and 
+\begin_inset Formula $B$
+\end_inset
+
+.
+ Axioms are:
+\begin_inset Formula 
+\begin{align*}
+ & (A>B)\lor(A<B)\lor(A\sim B)\tag{Orderability}\\
+ & (A>B)\land(B>C)\Rightarrow(A>C)\tag{Transitivity}\\
+ & A>B>C\Rightarrow\exists p[p,A;a-p,C]\sim B\tag{Continuity}\\
+ & A\sim B\Rightarrow[p,A;1-p,C]\sim[p,B;1-p,C]\tag{Monotonicity}\\
+ & C:=[p,A;1-p,B]\text{ is allowed}\tag{Decomposability}
+\end{align*}
+
+\end_inset
+
+and if axiom are obeyed, then a consistent real-valued utility function
+ exists.
+\end_layout
+
+\begin_layout Subsection
+Sequential decision making
+\end_layout
+
+\begin_layout Standard
+It's where you have a sequence of decisions to make.
+ Horizons can be indefinite or infinite.
+ A Markov decision process (MDP) is a set of states 
+\begin_inset Formula $S$
+\end_inset
+
+, a set of actions 
+\begin_inset Formula $A$
+\end_inset
+
+, a transition model 
+\begin_inset Formula $P(S_{t}|A_{t-1},S_{t-1})$
+\end_inset
+
+, a reward model 
+\begin_inset Formula $R(S_{t},A_{t-1},S_{t-1})$
+\end_inset
+
+, a discount factor 
+\begin_inset Formula $0\leq\gamma\leq1$
+\end_inset
+
+, and a horizon 
+\begin_inset Formula $h$
+\end_inset
+
+, and your goal as usual is to find an optimal policy and this seems quite
+ hard.
+\end_layout
+
+\begin_layout Standard
+The decision network for an MDP looks like this.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename cs486-review/mdp-decision-network.png
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Define discounted overall utility as 
+\begin_inset Formula $U(S_{0},...)=\sum_{t}\gamma^{t}R(S_{t},A_{t-1},S_{t-1})$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Partially-observable MDPs (POMDPs) are also things, where your states aren't
+ fully observable.
+\end_layout
+
+\begin_layout Subsection
+Multiagent systems
+\end_layout
+
+\begin_layout Standard
+Sometimes there are multiple agents and they have to take other agents into
+ account.
+ As an agent, your goal is to find a strategy that maximizes your payoff.
+ A 
+\series bold
+pure
+\series default
+ strategy means you always do one thing.
+ A 
+\series bold
+stochastic/mixed
+\series default
+ strategy has a distribution over actions.
+\end_layout
+
+\begin_layout Standard
+A 
+\series bold
+strategy profile
+\series default
+ 
+\begin_inset Formula $\sigma$
+\end_inset
+
+ is an assignment of a strategy to each agent.
+ A 
+\series bold
+best response
+\series default
+ for an agent to other agents with set strategies is the strategy for that
+ agent that maximizes expected utility.
+\end_layout
+
+\begin_layout Standard
+A 
+\series bold
+Nash equilibrium
+\series default
+ is a strategy profile where each agent's strategy is the best response
+ to the other agents' strategies.
+ You can compute Nash equilibria by iterated elimination of dominated strategies
+ (for pure equilibria) or with calculus (for mixed equilibria).
+\end_layout
+
+\begin_layout Standard
+A 
+\series bold
+Pareto optimal
+\series default
+ outcome cannot be strictly improved on by any other outcome.
+\end_layout
+
+\begin_layout Standard
+A strategy 
+\series bold
+strictly dominates
+\series default
+ another strategy if it's better for every other possible strategy profile
+ for other agents.
+\end_layout
+
+\begin_layout Section
+Learning
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Supervised learning
+\series default
+ is learning to predict a label given labelled data.
+ 
+\series bold
+Unsupervised learning
+\series default
+ just has data and you have to find structure in it.
+\end_layout
+
+\begin_layout Standard
+Data can be real-valued or discrete (categorical/nominal, ordinal), and
+ so can outcome (distinguishes 
+\series bold
+regression
+\series default
+ from 
+\series bold
+classification
+\series default
+).
+ Error on a data set is the sum of individual errors on each example, where
+ the individual errors can be one-hot (for classification) or 
+\begin_inset Formula $L_{1}$
+\end_inset
+
+ norm (abs diff) or 
+\begin_inset Formula $L_{2}$
+\end_inset
+
+ norm (squared diff).
+\end_layout
+
+\begin_layout Standard
+Don't overfit.
+\end_layout
+
+\begin_layout Subsection
+Clustering
+\end_layout
+
+\begin_layout Standard
+A kind of unsupervised learning where you try to determine labels for unlabelled
+ data.
+ 
+\series bold
+Hard clustering
+\series default
+ means classes are definitive; 
+\series bold
+soft clustering
+\series default
+ means classes can be mixed.
+\end_layout
+
+\begin_layout Standard
+You typically cluster with respect to some optimization criteria; for example,
+ sum of distance to mean within cluster.
+ Examples of distance: 
+\series bold
+Manhattan
+\series default
+ (sum of differences along dimensions), 
+\series bold
+Euclidean
+\series default
+ (sqrt of sum of squares of differences along dimensions), 
+\series bold
+Cosine similarity
+\series default
+ (cosine of angle between vectors).
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset Formula $k$
+\end_inset
+
+-means clustering
+\end_layout
+
+\begin_layout Standard
+Initialize 
+\begin_inset Formula $k$
+\end_inset
+
+ random means.
+ Then, assign each example to the nearest mean, adjust the means based on
+ the clusters, and repeat until done.
+\end_layout
+
+\begin_layout Standard
+This can be used to cluster images quite convincingly (e.g.
+ to create minimalist art, or to generate a color scheme from an image).
+ Use Euclidean distance between color vectors.
+ Results can be better if you convert to a different color space (e.g.
+ CIELAB often better than RGB for perceptual uniformity).
+\end_layout
+
+\begin_layout Subsection
+Learning Bayesian networks
+\end_layout
+
+\begin_layout Standard
+Four versions, from simplest to hardest:
+\end_layout
+
+\begin_layout Enumerate
+Naïve Bayes, learn probability tables
+\end_layout
+
+\begin_layout Enumerate
+Fixed structure, learn probability tables
+\end_layout
+
+\begin_layout Enumerate
+Fixed nodes, learn arcs and probability tables
+\end_layout
+
+\begin_layout Enumerate
+Node for attributes and classes, learn hidden nodes, arcs, and probabilities
+\end_layout
+
+\begin_layout Subsubsection
+Naïve Bayes
+\end_layout
+
+\begin_layout Standard
+You just have your class point to all the attributes.
+ This can be poor; can augment with 
+\begin_inset Formula $m$
+\end_inset
+
+-estimate (
+\begin_inset Formula $\frac{n_{a}+mp}{n+m})$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection
+Learning structure
+\end_layout
+
+\begin_layout Standard
+Use a scoring function of the form 
+\begin_inset Formula $Score(G)=\sum Score(x_{i},Parents(x_{i}))$
+\end_inset
+
+.
+ Some possible scoring functions: BIC, MDL, BDeu.
+ Choose parent sets for each variable to minimize this score.
+ (We did this for A1)
+\end_layout
+
+\begin_layout Subsection
+Decision trees
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+ID3
+\series default
+: Repeatedly split the tree using the best feature.
+ Best can be measured using information content
+\begin_inset Formula 
+\[
+I(p)=\sum-p_{i}\log_{2}(p_{i})
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Extensions
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Numeric attributes
+\series default
+: Discretize them, or split on a numeric split point (however this can result
+ in huge trees, many tests of the numeric attribute)
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Missing values
+\series default
+: When constructing decision tree: Use other instances to estimate missing
+ attribute using simple majority, or create fractional examples.
+ When using decision tree: Pretend example has all values of attribute,
+ follow all possible branches, recombine answers by weighing.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Large discrete attributes
+\series default
+: To prevent early split on this attribute, pick attribute of maximal gain
+ ratio instead of gain
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Attributes with costs
+\series default
+: Pick attribute that maximizes 
+\begin_inset Formula $Gain^{2}/Cost$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Multiclass
+\series default
+: Can adapt ID3
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Overfitting
+\series default
+: Stop growing the tree early using Chi-squared test, or post-prune the
+ tree using validation set
+\end_layout
+
+\begin_layout Subsection
+Neural networks
+\end_layout
+
+\begin_layout Standard
+A neuron's output is the thresholded weighted sum of its inputs.
+ Thresholding functions include Heaviside step, sigmoid (
+\begin_inset Formula $1/1+e^{-x}$
+\end_inset
+
+), hyperbolic (
+\begin_inset Formula $\tanh x$
+\end_inset
+
+), ReLU (
+\begin_inset Formula $\max(0,x)$
+\end_inset
+
+), softplus (
+\begin_inset Formula $\log(1+e^{x})$
+\end_inset
+
+).
+ Can put together lots of these in interesting ways to fit very complex
+ functions, then train them efficiently using backpropagation (super-high
+ dimensional gradient descent).
+\end_layout
+
+\begin_layout Subsubsection
+Deep neural networks
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Vanishing gradients
+\series default
+: First few layers of a deep neural network learn super slowly with most
+ thresholding functions.
+ Solutions include pre-training, or using ReLU and maxout units.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Overfitting
+\series default
+: Happens a lot more because huge number of parameters.
+ Can fix using regularization, dropout, or data augmentation.
+\end_layout
+
+\begin_layout Subsubsection
+Evaluation
+\end_layout
+
+\begin_layout Standard
+Split your labelled data set into a 
+\series bold
+training set
+\series default
+ (that you will use to train your network) and a 
+\series bold
+test set
+\series default
+ (that you will use to evaluate its performance).
+ Cannot use test set in learning process in any way or there will be test
+ set leakage; a 
+\begin_inset Quotes eld
+\end_inset
+
+test-ish
+\begin_inset Quotes erd
+\end_inset
+
+ set for the learning process has to be split off from the training set
+ and is called a 
+\series bold
+validation set
+\series default
+.
+\end_layout
+
+\begin_layout Standard
+With a limited amount of data, you can use 
+\series bold
+random resampling
+\series default
+ (random training/test partitions), 
+\series bold
+cross validation
+\series default
+ (iteratively leave out one group for test set and train on remaining groups;
+ often 
+\begin_inset Formula $k=10$
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Standard
+Accuracy may not be a good performance measure if classes are imbalanced.
+ Other accuracy measures are recall (
+\begin_inset Formula $TP/(TP+FN)$
+\end_inset
+
+; trues that are positive) and precision (
+\begin_inset Formula $TP/(TP+FP)$
+\end_inset
+
+; positives that are true).
+\end_layout
+
+\begin_layout Subsubsection
+Ensembles
+\end_layout
+
+\begin_layout Standard
+Use many classifiers to vote on the answer.
+ Best results if classifier errors are uncorrelated.
+\end_layout
+
+\begin_layout Standard
+Can construct ensembles using bagging, cross-validated committees, boosting,
+ or injecting randomness.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Bagging
+\series default
+ is learning multiple times with different training subsets.
+ 
+\begin_inset Formula $63.2\%$
+\end_inset
+
+ is a good proportion to use.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Cross-validated committees
+\series default
+ is learning multiple times with cross-validation training subsets (drop
+ a different one out each time).
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Boosting
+\series default
+ is learning multiple times with different probability distributions over
+ training examples, where subsequent distributions place more weight on
+ misclassified examples.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Injecting randomness
+\series default
+ is exactly what it sounds like, and can be used in neural networks (random
+ initial weights) or decision trees (pick from among top few features to
+ split on).
+\end_layout
+
+\begin_layout Standard
+Classifiers can be combined by unweighted voting, weighted voting (better
+ classifiers' votes are worth more), or stacking (learn a classifier on
+ the votes).
+\end_layout
+
+\begin_layout Subsubsection
+Overall steps for supervised ML
+\end_layout
+
+\begin_layout Enumerate
+Choose (and possibly synthesize) good features
+\end_layout
+
+\begin_layout Enumerate
+Collect data
+\end_layout
+
+\begin_layout Enumerate
+Filter not-so-helpful features out
+\end_layout
+
+\begin_layout Enumerate
+Select classifier and set parameters
+\end_layout
+
+\begin_layout Enumerate
+Evaluate classifier
+\end_layout
+
+\begin_layout Subsection
+Reinforcement learning
+\end_layout
+
+\begin_layout Standard
+It's a Markov decision process with unknown transition and reward models.
+ It's interesting because the agent needs to guess which action resulted
+ in a reward, balance exploration with exploitation, and learn throughout
+ its entire lifetime.
+ 
+\series bold
+Passive learning
+\series default
+ is evaluating a fixed policy; 
+\series bold
+active learning
+\series default
+ is determining a good policy.
+\end_layout
+
+\begin_layout Standard
+Passive learning can be done using 
+\series bold
+adaptive dynamic programming 
+\series default
+(ADP) and 
+\series bold
+temporal difference
+\series default
+ (TD).
+\end_layout
+
+\begin_layout Standard
+Active learning can be done using 
+\begin_inset Formula $Q$
+\end_inset
+
+-learning.
+\end_layout
+
+\begin_layout Standard
+Can decide between exploration and exploitation using 
+\begin_inset Formula $\varepsilon$
+\end_inset
+
+-greedy (random action with probability 
+\begin_inset Formula $\varepsilon$
+\end_inset
+
+, otherwise best action) or by Boltzmann exploration.
+\end_layout
+
+\begin_layout Section
+Other topics
+\end_layout
+
+\begin_layout Subsection
+Natural language
+\end_layout
+
+\begin_layout Standard
+It's hard.
+ Levels of analysis are 
+\series bold
+prosody
+\series default
+, 
+\series bold
+phonology
+\series default
+, 
+\series bold
+morphology
+\series default
+, 
+\series bold
+syntax
+\series default
+, 
+\series bold
+semantics
+\series default
+, and 
+\series bold
+pragmatics
+\series default
+.
+ Plenty of ambiguity at every level, plenty of context dependence.
+\end_layout
+
+\end_body
+\end_document

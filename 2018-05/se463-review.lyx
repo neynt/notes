@@ -105,14 +105,77 @@ Main course content
 Introduction
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Standard
 Most software projects fail, not because some phony design or code's blessing,
  but because, they did not make something users want.
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Standard
 Requirements are hard when they are vague, ambiguous, changing, incomplete,
  infeasible, made with insufficient user input, or plain wrong.
+\end_layout
+
+\begin_layout Subsubsection
+Types of systems
+\end_layout
+
+\begin_layout Standard
+There's an icon corresponding to each one that is apparently plastered on
+ every slide it applies to.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Greenfield
+\series default
+ vs.
+ 
+\series bold
+brownfield
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Customer-driven
+\series default
+ vs.
+ 
+\series bold
+market-driven
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Web/mobile
+\series default
+ vs.
+ 
+\series bold
+enterprise
+\series default
+ vs.
+ 
+\series bold
+infrastructure
+\series default
+ vs.
+ 
+\series bold
+safety critical
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+In-house
+\series default
+ vs.
+ 
+\series bold
+outsourced
 \end_layout
 
 \begin_layout Subsection
@@ -166,6 +229,52 @@ clearly falsifiable
 \end_layout
 
 \begin_layout Subsubsection
+Risks
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Customer risk
+\series default
+ is 
+\begin_inset Quotes eld
+\end_inset
+
+who has the pain?
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
+\series bold
+Product risk
+\series default
+ is 
+\begin_inset Quotes eld
+\end_inset
+
+what problem are you solving?
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
+\series bold
+Market risk
+\series default
+ is 
+\begin_inset Quotes eld
+\end_inset
+
+who is the competition?
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection
 Problem interview
 \end_layout
 
@@ -207,37 +316,59 @@ Stakeholders
 
 \begin_layout Standard
 A stakeholder is anyone who will be affected by the project.
- The 
+ Types of stakeholders:
+\end_layout
+
+\begin_layout Itemize
+The 
 \series bold
 champion/owner
 \series default
  is the stakeholder paying for the software to be made.
- The 
+\end_layout
+
+\begin_layout Itemize
+The 
 \series bold
 customer
 \series default
  buys the software after it is made.
- 
+\end_layout
+
+\begin_layout Itemize
+
 \series bold
 Users
 \series default
  interact with the software.
- The 
+\end_layout
+
+\begin_layout Itemize
+The 
 \series bold
 domain expert
 \series default
  is very familiar with the problem to be solved.
- The 
+\end_layout
+
+\begin_layout Itemize
+The 
 \series bold
 software engineer
 \series default
  develops the product and makes sure it's feasible.
- 
+\end_layout
+
+\begin_layout Itemize
+
 \series bold
 Negative stakeholders
 \series default
  want you to fail.
- 
+\end_layout
+
+\begin_layout Itemize
+
 \series bold
 Disfavored users
 \series default
@@ -527,11 +658,7 @@ Artifact-based elicitation
 Stakeholder-based elicitation
 \series default
 , where you interview, survey, or observe stakeholders.
- 
-\series bold
-Ethnographic analysis
-\series default
- is observing.
+ Examples: Interviews, observation, personas, apprenticeship.
 \end_layout
 
 \begin_layout Itemize
@@ -540,6 +667,7 @@ Ethnographic analysis
 Model-based elicitation
 \series default
 , where you express existing requirements in a different language.
+ Examples: Modelling, mockups and prototypes, pilot experiments.
 \end_layout
 
 \begin_layout Itemize
@@ -548,15 +676,10 @@ Model-based elicitation
 Creativity-based elicitation
 \series default
 , where you invent undreamt requirements.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Examples: Systemic thinking, brainstorming, creativity workshop, constraint
+ Examples: Systemic thinking, brainstorming, creativity workshop, constraint
  relaxation
 \end_layout
 
-\end_deeper
 \begin_layout Standard
 A 
 \series bold
@@ -633,7 +756,49 @@ SPRINT kickoff
 \end_layout
 
 \begin_layout Standard
-TODO
+Decide on a Facilitator and a Decider.
+ No devices in the room.
+ Five-day schedule:
+\end_layout
+
+\begin_layout Itemize
+Monday: 
+\series bold
+Map
+\series default
+ existing workflow and find problems with it.
+\end_layout
+
+\begin_layout Itemize
+Tuesday: 
+\series bold
+Sketch
+\series default
+ ideas on sticky notes alone.
+\end_layout
+
+\begin_layout Itemize
+Wednesday: 
+\series bold
+Decide
+\series default
+ on winning and turn them into a storyboard.
+\end_layout
+
+\begin_layout Itemize
+Thursday: 
+\series bold
+Prototype
+\series default
+ a facade using lots of human actors.
+\end_layout
+
+\begin_layout Itemize
+Friday: 
+\series bold
+Test
+\series default
+ your stuff on users (five is enough to reveal patterns).
 \end_layout
 
 \begin_layout Subsection
@@ -982,8 +1147,9 @@ Domain models for specs and reqs
 \end_layout
 
 \begin_layout Standard
-The system should interact only with other parts of the system and with
- «interface» phenomena.
+Reqs domain model doesn't have to include «interface»s or system components.
+ Specs domain model does, and system should interact only with other parts
+ of the system and with «interface» phenomena.
 \end_layout
 
 \begin_layout Subsection
@@ -1009,7 +1175,7 @@ Conflict resolution
 \series bold
 Data conflict
 \series default
-: Different understandies of an issue
+: Different understandings of an issue
 \end_layout
 
 \begin_layout Itemize
@@ -1028,10 +1194,6 @@ Value conflict
 : Stakeholders have different preferences
 \end_layout
 
-\begin_layout Itemize
-Yeah this was probably not a good lecture to skip
-\end_layout
-
 \begin_layout Subsection
 Behavior modeling
 \end_layout
@@ -1048,6 +1210,14 @@ navigation diagrams
 
 \begin_layout Subsection
 Temporal logic
+\end_layout
+
+\begin_layout Standard
+It's predicate logic but your variables are functions of time.
+\end_layout
+
+\begin_layout Subsubsection
+LTL
 \end_layout
 
 \begin_layout Standard
@@ -1101,10 +1271,7 @@ Software estimation
 \begin_layout Standard
 Estimation error occurs from uncertainty, omitted activities, optimism,
  bias, and subjectivity.
-\end_layout
-
-\begin_layout Standard
-You can estimate in a couple ways.
+ You can estimate in a couple ways.
 \end_layout
 
 \begin_layout Subsubsection
@@ -1168,26 +1335,22 @@ Guest lectures
 \end_layout
 
 \begin_layout Subsection
-Michael Godfrey
-\end_layout
-
-\begin_layout Standard
-A workflow is a sequence of tasks.
- A scenario is a full execution path through a use case, listing only observable
- actions.
- Wait a sec, that was also taught in class, so I have no idea what exam
- question will be based off of this.
- Shit.
-\end_layout
-
-\begin_layout Subsection
 Shyam Sheth
 \end_layout
 
 \begin_layout Standard
-Sometimes users don't even know what they want, so it's not always correct
- to ask users what they want.
- Sorry Jo, nice course and all, but I'm here to wreck it!
+Users that are less committed to their current solution are easier to get.
+\end_layout
+
+\begin_layout Subsection
+Robyn Lutz
+\end_layout
+
+\begin_layout Standard
+Requirements engineering was used to decide to use a molecular watchdog
+ timer to monitor for events in a DNA nanosystem.
+ In fact, requirements engineering is useful for lots of safety-critical
+ applications.
 \end_layout
 
 \begin_layout Subsection
@@ -1195,9 +1358,8 @@ James Corr
 \end_layout
 
 \begin_layout Standard
-SE2008.
- I make boatloads of money by making sure my consultancy's engineers don't
- play video games.
+Made his consultancy a lot more successful by giving clients a big requirements
+ doc and spending some time collecting requirements.
 \end_layout
 
 \end_body
