@@ -1,4 +1,4 @@
-# JAPANESE 1Z06A: Beginner's Intensive Japanese.
+# JAPANESE 1Z06A: Beginner's Intensive Japanese
 
 Professor: Sonomi Iwata-Consul.
 
@@ -153,12 +153,18 @@ Professor: Sonomi Iwata-Consul.
 - Vocabulary
   - Time words
     - 時 (じ): o'clock
-    - 半はん
-    - 日にち
-    - 曜日
-    - 月
-    - 年
-    - 夏休み
+    - 半 (はん): half. For time, "half past".
+      - e.g. 二時半 is 2:30.
+    - 日 (にち): day of the month.
+      - e.g. 二日 is the 2nd.
+    - 曜日 (ようび): day of the week.
+      - e.g. 火曜日 (かようび) is Tuesday.
+      - You need to know seven of these. Look them up.
+    - 月 (がつ or げつ): Month.
+      - e.g. ２月 (にがつ) is February.
+      - e.g. ２ヶ月 (にかげつ) is two months.
+    - 年 (ねん): Year.
+    - 夏休み (なつやすみ): Summer break.
     - More in "Time Reference.pdf"
   - Verbs
     - -ru verbs
