@@ -8,6 +8,8 @@ Prof: Wokia Kumase.
 - Midterms are not cumulative.
 - Expect: first 4 chapters, next 4 chapters, everything.
 
+<!-- 2019-01-07 -->
+
 ## Chapter 1
 
 - **Scarcity** is the source of all economic problems.
@@ -39,8 +41,8 @@ Prof: Wokia Kumase.
   - 7. Governments can improve market outcomes.
     - Markets can fail due to:
       - Externalities, like pollution
-      - Market power, like monopolies
-      in which case public policy may increase efficiency.
+      - Market power, like monopolies in which case public policy may increase
+        efficiency.
     - Or, can use policy to increase equity.
     - Tax and welfare redistribute the pie.
   - 8. A country's wealth depends on its ability to produce.
@@ -53,7 +55,8 @@ Prof: Wokia Kumase.
 - Economists have two roles:
   - Scientists: Explain how the world works.
   - Policy advisors: Try to improve it.
-- Use **models** that incorporate simplifying **assumptions** to study the world.
+- Use **models** that incorporate simplifying **assumptions** to study the
+  world.
 
 - **Circular flow diagram**: Shows the flow of dollars through markets.
   - Two types of actors: households and firms
@@ -64,9 +67,10 @@ Prof: Wokia Kumase.
       - Land: rent.
       - Capital: interest.
       - Entrepreneurship: capital.
-  - TODO: Memorize this.
-  - (Firms sell | households buy) goods and services, in return for (revenue | spending).
-  - (Households provide | Firms use) factors of production, in return for (wages/rent/profit | income).
+  - (Firms sell | households buy) goods and services, in return for (revenue |
+    spending).
+  - (Households provide | Firms use) factors of production, in return for
+    (wages/rent/interest/profit).
 
 - **Production possibilities frontier**: Shows the possible production of goods
   of various types given available resources and technology
@@ -84,3 +88,94 @@ Prof: Wokia Kumase.
     different personal values. So they often have normative views.
 
 - This is the end of microeconomics review.
+
+<!-- 2019-01-14 -->
+
+- If you want to do online exercises, use my course ID so I get kickbacks
+- TODO: Review Ch3 (Supply and Demand)
+
+- Class Review chp 1 and 2.docx
+  - 1. Equity increases, efficiency decreases.
+  - 2. The objective may be to make teachers spend more time in the classroom
+    and teach more. But this can also hurt the supply of teachers.
+  - 3. micro, micro, macro, macro, micro
+  - 4. Straight line: Constant opportunity cost. Bow shape: Increasing
+    opportunity cost due to differences in capability.
+  - 5. With straight line PPFs:
+    - α can produce 150 popcorn or 250 peanuts
+    - β can produce 300 popcorn or 100 peanuts
+    - Bunch of questions about this ugghh
+
+- GDP
+  - GNP: Gross national product. Includes income of citizens that are working
+    elsewhere, and excludes income of noncitizens.
+
+- omg this class is so slow
+
+<!-- 2019-01-21 -->
+
+## Ch20.
+
+- Ch20 review
+- 1. What parts of GDP do the following affect?
+  - Y = C + I + G + X - M
+  - a. family buys new refrigerator
+    - C up, Y up
+    - on exam, things are made in Canada by default
+  - b. person buys new house
+    - I up, Y up
+  - c. ford sells a car from inventory
+    - I down, C/I up (depending on personal/business), Y same
+  - d. you buy a pizza
+    - C up, Y up
+  - e. quebec repaves highway 50
+    - G up, Y up
+  - f. person buys a bottle of French wine
+    - C up, M up
+  - g. Honda expands its Ontario factory
+    - I up, Y up
+- 2. Farmer sells wheat to baker for $2; baker sells bread for $3. Final
+  contribution to GDP is?
+  - $3, because bread is the final good.
+- 3. Nominal/real GDP (per capita) based on table of goods, prices, and
+  productions
+  - If unspecified, assume real GDP rather than nominal LMAO.
+- 4. Consumption $4000, investment $2000, government purchases $1500, exports
+  $500, imports $600, taxes $1200, transfer payments $400, depreciation $300.
+  What is GDP?
+  - It is 4000 + 2000 + 1500 + (500 - 600)
+  - If the question mentions "transfer payments", then "government
+    expenditures" does NOT include them. Otherwise it does.
+  - Taxes are not included because they're what the government spends.
+- 5. Flour mill makes $700 to a bakery and $300 to consumers. Water supplier
+  makes $200 to bakery and $100 to consumers. Baker producers $1500 of bread to
+  consumers. Wages are $400, $200, and $200. GDP is? Profits are? GDP based on
+  income?
+  - GDP = 300 + 100 + 1500 = 1900.
+  - Profits = 600 + 100 + 400 = 1100.
+  - Wages = 1100 + 800 = 1900. woow they're the same
+
+- We can break down unemployment by demographic and geographic information.
+- 2009 was a Mancession
+- Labour force participation rates slowly declined for men; rapidly increased
+  for women from 1950 to 2010. Explanations:
+  - Better home appliances
+  - Lighter work week (more part time which is so feminine)
+  - Smaller families (less childcare)
+  - Societal equality
+  - Increase in demand for female-dominated jobs
+
+- Exercises. What happens to u-rate? What's happening in the labour market?
+  - Sue lost her job and begins looking for a new one.
+    - u-rate increases, seems good
+  - Jon gives up looking for work after a year.
+    - u-rate decreases, seems bad
+  - Sam lost his job and finds a worse part-time job.
+    - u-rate stays the same, seems bad
+
+## Ch21. Jobs and inflation
+
+- The quantity theory of money: MV = PY. M: quantity of money, V: dollar
+  velocity, P: price level, Y: total output.
+- Indexation is adjusting income using the inflation rate.
+- Midterm has GDP deflator, CPI

@@ -1,0 +1,2041 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\begin_preamble
+\usepackage[margin=2cm, bottom=3cm]{geometry}
+\usepackage[thickqspace,thickspace,amssymb]{SIunits}
+\usepackage{enumitem}
+\usepackage{listings}
+\usepackage{tkz-graph}
+\setlist{itemsep=0pt}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures false
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 10
+\spacing single
+\use_hyperref false
+\papersize letterpaper
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification false
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip smallskip
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 2
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+How to do reasonably well in SCI 238
+\end_layout
+
+\begin_layout Author
+Jim Zhang
+\end_layout
+
+\begin_layout Date
+2019 Jan–Apr
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+allowdisplaybreaks
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+newpage
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Quick reference
+\end_layout
+
+\begin_layout Subsection
+Values
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{align*}
+\text{earth radius} & =6371\,\text{km}\\
+\text{sun radius} & =6.95\times10^{5}\,\text{km}\\
+\text{milky center dist} & =2.6\times10^{4}\,\text{ly}\\
+\text{milky radius} & =7.5\times10^{5}\,\text{ly}\\
+\text{andromeda dist} & =2.5\times10^{6}\,\text{ly}\\
+\text{solar day} & =24\text{h}\\
+\text{sidereal day} & =23\text{h}56\text{m}4.09\text{s}=23.93447\text{h}\\
+\text{synodic month} & =29.53\,\text{solar days}\\
+\text{sidereal month} & =27.32\,\text{solar days}\\
+\text{tropical year} & =365.242\,\text{solar days}\\
+\text{sidereal year} & =365.256\,\text{solar days}\\
+v_{\text{escape earth}} & =11.2\,\text{km}/\text{s}
+\end{align*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Constants
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{align*}
+G & =6.674\times10^{-11}\,\text{m}^{3}/(\text{kg}\cdot\text{s}^{2})\\
+c & =2.997\times10^{8}\,\text{m}/\text{s}\\
+h & =6.626\times10^{-34}\,\text{J}\cdot\text{s}\\
+\sigma & =5.670\times10^{-8}\,\text{W}\cdot\text{m}^{-2}\cdot\text{K}^{-4}\\
+b & =2.898\times10^{-3}\,\text{m}\cdot\text{K}
+\end{align*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Unit conversions
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{align*}
+1\,\text{eV} & =1.602\times10^{-19}\,\text{J}\\
+1\,\text{AU} & =1.496\times10^{8}\,\text{km}\\
+1\,\text{ly} & =9.461\times10^{12}\,\text{km}
+\end{align*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Formulas
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{align*}
+T^{2} & =\frac{4\pi^{2}}{G(m_{1}+m_{2})}a^{3}\tag{Law of periods}\\
+F_{g} & =G\frac{m_{1}m_{2}}{d^{2}}\tag{Gravity}\\
+L & =mvr\tag{Angular momentum}\\
+c & =\lambda f\tag{Wavelength-frequency}\\
+E & =hf\tag{Photon energy}\\
+\frac{v_{\text{rad}}}{c} & =\frac{\lambda_{\text{shift}}-\lambda_{\text{rest}}}{\lambda_{\text{rest}}}\tag{Doppler shift}\\
+j^{*} & =\sigma T^{4}\tag{Stefan-Boltzmann law}\\
+\lambda_{\text{max}} & =b/T\tag{Wien's displacement law}\\
+\alpha & =\frac{s}{2\pi d}\times360^{\circ}\tag{Angular separation}\\
+\theta & =1.220\frac{\lambda}{D}\times360^{\circ}\tag{Angular resolution}
+\end{align*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Textbook index (6th ed.)
+\end_layout
+
+\begin_layout Itemize
+92: Math S1.1.
+ 
+\begin_inset Formula $P_{\text{orb}}$
+\end_inset
+
+, 
+\begin_inset Formula $P_{\text{syn}}$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+99: Math S1.2.
+ (local) sidereal time, hour angle.
+\end_layout
+
+\begin_layout Itemize
+131: Math 4.3.
+ Law of periods.
+\end_layout
+
+\begin_layout Itemize
+133: Math 4.4.
+ 
+\begin_inset Formula $v_{\text{escape}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+148: Figure 5.7.
+ Electromagnetic spectrum.
+\end_layout
+
+\begin_layout Itemize
+150: Math 5.1.
+ 
+\begin_inset Formula $c=\lambda f$
+\end_inset
+
+, 
+\begin_inset Formula $E=hf$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+161: Math 5.2.
+ 
+\begin_inset Formula $j^{*}=\sigma T^{4}$
+\end_inset
+
+ (Stefan-Boltzmann law), Wien's law.
+\end_layout
+
+\begin_layout Itemize
+163: Figure 5.21.
+ Interpreting a spectrum.
+\end_layout
+
+\begin_layout Itemize
+165: Math 5.3.
+ Doppler shift.
+\end_layout
+
+\begin_layout Itemize
+175: Math 6.1.
+ Angular resolution.
+\end_layout
+
+\begin_layout Itemize
+180.
+ Math 6.2.
+ Diffraction limit.
+\end_layout
+
+\begin_layout Itemize
+185.
+ Figure 6.22.
+ Electromagnetic penetration.
+\end_layout
+
+\begin_layout Itemize
+200.
+ The solar system and the planet sequence.
+\end_layout
+
+\begin_layout Itemize
+212.
+ Table 7.1.
+ Planetary data.
+\end_layout
+
+\begin_layout Itemize
+382.
+ Math 13.1.
+ Exoplanet orbital distance.
+\end_layout
+
+\begin_layout Itemize
+383.
+ Math 13.2.
+ Exoplanet mass.
+\end_layout
+
+\begin_layout Itemize
+384.
+ Math 13.3.
+ Exoplanet size.
+\end_layout
+
+\begin_layout Section
+The sky
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+celestial sphere
+\series default
+ is a projection of the sky onto a sphere surrounding Earth.
+ The 
+\series bold
+north celestial pole
+\series default
+, 
+\series bold
+south celestial pole
+\series default
+, and 
+\series bold
+celestial equator
+\series default
+ are projections of the corresponding things from Earth.
+ The 
+\series bold
+ecliptic
+\series default
+ is the Sun's apparent path in a day.
+ The 
+\series bold
+analemma 
+\series default
+is the position of the sun in the sky at the same mean solar time over the
+ year.
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+local sky
+\series default
+ is the half-dome we can see on the surface of the Earth.
+ The 
+\series bold
+horizon
+\series default
+ is the base.
+ The 
+\series bold
+zenith
+\series default
+ is directly overhead.
+ The 
+\series bold
+meridian
+\series default
+ is the north-south half-circle through the zenith.
+ Polar coordinates are 
+\series bold
+azimuth
+\series default
+ (angle clockwise from north) and 
+\series bold
+altitude
+\series default
+ (angle above horizon).
+ 
+\series bold
+Circumpolar
+\series default
+ stars stay above the horizon; they must be near the north celestial pole.
+\end_layout
+
+\begin_layout Standard
+The sky changes through the year.
+ Special moments in the year:
+\end_layout
+
+\begin_layout Itemize
+Spring equinox: March 21
+\end_layout
+
+\begin_layout Itemize
+Summer solstice: June 21 (Cancer)
+\end_layout
+
+\begin_layout Itemize
+Fall equinox: Sep 21
+\end_layout
+
+\begin_layout Itemize
+Winter solstice: Dec 21 (Capricorn)
+\end_layout
+
+\begin_layout Standard
+Tropic of 
+\series bold
+Capricorn
+\series default
+ is 
+\begin_inset Formula $23.5^{\circ}$
+\end_inset
+
+ south; 
+\series bold
+Cancer
+\series default
+ 
+\begin_inset Formula $23.5^{\circ}$
+\end_inset
+
+ north.
+\end_layout
+
+\begin_layout Standard
+The Earth's axis gradually changes due to 
+\series bold
+precession
+\series default
+ with a period of 26,000 years.
+\end_layout
+
+\begin_layout Subsection
+Moon phases
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="9" columns="3">
+<features tabularvalignment="middle">
+<column alignment="right" valignment="top">
+<column alignment="right" valignment="top">
+<column alignment="right" valignment="top">
+<row>
+<cell alignment="right" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Phase
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Rise
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Set
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+New
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+06:00
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+18:00
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Waxing crescent
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+09:00
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+21:00
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+First quarter
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+12:00
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+00:00
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Waxing gibbous
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+15:00
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+03:00
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Full
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+18:00
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+06:00
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="right" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Waning gibbous
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="right" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+21:00
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+09:00
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Third quarter
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+00:00
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+12:00
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Waning crescent
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+03:00
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+15:00
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+Saros cycle
+\series default
+ is the 18y11d8h cycle on which eclipses happen.
+ The 
+\series bold
+Metonic cycle
+\series default
+ is the 19 solar years = 235 synodic months coincidence.
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+umbra
+\series default
+ is in total shadow; the 
+\series bold
+penumbra
+\series default
+ is partial.
+ An 
+\series bold
+annular
+\series default
+ solar eclipse means the sun isn't fully covered because the moon is too
+ far.
+\end_layout
+
+\begin_layout Standard
+Planets undergo 
+\series bold
+apparent retrograde motion
+\series default
+ when Earth overtakes them in rotation around the sun.
+ 
+\series bold
+Stellar parallax
+\series default
+ is very subtle.
+\end_layout
+
+\begin_layout Subsection
+Precise time
+\end_layout
+
+\begin_layout Itemize
+A 
+\series bold
+sidereal day
+\series default
+ is a full Earth rotation relative to the stars and is 23h56m4.09s.
+ A 
+\series bold
+solar day
+\series default
+ is 24h and is based on the apparent position of the sun.
+\end_layout
+
+\begin_layout Itemize
+A 
+\series bold
+sidereal month
+\series default
+ is a full moon revolution around the Earth and is 27d8h.
+ A 
+\series bold
+synodic month
+\series default
+ is the time between new moons and is 29d12h.
+\end_layout
+
+\begin_layout Itemize
+A 
+\series bold
+sidereal year
+\series default
+ is a full Earth revolution around the sun.
+ A 
+\series bold
+tropical year
+\series default
+ is the time between March equinoxes.
+ These are different because of precession.
+\end_layout
+
+\begin_layout Itemize
+A planet's 
+\series bold
+sidereal period
+\series default
+ is an orbit relative to the stars.
+ A planet's 
+\series bold
+synodic period
+\series default
+ is the time between alignments in our sky.
+\end_layout
+
+\begin_layout Itemize
+A 
+\series bold
+conjunction
+\series default
+ is being lined up with the sun; an 
+\series bold
+opposition
+\series default
+ is being opposite of the sun.
+ Planets closer to the sun than Earth don't have oppositions, but they do
+ have an 
+\series bold
+inferior conjunction
+\series default
+ (close) and 
+\series bold
+superior conjunction
+\series default
+ (far).
+ 
+\series bold
+Greatest elongation
+\series default
+ is when an inner planet is farthest from the sun in the sky.
+ A 
+\series bold
+transit
+\series default
+ is a tiny little solar eclipse.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Apparent solar time
+\series default
+ is based on sun's actual location.
+ 
+\series bold
+Mean solar time
+\series default
+ is averaged over the whole year.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Standard time
+\series default
+ is the system of time zones.
+ 
+\series bold
+Universal time
+\series default
+ (UTC) is GMT.
+\end_layout
+
+\begin_layout Itemize
+The Egyptian calendar sucked.
+ The 
+\series bold
+Julian calendar
+\series default
+ added leap years every 4 years.
+ The 
+\series bold
+Gregorian calendar
+\series default
+ removed leap years every 100 years and put them back every 400 years to
+ keep the equinoxes real consistent.
+\end_layout
+
+\begin_layout Subsection
+Celestial coordinates
+\end_layout
+
+\begin_layout Standard
+They're global sky coordinates.
+ 
+\series bold
+Declination
+\series default
+ (dec) is latitude (away from celestial equator), and 
+\series bold
+right ascension
+\series default
+ (RA) is longitude (away from the March equinox).
+ At a latitude of 
+\begin_inset Formula $lat$
+\end_inset
+
+, the celestial equator crosses the meridian at an altitude of 
+\begin_inset Formula $90-lat$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Section
+History
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Thales
+\series default
+ (600 BC) got rid of magic
+\series bold
+ 
+\series default
+and predicted a solar eclipse.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Anaximander
+\series default
+ (590 BC) did the celestial sphere (but he thought Earth was a cylinder)
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Pythagoras
+\series default
+ (540 BC) said Earth is a sphere because spheres are perfect.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Anaxagoras
+\series default
+ (480 BC) said that the Earth and sky are made up of the same stuff.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Democritus
+\series default
+ (450 BC) did atoms.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Meton
+\series default
+ (430 BC) found the Metonic cycle.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Plato
+\series default
+ (410 BC) said that things move in circles.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Eudoxus
+\series default
+ (380 BC) said that Plato's spheres are nested.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Aristotle
+\series default
+ (360 BC) argued that Earth is the center.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Heracleides
+\series default
+ (360 BC) said Earth rotates.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Aristarchus
+\series default
+ (290 BC) said Earth goes around the sun.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Eratosthenes
+\series default
+ (260 BC) accurately estimated Earth circumference.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Apollonius
+\series default
+ (220 BC) did epicycles.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Hipparchus
+\series default
+ (170 BC) did precession, log star brightness
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Ptolemy
+\series default
+ (120 AD) made his model so it gets his name.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Copernicus
+\series default
+ (1473–1543) made a 
+\series bold
+heliocentric model
+\series default
+.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Tycho Brahe
+\series default
+ (1546–1601) provided data via naked-eye observations.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Kepler
+\series default
+ (1571–1630) did ellipses.
+ Kepler's laws are:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The orbit of a planet is an ellipse with the sun at one focus.
+\end_layout
+
+\begin_layout Enumerate
+A planet moves faster near the sun, sweeping out area at a constant rate.
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $p^{2}=a^{3}$
+\end_inset
+
+, where 
+\begin_inset Formula $p$
+\end_inset
+
+ is orbital period (years) and 
+\begin_inset Formula $a$
+\end_inset
+
+ is average distance (AU)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Galileo
+\series default
+ (1564–1642) used a telescope and solidified heliocentrism by answering
+ the three objections (Newton's first law, circular perfection, stellar
+ parallax).
+\end_layout
+
+\begin_layout Subsection
+Orbits in detail
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+eccentricity
+\series default
+ of an ellipse is the focal distance over the major diameter.
+\end_layout
+
+\begin_layout Standard
+The average orbital radius is equal to the length of the semimajor axis.
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+aphelion
+\series default
+ is the farthest point, and the 
+\series bold
+perihelion 
+\series default
+is the closest point, in an orbit from a sun.
+ The 
+\series bold
+apogee 
+\series default
+and 
+\series bold
+perigee
+\series default
+ are the same, but for orbits around the Earth.
+\end_layout
+
+\begin_layout Standard
+The orbital speed 
+\begin_inset Formula $\propto1/$
+\end_inset
+
+ the orbital radius.
+\end_layout
+
+\begin_layout Section
+Physics
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Newton
+\series default
+ (1642-1727) did gravity and said it's the same in the heavens as on Earth.
+ His three laws:
+\end_layout
+
+\begin_layout Enumerate
+Zero net force means velocity stays the same
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $F=ma=dp/dt$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+All forces have an equal opposite force.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Conservation of momentum/angular momentum/energy
+\series default
+: They're all constant in a closed system.
+\end_layout
+
+\begin_layout Standard
+Types of energy: kinetic (thermal), radiative, potential (gravitational,
+ chemical)
+\end_layout
+
+\begin_layout Standard
+Newton found 
+\series bold
+unbound orbits
+\series default
+: when objects never come back.
+ All orbits are conic sections.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Orbital energy
+\series default
+ (kinetic and gravitational potential energy of an orbiter) stays constant.
+\end_layout
+
+\begin_layout Standard
+A 
+\series bold
+gravitational encounter
+\series default
+ is when two things pass 
+\begin_inset Quotes eld
+\end_inset
+
+close enough
+\begin_inset Quotes erd
+\end_inset
+
+ to 
+\begin_inset Quotes eld
+\end_inset
+
+feel
+\begin_inset Quotes erd
+\end_inset
+
+ each other's gravity.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Tides
+\series default
+ happen because the moon's gravity is stronger on the near side than the
+ far side.
+ High 
+\series bold
+spring tides
+\series default
+ happen at new and full moon when the sun and moon's gravity align; 
+\series bold
+neap tides
+\series default
+ are the opposite.
+ 
+\series bold
+Tidal friction
+\series default
+: The tidal bulges actually lead the moon by a bit due to Earth's rotation.
+ This also slows Earth's rotation (a second is gained about every 50,000
+ years).
+ This also explains the moon's 
+\series bold
+synchronous rotation
+\series default
+.
+\end_layout
+
+\begin_layout Section
+Light and matter
+\end_layout
+
+\begin_layout Standard
+Ways light interacts with matter: 
+\series bold
+emission
+\series default
+, 
+\series bold
+absorption
+\series default
+, 
+\series bold
+transmission 
+\series default
+(letting it go through), and 
+\series bold
+reflection/scattering
+\series default
+.
+\end_layout
+
+\begin_layout Subsection
+Phase changes
+\end_layout
+
+\begin_layout Standard
+In water: 
+\series bold
+solid
+\series default
+, 
+\series bold
+liquid
+\series default
+, 
+\series bold
+gas
+\series default
+, 
+\series bold
+molecular dissociation
+\series default
+ (molecules break apart at thousands of K), 
+\series bold
+plasma
+\series default
+ (free elections bounce around at tens of thousands of K), 
+\series bold
+fully ionized plasma
+\series default
+ (at millions of K)
+\end_layout
+
+\begin_layout Subsection
+Spectra
+\end_layout
+
+\begin_layout Standard
+A 
+\series bold
+continuous spectrum
+\series default
+ contains basically all wavelengths and is emitted by incandescent light.
+\end_layout
+
+\begin_layout Standard
+An 
+\series bold
+emission line spectrum
+\series default
+ contains only a few bright lines and is emitted by low-density clouds of
+ gas.
+\end_layout
+
+\begin_layout Standard
+An 
+\series bold
+absorption line spectrum
+\series default
+ contains a few notches that indicate that certain wavelengths are being
+ absorbed.
+\end_layout
+
+\begin_layout Standard
+For a particular gas, its emission lines correspond exactly to its absorption
+ lines because quantum.
+\end_layout
+
+\begin_layout Standard
+The ionization state of an atom affects its lines.
+ Molecules also produce spectral fingerprints with tightly bunched lines
+ called 
+\series bold
+molecular bands
+\series default
+.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Thermal radiation/blackbody radiation 
+\series default
+is emitted by hot things in distinctive spectra governed by two laws:
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Stefan-Boltzmann law
+\series default
+: Hotter things emit more light at all wavelengths.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Wien's law
+\series default
+: Hotter things emit photons with a higher average energy.
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+Doppler effect
+\series default
+ shifts wavelengths and lines allowing us to determine how fast things are
+ moving away from us (as well as their rotation speed!).
+\end_layout
+
+\begin_layout Section
+Telescopes
+\end_layout
+
+\begin_layout Standard
+An 
+\series bold
+image
+\series default
+ is formed when light is brought to a 
+\series bold
+focus
+\series default
+, with images at the 
+\series bold
+focal plane
+\series default
+ the clearest.
+\end_layout
+
+\begin_layout Subsection
+About telescopes
+\end_layout
+
+\begin_layout Standard
+Properties of telescopes that matter:
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Light-collecting area
+\series default
+: The bigger, the better
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Angular resolution
+\series default
+: Smallest angle it can tell apart two dots.
+ Our eyes have a resolution of about 
+\begin_inset Formula $1$
+\end_inset
+
+ arcminute.
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+diffraction limit
+\series default
+ is the best possible angular resolution if limited only by light wave interfere
+nce.
+ It's larger the longer the wavelength.
+\end_layout
+
+\begin_layout Standard
+A 
+\series bold
+refracting
+\series default
+ telescope uses lenses; a 
+\series bold
+reflecting
+\series default
+ telescope uses mirrors.
+ Most astronomical telescopes are reflectors because it reduces the need
+ for clear glass and only the surface of the mirror (rather than an entire
+ lens) must be precisely shaped.
+ Lenses also introduce 
+\series bold
+chromatic aberration
+\series default
+ (different refraction of different wavelengths).
+\end_layout
+
+\begin_layout Standard
+Three types of reflecting telescope:
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Cassegrain focus
+\series default
+: Mirror reflects to mirror2 focuses through first mirror.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Newtonian focus
+\series default
+: Mirror reflects to mirror2 focuses off to the side.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Nasmyth/Coudé focus
+\series default
+: Mirror reflects to mirror2 reflects to mirror3 focuses off to the side.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Spectrographs
+\series default
+ separate colors using a 
+\series bold
+diffraction grating
+\series default
+ (sometimes).
+ 
+\series bold
+Spectral resolution
+\series default
+ is a thing.
+ 
+\series bold
+Light curves
+\series default
+ show brightness over time.
+\end_layout
+
+\begin_layout Subsection
+Effects of the atmosphere
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Light pollution
+\series default
+ is when city light scatters back to the Earth.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Atmospheric blurring
+\series default
+ is when air turbulence bends light, causing the sky to shift around.
+ It limits ground-based angular resolution to 
+\begin_inset Formula $0.5$
+\end_inset
+
+ arcseconds, unless you use 
+\series bold
+adaptive optics
+\series default
+ which fixes it computationally.
+\end_layout
+
+\begin_layout Standard
+Good viewing sites are 
+\series bold
+dark
+\series default
+, 
+\series bold
+dry
+\series default
+, 
+\series bold
+calm
+\series default
+ and 
+\series bold
+high
+\series default
+.
+\end_layout
+
+\begin_layout Subsection
+Telescope instances
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Radio telescopes
+\series default
+ like satellite dishes.
+ Must be big for reasonable resolution, e.g.
+ Arecibo is 
+\begin_inset Formula $305$
+\end_inset
+
+ meters across and has 
+\begin_inset Formula $1$
+\end_inset
+
+ arcminute of resolution.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Infrared telescopes
+\series default
+ are similar to visible light telescopes.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Ultraviolet telescopes
+\series default
+ are also similar to visible light telescopes, but must be in space.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+X-ray telescopes
+\series default
+ must be in space and use special 
+\series bold
+grazing incidence mirrors
+\series default
+ so that the mirrors themselves aren't damaged.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Gamma ray telescopes
+\series default
+ cannot be focused; instead, special detectors are used.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Neutrinos
+\series default
+, 
+\series bold
+cosmic rays
+\series default
+ (nuclei),
+\series bold
+ 
+\series default
+and 
+\series bold
+gravitational waves
+\series default
+ are also things.
+\end_layout
+
+\begin_layout Standard
+You can use multiple telescopes to capture a single super high resolution
+ image using 
+\series bold
+interferometry
+\series default
+.
+ (e.g.
+ Very Large Array)
+\end_layout
+
+\begin_layout Section
+The solar system
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Comparative planetology
+\series default
+ is studying planets/moons/asteroids/comets in relation to each other.
+\end_layout
+
+\begin_layout Standard
+Planets can be 
+\series bold
+rocky
+\series default
+ or 
+\series bold
+jovian
+\series default
+.
+\end_layout
+
+\begin_layout Standard
+Asteroids and comets are concentrated in three regions: the 
+\series bold
+asteroid belt
+\series default
+ between Mars and Jupiter, the 
+\series bold
+Kuiper belt
+\series default
+ beyond Neptune, and the 
+\series bold
+Oort cloud
+\series default
+, a sphere of asteroids quite far away.
+\end_layout
+
+\begin_layout Subsection
+Things in it
+\end_layout
+
+\begin_layout Subsubsection
+The Sun
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Radius
+\series default
+: 108 Earth radiuses = 696000 km
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Mass
+\series default
+: 333,000 Earth masses
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Composition
+\series default
+: 98% H, He; 2% other
+\end_layout
+
+\begin_layout Standard
+The surface is 5800K hot.
+ Sunspots are cooler than their surroundings.
+ Every second, the sun burns 
+\begin_inset Formula $600$
+\end_inset
+
+ million tons of H into 
+\begin_inset Formula $596$
+\end_inset
+
+ million tons of He.
+ The sun also expels 
+\series bold
+solar wind
+\series default
+, mostly electrons and protons.
+\end_layout
+
+\begin_layout Subsubsection
+Mercury
+\end_layout
+
+\begin_layout Standard
+Days and nights last about 
+\begin_inset Formula $3$
+\end_inset
+
+ months each because tides have screwed up Mercury's rotation pattern.
+\end_layout
+
+\begin_layout Subsubsection
+Venus
+\end_layout
+
+\begin_layout Standard
+Rotates in the opposite direction of Earth.
+ The 
+\series bold
+greenhouse effect
+\series default
+ makes Venus super hot.
+\end_layout
+
+\begin_layout Subsubsection
+Earth's
+\end_layout
+
+\begin_layout Standard
+Moderate greenhouse effect due to CO₂ and water vapor.
+\end_layout
+
+\begin_layout Subsubsection
+Mars
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Moons
+\series default
+: 2 (very small): Phobos, Deimos
+\end_layout
+
+\begin_layout Subsubsection
+Jupiter
+\end_layout
+
+\begin_layout Standard
+Has no solid surface; we would fall in and be crushed by the pressure.
+ The Great Red Spot is 2-3 times the size of Earth.
+ Four moons are big (they would qualify as (dwarf) planets): Io, Europa,
+ Ganymede, and Callisto.
+ Io is extreme volcano boy.
+ Europa is icy boy, possibly with water underneath.
+\end_layout
+
+\begin_layout Subsubsection
+Saturn
+\end_layout
+
+\begin_layout Standard
+Has the most visible rings.
+ Big moons include Enceladus and Titan.
+ Titan has riverbeds and lakes — of (m)ethane.
+\end_layout
+
+\begin_layout Subsubsection
+Uranus
+\end_layout
+
+\begin_layout Standard
+Days are the same as years, and are 84 Earth years long become the axis
+ is tilted on its side.
+\end_layout
+
+\begin_layout Subsubsection
+Neptune
+\end_layout
+
+\begin_layout Standard
+Triton orbits backwards.
+ Conclusion: Triton probably once orbited the Sun independently.
+\end_layout
+
+\begin_layout Subsubsection
+Pluto
+\end_layout
+
+\begin_layout Standard
+Not a planet, is a dwarf planet.
+\end_layout
+
+\begin_layout Subsection
+Patterns
+\end_layout
+
+\begin_layout Standard
+Four major patterns:
+\end_layout
+
+\begin_layout Enumerate
+The orbits and rotations of big things are organized.
+\end_layout
+
+\begin_layout Enumerate
+Two types of planets: terrestrial and jovian.
+\end_layout
+
+\begin_layout Enumerate
+Asteroids and comets exist.
+\end_layout
+
+\begin_layout Enumerate
+Exceptions exist.
+\end_layout
+
+\begin_layout Subsection
+Missions
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Flyby
+\series default
+: Fly past a thing.
+ Cheap, efficient, can use gravitational slingshot.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Orbiter
+\series default
+: Orbit a thing.
+ Can brake using the atmosphere (called aerobraking).
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Lander/probe
+\series default
+: Land on a thing, or travel through its atmosphere.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Sample return
+\series default
+: Bring stuff from the thing back to Earth.
+\end_layout
+
+\begin_layout Section
+Planetary geology (Ch9)
+\end_layout
+
+\begin_layout Standard
+Four ways planet surface are shaped: impact cratering, volcanism, tectonics,
+ erosion.
+ 
+\series bold
+Hot jupiters
+\series default
+ formed farther away then migrated inward.
+\end_layout
+
+\begin_layout Section
+Other planetary systems (Ch13)
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Direct detection
+\series default
+ is finding an exoplanet by taking a picture of it.
+ It's really hard.
+ Most of what we know about extrasolar planets comes from indirect approaches.
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+astrometric method
+\series default
+ uses very precise measurements of the positions of stars.
+ Not that great for smaller planets (relative to the star).
+ Two limitations:
+\end_layout
+
+\begin_layout Enumerate
+Need a crapton of angular resolution, so best for small stars
+\end_layout
+
+\begin_layout Enumerate
+Works better if planet orbits star farther away because the centre of mass
+ is farther — but this increases time span of observations needed
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+Doppler method
+\series default
+ observes changes in the Doppler shift over time.
+ Three limitations:
+\end_layout
+
+\begin_layout Enumerate
+Same as above
+\end_layout
+
+\begin_layout Enumerate
+Best when planets orbit close to the star, due to stronger gravitational
+ tug
+\end_layout
+
+\begin_layout Enumerate
+Requires a big telescope and long exposure time
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+transit method
+\series default
+ is monitoring the star's brightness over time.
+ It gets darker when there's a transit or (to a lesser extent) an eclipse.
+ Advantages are:
+\end_layout
+
+\begin_layout Enumerate
+Can find much smaller planets than motion methods
+\end_layout
+
+\begin_layout Enumerate
+Can distinguish easily between multiple planets
+\end_layout
+
+\begin_layout Subsection
+Properties we can measure
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename sci238/exoplanet-measurements.png
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

@@ -1,0 +1,2311 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\begin_preamble
+\usepackage[margin=2cm, bottom=3cm]{geometry}
+\usepackage[thickqspace,thickspace,amssymb]{SIunits}
+\usepackage{enumitem}
+\usepackage{listings}
+\usepackage{tkz-graph}
+\setlist{itemsep=0pt}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures false
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 10
+\spacing single
+\use_hyperref false
+\papersize letterpaper
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification false
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip smallskip
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 2
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+How to do reasonably well in ECON 102
+\end_layout
+
+\begin_layout Author
+Jim Zhang
+\end_layout
+
+\begin_layout Date
+2019 Jan–Apr
+\end_layout
+
+\begin_layout Section
+Introduction
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Scarcity
+\series default
+ is the source of all economic problems.
+ 
+\series bold
+Economics
+\series default
+ studies how to allocate limited resources to unlimited wants.
+ 
+\series bold
+Microeconomics
+\series default
+ focuses on the choices of individuals and businesses.
+ 
+\series bold
+Macroeconomics
+\series default
+ focuses on the performance of entire countries.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Opportunity cost
+\series default
+ is what you forego when you make a decision.
+\end_layout
+
+\begin_layout Standard
+Economists have two roles: the scientist and the policy advisor.
+\end_layout
+
+\begin_layout Section
+The economic problem
+\end_layout
+
+\begin_layout Subsection
+Production possibilities frontier
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+production possibilities frontier
+\series default
+ for 
+\begin_inset Formula $x$
+\end_inset
+
+ and 
+\begin_inset Formula $y$
+\end_inset
+
+ shows the possible production of combinations of 
+\begin_inset Formula $x$
+\end_inset
+
+ and 
+\begin_inset Formula $y$
+\end_inset
+
+.
+ It is never concave down.
+ The 
+\series bold
+opportunity cost
+\series default
+ of 
+\begin_inset Formula $x$
+\end_inset
+
+ is 
+\begin_inset Formula $-\frac{\Delta y}{\Delta x}$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Production efficiency
+\series default
+ means that we are on the PPF.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Allocative efficiency
+\series default
+ means in addition that we produce the goods that provide the greatest possible
+ benefit.
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+marginal cost
+\series default
+ of 
+\begin_inset Formula $x$
+\end_inset
+
+ is the slope of the PPF.
+ The 
+\series bold
+marginal benefit
+\series default
+ of 
+\begin_inset Formula $x$
+\end_inset
+
+ is the increase in utility from another 
+\begin_inset Formula $x$
+\end_inset
+
+, measured in 
+\begin_inset Formula $y$
+\end_inset
+
+.
+ The 
+\series bold
+marginal benefit curve
+\series default
+ specifies marginal benefit and generally goes down (the 
+\series bold
+principle of decreasing marginal benefit
+\series default
+).
+ At the point of allocative efficiency, the marginal cost and marginal benefit
+ are equal.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Economic growth
+\series default
+ expands the PPF and comes in the forms of 
+\series bold
+technology
+\series default
+ and 
+\series bold
+capital accumulation
+\series default
+.
+\end_layout
+
+\begin_layout Subsection
+Trade
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Comparative advantage
+\series default
+ means you can produce something at a lower opportunity cost.
+ 
+\series bold
+Absolute advantage
+\series default
+ means you produce more of everything.
+ If everyone specializes in things they have a comparative advantage in
+ and trade, everyone ends up better off.
+\end_layout
+
+\begin_layout Subsection
+Economic coordination
+\end_layout
+
+\begin_layout Standard
+The four social institutions that produce a decentralized economy:
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Firms 
+\series default
+organize factors of production
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Markets
+\series default
+ facilitate trade
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Property rights
+\series default
+ incentivize specialization and production
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Money
+\series default
+ serves as a medium of exchange
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+circular flow diagram
+\series default
+ shows how:
+\end_layout
+
+\begin_layout Itemize
+Firms sell the goods/services that households buy, in return for their spending
+ (the firm's revenue).
+\end_layout
+
+\begin_layout Itemize
+Households provide the factors of production that firms use, in return for
+ wages/rent/interest/profit (the firm's cost).
+\end_layout
+
+\begin_layout Subsection
+Factors of production
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Land
+\series default
+, rewarded by 
+\series bold
+rent
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Labour
+\series default
+, rewarded by 
+\series bold
+wages
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Capital
+\series default
+, rewarded by 
+\series bold
+interest
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Entrepreneurship
+\series default
+, rewarded by 
+\series bold
+profit
+\end_layout
+
+\begin_layout Section
+GDP and economic growth
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Gross domestic product
+\series default
+ is the total market value of the final goods and services produced in a
+ country in a time period.
+\end_layout
+
+\begin_layout Standard
+A 
+\series bold
+final good
+\series default
+ is bought by its final user, whereas an 
+\series bold
+intermediate good
+\series default
+ is used to make another good.
+ Intermediate goods aren't in GDP because that's double counting.
+ Final/intermediate sometimes depends on context.
+ Financial instruments and secondhand goods are not part of GDP.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Real GDP
+\series default
+ has prices adjusted for a fixed reference year.
+ 
+\series bold
+Nominal GDP
+\series default
+ is not real.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Real GDP per person
+\series default
+ is a useful metric.
+ 
+\series bold
+Potential GDP
+\series default
+ is the maximum real GDP that can be obtained without shortages of the factors
+ of production (inflation comes with that).
+ The 
+\series bold
+Lucas wedge
+\series default
+ illustrates the cost of a slowdown in productivity growth.
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+business cycle
+\series default
+ is an irregular periodic cycle of 
+\series bold
+expansion
+\series default
+ and 
+\series bold
+recession
+\series default
+ with turning points at the 
+\series bold
+peak
+\series default
+ and 
+\series bold
+trough
+\series default
+.
+ Recessions last at least two quarters.
+\end_layout
+
+\begin_layout Standard
+To compare GDPs between different countries, can be more accurate to use
+ 
+\series bold
+PPP
+\series default
+ (purchasing power parity) prices: calculate the second country's GDP using
+ the same prices as those of the first.
+\end_layout
+
+\begin_layout Subsection
+Calculating GDP
+\end_layout
+
+\begin_layout Standard
+Use circular flow of expenditure and income\SpecialChar endofsentence
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename econ102/circular-flow.png
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In this diagram:
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $C$
+\end_inset
+
+: consumption expenditure
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\begin_inset Formula $I$
+\end_inset
+
+
+\series default
+: investment
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $G$
+\end_inset
+
+: government expenditure (on final goods and services; does not include
+ transfer payments)
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $X$
+\end_inset
+
+: exports
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $M$
+\end_inset
+
+: imports
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $X-M$
+\end_inset
+
+: net exports
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $Y$
+\end_inset
+
+: incomes
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Red flows
+\series default
+: aggregate expenditure
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Blue flows
+\series default
+: aggregate income
+\end_layout
+
+\begin_layout Standard
+This gives us two equivalent ways of measuring GDP.
+\begin_inset Formula 
+\[
+\text{GDP}=Y=C+I+G+X-M
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Gross means before subtracting depreciation (contrast with 
+\series bold
+net
+\series default
+).
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+The expenditure approach
+\series default
+:
+\series bold
+
+\begin_inset Formula 
+\[
+\text{GDP}=C+I+G+X-M
+\]
+
+\end_inset
+
+The income approach
+\series default
+:
+\begin_inset Formula 
+\[
+\text{GDP}=Y=W+OFI+D
+\]
+
+\end_inset
+
+where 
+\series bold
+
+\begin_inset Formula $W$
+\end_inset
+
+
+\series default
+ is 
+\begin_inset Quotes eld
+\end_inset
+
+wages, salaries, and supplementary labour income
+\begin_inset Quotes erd
+\end_inset
+
+ (wage, benefits, and pension), 
+\series bold
+
+\begin_inset Formula $OFI$
+\end_inset
+
+
+\series default
+ is 
+\begin_inset Quotes eld
+\end_inset
+
+other factor incomes
+\begin_inset Quotes erd
+\end_inset
+
+ (profits, interest, farmers' income, income from non-incorporated businesses),
+ and 
+\series bold
+
+\begin_inset Formula $D$
+\end_inset
+
+
+\series default
+ is depreciation.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Indirect tax
+\series default
+ is sales tax paid by consumers.
+ 
+\series bold
+Direct tax
+\series default
+ is income tax.
+ Governments sometimes pay a 
+\series bold
+subsidy
+\series default
+ to producers to make a good cheaper.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Statistical discrepancy
+\series default
+: the two approaches will result in slightly different results, about 
+\begin_inset Formula $0.1\%$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Chianed-dollar method
+\series default
+: Used to calculate real GDP in a consistent way by computing the average
+ growth rate between adjacent years, with each year's products measured
+ at the other year's prices.
+\end_layout
+
+\begin_layout Subsection
+Things GDP misses out on
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Household production
+\series default
+: Household activities.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Underground economic activity
+\series default
+: Illegal stuff.
+ Canada: about 5-15%.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Leisure time
+\series default
+: This is a good too, but we don't count it
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Environmental quality
+\series default
+: GDP does not take environmental damage into account, but we like a good
+ environment.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Also
+\series default
+: political freedom, social justice
+\end_layout
+
+\begin_layout Standard
+This means that real GDP underestimates total production, but the growth
+ in GDP overestimates the growth rate of total production (since some production
+ replaces household production).
+\end_layout
+
+\begin_layout Section
+Unemployment and inflation
+\end_layout
+
+\begin_layout Standard
+Unemployment is a problem because it results in:
+\end_layout
+
+\begin_layout Itemize
+Lost income and production — a person is not put to their full use, and
+ also doesn't make money
+\end_layout
+
+\begin_layout Itemize
+Lost human capital — a person's career is permanently damaged.
+\end_layout
+
+\begin_layout Standard
+Here is a breakdown of the population.
+\end_layout
+
+\begin_layout Itemize
+The population contains a
+\series bold
+ working-age population
+\series default
+ (15+)
+\end_layout
+
+\begin_layout Itemize
+...
+ which contains a 
+\series bold
+labour force
+\end_layout
+
+\begin_layout Itemize
+...
+ which consists of 
+\series bold
+unemployed
+\series default
+, and 
+\series bold
+employed
+\end_layout
+
+\begin_layout Itemize
+...
+ which consists of 
+\series bold
+full-time
+\series default
+, and 
+\series bold
+part-time
+\end_layout
+
+\begin_layout Itemize
+...
+ which consists of 
+\series bold
+voluntary 
+\series default
+and 
+\series bold
+involuntary
+\series default
+.
+\end_layout
+
+\begin_layout Standard
+Note that unemployed people must be one of:
+\end_layout
+
+\begin_layout Itemize
+On temporary layoff with expectation of recall
+\end_layout
+
+\begin_layout Itemize
+Has no job, has looked for past four weeks
+\end_layout
+
+\begin_layout Itemize
+Has job that won't start for more than four weeks
+\end_layout
+
+\begin_layout Standard
+Anyone else is not considered to be part of the labour force.
+\end_layout
+
+\begin_layout Subsection
+Four rates
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Unemployment rate
+\series default
+: unemployed / labour force
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Involuntary part-time rate
+\series default
+: involuntary / labour force
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Labour force participation rate
+\series default
+: labour force / working-age population
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Employment-to-population ratio
+\series default
+: employed / working-age population
+\end_layout
+
+\begin_layout Subsection
+Underemployed labour
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Discouraged searchers
+\series default
+: Stopped because of repeated failure.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Long-term future starts
+\series default
+: Job starts in more than four weeks.
+ Excluding them from the labour force may underestimate true unemployment.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Involuntary part-timers
+\end_layout
+
+\begin_layout Standard
+The most costly unemployment comes from job loss.
+\end_layout
+
+\begin_layout Subsection
+Unemployment cycles
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Frictional unemployment
+\series default
+: Results from duration of job matching, people entering and leaving the
+ labour force, and the creation/destruction of jobs.
+ Also exacerbated by better unemployment benefits.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Structural unemployment
+\series default
+: Skill requirements or job locations change.
+ Lasts longer than frictional.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Cyclical unemployment
+\series default
+: Business cycle is low.
+ Results in people being laid off then rehired when expansion begins again.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Natural unemployment
+\series default
+ consists of frictional and structural.
+ 
+\series bold
+Full employment
+\series default
+ means the unemployment rate is the natural unemployment rate.
+ Most important factors that influence this are:
+\end_layout
+
+\begin_layout Itemize
+Population age distribution
+\end_layout
+
+\begin_layout Itemize
+Scale of structural change
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Real wage rate
+\series default
+: things like 
+\series bold
+minimum wage rate
+\series default
+ and 
+\series bold
+efficiency wage
+\series default
+ (premium to retain talent) increase natural unemployment
+\end_layout
+
+\begin_layout Itemize
+Unemployment benefits: increase unemployment
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+output gap
+\series default
+ is the difference between real GDP and potential GDP.
+\end_layout
+
+\begin_layout Section
+Inflation
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+price level
+\series default
+ is the average level of prices; inverse value of money.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Inflation
+\series default
+ is a rising price level.
+ 
+\series bold
+Deflation
+\series default
+ is a falling price level.
+ The effects are:
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Redistributes income
+\series default
+: Inflation means wages buy less.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Redistributes wealth
+\series default
+: Inflation is good for borrowers and bad for lenders.
+\end_layout
+
+\begin_layout Itemize
+Inflation 
+\series bold
+increases real GDP and employment
+\series default
+.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Diverts resources from production
+\series default
+: Unpredictable inflation or deflation turns the economy into a casino.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Hyperinflation
+\series default
+: Inflation of over 50% a month that brings the economy revolution.
+\end_layout
+
+\begin_layout Subsection
+Measuring inflation
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+CPI
+\series default
+ (consumer price index) is the price of the goods in a specially constructed
+ CPI basket, relative to a base period.
+ Data is collected through the 
+\series bold
+monthly price survey
+\series default
+.
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+inflation rate
+\series default
+ can be measured by the yearly change in CPI.
+\end_layout
+
+\begin_layout Standard
+Sources of bias in the CPI include:
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+New goods bias
+\series default
+: Arrival of new technologies that are more dominant but more expensive
+ biases inflation upward.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Quality change bias
+\series default
+: Arrival of better, more expensive things biases inflation upward.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Commodity substitution bias
+\series default
+: When prices increase, people buy cheaper alternatives.
+ CPI basket is not rebalanced, so the increase in prices is overstated.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Outlet substitution bias
+\series default
+: When prices increase, people shop at cheaper stores.
+\end_layout
+
+\begin_layout Standard
+Bias is about 
+\begin_inset Formula $+0.6$
+\end_inset
+
+% per year for Canada.
+\end_layout
+
+\begin_layout Subsection
+Other price indices
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+GDP deflator
+\series default
+: nominal / real GDP.
+ Like CPI with the basket used to calculate the GDP.
+ Recently, has been above CPI inflation rate.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+CPIC 
+\series default
+(chained price index for consumption): nominal / real consumption expenditure.
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+core inflation rate 
+\series default
+attempts to remove volatility.
+ One common one, the 
+\series bold
+core CPI inflation rate
+\series default
+, uses a basket excluding food and fuel.
+\end_layout
+
+\begin_layout Section
+Economic growth (not in course)
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+rule of 70
+\series default
+: 
+\begin_inset Formula $\log_{1+x}2\approx70/(100x)$
+\end_inset
+
+ where 
+\begin_inset Formula $x$
+\end_inset
+
+ is percent interest.
+\end_layout
+
+\begin_layout Section
+Finance, investment, and saving
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Finance 
+\series default
+is 
+\emph on
+providing the funds to facilitate expenditures on capital
+\emph default
+, whereas 
+\series bold
+money
+\series default
+ is used to pay for stuff.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Physical capital
+\series default
+ is what we usually mean by 
+\begin_inset Quotes eld
+\end_inset
+
+capital
+\begin_inset Quotes erd
+\end_inset
+
+ — stuff that already exists.
+ 
+\series bold
+Financial capital
+\series default
+ is the 
+\strikeout on
+money
+\strikeout default
+ 
+\emph on
+funds
+\emph default
+ used to buy it.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Gross investment
+\series default
+ is the amount spent on new capital.
+ 
+\series bold
+Net investment
+\series default
+ is delta capital.
+ 
+\series bold
+Depreciation
+\series default
+ is the difference between these.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Wealth
+\series default
+ is the total value of things people own.
+ 
+\series bold
+Saving
+\series default
+ is the amount of income that you don't spend.
+ Saving increases wealth.
+\end_layout
+
+\begin_layout Subsection
+Financial capital markets
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Loan markets
+\series default
+: Includes short-term finance for businesses, mortgages for individuals.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Bond markets
+\series default
+: Debt issued by institutions.
+ Also includes 
+\series bold
+mortgage-backed securities
+\series default
+, which are baskets of mortgages and caused 2008.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Stock markets
+\series default
+: Ownership in public corporations.
+ NYSE, LSE (London), TSE (Tokyo).
+\end_layout
+
+\begin_layout Subsection
+Financial institutions
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Banks
+\series default
+: They invest deposits.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Trust and loan companies
+\series default
+: Similar to banks, often owned by banks, and also do estates, trusts, and
+ pension plans.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Credit unions and caisses populaires
+\series default
+: Banks owned by the depositors and borrowers, whether English or French.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Pension funds
+\series default
+: They invest pension contributions.
+ Often huge and may influence owned firms.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Insurance companies
+\series default
+: They invest insurance premiums before they have to pay them out.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Net worth
+\series default
+ is loans - borrows.
+ 
+\series bold
+Solvent
+\series default
+ firms have positive net worth, 
+\series bold
+insolvent
+\series default
+ firms aren't solvent.
+ 
+\series bold
+Illiquid
+\series default
+ firms can't sell off their positions quickly.
+\end_layout
+
+\begin_layout Subsection
+The loanable funds market
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename econ102/circular-flow-plus-loanable-funds.png
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+We add a bunch of green lines to show debt.
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $Y$
+\end_inset
+
+: Household income
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $C$
+\end_inset
+
+: Household spending
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $S$
+\end_inset
+
+: Household saving
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $T$
+\end_inset
+
+: Household net taxes (taxes paid less benefits received).
+\end_layout
+
+\begin_layout Standard
+In this model,
+\begin_inset Formula 
+\begin{align*}
+Y & =C+S+T
+\end{align*}
+
+\end_inset
+
+By combining this with GDP, we see that
+\begin_inset Formula 
+\[
+I=S+(T-G)+(M-X)
+\]
+
+\end_inset
+
+where 
+\begin_inset Formula $T-G$
+\end_inset
+
+ is the government budget surplus and 
+\begin_inset Formula $(M-X)$
+\end_inset
+
+ is borrowing from the rest of the world.
+ 
+\series bold
+National saving
+\series default
+ is 
+\begin_inset Formula $S+(T-G)$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection
+Interest rates
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Nominal
+\series default
+ is before adjusting for inflation; 
+\series bold
+real
+\series default
+ is after.
+ Interest rates in this section are generally real.
+\end_layout
+
+\begin_layout Subsubsection
+Supply and demand of loans
+\end_layout
+
+\begin_layout Standard
+The higher the interest rate, the more supply and the less demand there
+ is for loanable funds.
+ These are represented in two curves, 
+\series bold
+DLF
+\series default
+ (demand for loanable funds) and 
+\series bold
+SLF
+\series default
+ (supply of loanable funds).
+\end_layout
+
+\begin_layout Standard
+The supply of loanable funds also increases when households have 
+\series bold
+more disposable income
+\series default
+, when households have 
+\series bold
+less expected future income
+\series default
+ (since they'll save less), when households have 
+\series bold
+less wealth
+\series default
+ (because people see more need to save ???), and when 
+\series bold
+default risk is lower
+\series default
+ (???).
+\end_layout
+
+\begin_layout Standard
+In this way, the interest rate is regulated by the supply and demand for
+ loans.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename econ102/supply-and-demand-loans.png
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Effect of government
+\end_layout
+
+\begin_layout Standard
+A 
+\series bold
+budget surplus
+\series default
+ increases the supply, which decreases the interest rate and the private
+ supply (
+\series bold
+PSLF
+\series default
+) and increases private demand (
+\series bold
+PDLF
+\series default
+).
+ A 
+\series bold
+budget deficit
+\series default
+ increases the demand, which increases the interest rate and the amount
+ of private supply but decreases private demand (the 
+\series bold
+crowding-out effect
+\series default
+).
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+Ricardo-Barro effect
+\series default
+ says that government budget doesn't actually affect the interest rate,
+ because rational taxpayers save more.
+ Most economists find this interesting but extreme.
+\end_layout
+
+\begin_layout Section
+Money (ch24)
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Money
+\series default
+ is a 
+\series bold
+means of payment
+\series default
+ and a 
+\series bold
+medium of exchange
+\series default
+ that overcomes the requirement for a 
+\series bold
+double coincidence of wants
+\series default
+ as occurs in 
+\series bold
+barter
+\series default
+.
+ It's also a 
+\series bold
+unit of account
+\series default
+ (unit of measurement for prices) and a 
+\series bold
+store of value
+\series default
+.
+ Money today is mostly in the form of 
+\series bold
+currency
+\series default
+ and 
+\series bold
+deposits
+\series default
+.
+\end_layout
+
+\begin_layout Standard
+Canada has two measures of money: 
+\series bold
+M1
+\series default
+, which includes currency and chequable deposits and 
+\series bold
+M2
+\series default
+ which additionally includes non-chequable deposits and fixed term deposits.
+ Stuff the government owns is not considered money.
+\end_layout
+
+\begin_layout Standard
+Stuff that 
+\series bold
+isn't money
+\series default
+ by our definition: cheques, credit cards.
+ They're just means of payment.
+\end_layout
+
+\begin_layout Subsection
+Depository institutions
+\end_layout
+
+\begin_layout Standard
+Three depository institutions make up Canada's money: 
+\series bold
+chartered banks
+\series default
+ such as RBC, CIBC, and BMO; 
+\series bold
+credit unions
+\series default
+, and 
+\series bold
+trust/mortgage loan companies
+\series default
+.
+ We will call all these things 
+\begin_inset Quotes eld
+\end_inset
+
+banks
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Chartered banks use their funds for four types of assets: 
+\series bold
+reserves
+\series default
+ of about 
+\begin_inset Formula $0.5-1\%$
+\end_inset
+
+, 
+\series bold
+liquid assets
+\series default
+ such as treasury bills, 
+\series bold
+securities
+\series default
+ such as bonds, and 
+\series bold
+loans
+\series default
+.
+\end_layout
+
+\begin_layout Standard
+Banks provide these benefits:
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Create liquidity
+\series default
+: they borrow short and lend long
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Pool risk
+\series default
+: one default doesn't have that big of an effect
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Lower cost of borrowing
+\series default
+: by acting as a central counterparty
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Lower cost of monitoring borrowers
+\series default
+: by doing it efficiently
+\end_layout
+
+\begin_layout Standard
+This is all 
+\series bold
+fractional reserve banking
+\series default
+, which is riskier but don't worry, 
+\series bold
+Basel III
+\series default
+ will keep it from going that badly so we don't need 
+\series bold
+100 percent reserve banking
+\series default
+.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Financial innovation
+\series default
+ is when banks create things like variable-rate mortgages and sell mortgage-back
+ed securities.
+\end_layout
+
+\begin_layout Subsection
+The Bank of Canada
+\end_layout
+
+\begin_layout Standard
+This is our 
+\series bold
+central bank
+\series default
+; it acts as a bank to banks and the government; it is a 
+\series bold
+lender of last resort
+\series default
+, and it is the 
+\series bold
+sole issuer of bank notes
+\series default
+.
+ It owns two assets: Treasury bills, and loans to depository institutions
+ (in times of crisis).
+ It has two liabilities: Bank of Canada notes (dollar bills!) and depository
+ institution deposits.
+\end_layout
+
+\begin_layout Standard
+Our 
+\series bold
+monetary base
+\series default
+ is made up of the Bank of Canada's liabilities and the coins issued by
+ the Royal Canadian Mint.
+\end_layout
+
+\begin_layout Standard
+An 
+\series bold
+open market operation
+\series default
+ is when the Bank of Canada trades government securities.
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+bank rate
+\series default
+ is the interest rate that the Bank of Canada charges for short-term loans
+ — it anchors other short-term interest rates.
+\end_layout
+
+\begin_layout Subsection
+Creating money
+\end_layout
+
+\begin_layout Standard
+Banks create money by making loans.
+ This created money is limited by the monetary base, and further limited
+ by the bank's 
+\series bold
+desired reserves
+\series default
+ (reserves that it plans to hold) and the 
+\series bold
+desired currency holding
+\series default
+.
+ The 
+\series bold
+currency drain 
+\series default
+ratio
+\series bold
+ 
+\series default
+is the ratio of currency to deposits.
+\end_layout
+
+\begin_layout Standard
+The banking system creates money as follows:
+\end_layout
+
+\begin_layout Enumerate
+The monetary base is increased.
+\end_layout
+
+\begin_layout Enumerate
+Bank reserves are increased, creating excess reserves.
+\end_layout
+
+\begin_layout Enumerate
+Banks lend out their excess reserves.
+\end_layout
+
+\begin_layout Enumerate
+The quantity of money increases.
+\end_layout
+
+\begin_layout Enumerate
+New deposits are used to make payments.
+\end_layout
+
+\begin_layout Enumerate
+Some money is lost through currency drain.
+\end_layout
+
+\begin_layout Enumerate
+The increase in deposits increase desired reserves.
+\end_layout
+
+\begin_layout Enumerate
+Banks have less excess reserves than before.
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+money multiplier
+\series default
+ is the amount of money created by a change in the monetary base.
+ In Canada, the M1 multiplier has ranged from 
+\begin_inset Formula $5.5-10.4$
+\end_inset
+
+ and the M2 multiplier has ranged from 
+\begin_inset Formula $16-19.5$
+\end_inset
+
+.
+ It is given by
+\begin_inset Formula 
+\begin{align*}
+mm & =M/MB\\
+ & =(D+C)/(R+C)\\
+ & =(1+C/D)/(R/D+C/D)
+\end{align*}
+
+\end_inset
+
+where 
+\begin_inset Formula $M$
+\end_inset
+
+ is the amount of money, 
+\begin_inset Formula $MB$
+\end_inset
+
+ is the monetary base, 
+\begin_inset Formula $D$
+\end_inset
+
+ is deposits, 
+\begin_inset Formula $C$
+\end_inset
+
+ is currency, and 
+\begin_inset Formula $R$
+\end_inset
+
+ is bank reserves.
+ (This implies 
+\begin_inset Formula $C/D$
+\end_inset
+
+ is the currency drain ratio and 
+\begin_inset Formula $R/D$
+\end_inset
+
+ is the reserve ratio.)
+\end_layout
+
+\begin_layout Subsection
+The money market
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+quantity of money demanded
+\series default
+ is the amount we want to hold on to.
+ It is influenced by:
+\end_layout
+
+\begin_layout Itemize
+Price level: The more expensive things are, the more money we hold onto
+\end_layout
+
+\begin_layout Itemize
+Nominal interest rate: The more we can make by investing, the less money
+ we hold onto
+\end_layout
+
+\begin_layout Itemize
+Real GDP: The more we spend, the more we must have held onto
+\end_layout
+
+\begin_layout Itemize
+Financial innovation: More convenient means of payment that don't count
+ as money means we hold onto less money
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+demand for money
+\series default
+ is the demand curve between real money demanded and the nominal interest
+ rate.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Short-run equilibrium
+\series default
+: The 
+\series bold
+supply of money curve
+\series default
+ is a vertical line at the supply of real money.
+ Their intersection gives you the 
+\begin_inset Quotes eld
+\end_inset
+
+equilibrium
+\begin_inset Quotes erd
+\end_inset
+
+ interest rate.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Long-run equilibrium
+\series default
+: When the inflation rate is as expected and real GDP equals potential GDP.
+\end_layout
+
+\begin_layout Subsection
+Quantity theory of money
+\end_layout
+
+\begin_layout Standard
+It states that increasing the quantity of money eventually increases the
+ price level proportionally.
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+velocity of circulation
+\series default
+ is the average number of times each dollar is used (to buy GDP components)
+ per year.
+ It is given by the 
+\series bold
+equation of exchange
+\series default
+:
+\begin_inset Formula 
+\[
+MV=GDP=PY
+\]
+
+\end_inset
+
+where 
+\begin_inset Formula $P$
+\end_inset
+
+ is the price level, 
+\begin_inset Formula $Y$
+\end_inset
+
+ is the real GDP, and 
+\begin_inset Formula $M$
+\end_inset
+
+ is the quantity of money.
+ Expressing this in terms of rates gives us
+\begin_inset Formula 
+\begin{align*}
+\text{Inflation rate}= & \phantom{+}\text{Money growth rate}\\
+ & +\text{Rate of velocity change}\\
+ & -\text{Real GDP growth rate}
+\end{align*}
+
+\end_inset
+
+where the rate of velocity change is approximately 
+\begin_inset Formula $0$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Section
+Forex (ch25)
+\end_layout
+
+\begin_layout Standard
+You trade currencies at a 
+\series bold
+foreign exchange market
+\series default
+.
+ The demand for a currency is influenced by
+\end_layout
+
+\begin_layout Enumerate
+The exchange rate itself (the more expensive CAD, the less people want it)
+\end_layout
+
+\begin_layout Enumerate
+World demand for Canadian exports (the 
+\series bold
+exports effect
+\series default
+)
+\end_layout
+
+\begin_layout Enumerate
+Interest rates for that currency vs.
+ others
+\end_layout
+
+\begin_layout Enumerate
+The expected future exchange rate (the 
+\series bold
+expected profit effect
+\series default
+)
+\end_layout
+
+\begin_layout Standard
+The supply for a currency is influenced by
+\end_layout
+
+\begin_layout Enumerate
+The exchange rate itself
+\end_layout
+
+\begin_layout Enumerate
+Our demand for their imports (the 
+\series bold
+imports effect
+\series default
+)
+\end_layout
+
+\begin_layout Enumerate
+Interest rates for that currency vs.
+ others
+\end_layout
+
+\begin_layout Enumerate
+The expected future exchange rate (the 
+\series bold
+expected profit effect
+\series default
+)
+\end_layout
+
+\begin_layout Standard
+When interest rates differ between currencies, there is an 
+\series bold
+interest rate differential
+\series default
+.
+\end_layout
+
+\begin_layout Subsection
+The market
+\end_layout
+
+\begin_layout Standard
+People doing 
+\series bold
+arbitrage
+\series default
+ achieve four outcomes:
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+The law of one price
+\series default
+: The price of a thing is the same everywhere.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+No round-trip profit
+\series default
+: You can't make money by trading in a cycle.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Interest rate parity
+\series default
+: The risk free rate is the same for all currencies.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Purchasing power parity
+\series default
+: The price of a thing is the same in all currencies.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Speculation
+\series default
+ is, to massively generalize, +EV trading.
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+real exchange rate
+\series default
+ is the relative price of goods between two countries.
+\family typewriter
+
+\begin_inset Formula 
+\[
+RER=EP/P'
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Exchange rate policy
+\end_layout
+
+\begin_layout Standard
+A 
+\series bold
+flexible exchange rate
+\series default
+ is determined fully by the forex market.
+ A 
+\series bold
+fixed exchange rate
+\series default
+ is fixed by a government via active intervention, usually by burning their
+ foreign reserves or printing money.
+ A 
+\series bold
+crawling peg
+\series default
+ is a peg that changes over time.
+\end_layout
+
+\begin_layout Subsection
+Financing international trade
+\end_layout
+
+\begin_layout Standard
+A country's 
+\series bold
+balance of payments accounts
+\series default
+ records its international trading, borrowing, and lending.
+\end_layout
+
+\begin_layout Enumerate
+The 
+\series bold
+current account
+\series default
+ is exports minus imports, minus net interest and net transfers.
+\end_layout
+
+\begin_layout Enumerate
+The 
+\series bold
+capital and financial account
+\series default
+ is foreign investment in Canada, minus Canadian investment abroad.
+\end_layout
+
+\begin_layout Enumerate
+The 
+\series bold
+official settlements account
+\series default
+ is the negative change in 
+\series bold
+Canadian official reserves
+\series default
+ (foreign reserves).
+\end_layout
+
+\begin_layout Standard
+The total is zero.
+ A 
+\series bold
+net borrower
+\series default
+ is a country that is borrowing more than it's lending, and a 
+\series bold
+net lender
+\series default
+ is not.
+ The global loanable funds market has supply and demand curves much like
+ those on the level of a single country.
+ A 
+\series bold
+debtor nation
+\series default
+ has borrowed more than it has lent.
+ A 
+\series bold
+creditor nation
+\series default
+ has not.
+\end_layout
+
+\begin_layout Standard
+(Table 25.2) With 
+\begin_inset Formula $X$
+\end_inset
+
+ exports, 
+\begin_inset Formula $M$
+\end_inset
+
+ imports, 
+\begin_inset Formula $G$
+\end_inset
+
+ government expenditure, 
+\begin_inset Formula $T$
+\end_inset
+
+ net taxes, 
+\begin_inset Formula $I$
+\end_inset
+
+ investment, and 
+\begin_inset Formula $S$
+\end_inset
+
+ savings, we have
+\begin_inset Formula 
+\begin{align*}
+\text{Net exports} & =X-M\\
+\text{Government sector} & =T-G\\
+\text{Private sector} & =S-I\\
+X-M & =(T-G)+(S-I)
+\end{align*}
+
+\end_inset
+
+A short term change in the nominal exchange rate doesn't change the real
+ exchange rate.
+\end_layout
+
+\end_body
+\end_document
