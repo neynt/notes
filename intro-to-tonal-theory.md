@@ -1,6 +1,6 @@
 # An Introduction to Tonal Theory
 
-By Peter Westergaard.
+Notes on An Introduction to Tonal Theory by Peter Westergaard.
 
 ## 2. Notes
 

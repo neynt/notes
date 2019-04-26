@@ -1,0 +1,605 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\begin_preamble
+\usepackage[margin=2cm, bottom=3cm]{geometry}
+\usepackage[thickqspace,thickspace,amssymb]{SIunits}
+\usepackage{enumitem}
+\usepackage{listings}
+\usepackage{tkz-graph}
+\setlist{itemsep=0pt}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures false
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 10
+\spacing single
+\use_hyperref false
+\papersize letterpaper
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification false
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip smallskip
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 2
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+How to do reasonably well in SCI 238
+\end_layout
+
+\begin_layout Author
+Jim Zhang
+\end_layout
+
+\begin_layout Date
+2019 Jan–Apr
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+allowdisplaybreaks
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+newpage
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Quick reference
+\end_layout
+
+\begin_layout Subsection
+Values
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{align*}
+\text{earth radius} & =6371\text{ km}\\
+\text{earth mass} & =5.97\times10^{24}\text{ kg}\\
+\text{sun radius} & =6.95\times10^{5}\text{ km}\\
+\text{sun mass} & =1.99\times10^{30}\text{ kg}\\
+\text{milky center dist} & =2.6\times10^{4}\text{ ly}\\
+\text{milky radius} & =5.3\times10^{4}\text{ ly}\\
+\text{andromeda dist} & =2.5\times10^{6}\text{ ly}\\
+\text{solar day} & =24\text{h}\\
+\text{sidereal day} & =23\text{h}56\text{m}4.09\text{s}=23.93447\text{h}\\
+\text{synodic month} & =29.53\text{ solar days}\\
+\text{sidereal month} & =27.32\text{ solar days}\\
+\text{tropical year} & =365.242\text{ solar days}\\
+\text{sidereal year} & =365.256\text{ solar days}\\
+v_{\text{escape earth}} & =11.2\text{ km}/\text{s}\\
+\text{sun luminosity} & =3.828\times10^{26}\text{ W }\\
+\text{white dwarf radius} & \approx7000\text{ km}\\
+\text{neutron star radius} & \approx10\text{ km}\\
+\text{neutron star density} & \approx4\times10^{17}\text{ kg}/\text{m}^{3}
+\end{align*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Constants
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{align*}
+G & =6.674\times10^{-11}\text{ m}^{3}/(\text{kg}\cdot\text{s}^{2})\\
+c & =2.997\times10^{8}\text{ m}/\text{s}\\
+h & =6.626\times10^{-34}\text{ J}\cdot\text{s}
+\end{align*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Units
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{align*}
+1\text{ eV} & =1.602\times10^{-19}\text{ J}\\
+1\text{ AU} & =1.496\times10^{8}\text{ km}\\
+1\text{ ly} & =9.461\times10^{12}\text{ km}\\
+1\text{ pc} & =3.086\times10^{13}\text{ km}
+\end{align*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Formulas
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{align*}
+F_{g} & =G\frac{m_{1}m_{2}}{d^{2}}\tag{Gravity}\\
+L & =mvr\tag{Angular momentum}\\
+e & =\sqrt{1-\left(\frac{b}{a}\right)^{2}}\tag{Ellipse eccentricity}
+\end{align*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Mathematical insights
+\end_layout
+
+\begin_layout Standard
+Page numbers are for The Cosmic Perspective 6th.
+\end_layout
+
+\begin_layout Itemize
+92: Math S1.1.
+ Orbital and synodic period
+\end_layout
+
+\begin_layout Itemize
+99: Math S1.2.
+ Sidereal time, hour angle
+\end_layout
+
+\begin_layout Itemize
+131: Math 4.3.
+ Law of periods
+\begin_inset Formula 
+\[
+T^{2}=\frac{4\pi^{2}}{G(m_{1}+m_{2})}a^{3}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+133: Math 4.4.
+ 
+\begin_inset Formula $v_{\text{escape}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+150: Math 5.1.
+ 
+\begin_inset Formula $c=\lambda f$
+\end_inset
+
+, 
+\begin_inset Formula $E=hf$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+161: Math 5.2.
+ Stefan-Boltzmann law, Wien's law.
+\begin_inset Formula 
+\begin{align*}
+j^{*} & =\sigma T^{4}\\
+\lambda_{\text{max}} & =b/T
+\end{align*}
+
+\end_inset
+
+where
+\begin_inset Formula 
+\begin{align*}
+\sigma & =5.670\times10^{-8}\text{ W}\cdot\text{m}^{-2}\cdot\text{K}^{-4}\\
+b & =2.898\times10^{-3}\text{ m}\cdot\text{K}
+\end{align*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+165: Math 5.3.
+ Doppler shift
+\begin_inset Formula 
+\[
+\frac{v}{c}=\frac{\lambda_{\text{shift}}}{\lambda_{\text{rest}}}-1
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+175: Math 6.1.
+ Angular separation:
+\begin_inset Formula 
+\[
+\theta=\frac{d}{r}\cdot\frac{360^{\circ}}{2\pi}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+180: Math 6.2.
+ Diffraction limit of telescope
+\begin_inset Formula 
+\[
+\theta=1.220\frac{\lambda}{D}\cdot360^{\circ}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+249: Math 9.1.
+ Sphere surface area / volume
+\end_layout
+
+\begin_layout Itemize
+382: Math 13.1.
+ Exoplanet orbital distance (via law of periods)
+\end_layout
+
+\begin_layout Itemize
+383: Math 13.2.
+ Exoplanet mass (via conservation of momentum)
+\end_layout
+
+\begin_layout Itemize
+384: Math 13.3.
+ Exoplanet size (via light fraction blocked)
+\end_layout
+
+\begin_layout Itemize
+416: Math S2.1.
+ Time dilation
+\begin_inset Formula 
+\[
+t_{\text{moving}}=t_{\text{rest}}\sqrt{1-(v/c)^{2}}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+417: Math S2.2.
+ Special relativity
+\begin_inset Formula 
+\begin{align*}
+\ell_{\text{moving}} & =\ell_{\text{rest}}\sqrt{1-(v/c)^{2}}\\
+m_{\text{moving}} & =\frac{m_{\text{rest}}}{\sqrt{1-(v/c)^{2}}}\\
+\text{speed addition} & =\frac{v_{1}+v_{2}}{1+\left(v_{1}v_{2}/c^{2}\right)}
+\end{align*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+420: Math S2.3.
+ Deriving 
+\begin_inset Formula $E=mc^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+478: Math 14.1.
+ 
+\begin_inset Formula $E=mc^{2}$
+\end_inset
+
+ with hydrogen fusion
+\end_layout
+
+\begin_layout Itemize
+479: Math 14.2.
+ Ideal gas law: 
+\begin_inset Formula $P=nkT$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+494: Math 15.1.
+ Apparent brightness
+\begin_inset Formula 
+\[
+\text{Apparent brightness}=\frac{L}{4\pi d^{2}}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+496: Math 15.2.
+ Parallax
+\end_layout
+
+\begin_layout Itemize
+497: Math 15.3.
+ Magnitude
+\end_layout
+
+\begin_layout Itemize
+503: Math 15.4.
+ Binary star mass (via law of periods)
+\end_layout
+
+\begin_layout Itemize
+506: Math 15.5.
+ Star radius (via thermal radiation)
+\end_layout
+
+\begin_layout Itemize
+523: Math 16.1.
+ Gravity vs.
+ pressure (Jean's mass)
+\begin_inset Formula 
+\[
+M_{\text{balance}}=18M_{\text{Sun}}\sqrt{T^{3}/n}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+570: Math 18.1.
+ Schwarzschild radius
+\begin_inset Formula 
+\[
+R_{S}=\frac{2GM}{c^{2}}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+586: Math 19.1.
+ Interior mass via velocity
+\begin_inset Formula 
+\[
+M_{r}=\frac{rv^{2}}{G}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+612: Math 20.1.
+ Standard candles
+\end_layout
+
+\begin_layout Itemize
+617: Math 20.2.
+ Redshift
+\begin_inset Formula 
+\[
+z=\frac{\lambda_{\text{observed}}}{\lambda_{\text{rest}}}-1
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+618: Math 20.3.
+ Hubble's law
+\end_layout
+
+\begin_layout Itemize
+621: Math 20.4.
+ Age from Hubble's constant
+\end_layout
+
+\begin_layout Itemize
+622.
+ Math 20.5.
+ Redshift and light stretching
+\end_layout
+
+\begin_layout Itemize
+642.
+ Math 21.1.
+ Feeding a black hole (via 
+\begin_inset Formula $E=mc^{2}$
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Itemize
+644.
+ Math 21.2.
+ Supermassive black hole (via interior mass)
+\end_layout
+
+\begin_layout Itemize
+653.
+ Math 22.1.
+ Mass-to-light ratio
+\end_layout
+
+\begin_layout Itemize
+655.
+ Math 22.2.
+ Cluster mass (via interior mass)
+\end_layout
+
+\begin_layout Itemize
+656.
+ Math 22.3.
+ Cluster mass (via gas temperature)
+\begin_inset Formula 
+\[
+v_{H}=(140\text{m/s})\times\sqrt{T}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+685.
+ Math 23.1.
+ Background radiation temperature/wavelength (via Wien's law, redshift)
+\end_layout
+
+\begin_layout Subsection
+Figures and tables
+\end_layout
+
+\begin_layout Itemize
+148: Figure 5.7.
+ Electromagnetic spectrum
+\end_layout
+
+\begin_layout Itemize
+163: Figure 5.21.
+ Interpreting a spectrum
+\end_layout
+
+\begin_layout Itemize
+185: Figure 6.22.
+ Electromagnetic penetration
+\end_layout
+
+\begin_layout Itemize
+200: The solar system and the planet sequence
+\end_layout
+
+\begin_layout Itemize
+212: Table 7.1.
+ Solar system planet data
+\end_layout
+
+\begin_layout Itemize
+501: Table 15.1.
+ The spectral sequence
+\end_layout
+
+\begin_layout Itemize
+504: Figure 15.10.
+ H-R diagram
+\end_layout
+
+\begin_layout Itemize
+680: Figure 23.5.
+ The early universe
+\end_layout
+
+\begin_layout Itemize
+703: Figure 24.4.
+ Geological time scale
+\end_layout
+
+\end_body
+\end_document

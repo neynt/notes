@@ -114,7 +114,7 @@ Prof: Wokia Kumase.
 
 <!-- 2019-01-21 -->
 
-## Ch20.
+## Chapter 20
 
 - Ch20 review
 - 1. What parts of GDP do the following affect?
@@ -173,9 +173,113 @@ Prof: Wokia Kumase.
   - Sam lost his job and finds a worse part-time job.
     - u-rate stays the same, seems bad
 
-## Ch21. Jobs and inflation
+## Chapter 21. Jobs and inflation
 
 - The quantity theory of money: MV = PY. M: quantity of money, V: dollar
   velocity, P: price level, Y: total output.
 - Indexation is adjusting income using the inflation rate.
 - Midterm has GDP deflator, CPI
+
+<!-- 2019-02-25 -->
+
+## Chapter 24. Money, the Price Level, and Inflation
+
+- See prof during class hours to review midterm
+
+- Example:
+  - You find a $50 bill. Reserve requirement is 20%. Maximum money supply
+    increase? Minimum?
+  - Max is $250. Min is $50.
+
+- Example:
+  - Y=800 bushels of corn. V=constant. MS=$2000. P=$5/bushel
+  - Then velocity of money is 2.
+  - If, in 2009, MS goes 5% up to $2100, then the nominal GDP goes to $4200 and
+    the inflation rate is 5%.
+    - GDP = 2 (velocity of money) * 2100 (money supply) = 4200
+  - If, additionally, Y increases to 824 in 2009, then the inflation rate is
+    actually 2%. An increase in real GDP offsets an increase in the money
+    supply.
+
+<!-- 2019-03-04 -->
+
+## Chapter 25. Forex
+
+What would happen to Canadian net exports if:
+- US recession (falling incomes, rising unemployment)?
+  --> Decrease, since US buys less from us.
+- Canadian consumers buy more Made in Canada.
+  --> Increase, since imports fall.
+- Mexican goods increase in price faster than Canadian goods.
+  --> Increase, since competition is less.
+
+## Chapter 26. Aggregate supply and demand
+
+What would happen to AD?
+- 10-year-old investment tax credit expires.
+  --> Decreases, since there's more money in people's pockets.
+  --> Curve shifts left.
+- Canadian exchange rate falls.
+  --> Increases, since exports increase.
+  --> Curve shifts right.
+- Fall in prices increases the real value of consumer's wealth.
+  --> We move along the curve to the right.
+- Sales taxes are replaced with taxes on interest, dividends, and capital gains.
+  --> Curve does not shift, but demand increases because the increase in
+  consumption is way more than the decrease in investment. ???
+
+<!-- 2019-03-18 -->
+
+## Chapter 27. Expenditure multipliers
+
+- Final will be mostly post-midterm2 material.
+
+- LAS/SAS/AD model examples.
+  - Crisis in the middle east:
+    - We import oil from there, so SAS left; GDP down, price level up.
+    - Now we want better wages, so SAS left; GDP down, price level up.
+      Stagflation.
+    - Classical view: Now people are scared and people are fine with low wages,
+      so we eventually shift back to LAS-AD intersection.
+  - USA recession:
+    - They buy a lot from us, so AD left; GDP down, price level down.
+    - Now what happens? Wages get lower, so SAS right, and we end up with the
+      same GDP but a lower price level.
+
+- Aggregate expenditure
+
+- Combining AS-AD and AE models
+  - Suppose that the price level rises, decreasing real GDP.
+    - Then, AE shifts down to reflect lower autonomous expenditure.
+  - Suppose that autonomous expenditure rises.
+    - Then, the equilibrium GDP rises and AD shifts to the right.
+    - Then, prices start to rise to reach SAS-AD equilibrium.
+    - This brings AE down
+    - Eventually, workers negotiate wages and we're brought to the same real
+      GDP at a higher price level.
+
+- That is all for today. Wokia is sick.
+
+<!-- 2019-03-25 -->
+
+## Chapter 28. Business cycle
+
+- had a super kawaii substitute prof today
+- Macroeconomics is a soup; microeconomics is a cake.
+
+<!-- 2019-04-01 -->
+
+## Chapter 29. Fiscal policy
+
+- oh god what we have to do ch29?
+- How bad is a deficit? Depends on if it's spent on consumption or investment.
+  Consumption sucks and starts vicious cycles. Investment produces future
+  wealth.
+- we will see lots of AS-AD plots in the final.
+
+## Chapter 30. Monetary policy
+
+- TODO: Review cause-and-effect chain of overnight rate increase.
+- In the presence of stagflation, monetary policy suggests that you should
+  decrease the money supply
+- Final will be 90-100 multiple choice questions.

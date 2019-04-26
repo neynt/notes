@@ -1,0 +1,259 @@
+Last updated:
+- Lectures: Week 7
+- Readings: Chap 10 (for midterm 1)
+
+## Films by year
+
+- 1895 Dec 28: The Arrival of a Train at La Ciotat
+- 1903: The Great Train Robbery
+- 1905: A Trip to the Moon
+- 1908: L'assassinat du Duc de Guise
+- 1915: Birth of a Nation
+- 1926: Don Juan
+- 1927: The Jazz Singer
+- 1931: Cimarron
+- 1932: Symphony of 6 Million
+- 1932: Bird of Paradise
+- 1933: King Kong
+- 1935: The Informer
+- 1936: Anthony Adverse
+- 1937: Lost Horizon
+- 1938: The Adventures of Robin Hood
+- 1939: Gone with the Wind
+- 1939: The Wizard of Oz
+- 1940: The Sea Hawk
+- 1940: The Thief of Bagdad
+- 1942: Casablanca
+- 1942: Jungle Book
+- 1944: Double Indemnity
+- 1944: Laura
+- 1945: Spellbound
+- 1945: The Lost Weekend
+- 1946: It's A Wonderful Life
+- 1952: High Noon
+- 1953: Cat Woman on the Moon
+- 1955: The Man with the Golden Arm
+- 1956: The Ten Commandments
+- 1959: A Summer Place
+- 1959: Ben-Hur
+- 1968: 2001: A Space Odyssey
+- 1972: The Godfather
+- 1973: The Sting
+- 1977: Star Wars
+- 1981: Raiders of the Lost Ark
+- 1983: Local Hero
+- 1986: Platoon
+- 1986: Aliens
+- 1995: Apollo 13
+- 1997: Alien Resurrection
+- 1998: Meet Joe Black
+- 1999: Cider House Rules
+- 2003: The Last Samurai
+- 2004: The Return of the King
+
+## Timeline
+
+- 1879: Eadweard Muybridge makes the Zoopraxiscope
+- 1891: Edison makes the Kinetoscope
+- 1895: Edison makes the Kinetophone
+- 1895-1927: The Silent era
+  - 1895 Dec 28: The Lumiere Brothers project the first film in Paris
+  - 1905: Nickelodeons were big
+    - 1907: Over 3000 nickelodeons
+    - 1910: Over 10000 nickelodeons
+  - 1905-1910: Narrative films become a thing
+    - 1909: Edison Film Company releases musical suggestions
+  - 1910-1920s: The film industry matures
+    - 1912: First movie palace
+    - 1912: Max Winkler of Carl Fischer Music suggests pieces with timings
+  - Mid 1920s: Filmmakers realize live performance doesn't work
+  - 1914: Max Steiner starts working on Broadway
+- 1927-1940: The Depression/Émigré era
+  - 1929: 1000 theatres equipped for sound
+  - 1929: Max Steiner starts working in Hollywood
+  - 1930: Music vanishes in narrative films
+  - 1930 March: The Hays Code is created
+  - 1934: The Hays Code becomes mandatory
+  - 1935: (all?) 20000 theatres equipped for sound
+- 1940-1958: Film Noir
+- 1958-1970: Epics
+  - 1968: Hays Code abandoned
+
+## People
+
+- Al Jolson
+  - 1927: Star of The Jazz Singer
+- Alfred Newman
+  - American émigré-era composer
+  - Thomas Newman's father
+- Camille Saint-Saëns
+  - Prestigious
+  - 1908: Composed for L'assassinat du Duc de Guise
+- Carli Elinor
+  - 1915: Music fitted for Birth of a Nation
+- DW Griffith
+  - 1915: Directed Birth of a Nation
+- David Selznick
+  - RKO guy, pushed Max Steiner forward
+- Dimitri Tiomkin
+  - Émigré composer 
+  - 1937: Lost Horizon
+  - 1946: It's A Wonderful Life
+  - 1952: High Noon
+- Edgar Stillman Kelley
+  - 1959: Composed for Ben-Hur: A Tale of the Christ
+- Edwin Porter
+  - 1903: Did The Great Train Robbery
+- Erich Korngold
+  - Émigré composer
+  - 1934: A Midsummer Night's Dream
+  - 1936: Anthony Adverse
+  - 1938: The Adventures of Robin Hood
+  - 1940: The Sea Hawk
+- Franz Waxman
+  - Émigré composer 
+- George Méliès
+  - 1905: Did A Trip to the Moon
+- Georges Deleure
+  - 1986: Composed for Platoon
+- Gustav Mahler
+  - Taught Max Steiner, Erich Korngold
+- Herbert Stothart
+  - American émigré-era composer
+  - 1939: The Wizard of Oz
+- Howard Shore
+  - 2004: Composed for The Return of the King
+- James Horner
+  - Prolific composer
+  - 1986: Aliens
+  - 1995: Apollo 13
+  - Also did: Titanic, Avatar
+- John Frizzell
+  - Composer
+  - 1997: Alien Resurrection
+- John Williams
+  - Prolific composer
+  - 1977: Star Wars
+  - 1981: Raiders of the Lost Ark
+- Joseph Carl Breil
+  - Composer
+  - 1915: Birth of a Nation
+- Mark Knopfler
+  - Composer
+  - 1983: Local Hero
+- Marvin Hamlisch
+  - Adapted The Entertainer for The Sting (1973)
+- Max Steiner
+  - (Pre-)émigré composer
+  - 1931: Cimarron
+  - 1932: Symphony of 6 Million
+  - 1932: Bird of Paradise
+  - 1933: King Kong
+  - 1935: The Informer
+    - First Academy Award for Best Original Score
+  - 1939: Gone with the WInd
+  - 1942: Casablanca
+  - 1959: A Summer Place
+- Miklos Rosza
+  - Émigré composer 
+  - 1940: The Thief of Bagdad
+  - 1942: Jungle Book
+  - 1944: Double Indemnity
+  - 1945: Spellbound
+  - 1945: The Lost Weekend
+  - 1959: Ben-Hur
+- Elmer Bernstein
+  - American Julliard composer
+  - 1953: Cat Woman on the Moon
+  - 1955: The Man with the Golden Arm
+  - 1956: The Ten Commandments
+- David Raksin
+  - American-born Film Noir composer
+  - 1935: Modern Times (transcribed)
+  - 1944: Laura
+- Otto Preminger
+  - Directed Laura
+- Nino Rota
+  - 1972: Composed for The Godfather
+- Rachael Portman
+  - 1999: Composed for Cider House Rules
+- Richard Strauss
+  - Taught Erich Korngold
+- Richard Wagner
+  - Romantic composer; came up with leitmotif
+- Samuel Barber
+  - Wrote Adagio for Strings
+- Sandy DeCrescent
+  - Prolific female music contractor
+- Scott Joplin
+  - Wrote The Entertainer
+- Stanley Kubrick
+  - 1968: Directed 2001: A Space Odyssey
+- Thomas Edison
+  - Huge jerk
+  - Did Kinetoscope and Kinetophone
+- Thomas Newman
+  - 1998: Composed for Meet Joe Black
+- William Axt
+  - 1926: Composer for Don Juan
+
+## Important people
+
+- Max Steiner
+  - 1888: Born in Vienna.
+  - 1914: Moved from England to Broadway
+  - 1929: Moved from Broadway to Hollywood
+  - 1931: Cimarron
+  - 1932: Symphony of 6 Million, Bird of Paradise: First wall-to-wall scores
+  - 1933: King Kong
+  - 1935: The Informer: First AA for Best Original Score
+  - 1939: Gone with the Wind
+  - 1942: Casablanca
+  - 1959: A Sumemr Place
+
+- Erich Korngold
+  - 1897: Born in Vienna.
+  - 1934: Did some stuff with A Midsummer Night's Dream
+  - 1936: Anthony Adverse
+  - 1938: The Adventures of Robin Hood
+  - 1940: The Sea Hawk
+
+- Dimitri Tiomkin
+  - 1937: Lost Horizon
+  - 1946: It's a Wonderful Life
+  - 1952: High Noon
+
+- David Raksin
+  - 1912: Born in Philadelphia.
+  - Early: Pianist and jazz arranger in New York. Worked with Benny Goodman.
+  - 1935: Modern Times, with Charlie Chaplin.
+  - 1944: Laura
+
+- Miklos Rosza
+  - 1907: Born in Hungary
+  - 1934: Goes into film scoring, suggested by Arthur Honegger
+  - 1939: Went to USA to escape WWII
+  - 1940: The Thief of Bagdad
+  - 1942: Jungle Book
+  - 1944: Double Indemnity
+  - 1945: Spellbound, The Lost Weekend: Both used the theremin.
+  - 1959: Ben-Hur
+
+## Minor people
+
+- The Lumiere Brothers: Did The Arrival of a Train at La Ciotat
+- George Melies: Did A Trip to the Moon
+- Edwin Porter: Did The Great Train Robbery
+- Joseph Carl Breil: Composed for Birth of a Nation
+- William Axt: Composed for Don Juan
+- Herbert Stothart: Composed for The Wizard of Oz
+- Ennio Morricone: Composed spaghetti westerns w/ Sergio Leone, like The Good, The BAd, and The Ugly
+- John Barry: Dr. No, Out of Africa, block orchestration
+- Alex North: Rekt 2001: A Space Odyssey composer
+- Stanley Miles: Early work with Hans Zimmer
+
+## Classical eras
+
+- 1600-1750: Baroque era
+- 1730-1820: Classical era
+- 1800-1910: Romantic era

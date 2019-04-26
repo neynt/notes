@@ -151,7 +151,9 @@ Values
 \text{sidereal month} & =27.32\,\text{solar days}\\
 \text{tropical year} & =365.242\,\text{solar days}\\
 \text{sidereal year} & =365.256\,\text{solar days}\\
-v_{\text{escape earth}} & =11.2\,\text{km}/\text{s}
+v_{\text{escape earth}} & =11.2\,\text{km}/\text{s}\\
+\text{sun luminosity} & =3.828\times10^{26}\,\text{W }\\
+\text{neutron star density} & =4\times10^{17}\text{kg}/\text{m}^{3}
 \end{align*}
 
 \end_inset
@@ -211,7 +213,16 @@ E & =hf\tag{Photon energy}\\
 j^{*} & =\sigma T^{4}\tag{Stefan-Boltzmann law}\\
 \lambda_{\text{max}} & =b/T\tag{Wien's displacement law}\\
 \alpha & =\frac{s}{2\pi d}\times360^{\circ}\tag{Angular separation}\\
-\theta & =1.220\frac{\lambda}{D}\times360^{\circ}\tag{Angular resolution}
+\theta & =1.220\frac{\lambda}{D}\times360^{\circ}\tag{Angular resolution}\\
+t' & =t\sqrt{1-\left(\frac{v}{c}\right)^{2}}\tag{Time/length dilation}\\
+v' & =\frac{v_{1}+v_{2}}{1+\left(\frac{v_{1}v_{2}}{c^{2}}\right)}\tag{Velocity addition}\\
+m' & =\frac{m}{\sqrt{1-\left(\frac{v}{c}\right)^{2}}}\tag{Moving mass}\\
+e & =\sqrt{1-\left(\frac{b}{a}\right)^{2}}\tag{Ellipse eccentricity}\\
+... & =\frac{L}{4\pi\times d^{2}}\tag{Apparent brightness}\\
+M & =18M_{Sun}\sqrt{\frac{T^{3}}{n}}\tag{Jean's mass}\\
+R_{Sch} & =\frac{2GM}{c^{2}}\tag{Black hole radius}\\
+M_{r} & =\frac{rv^{2}}{G}\tag{Orbital velocity law}\\
+v & =H_{0}\times d\tag{Hubble's law}
 \end{align*}
 
 \end_inset
@@ -298,44 +309,92 @@ Textbook index (6th ed.)
 \end_layout
 
 \begin_layout Itemize
-180.
- Math 6.2.
+180: Math 6.2.
  Diffraction limit.
 \end_layout
 
 \begin_layout Itemize
-185.
- Figure 6.22.
+185: Figure 6.22.
  Electromagnetic penetration.
 \end_layout
 
 \begin_layout Itemize
-200.
- The solar system and the planet sequence.
+200: The solar system and the planet sequence.
 \end_layout
 
 \begin_layout Itemize
-212.
- Table 7.1.
+212: Table 7.1.
  Planetary data.
 \end_layout
 
 \begin_layout Itemize
-382.
- Math 13.1.
+382: Math 13.1.
  Exoplanet orbital distance.
 \end_layout
 
 \begin_layout Itemize
-383.
- Math 13.2.
+383: Math 13.2.
  Exoplanet mass.
 \end_layout
 
 \begin_layout Itemize
-384.
- Math 13.3.
+384: Math 13.3.
  Exoplanet size.
+\end_layout
+
+\begin_layout Itemize
+TODO: Figure 24.4.
+ Geological time scale.
+\end_layout
+
+\begin_layout Itemize
+TODO: Math S2.1.
+ Time dilation.
+\end_layout
+
+\begin_layout Itemize
+TODO: Math S2.2.
+ Special relativity.
+\end_layout
+
+\begin_layout Itemize
+TODO: Math S2.3.
+ Deriving 
+\begin_inset Formula $E=mc^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+TODO: Math 15.2.
+ Parallax.
+\end_layout
+
+\begin_layout Itemize
+TODO: Table 15.1.
+ The spectral sequence.
+\end_layout
+
+\begin_layout Itemize
+TODO: Math 15.4.
+ Measuring masses with Newton's Kepler's third law.
+\end_layout
+
+\begin_layout Itemize
+TODO: Math 15.4.
+ Calculating stellar radii.
+\end_layout
+
+\begin_layout Itemize
+TODO: Math 16.1.
+ Gravity vs.
+ pressure.
+\end_layout
+
+\begin_layout Itemize
+TODO: Math 18.1.
+ Schwarzschild radius.
 \end_layout
 
 \begin_layout Section
@@ -1937,7 +1996,7 @@ Sample return
 \end_layout
 
 \begin_layout Section
-Planetary geology (Ch9)
+Planetary geology (ch9)
 \end_layout
 
 \begin_layout Standard
@@ -1951,7 +2010,7 @@ Hot jupiters
 \end_layout
 
 \begin_layout Section
-Other planetary systems (Ch13)
+Other planetary systems (ch13)
 \end_layout
 
 \begin_layout Standard
@@ -2035,6 +2094,1629 @@ Properties we can measure
 \end_inset
 
 
+\end_layout
+
+\begin_layout Section
+Life (ch24)
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Astrobiology
+\series default
+ is the search for life in the universe.
+ 
+\series bold
+Stromatolites
+\series default
+ are rocks that are formed from microbe colonies.
+ 
+\series bold
+Microfossils
+\series default
+ are microbe fossils.
+ They both date back to about 3.5 billion years ago.
+ 
+\series bold
+Evolution
+\series default
+ by 
+\series bold
+natural selection 
+\series default
+is the inescapable conclusion of fact 1 (competition for survival) and fact
+ 2 (individual variation).
+ Here's a timeline of some interesting dates:
+\end_layout
+
+\begin_layout Itemize
+542 million years ago: The Cambrian explosion
+\end_layout
+
+\begin_layout Itemize
+230 million years ago: Early dinosaurs and mammals
+\end_layout
+
+\begin_layout Itemize
+65 million years ago: And the dinosaurs are gone
+\end_layout
+
+\begin_layout Itemize
+A few million years ago: The earliest humans
+\end_layout
+
+\begin_layout Standard
+The requirements for Earth-like life are:
+\end_layout
+
+\begin_layout Enumerate
+Nutrients that you can build cells with
+\end_layout
+
+\begin_layout Enumerate
+Energy
+\end_layout
+
+\begin_layout Enumerate
+Liquid water
+\end_layout
+
+\begin_layout Standard
+For a planet to have life, it must satisfy four things:
+\end_layout
+
+\begin_layout Enumerate
+Correct distance from its star to have liquid water (the 
+\series bold
+habitable zone
+\series default
+)
+\end_layout
+
+\begin_layout Enumerate
+Volcanism to make atmospheres and oceans
+\end_layout
+
+\begin_layout Enumerate
+Plate tectonics to support a climate-regulating carbon dioxide cycle
+\end_layout
+
+\begin_layout Enumerate
+Magnetic field to protect against stellar wind
+\end_layout
+
+\begin_layout Standard
+Similar size to Earth is heavily correlated with 2-4.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Orphan planets
+\series default
+ (rogue planets) don't orbit a star, but may possible be habitable if they
+ can provide their own energy.
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+Drake Equation
+\series default
+ aims to estimate the number of civilizations in the Milky Way and is approximat
+ely 
+\begin_inset Formula $N_{\text{HP}}f_{\text{life}}f_{\text{civ}}f_{\text{now}}$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Fermi's paradox
+\series default
+ is how we don't see any other civilizations even though we kinda do statistical
+ly expect them to exist.
+ Solutions are typically one of:
+\end_layout
+
+\begin_layout Enumerate
+We're alone after all
+\end_layout
+
+\begin_layout Enumerate
+They just haven't colonized the galaxy
+\end_layout
+
+\begin_layout Enumerate
+It hasn't revealed itself
+\end_layout
+
+\begin_layout Section
+Space and time (chS2)
+\end_layout
+
+\begin_layout Standard
+Einstein's 
+\series bold
+special relativity
+\series default
+ said space and time are intertwined, and 
+\series bold
+general relativity
+\series default
+ includes gravity.
+\end_layout
+
+\begin_layout Section
+Spacetime and gravity (chS3)
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Spacetime
+\series default
+ is a useful concept.
+ The 
+\series bold
+equivalence principle
+\series default
+ says that the effects of gravity are exactly those of acceleration.
+ 
+\series bold
+Spacetime diagrams
+\series default
+ are useful.
+ Geometry can be flat, spherical, or saddle-shaped.
+ 
+\series bold
+Gravity
+\series default
+ happens because mass curves spacetime, and also causes time to be slower
+ (gravitational time dilation).
+\end_layout
+
+\begin_layout Section
+Quantum (chS4)
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Ernest Rutherford
+\series default
+ (1871–1937) did gold foil and found that atoms are empty.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Niels Bohr
+\series default
+ (1885–1962) said electron energies are quantized.
+\end_layout
+
+\begin_layout Standard
+This brought the world revolution.
+\end_layout
+
+\begin_layout Subsection
+Fundamental particles and forces
+\end_layout
+
+\begin_layout Standard
+Fundamental particles have an inherent angular momentum called 
+\series bold
+spin
+\series default
+.
+ The standard model classifies fundamental particles as follows:
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Fermions
+\series default
+ have half-integer spin and include 
+\series bold
+quarks
+\series default
+ (which interact via the strong force and are basically never alone) and
+ 
+\series bold
+leptons
+\series default
+ (which are isolated particles, like electrons).
+ The six quarks are up, down, strange, charm, top, and bottom.
+ The leptons are electron, electron neutrino, muon, mu neutrino, tauon,
+ and tau neutrino.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Bosons
+\series default
+ have integer spin.
+ They include photons and the Higgs boson.
+\end_layout
+
+\begin_layout Standard
+A 
+\series bold
+proton
+\series default
+ is two up quarks and a down quark.
+ A 
+\series bold
+neutron
+\series default
+ is one up quark and two down quarks.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Antimatter
+\series default
+ is also a thing.
+ Every fermion has an antifermion with the opposite charge.
+\end_layout
+
+\begin_layout Standard
+The four forces are 
+\series bold
+gravity
+\series default
+, 
+\series bold
+electromagnetism
+\series default
+, 
+\series bold
+strong
+\series default
+ (holds nuclei together), and 
+\series bold
+weak
+\series default
+.
+ Exchange particles are 
+\series bold
+gravitons
+\series default
+, 
+\series bold
+photons
+\series default
+, 
+\series bold
+gluons
+\series default
+, and 
+\series bold
+weak bosons
+\series default
+.
+\end_layout
+
+\begin_layout Subsection
+In astronomy
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Thermal pressure
+\series default
+ keeps hot things expanded.
+ 
+\series bold
+Degeneracy pressure
+\series default
+ is when the exclusion principle keeps ultra dense things expanded.
+ 
+\series bold
+Electron degeneracy pressure
+\series default
+ can prevent star formation (brown dwarf) or support a white dwarf.
+ 
+\series bold
+Neutron degeneracy pressure
+\series default
+ supports neutron stars.
+ Empty space bubbles with 
+\series bold
+virtual particles
+\series default
+ that pop in and out of existence before they can be detected.
+ When this happens at the event horizon of black holes, the black hole emits
+ 
+\series bold
+Hawking radiation
+\series default
+.
+\end_layout
+
+\begin_layout Section
+Our star (ch14)
+\end_layout
+
+\begin_layout Standard
+We previously thought that the sun is a big coal, or that it generates energy
+ solely through 
+\series bold
+gravitational contraction
+\series default
+ (Kelvin-Helmholtz contraction).
+ We now know it's mostly nuclear fusion.
+ It stays roughly the same size because it is in 
+\series bold
+gravitational equilibrium
+\series default
+ (gas pressure equals gravity) and 
+\series bold
+energy balance
+\series default
+ (energy produced in core equals that released from surface).
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+proton-proton chain
+\series default
+ is the mechanism by which hydrogen fuses into helium.
+\end_layout
+
+\begin_layout Standard
+The sun has 
+\series bold
+sunspots
+\series default
+ (cold dark splotches) and emits 
+\series bold
+solar wind
+\series default
+ (constant flow of charged particles), 
+\series bold
+solar prominences
+\series default
+ (big loops), 
+\series bold
+solar flares
+\series default
+ (bursts of UV and X-rays and charged particles, usually from a sunspot),
+ and 
+\series bold
+coronal mass ejections
+\series default
+ (big bubble of charged particles that can screw things up on Earth).
+\end_layout
+
+\begin_layout Standard
+Parts of the sun are the 
+\series bold
+corona
+\series default
+ (outer atmosphere, super hot, low density, emits X-rays), the
+\series bold
+ chromosphere
+\series default
+ (middle layer of atmosphere, emits UV light), the
+\series bold
+ photosphere
+\series default
+ (visible surface), the 
+\series bold
+convection zone
+\series default
+, the 
+\series bold
+radiation zone
+\series default
+, and the 
+\series bold
+core
+\series default
+.
+\end_layout
+
+\begin_layout Standard
+The photons generated in the core leave through a random walk called 
+\series bold
+radiative diffusion
+\series default
+.
+\end_layout
+
+\begin_layout Standard
+We learn about the inside of the sun through mathematical models, 
+\series bold
+solar vibrations
+\series default
+ (via Doppler shifts), and 
+\series bold
+solar neutrinos
+\series default
+.
+\end_layout
+
+\begin_layout Standard
+There is a 
+\series bold
+sunspot cycle
+\series default
+ of solar minimums (little sunspot activity) and maximums (tons of it) every
+ 11ish years, in sync with magnetic field flip flops.
+ Also the sun rotates faster at the equator than the poles.
+\end_layout
+
+\begin_layout Section
+Surveying the stars (ch15)
+\end_layout
+
+\begin_layout Standard
+Apparent brightness follows the 
+\series bold
+inverse square law for light
+\series default
+.
+ 
+\series bold
+Total luminosity
+\series default
+ (aka bolometric luminosity) takes into account light of all wavelengths.
+\end_layout
+
+\begin_layout Standard
+We can calculate a star's distance using 
+\series bold
+stellar parallax
+\series default
+ (annual shift in apparent position).
+ A 
+\series bold
+parsec
+\series default
+ is the distance corresponding to a parallax of 1 arcsecond.
+\end_layout
+
+\begin_layout Subsection
+Magnitudes
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Apparent magnitude
+\series default
+ is negative logarithmic apparent brightness where 
+\begin_inset Formula $x-5$
+\end_inset
+
+ magnitude is 100 times brighter than 
+\begin_inset Formula $x$
+\end_inset
+
+ magnitude, and Vega has a magnitude of about 
+\begin_inset Formula $0$
+\end_inset
+
+.
+ 
+\series bold
+Absolute magnitude
+\series default
+ is what apparent magnitude would be at a distance of 
+\begin_inset Formula $10$
+\end_inset
+
+ parsecs.
+\end_layout
+
+\begin_layout Subsection
+Temperatures
+\end_layout
+
+\begin_layout Standard
+This usually means surface temperature, because that's directly measurable
+ with colors or by spectral lines.
+ The spectral sequence, from hottest/bluest to coldest/reddest, is OBAFGKM.
+ Each type is divided into ten digits; higher digits are colder.
+\end_layout
+
+\begin_layout Subsection
+Binary star systems
+\end_layout
+
+\begin_layout Standard
+A 
+\series bold
+visual binary
+\series default
+ can be observed as two separate stars.
+ A 
+\series bold
+spectroscopic binary
+\series default
+ is identifier through Doppler shifts in the spectral lines (we see double
+ lines, or single lines shifting back and forth).
+ An 
+\series bold
+eclipsing binary
+\series default
+ is lined up with our line of sight, so the stars block each other sometimes.
+\end_layout
+
+\begin_layout Subsection
+Hertzsprung-Russell diagrams
+\end_layout
+
+\begin_layout Standard
+Temperature on horizontal, luminosity on vertical.
+ Stars come in a couple luminosity classes:
+\end_layout
+
+\begin_layout Itemize
+(Class V) 
+\series bold
+Main sequence
+\series default
+ stars: Hydrogen-fusing.
+ The bigger, the hotter, the brighter, the shorter lived.
+\end_layout
+
+\begin_layout Itemize
+(Class I) 
+\series bold
+Supergiants
+\series default
+: Run out of hydrogen; now fusing other elements.
+\end_layout
+
+\begin_layout Itemize
+(Class II) 
+\series bold
+Bright giants
+\end_layout
+
+\begin_layout Itemize
+(Class III) 
+\series bold
+Giants
+\end_layout
+
+\begin_layout Itemize
+(Class IV) 
+\series bold
+Subgiants
+\end_layout
+
+\begin_layout Itemize
+(Class wd.) 
+\series bold
+White dwarfs
+\series default
+: Dead giant
+\end_layout
+
+\begin_layout Subsection
+Variable stars
+\end_layout
+
+\begin_layout Standard
+A 
+\series bold
+pulsating variable star
+\series default
+ pulses in brightness due to alternating dominance of energy pressure and
+ energy release\SpecialChar endofsentence
+ Most of them are on the 
+\series bold
+instability strip
+\series default
+ on the HR diagram.
+ 
+\series bold
+Cepheid variable stars
+\series default
+ are at the upper tip of the instability strip — they are very bright, and
+ their pulsation period is related to their luminosity.
+\end_layout
+
+\begin_layout Subsection
+Star clusters
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Star clusters
+\series default
+ are groups of stars that formed together from the same humongous cloud
+ of gas.
+ 
+\series bold
+Open clusters
+\series default
+ are medium sized, found in the disk of their galaxy, and young.
+ 
+\series bold
+Globular clusters
+\series default
+ are huge, found in the halo, and are super old.
+ We can determine the age of star clusters by plotting their stars on an
+ HR diagram; the 
+\series bold
+main-sequence turnoff point
+\series default
+ shows you which of the cluster's stars are currently dying.
+\end_layout
+
+\begin_layout Section
+Star birth (ch16)
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+interstellar medium
+\series default
+ is the space between stars.
+ It contains of 70% hydrogen, 28% helium, and 2% heavier elements.
+ 
+\series bold
+Molecular clouds
+\series default
+ are cold, dense interstellar clouds that are cold and dense enough to allow
+ for molecule formation.
+ 
+\series bold
+Interstellar dust
+\series default
+ is grains of C, Si, O, Fe.
+ 
+\series bold
+Interstellar reddening
+\series default
+ is how stars near the edges of a molecular cloud appear redder than stars
+ outside the cloud, because higher wavelengths are easier for dust to block.
+\end_layout
+
+\begin_layout Standard
+Stars form when they shed their thermal energy by emitting photons, letting
+ gravity overcomes 
+\series bold
+thermal pressure
+\series default
+.
+ Why do massive clouds resist the crush of gravity?
+\end_layout
+
+\begin_layout Enumerate
+Turbulent gas motion.
+ Individual gas clumps move at very different speeds.
+\end_layout
+
+\begin_layout Enumerate
+Magnetic fields resist gravity.
+\end_layout
+
+\begin_layout Standard
+Molecular clouds fragment into multiple stars, not a single one, because
+ they're turbulent and lumpy.
+\end_layout
+
+\begin_layout Subsection
+Stages of star birth
+\end_layout
+
+\begin_layout Standard
+A 
+\series bold
+protostar
+\series default
+ is a pre-main-sequence star that looks and feels like a star but hasn't
+ started nuclear fusion.
+ A 
+\series bold
+protostellar disk
+\series default
+ is a disk of gas spinning around a star due to conservation of angular
+ momentum.
+ They're one kind of 
+\series bold
+accretion disk
+\series default
+.
+ The rapid rotation generates a strong magnetic field which releases 
+\series bold
+protostellar wind
+\series default
+.
+ Many protostars also fire 
+\series bold
+jets
+\series default
+ into space.
+\end_layout
+
+\begin_layout Standard
+Protostars become main-sequence stars when the core reaches 10 million K.
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+life track
+\series default
+ plots a star's formation on an H-R diagram.
+ There are four stages:
+\end_layout
+
+\begin_layout Enumerate
+Formation of a protostar
+\end_layout
+
+\begin_layout Enumerate
+Convective contraction
+\end_layout
+
+\begin_layout Enumerate
+Radiative contraction
+\end_layout
+
+\begin_layout Enumerate
+Self-sustaining fusion
+\end_layout
+
+\begin_layout Subsection
+Mass limits
+\end_layout
+
+\begin_layout Standard
+With too low mass, you reach 
+\series bold
+degeneracy pressure
+\series default
+ before hydrogen fusion can begin.
+ 
+\series bold
+Brown dwarfs
+\series default
+ are failed stars that reached degeneracy pressure and slowly radiate their
+ thermal energy.
+ From hot to cold, there are 
+\begin_inset Formula $L$
+\end_inset
+
+ dwarfs, 
+\begin_inset Formula $T$
+\end_inset
+
+ dwarfs, and 
+\begin_inset Formula $Y$
+\end_inset
+
+ dwarfs.
+\end_layout
+
+\begin_layout Standard
+With too high mass, you reach 
+\series bold
+radiation pressure
+\series default
+ where a star releases light so furiously that even gravity cannot overcome
+ it and it blows away its outer layers.
+\end_layout
+
+\begin_layout Standard
+There are many more low-mass stars.
+\end_layout
+
+\begin_layout Section
+Star stuff (ch17)
+\end_layout
+
+\begin_layout Standard
+Three basic groups of stars:
+\end_layout
+
+\begin_layout Itemize
+Low-mass: 
+\begin_inset Formula $<2M_{Sun}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Intermediate-mass: 
+\begin_inset Formula $2-8M_{sun}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+High-mass: 
+\begin_inset Formula $>8M_{Sun}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Low-mass
+\end_layout
+
+\begin_layout Standard
+Slow and steady main sequence life.
+ Energy created by nuclear fusion released by 
+\series bold
+radiative diffusion
+\series default
+ in the middle and 
+\series bold
+convection
+\series default
+ nearer to the surface.
+ 
+\series bold
+Flare stars
+\series default
+ have really strong sunspot activity that burst tons of X rays once in a
+ while.
+\end_layout
+
+\begin_layout Standard
+Once hydrogen runs out, the star's outer layers expand and the star becomes
+ a 
+\series bold
+subgiant
+\series default
+, then 
+\series bold
+red giant
+\series default
+.
+ The hydrogen shell undergoes 
+\series bold
+hydrogen shell fusion
+\series default
+ around the non-fusing helium core.
+ Very small stars will encounter degeneracy pressure before they can fuse
+ helium and become 
+\series bold
+helium white dwarfs
+\series default
+; bigger ones start to fuse 3 helium into 1 carbon in a dramatic spike (caused
+ by rising temperature) called a 
+\series bold
+helium flash
+\series default
+, then become a 
+\series bold
+helium core fusion star
+\series default
+ (in a hotter 
+\series bold
+horizontal branch
+\series default
+ on the H-R diagram).
+\end_layout
+
+\begin_layout Standard
+When core helium runs out, 
+\series bold
+thermal pulses
+\series default
+ happen.
+\end_layout
+
+\begin_layout Standard
+Finally, the outer layers puff out into space and the sun becomes a 
+\series bold
+planetary nebula
+\series default
+, before finally fading into a 
+\series bold
+white dwarf
+\series default
+.
+\end_layout
+
+\begin_layout Standard
+As the sun gets brighter, the Earth will be screwed; all the water will
+ evaporate due to a 
+\series bold
+runaway greenhouse effect
+\series default
+.
+ Then it'll be burned to crisps.
+ 
+\series bold
+Titan
+\series default
+ may be a good new home.
+\end_layout
+
+\begin_layout Subsection
+High-mass
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+CNO cycle
+\series default
+ is when carbon, nitrogen, and oxygen catalyze hydrogen fusion.
+ When these stars run out of hydrogen (and they do so quickly), they become
+ a supergiant.
+ Beyond 
+\begin_inset Formula $2M_{Sun}$
+\end_inset
+
+, there is no helium flash.
+ Really big stars fuse start fusing carbon and heavier elements at 600 million
+ K for a very brief period of time, through 
+\series bold
+helium-capture reactions
+\series default
+.
+ But then when iron is made, it cannot generate energy by fusion or fission
+ and even degeneracy pressure is overcome, all the electrons and protons
+ are converted to neutrons, and the star explodes in a supernova.
+\end_layout
+
+\begin_layout Standard
+If neutron degeneracy pressure is overcome, the star becomes a 
+\series bold
+black hole
+\series default
+.
+ Otherwise it stays a super-dense 
+\series bold
+neutron star
+\series default
+.
+\end_layout
+
+\begin_layout Subsection
+Mass exchange
+\end_layout
+
+\begin_layout Standard
+Binary stars can exert tidal forces on another and transfer mass, especially
+ after one star changes stages.
+\end_layout
+
+\begin_layout Section
+Dead stars (ch18)
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+White dwarfs
+\series default
+ are supported by 
+\series bold
+electron degeneracy pressure
+\series default
+, where basically the electrons start moving really really fast.
+ They are the remains of low-mass stars and are often surrounded by a 
+\series bold
+planetary nebula
+\series default
+.
+
+\series bold
+ 
+\series default
+The 
+\series bold
+white dwarf limit/Chandrasekhar limit
+\series default
+ says that white dwarfs can't be bigger than 
+\begin_inset Formula $1.4M_{Sun}$
+\end_inset
+
+.
+ When a white dwarf is in a close binary system with a star, it steals some
+ of the live star's material into an accretion disc that eventually flashes
+ back to life in a hydrogen-fusing 
+\series bold
+nova
+\series default
+.
+ A 
+\series bold
+white dwarf supernova
+\series default
+ can happen if two white dwarfs combine and get bigger than the white dwarf
+ limit — this is a carbon detonation, different from the iron catastrophe
+ in normal supernovas.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Neutron stars
+\series default
+ are supported by 
+\series bold
+neutron degeneracy pressure
+\series default
+.
+ They are the remains of high-mass stars and are often surrounded by a 
+\series bold
+supernova remnant
+\series default
+.
+
+\series bold
+ 
+\series default
+They were discovered in the form of 
+\series bold
+pulsars
+\series default
+, periodic radio wave emitters which are periodic because they're spinning
+ really fast.
+ 
+\series bold
+X-ray binaries
+\series default
+ emit x-rays because their accretion disk is really hot.
+ They may release 
+\series bold
+x-ray bursts
+\series default
+, which are like novas that burn helium instead of hydrogen.
+ When they merge, they boom even more than a supernova and emit hella gravitatio
+nal waves.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Black holes
+\series default
+ have an 
+\series bold
+event horizon
+\series default
+ form which nothing can escape.
+ The only three basic properties of a black whole are its mass, charge,
+ and angular momentum.
+ The 
+\series bold
+Schwarzschild radius
+\series default
+ is the radius of the event horizon.
+ Relativity and quantum disagree about how the singularity works.
+ Black holes probably form above the neutron star limit of 2-3 
+\begin_inset Formula $M_{Sun}$
+\end_inset
+
+.
+ Like neutron stars, we detect them by finding x-ray binaries, and
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Gamma-ray bursts
+\series default
+ come from big supernovas / hypernovas in distant galaxies.
+ When black holes merge, the gravitational waves are huge to the point where
+ we recently actually detected some.
+\end_layout
+
+\begin_layout Section
+Our galaxy (ch19)
+\end_layout
+
+\begin_layout Standard
+Our galaxy has a 
+\series bold
+bulge
+\series default
+, a thin 
+\series bold
+disk
+\series default
+ containing 
+\series bold
+spiral arms
+\series default
+,
+\series bold
+ 
+\series default
+and a spherical 
+\series bold
+halo
+\series default
+ dotted with 
+\series bold
+globular clusters
+\series default
+.
+ Stars in the disk orbit around the galactic center, bobbing up and down
+ due to gravity from the disk itself.
+ Stars in the halo swoop around the galactic center.
+ Bulge stars do a bit of both.
+ Most of the mass is 
+\series bold
+dark matter
+\series default
+ because it doesn't give off light we can see.
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+star-gas-star cycle
+\series default
+: atomic hydrogen → molecular hydrogen → stars → fusing stars → returning
+ gas → hot bubbles → repeat.
+ 
+\series bold
+Hot bubbles
+\series default
+ (about 
+\begin_inset Formula $1\times10^{6}$
+\end_inset
+
+ K) sweep up material as they radiate out and create shock fronts and stuff.
+ 
+\series bold
+Superbubbles
+\series default
+ are gigantic to the point they break out of the disk and a blowout happens,
+ and maybe even result in a 
+\series bold
+galactic fountain
+\series default
+ but we're not sure yet.
+ The 
+\series bold
+21-centimeter line
+\series default
+ is atomic hydrogen's emission line, and we see it everywhere.
+\end_layout
+
+\begin_layout Standard
+An 
+\series bold
+ionization nebula
+\series default
+ indicates a region of active star formation.
+ They're clouds of gas where various ionized and atomic gases produce colors.
+ Mostly found in the spiral arms, where a 
+\series bold
+spiral density wave
+\series default
+ is propagating through the disk and making star formation more likely.
+\end_layout
+
+\begin_layout Standard
+The two populations of stars are the 
+\series bold
+disk population
+\series default
+ (about 0.02% heavy metals) and the 
+\series bold
+halo population
+\series default
+ (very old, about 2% heavy metals).
+ The 
+\series bold
+protogalactic cloud
+\series default
+ is a model of the early galaxy containing hydrogen, helium, and a ton of
+ dark matter, and is probably where halo stars came from.
+\end_layout
+
+\begin_layout Standard
+The galactic center probably has a gigantic black hole (Sgr A*, about 4
+ million solar masses).
+\end_layout
+
+\begin_layout Section
+Galaxies and modern cosmology
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Cosmology
+\series default
+ is the study of the overall structure of the universe.
+\end_layout
+
+\begin_layout Standard
+Three types of galaxies: 
+\series bold
+spiral
+\series default
+ (like ours, thin disk with center bulge), 
+\series bold
+elliptical
+\series default
+ (red round hot), and 
+\series bold
+irregular
+\series default
+ (neither).
+\end_layout
+
+\begin_layout Standard
+Two general types of stars in galaxies: 
+\series bold
+disk component
+\series default
+ (neat circular orbits about the center) and 
+\series bold
+halo component
+\series default
+ (central bulge and halo).
+\end_layout
+
+\begin_layout Standard
+Spiral galaxies have a disk and halo and spiral arms.
+ 
+\series bold
+Lenticular 
+\series default
+galaxies have a disk and halo but no spiral arms.
+ Elliptical galaxies have only a halo.
+\end_layout
+
+\begin_layout Standard
+Plotting galaxies by color vs luminosity gives you a 
+\series bold
+blue cloud
+\series default
+ (hot young stars, usually spiral or irregular) and a 
+\series bold
+red sequence
+\series default
+ (old stars, usually elliptical)
+\end_layout
+
+\begin_layout Standard
+Spiral galaxies are often bunched into a 
+\series bold
+group
+\series default
+, like our Local Group.
+ There are also 
+\series bold
+clusters
+\series default
+ which are huge.
+\end_layout
+
+\begin_layout Subsection
+Galaxy distance
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Radar ranging
+\series default
+: measuring the time it takes for radio waves to bounce back.
+ We bounced some off Venus to calculate AU.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Parallax
+\series default
+: works for things in the Milky Way
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Standard candles
+\series default
+: using known-luminosity light sources like Cepheids and white dwarf supernovas.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Cepheid variable stars
+\series default
+: huge stars that pulsate in size that follow a period-luminosity relation.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+White dwarf supernovas
+\series default
+: They all explode the same way because of the white dwarf mass limit.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Hubble's law
+\series default
+ states that farther galaxies are more redshifted and move faster away from
+ us.
+ But this only really starts working at really big distances; the Local
+ Group doesn't obey it due to gravity.
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+cosmological principle
+\series default
+ says that the universe has no boundaries and looks pretty uniform on a
+ large scale.
+\end_layout
+
+\begin_layout Standard
+Because of expansion, the 
+\series bold
+lookback time
+\series default
+ of far stuff underestimates its current distance.
+\end_layout
+
+\begin_layout Standard
+The 
+\series bold
+cosmological horizon
+\series default
+ is the horizon of our observable universe.
+\end_layout
+
+\begin_layout Section
+Galaxy evolution
+\end_layout
+
+\begin_layout Standard
+Galaxies formed from 
+\series bold
+protogalactic clouds
+\series default
+.
+ The two properties we care about are rotation and density.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Central dominant galaxies
+\series default
+ at the center of dense clusters are giant elliptical galaxies that ate
+ other galaxies.
+ 
+\series bold
+Starburst galaxies
+\series default
+ are birthing new stars fast.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Supermassive black holes
+\series default
+ oft lie at the center of galaxies and are in the 
+\series bold
+active galactic nuclei
+\series default
+.
+ 
+\series bold
+Quasars
+\series default
+ are the brightest active galactic nuclei.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Radio galaxies
+\series default
+ emit lots of radio waves that come from radio lobes on either side of the
+ galaxy.
+\end_layout
+
+\begin_layout Section
+The birth of the universe (ch22)
+\end_layout
+
+\begin_layout Standard
+It came in a couple eras.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Planck era
+\series default
+.
+ No idea what happened here.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+GUT era
+\series default
+.
+ Gravity and the GUT force separate.
+ Sudden and dramatic expansion called 
+\series bold
+inflation
+\series default
+.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Electroweak era
+\series default
+.
+ Strong and weak force separate.
+ Elementary particles bubble in and out from energy.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Particle era
+\series default
+.
+ Elementary particles fill the universe.
+ Quarks make protons and antiprotons.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Nucleosynthesis era
+\series default
+.
+ Fusion makes helium from protons.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Nuclei era
+\series default
+.
+ Free electrons fill the universe.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Atom era
+\series default
+.
+ Neutral atoms form, eventually creating stars.
+\end_layout
+
+\begin_layout Standard
+uh a whole bunch of other stuff happened in this chapter too
+\end_layout
+
+\begin_layout Section
+Darkstuff and the fate of the universe (ch23)
+\end_layout
+
+\begin_layout Standard
+We know that dark matter exists because the rotation curve for the Milky
+ Way is pretty flat.
+\end_layout
+
+\begin_layout Standard
+Dark matter can be made of 
+\series bold
+ordinary/baryonic matter
+\series default
+ (normal stuff, just doesn't emit enough light that reaches us) or 
+\series bold
+exotic/nonbaryonic matter
+\series default
+.
+ There's not enough ordinary matter so a lot of the dark matter is probably
+ 
+\series bold
+neutrinos
+\series default
+ (which only interact via gravity and weak force), or more massive versions
+ called 
+\series bold
+WIMPs
+\series default
+ (weakly interacting massive particles).
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Superclusters 
+\series default
+are clusters of clusters that seem to be tugging on each other.
+ 
+\series bold
+Voids
+\series default
+ lie between chains and sheets of galaxies.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Dark energy
+\series default
+ repulses stuff.
+ The four expansion models are:
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Recollapsing universe
+\series default
+.
+ It goes back down and we get Big Crunched.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Critical universe
+\series default
+.
+ It doesn't grow past a limit, like Bitcoin.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Coasting universe
+\series default
+.
+ It keeps growing.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Accelerating universe
+\series default
+.
+ It grows faster and faster.
+\end_layout
+
+\begin_layout Standard
+Certain grand unified theories predict that photons have a lifetime of 
+\begin_inset Formula $10^{33}$
+\end_inset
+
+ years and everything goes to radiation afterward.
 \end_layout
 
 \end_body
