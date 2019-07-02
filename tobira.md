@@ -34,11 +34,11 @@ Because this is purportedly better than An Integrated Approach to Intermediate J
 
 ## 単語表
 
-大陸・たいりく・continent
-気候・きこう・climate
-撮影・さつえい・filming, shooting (a movie, photo)
-伝統的・でんとうてき・traditional
-行事・ぎょうじ・event
+- 大陸・たいりく・continent
+- 気候・きこう・climate
+- 撮影・さつえい・filming, shooting (a movie, photo)
+- 伝統的・でんとうてき・traditional
+- 行事・ぎょうじ・event
 
 ## 内容質問
 
@@ -64,8 +64,6 @@ please honorably say (it) one more time
 よく分かりました
 I understand now
 
-# 2. 日本語のスピーチスタイル
-
 ## 文法
 
 - 1. made out of: {で/から}{できる (generic)/できている (specific)}
@@ -74,6 +72,78 @@ I understand now
 - 7. X{か/かどうか}はYに{よって違う/よる}: X depends on Y
 - 13. XというのはYのことだ: The meaning of X is Y
 
+# 2. 日本語のスピーチスタイル
+
+actually, how about we read the 文法ノート and 単語表 before the actual
+readings, so that we actually understand what we read?
+
 ## 文法
 
-- 
+- 6, 7. ため(に): purpose/reason/cause
+- 10. Xが見られる: can be passive (X is observed) or potential (X can observe)
+- 12. またX(も): also, X.
+- 14. X場合(は/には): (when/if/in case of) X
+- 15. Xではなく(て)Y: not X, but Y
+- 16. {何/いく}Cか: some Cs
+
+## 読み物
+
+### 単語表
+
+- 決まり・rules, customs
+- 使い分ける・to use different things properly according to the situation
+- 場面・ばめん・scene, situation
+- XにYをおごる・to treat X to (meal) Y
+- 興味深い・きょうみぶかい・very interesting
+
+### 各練習
+
+森田先生、
+CLAS420のｘさんです。
+今日、授業で宿題を出さなくて、すみませんでした。猫はお腹がすいましたため、猫が宿題を全部食べました。
+後で、先生の研究室に宿題のかけらを持っていきましたが、先生がいらっしゃらなかったので、ゴミ箱の中に置きました。
+どうぞ、よろしくお願いします。
+これから気をつけます。すみませんでした。
+ｘ
+
+# 3. 日本のテクノロジー
+
+## 読み物・かんがえてみよう
+
+a. ロボットは刀で人を切ったり人を殺したりしてはいけません。
+b. 例えば、「その人を切ってくれ」と言われた場合です。
+c. いいです。「自分を壊せて」と言ったら、ルール２ is more important.
+d. for ai safety
+e. 問題: そのロボットは人間がほしくないことをする。
+理由: 全部壊されるかもしれない。
+
+## 読み物・単語表
+
+- 技術・ぎじゅつ・technology, skill
+- 発達・はったつ・development, growth
+- すでに・already
+- 活躍・かつやく・being active (in something)
+- 留守番をする・るすばん・to house-sit
+- 効果・こうか・effectiveness, impact
+- Xに載る・の・to appear (in something)
+- お祝い・おいわい・congratulatory gift, celebration
+- 演奏・えんそう・musical performance (of an instrument)
+
+## 会話文・単語表
+
+- 依頼・いらい・request
+- 発音・はつおん・pronunciation
+
+## 文法ノート
+
+- X型: X-style, X-type
+- A(の)ならB: if (it's true that) A, then B
+  - time order of events doesn't matter, unlike with たら where A must happen before B
+- Nとして: as N, in the capacity of N
+- Vnpことになっている: it has been decided that Vnp
+- N1は(A)N2をしている: N1 (which) has a (A) N2
+- Vてくる, Vていく
+  - てくる: began in the past and continues in the present
+  - ていく: begins in the present and will continue in the future
+  - can also have usual meanings of "come" and "go"
+- Xことになる: it turns out that X, it was decided that X
