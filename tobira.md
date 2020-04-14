@@ -136,14 +136,22 @@ e. 問題: そのロボットは人間がほしくないことをする。
 
 ## 文法ノート
 
-- X型: X-style, X-type
-- A(の)ならB: if (it's true that) A, then B
+- 3. X型: X-style, X-type
+- 5. A(の)ならB: if (it's true that) A, then B
   - time order of events doesn't matter, unlike with たら where A must happen before B
-- Nとして: as N, in the capacity of N
-- Vnpことになっている: it has been decided that Vnp
-- N1は(A)N2をしている: N1 (which) has a (A) N2
-- Vてくる, Vていく
+- 6. Nとして: as N, in the capacity of N
+- 7. Vnpことになっている: it has been decided that Vnp
+- 8. N1は(A)N2をしている: N1 (which) has a (A) N2
+- 9. Vてくる, Vていく
   - てくる: began in the past and continues in the present
   - ていく: begins in the present and will continue in the future
   - can also have usual meanings of "come" and "go"
-- Xことになる: it turns out that X, it was decided that X
+- 10. Xことになった: it turns out that X, it was decided that X
+- 11. Vように{頼む/言う}: ask/tell someone to V
+- 13. Vnpようにする: make an effort to do Vnp
+- 15. なるべく...V: V as (much/???) as possible
+- 16. Xようとした{が/けれど/ら}: tried to X but
+
+# 4. 日本のスポーツ
+
+

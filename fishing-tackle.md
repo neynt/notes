@@ -1,0 +1,23 @@
+thing to learn about
+
+- Panther Martin In-line Sonic Spinner
+- 2× Nickel B.B. Interlock Snap Swivel, Size 1
+- Mustad Beak Hook, Size 6
+- Mustad Beak Hook, Size 8
+- Round Ball Jig, 1/16oz, Hook #4
+- Round Ball Jig, 1/32oz, Hook #6
+- Pro Series X-Zone Tube Jig Head, 1/32oz, Hook #6
+- Northland Fishing Tackle Reed-Runner Spinnerbait, white floofer with red eye
+- Southbend Bass Hook Assortment, 44pc
+- Mister Twister 2" Teenie Plastic Bait, white
+- Berkley Bullet Pop 60, Top Water, 2 1/4in, 1/5oz Rattle
+- Squid shaped plastic bait
+- Removable Split Shot Sinkers, 124pc, assorted sizes
+- Bomber Square A Lure BO4SLFS
+- Bomber Square A Lure B05SLXC4
+- (2×) Thill Premium Balsa Float
+- (4×) ECL Float, various sizes
+- Northland Fishing Tackle Gum-Ball Sink'n Jigs, 6ct
+- YUM Walleye Grub, white, 12pc
+- YUM Walleye Grub, yellow, 15pc
+- Steelon Wire-Wound Leaders
