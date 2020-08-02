@@ -151,7 +151,3 @@ e. 問題: そのロボットは人間がほしくないことをする。
 - 13. Vnpようにする: make an effort to do Vnp
 - 15. なるべく...V: V as (much/???) as possible
 - 16. Xようとした{が/けれど/ら}: tried to X but
-
-# 4. 日本のスポーツ
-
-
