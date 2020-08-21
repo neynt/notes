@@ -14,7 +14,7 @@ tools!
 - Directory brute forcer: gobuster, dirbuster
 - SQLi finder: sqlmap
 - Password crackers: hashcat, john
-- Remote exploit framework: msfconsole
+- Exploit framework: msfconsole
 
 ### Situational tools
 
@@ -23,6 +23,7 @@ tools!
 - Windows local privesc: juicy potato
 - Linux process snooping: pspy
 - Web exploit framework: burpsuite
+- Generate wordlist by crawling: cewl
 
 ### rpcclient
 
