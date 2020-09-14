@@ -1,4 +1,4 @@
-PaIII.SENSATION by Yunosuke
+# PaIII.SENSATION by Yunosuke
 
 寂しくて眠れぬ日々も
 (loneliness-ku-te) (cannot sleep) (day after day) mo
@@ -15,7 +15,7 @@ My throbbing heartbeats
 ---
 
 見透かされた行方知れずの
-(that has been seen through) (whereabouts) (unknowingly) 
+(that has been seen through) (whereabouts) (unknowingly)
 
 気持ち隠しても既に遅いわ
 (feelings) (← even though I hide) (already) (late)
@@ -27,4 +27,4 @@ already too late
 (as usual)
 Just like always
 
---- 
+---
