@@ -1,5 +1,6 @@
 # BREAK IT by Yunosuke
 
+```
 しゅんとしたり　花咲いてたり
 (despondent) shitari (flowers) (bloom) itetari
 Feeling despondent, flowers blooming
@@ -104,3 +105,4 @@ all the time
 ---
 
 溶けてSAY GOOD BYE 正気からも離れて
+```
