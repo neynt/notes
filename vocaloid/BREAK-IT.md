@@ -2,7 +2,7 @@
 
 ```
 しゅんとしたり　花咲いてたり
-(despondent) shitari (flowers) (bloom) itetari
+(despondent) shitari (flowers) (bloom-itetari)
 Feeling despondent, flowers blooming
 
 この世界は　とても急がしそうだね
@@ -105,4 +105,26 @@ all the time
 ---
 
 溶けてSAY GOOD BYE 正気からも離れて
+[melt] SAY GOOD BYE [sanity] kara mo [part]
+melt, SAY GOOD BYE, even lose your sanity
+
+もう足んない　口先だけじゃ
+It's not enough, it's all talk
+
+虚しいだけの
+お飾りね
+Meaningless decorations
+
+---
+
+BREAK IT　照り付けた至福も飛び越え
+BREAK IT transcend the virtue that shined
+
+BREAK IT　意志は吐き出し続ける
+BREAK IT　当たり前だとしても 
+全貌は本音であるから
+BREAK IT　無理矢理が好きとかじゃ無くて
+BREAK IT　想いがあればこそなの
+BREAK IT　見違える限りの
+変転にだけなら、任せても良い
 ```
