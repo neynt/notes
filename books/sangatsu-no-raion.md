@@ -412,7 +412,7 @@ give the bento this time.
     - This doesn't have anything to do with shogi
 - 171
   - 嵐: あ\らし: storm, tempest
-  - 気風: character, traits
+  - 棋風: きふう: play style
   - 気性: きしょう: disposition, temper
 - 172
   - 内弟子: うちでし: apprentice
@@ -459,7 +459,7 @@ give the bento this time.
       - (nest) wo (monopolize) shimasu
   - せっせと: diligently
 - 178
-  - 勝星: かちぼし: ??
+  - 勝星: かちぼし: (mark indicating) a win
   - 集中: しゅうちゅう: to concentrate, to focus
   - 稼ぐ: かせぐ: to earn (money)
 - 179
@@ -476,5 +476,143 @@ give the bento this time.
       - (if it were like that) (such) (intense) (pain)
     - 知らずに済んだのにと
       - (not knowing) (finish) no ni to
-    - And I so think, if only I were a bird. Then I would live without knowing
-      such intense pain.
+    - And I so think, if only I were a bird. Then I would feel at ease without
+      knowing such intense pain.
+
+## ch11: 神様の子供 (その１): God's Child (part 1)
+
+- 13
+- 14
+  - "Dosneyland"
+  - 中華街: ちゅうかまち: Chinatown
+  - 横浜: Yokohama
+  - エビチリ: stir-fried shrimp in chili sauce
+  - 杏仁豆腐: あんにんどうふ: almond jelly
+  - Word: イモほり: tuber digging
+  - よっぽど: very, greatly, quite
+- 15
+  - エステ: beauty salon
+- 16
+  - 伊勢: Ise (province, city)
+- 17
+- 18
+  - 移動教室: study camp
+  - がっかり: to be disappointed
+  - 二親: ふたおや: both parents
+  - 二親等: にしんとう: relation in the second degree (?)
+  - 等: など
+  - 棄権: きけん: abstention (from voting), renunciation (of a right),
+    withdrawal (from a contest)
+  - Sentence: cannot miss a match for any reason other than death of immediate
+    family member
+- 19
+  - あからさま: plain, frank, candid
+  - モロ: conspiciously, openly
+  - 放り込む: ほうりこむ: to throw into
+  - ザコ: small fish, small fry
+- 20
+  - あっさり: easily, readily, quickly
+- 21
+  - 香子: Kyoko (sketchy person)
+  - ど真ん中: どまんなか: right in the center
+  - 沸き起こる: わきおこる: to well up, to burst
+  - だからこそ: for this reason
+  - 食らいつく: to bite at, to get one's teeth into (metaphorically)
+  - Sentence: そう思って必死に盤に喰らいついてきた
+    - (thinking that), (desperate) ni (Shogi board) ni (got one's teeth into)
+- 22
+  - 家事: かじ: housework
+  - 一通り: ひととおり: generally, more or less everything
+  - Phrase: まるで電池が切れたみたいに
+    - Like I was low on batteries,
+- 23
+  - 積み上げる: つみあげる: to pile up
+  - 連敗: れんぱい: consecutive defeats
+  - 茫然: ぼうぜん: vague
+  - 昇級: しょうきゅう: increase in rank
+  - 全勝: ぜんしょう: complete victory
+- 25
+  - 停滞: ていたい: stagnation
+  - 思考: しこう: thought, consideration, thinking
+  - Sentence: あれもこれもと多くをのぞまなければ
+    - (this and that) to (a lot) wo (wish-not) kereba
+
+## ch12: 神様の子供（その２）
+
+- 29
+  - 宗谷冬司: Souya Touji (name)
+- 32
+  - 載る: のる: to appear (in a publication)
+  - 宗谷名人: Master Souya
+  - 今期: こんき: the present term
+  - 棋神: Kishin (shogi title)
+  - 聖竜: Seiryuu (shogi title)
+  - 王将: Gyokushou (shogi title)
+  - 防衛: ぼうえい: defense
+- 33
+  - 同い年: おないどし: of the same age
+- 34
+  - たまに: occasionally, once in a while
+  - 不調: ふちょう: bad condition, disagreement
+- 36
+  - 己: おのれ: oneself
+  - 目立つ: めだつ: to be conspicuous, to stand out
+- 37
+  - もっかい: contraction of もう一回
+  - Sentence:
+    - お前がもっかい
+      - (you) ga (one more time)
+    - 学校に入ってきたのって
+      - (school) ni (came to enter) no tte
+    - 勉強がしたかったから
+      - (studying) ga (wanted to do) kara
+    - じゃないよな
+      - (not) yo na
+    - You didn't come back to school just because you wanted to study, isn't
+      that right?
+  - 言い当てる: いいあてる: to guess right
+  - 墨: すみ: ink
+- 38
+  - 中途半端: ちゅうとはんば: halfway, half measures, unfinished
+  - Discuss:
+    - I'm half-baked? For everything? Huh?
+    - Translation says "I'm lukewarm about everything"
+- 41
+  - it's only ¥100 :)
+  - 固い here used to mean "thick"
+- 43
+  - かぼちゃ: pumpkin
+  - sweet.
+
+## ch13: 神様の子供（その３）
+
+- 46
+  - 改めて思う: あらためておもう: when I think back on it
+- 47
+  - 情けない: なさけない: miserable, pitiable
+- 48
+  - 気を利かせる: きをきかせる: to be tactful, to be thoughtful, to take a hint
+- 49
+  - スポーツマン: athlete
+- 51
+  - 推薦: すいせん: recommendation
+  - 甲子園: こうしえん: Kōshien (baseball video game)
+  - 狙う: ねらう: to aim at
+- 52
+  - 真剣: しんけん: serious, earnest
+  - 上辺: うわべ: exterior, surface; outward appearance
+  - 特化: とっか: specialization
+  - 馴染む: なじむ: to fit in, to get used to
+  - 後悔: こうかい: regret, repentnance, remorse
+- 54:
+  - 失くす: 無くす
+  - 油断: ゆだん: negligence, carelessness
+  - うっかり: carelessly, thoughtlessly
+  - Sentence: でも自分...それができないんです
+    - nothing new knowledge-wise, but a lot to parse due to all the quotations
+    - wasn't clear what それ in それができないんです refers to
+- 56
+  - ゆでたまご: boiled egg
+- 58
+  - 訊く: 聞く (fancy kanji)
+    - shared with 訊ねる: 訪ねる. wtf jpns
