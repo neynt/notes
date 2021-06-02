@@ -596,14 +596,14 @@ give the bento this time.
   - スポーツマン: athlete
 - 51
   - 推薦: すいせん: recommendation
-  - 甲子園: こうしえん: Kōshien (baseball video game)
+  - 甲子園: こうしえん: Kōshien (baseball tourney)
   - 狙う: ねらう: to aim at
 - 52
   - 真剣: しんけん: serious, earnest
   - 上辺: うわべ: exterior, surface; outward appearance
   - 特化: とっか: specialization
   - 馴染む: なじむ: to fit in, to get used to
-  - 後悔: こうかい: regret, repentnance, remorse
+  - 後悔: こうかい: regret, repentance, remorse
 - 54:
   - 失くす: 無くす
   - 油断: ゆだん: negligence, carelessness
@@ -616,3 +616,64 @@ give the bento this time.
 - 58
   - 訊く: 聞く (fancy kanji)
     - shared with 訊ねる: 訪ねる. wtf jpns
+
+## ch14: 大切なもの。大切なこと。
+
+- 62
+  - 猛烈
+  - しゅんぼり
+  - 活発
+  - 持ち味
+- 63
+  - 豪華
+  - ありきたり
+- 64
+  - 店番
+  - 凝る
+  - 懲りる
+- 66
+  - 更
+  - 温泉卵
+  - 纏まった、纏まる
+    - ambiguous use, "settled" or "quite a lot"?
+- 67
+  - 食べっぷり
+  - おかわり
+- 68
+  - こないだ
+  - 解説
+  - grammar point: よね almost prompts confirmation
+- 69
+  - in shogi, black goes first
+- 70
+  - 内緒
+  - 解禁
+  - せがれ
+  - "kusojiji" and "kusooyaji" seem kinda rude lol
+  - 指し手
+    - translation seems to be missing this crucial bit
+- 71
+  - 敗着
+  - 悪手
+  - 男気 written 漢気
+    - not sure what they were trying to do here
+  - 堅い: alt kanji for 硬い
+- 72
+  - 格好つける
+  - 盤面
+  - 慎重
+  - ひたむき
+  - 潔い
+  - 投げやり
+- 73
+  - ドアップ
+- 74
+  - あえて
+  - マブダチ
+  - 録る: alt kanji for 撮る
+  - 伸び悩む
+  - 上から目線
+    - 目線
+- 75
+  - 今時
+  - 捨てたもんじゃない
