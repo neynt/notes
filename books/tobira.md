@@ -151,3 +151,22 @@ e. 問題: そのロボットは人間がほしくないことをする。
 - 13. Vnpようにする: make an effort to do Vnp
 - 15. なるべく...V: V as (much/???) as possible
 - 16. Xようとした{が/けれど/ら}: tried to X but
+
+<!-- two years later... -->
+
+# 14. 日本の政治
+
+## 文法ノート
+
+- Xを除いて: except for X, with the exception of X
+- すなわち: that is, i.e., namely. formal
+- 一応: for now, tentatively, sort of, just in case
+- 左右する: to influence, to govern. formal
+- N₁,N₂共: both N₁ and N₂. formal
+- N(time period)に入り: since N began
+- Xを問題にする: to bring up X as an issue
+- 未だに: still, yet
+- いかにXか: how, how much, in what way
+- しかしながら: however, but
+- N次第: depending on N
+- きちんと: ちゃんと but formal
