@@ -727,6 +727,7 @@ give the bento this time.
     - 攻撃 (anki)
     - もろい
     - 斜め (anki)
+    - 防御: ぼうぎょ
     - にらみ
     - 効かせる: fancy kanji for 利かせる
     - 重量級
@@ -755,6 +756,33 @@ give the bento this time.
   - 積み重ねる (anki kanji)
 - 91
   - 遠慮 (anki kanji)
-  - transitive/intransitive pair:
-    - 案じて
-    - 案ずる
+  - 案ずる
+
+## ch16
+
+- 92
+  - 面影
+- 94
+  - 見繕わす (in kana)
+  - 折りたたむ
+- 95
+  - 刻む (kanji)
+  - 名セリフ
+- 96
+  - 師匠
+- 97
+  - 降級
+- 98
+  - 以降
+  - 塗る (kanji)
+  - 消耗
+  - 養父
+- 99
+  - 嫌になる
+- 101
+  - よぎる
+  - 揺する
+  - 仕草
+- 102
+  - 取り繕う
+  - 焦がれる
