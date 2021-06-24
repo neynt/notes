@@ -763,20 +763,21 @@ give the bento this time.
 - 92
   - 面影
 - 94
-  - 見繕わす (in kana)
+  - 見繕わせる (in kana)
   - 折りたたむ
 - 95
   - 刻む (kanji)
   - 名セリフ
 - 96
-  - 師匠
+  - 師匠 (anki)
+  - 揃いも揃って
 - 97
   - 降級
 - 98
   - 以降
   - 塗る (kanji)
   - 消耗
-  - 養父
+  - 養父 (actually this was 義父)
 - 99
   - 嫌になる
 - 101
@@ -786,3 +787,36 @@ give the bento this time.
 - 102
   - 取り繕う
   - 焦がれる
+
+## ch17: 遠雷
+
+- 109
+  - 水銀
+  - 淡い
+- 112
+  - 築何年 (kanji)
+  - 外見 (pronunciation)
+  - ボロっちい
+- 114
+  - どうにかならない
+  - 効く (kanji)
+  - 生意気
+  - 羽布団
+  - my translation seemed off here.
+    - "high-class futon" vs "down quilt"
+    - housewarming gift
+    - you really *just* got it
+- 115
+  - 落ち込む
+- 116
+  - 貸す (kanji)
+- 117
+  - まとも (meaning)
+- 121
+  - 移る (meaning)
+  - 辞める (kanji)
+- 122
+  - 引退
+  - 老いる (pronunciation)
+- 123
+  - 透ける
