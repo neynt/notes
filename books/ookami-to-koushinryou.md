@@ -25,3 +25,5 @@
 - 収穫
 
 ## ch1
+
+- 踏み倒す: to avoid paying debt

@@ -799,7 +799,7 @@ give the bento this time.
   - ボロっちい
 - 114
   - どうにかならない
-  - 効く (kanji)
+  - 効く (kanji) (oh wait that's literally merit)
   - 生意気
   - 羽布団
   - my translation seemed off here.
