@@ -838,7 +838,6 @@ give the bento this time.
 - 131
   - 長期戦
   - じっくり
-  - ばったり
 - 132
   - 行き当たりばったり
   - 撹乱
@@ -850,3 +849,46 @@ give the bento this time.
   - ゆとり世代
 - 138
   - 好かん
+
+## ch19: 遠雷 (その３）
+
+- 142
+  - not sure what's up with "トにトに". oh, is it "トロトロ"?
+- 143
+  - 情緒 (2nd kanji)
+  - 憎たらしい (kanji)
+- 144
+  - おっかない
+  - 毒婦
+  - 相当 (?)
+  - いたぶる
+  - 品書き
+  - 会津
+  - 魂 (kanji)
+  - ふるさと (meaning)
+  - 礼節
+  - 重んじる
+  - 常に
+  - 気遣う (2nd kanji)
+- 145
+  - omg wtf.
+  - 遡る
+  - 藩主
+  - 辣腕
+  - 謹厳実直
+  - 賜る
+  - 名君
+  - 補佐役
+  - 中枢
+  - 飲用 (pronunciation)
+  - 確保
+  - 上水 (pronunciation)
+  - 河川
+  - 際
+  - 隣家 (pronunciation)
+  - 類焼
+  - 防ぐ
+  - 大通り
+  - 幅
+  - 火除け
+  - 広小路
