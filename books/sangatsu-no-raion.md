@@ -933,9 +933,32 @@ give the bento this time.
   - 凍る (kanji)
   - 分担
 
-## ch20: 贈れられたもの
+## ch20: 贈られたもの（その１）
 
 - 162
   - 腰が低い
 - 170
   - OH NO!!
+
+## ch21: 贈られたもの（その２）
+
+- 176
+  - 要するに
+  - あっけなく
+  - 眩く
+- 177
+  - 序盤
+  - ざわつく
+  - 慎重
+  - 言い聞かせる
+- 178
+  - 傾く (dupe)
+  - 弛む
+  - 輪郭
+- 179
+  - たやすい
+  - ここいら
+  - 勘弁 (word and kanji)
+
+NICE. Plot advanced quickly, no lingering on the details of the shogi match. We
+saw a new side to Kiriyama this chapter.
