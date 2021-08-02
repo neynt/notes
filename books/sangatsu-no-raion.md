@@ -962,3 +962,34 @@ give the bento this time.
 
 NICE. Plot advanced quickly, no lingering on the details of the shogi match. We
 saw a new side to Kiriyama this chapter.
+
+- omake
+  - 巻
+  - 発売
+  - 託し
+
+## ch22: ゆく年
+
+- 9
+  - 年内 (reading)
+  - うずくまる・蹲る (word)
+- 10
+  - 浮かされる
+- 16
+  - 老人
+  - 幼児
+  - 汗を掻く
+  - 取り替える to mean "replace"
+- 19
+  - 浅はか
+  - 思い知る
+- 21
+  - lol even the cats are sleeping under the kotatsu
+- 23
+  - 大晦日
+  - 除夜
+  - 鐘
+- 24
+  - まぬけ
+
+## ch23: くる年
