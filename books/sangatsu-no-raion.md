@@ -993,3 +993,51 @@ saw a new side to Kiriyama this chapter.
   - まぬけ
 
 ## ch23: くる年
+
+- 26
+  - hey タンス came up we literally just talked about it
+- 27
+  - :( chihiro
+- 28
+  - おめっとさん
+  - 広告
+  - 砂糖じょうゆ
+- 29
+  - おこた
+  - 年賀状
+- 30
+  - お年玉
+  - 小児科
+- 31
+  - 浮きぼる: bring attention to something
+  - 別荘
+  - 合成
+- 33
+  - 猫かぶり
+  - 拉致る
+- 34
+  - 身内
+  - 常連
+  - 所帯
+- 35
+  - からこそ
+  - つぎ込む
+  - 習性
+  - マメ
+  - 縁起
+- 36
+  - 豆に暮らす: it's a pun with the beans lol. 忠実
+  - きんとん
+  - れんこんのキンピラ
+  - 長寿
+  - 亀 (pronunciation)
+- 37
+  - 埋める
+  - 達成
+- 38
+  - 脱衣所
+  - 銭湯
+- 39
+  - おうち: home or family?
+- 41
+  - まどろむ
