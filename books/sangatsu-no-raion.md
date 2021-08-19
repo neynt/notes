@@ -1009,7 +1009,7 @@ saw a new side to Kiriyama this chapter.
   - お年玉
   - 小児科
 - 31
-  - 浮きぼる: bring attention to something
+  - 浮き彫る: bring attention to something
   - 別荘
   - 合成
 - 33
@@ -1019,6 +1019,7 @@ saw a new side to Kiriyama this chapter.
   - 身内
   - 常連
   - 所帯
+  - そびれる
 - 35
   - からこそ
   - つぎ込む
@@ -1041,3 +1042,33 @@ saw a new side to Kiriyama this chapter.
   - おうち: home or family?
 - 41
   - まどろむ
+
+## ch24: 対岸にあるもの
+
+- 44
+  - 経つ (kanji)
+- 48
+  - 目を合わせる: to make eye contact
+- 49
+  - 増し (reading)
+  - 解る (reading)
+- 51
+  - 唯一 (reading)
+  - 迫る (reading)
+- 52
+  - 主催 (reading)
+  - 前年 (reading)
+  - 規模: size, scale. (reading)
+  - 世間 (reading)
+  - 賞金 (reading)
+  - 総額 (reading)
+- 53
+  - 名誉: fame. (reading)
+  - 低音 (reading)
+- 58
+  - 噂 (reading)
+  - 噂をすれば影: speak of the devil
+
+## ch25: 黒い河(その１）: black river (part 1)
+
+- 61
