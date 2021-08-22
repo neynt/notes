@@ -1071,4 +1071,27 @@ saw a new side to Kiriyama this chapter.
 
 ## ch25: 黒い河(その１）: black river (part 1)
 
-- 61
+- 65
+  - 新入り: newcomer, rookie (reading)
+  - 厄介: trouble, burden, nuisance (reading)
+- 67
+  - 捌く: to handle well/deftly (reading)
+- 68
+  - 妻帯者: married man (reading)
+  - 女房 (reading)
+- 69
+  - 備える (reading)
+  - 検討
+  - 内緒 (reading)
+- 70
+  - 生臭
+- 71
+  - 昆布 (reading)
+  - 質素
+  - 白菜 (reading)
+- 72
+  - 年末年始
+- 75
+  - 悲鳴
+- 76
+  - 為す術
