@@ -1095,3 +1095,21 @@ saw a new side to Kiriyama this chapter.
   - 悲鳴
 - 76
   - 為す術
+
+## ch26: 黒い河（その２）: black river (part 2)
+
+- 80
+  - 控え
+  - 険しい
+- 82
+  - 虫のいい
+  - 逸らす
+  - 力量 (reading)
+  - 正確
+  - 計る
+- 83
+  - 汚い (reading)
+  - にじり寄る
+- 84
+  - 重厚
+  - 囲い (reading)
