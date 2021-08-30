@@ -1113,3 +1113,11 @@ saw a new side to Kiriyama this chapter.
 - 84
   - 重厚
   - 囲い (reading)
+  - 厚い
+  - 甲冑
+  - 信条
+  - 惨敗
+  - 練る
+  - gave up on some shogi stuff here
+- 92
+  - 面倒をみる
