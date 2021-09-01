@@ -1116,8 +1116,32 @@ saw a new side to Kiriyama this chapter.
   - 厚い
   - 甲冑
   - 信条
+  - そがれる
   - 惨敗
+  - 踏まえる
+  - さんざん
   - 練る
   - gave up on some shogi stuff here
+- 89
+  - 憑き物
 - 92
   - 面倒をみる
+
+## ch27: 扉の向こう: beyond the door
+
+- 94
+  - 挑発: provocation
+- 96
+  - 講師: lecturer
+- 97
+  - イライラ: to get irritated
+  - 食らいつく: to bite at
+- 103
+  - 兄者: older brother. archaic
+  - 昇級: also came up in ch11
+  - かかる: to depend on (wham bam grammar)
+  - 師匠: should really remember this
+- 104
+  - やいやい: demandingly
+
+short chapter wow
