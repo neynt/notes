@@ -1145,3 +1145,38 @@ saw a new side to Kiriyama this chapter.
   - やいやい: demandingly
 
 short chapter wow
+
+## ch28: まぶしい闇: radiant darkness
+
+- 108
+  - うながされて: 促さる 
+  - みるみる
+  - 正気
+- 109
+  - 衝撃
+  - 襲って (kanji)
+- 111
+  - 私怨
+  - サブキャラ: "sub-chara"
+- 113
+  - 咳払い
+  - 混乱
+- 114
+  - うろたえる: 狼狽える
+  - 見透かす
+- 115
+  - ありったけ
+  - 挽回
+- 117
+  - 姿勢
+- 118
+  - 修業
+- 119
+  - 若気 (reading)
+  - 至り
+  - むかつく
+  - しでかした: 仕出かす
+- 121
+  - ごちゃ混ぜ
+
+## ch29: ほんの少しの水: Just a bit of water
