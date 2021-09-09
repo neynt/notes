@@ -1149,7 +1149,7 @@ short chapter wow
 ## ch28: まぶしい闇: radiant darkness
 
 - 108
-  - うながされて: 促さる 
+  - うながされて: 促す
   - みるみる
   - 正気
 - 109
@@ -1180,3 +1180,18 @@ short chapter wow
   - ごちゃ混ぜ
 
 ## ch29: ほんの少しの水: Just a bit of water
+
+- 124
+  - まくる: N1 grammar point
+  - 想定: hypothesis; supposition; assumption
+  - ろくに: not well; not properly; not enough
+  - 睡眠: you should know this
+- 125
+  - 脱水症状
+  - 補給
+- 126
+  - うろおぼえ: うろ覚え
+  - 翌日: should really know this
+  - 這う
+- 127
+  - 警備
