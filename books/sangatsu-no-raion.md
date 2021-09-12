@@ -1179,7 +1179,7 @@ short chapter wow
 - 121
   - ごちゃ混ぜ
 
-## ch29: ほんの少しの水: Just a bit of water
+## ch29: ほんの少しの水: just a bit of water
 
 - 124
   - まくる: N1 grammar point
@@ -1206,3 +1206,46 @@ short chapter wow
   - 常連
   - 同い年
   - いっそ
+
+## ch30: 月光: moonlight
+
+- 139
+  - ひび: 罅
+  - 注ぐ: should really know this
+  - 容姿
+  - めぐまれ: 恵まれる
+  - 支配
+  - 飢える
+  - むしばまれていた: 蝕む
+- 140
+  - 落伍者
+  - レッテル: from Dutch; Flemish "Letter"
+  - 腫れ物
+  - みじめ: 惨め
+  - 襲う: learn the kanji
+- 143
+  - 樹海
+  - 圧倒的
+  - からめとられて: 絡め取る
+- 144
+  - 鈍い
+- 145
+  - 重厚
+  - 更新
+  - 不定期
+  - 観る: weird kanji
+- 146
+  - 失格
+- 148
+  - 人間同士
+  - 投了
+  - 幕: learn kanji
+  - しんきくさい: 辛気臭い
+- 149
+  - じめじめ
+- 150
+  - ナメる
+- 152
+  - 即
+  - 応戦
+  - 喜々
