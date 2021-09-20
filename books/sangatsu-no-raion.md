@@ -1222,7 +1222,7 @@ short chapter wow
   - レッテル: from Dutch; Flemish "Letter"
   - 腫れ物
   - みじめ: 惨め
-  - 襲う: learn the kanji
+  - 襲う: learn the kanji for real this time dammit
 - 143
   - 樹海
   - 圧倒的
