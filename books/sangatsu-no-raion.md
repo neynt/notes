@@ -1220,6 +1220,7 @@ short chapter wow
 - 140
   - 落伍者
   - レッテル: from Dutch; Flemish "Letter"
+- 141
   - 腫れ物
   - みじめ: 惨め
   - 襲う: learn the kanji for real this time dammit
@@ -1249,3 +1250,30 @@ short chapter wow
   - 即
   - 応戦
   - 喜々
+
+## ch31: 自我のカタマリ. mass of ego
+
+- 156
+  - タンカ: 啖呵. caustic words
+  - 撃沈: sink a ship
+- 157
+  - 闘争心: fighting spirit
+- 159
+  - 胸板
+  - 維持 (learn)
+  - ひっそり: inconspicuously
+- 160
+  - 醸し出す
+- 161
+  - 万が一: if by some chance
+  - 平均点
+  - 範囲: learn the kanji
+- 166
+  - 没頭
+  - 放棄
+  - 成り果てる
+  - 敗北感
+- 169
+  - 痛恨
+
+## ch32: 夜を駆ける: run through the night
