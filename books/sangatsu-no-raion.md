@@ -1272,8 +1272,8 @@ short chapter wow
   - 没頭
   - 放棄
   - 成り果てる
-  - 敗北感
 - 169
+  - 敗北感
   - 痛恨
 
 ## ch32: 夜を駆ける: run through the night
@@ -1306,6 +1306,7 @@ short chapter wow
   - 消耗
 - 181
   - 抱負
+  - いきごみ
   - 率直
   - ぶっちゃけ
 - 182
@@ -1319,3 +1320,48 @@ short chapter wow
   - 背ける
 - 187
   - 盛り上がる
+
+## ch33: 坂の途中: halfway down the hill
+
+- 12
+  - しかも
+  - 出来す: to accomplish
+- 13
+  - 詰め合わせお重: assorted multi-tiered bento box
+- 14
+  - 吸物
+  - ゴマ
+- 15
+  - 押しかける: to do something uninvited
+- 16
+  - 街並
+  - 見晴らす
+- 18
+  - 反省
+- 19
+  - 消極的 !
+  - 持久戦
+  - 銀河
+- 21
+  - kinda skimmed/skipped lots of the shogi talk here
+  - 恐縮
+- 25
+  - 潜る
+
+## ch34: 銀の糸: silver thread
+
+- 29
+  - 大勢: wtf is with this N5 word I don't know
+- 30
+  - 欠く
+  - arthur fist meme jpg
+- 31
+  - 少なからず
+  - 動揺
+- 33
+  - 貢ぐ
+- 34
+  - さっぱり
+  - pull at a thread, see what unweaves
+- 36
+  - 断ち切る
