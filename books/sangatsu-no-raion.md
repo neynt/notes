@@ -1365,3 +1365,51 @@ short chapter wow
   - pull at a thread, see what unweaves
 - 36
   - 断ち切る
+
+## ch35: 水面: water's surface
+
+- 46
+  - 人垣
+- 47
+  - 鯉
+  - 就位: so rare it's not in jisho???
+  - 覆す
+  - 制覇
+- 48
+  - 君臨
+  - 褪せる
+  - 倦まず
+- 50
+  - 前夜祭
+  - 故郷
+- 52
+  - 責める
+  - 自業自得
+- 56
+  - 上がり込む
+  - じれったい
+
+## ch36: 青い夜の底: bottom of a blue night.
+
+- 66
+  - 筑前煮
+- 71
+  - おまけに
+- 73
+  - 間中
+  - 液晶
+  - 輪郭
+  - 淡い
+  - 染める
+- 74
+  - 引き裂かれる
+- 76
+  - 掃除当番
+- 77
+  - 残留
+- 78
+  - まぶた 瞼
+  - よぎる
+  - さがめる　眇める wasn't even in my IME
+  - 川面
+  - i think my translation missed the たら
