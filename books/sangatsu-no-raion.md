@@ -1379,6 +1379,8 @@ short chapter wow
   - 君臨
   - 褪せる
   - 倦まず
+- 49
+  - 例える
 - 50
   - 前夜祭
   - 故郷
@@ -1410,6 +1412,26 @@ short chapter wow
 - 78
   - まぶた 瞼
   - よぎる
-  - さがめる　眇める wasn't even in my IME
+  - すがめる　眇める wasn't even in my IME
   - 川面
-  - i think my translation missed the たら
+
+## ch37: 本流: torrent
+
+- 80
+  - 穿る、ほじくり返す
+  - どっかり
+- 81
+  - 筋: logical move
+- 84
+  - 前提: condition, premise
+  - 抽象: abstract
+  - 言語中枢
+  - サボテン
+- 87
+  - つっぷして、突っ伏す
+- 88
+  - 角番: make-or-break game (go, shogi)
+  - 減反
+- 91
+  - 濁流
+  - 後ずさる
