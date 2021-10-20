@@ -1419,8 +1419,8 @@ short chapter wow
 
 - 80
   - 穿る、ほじくり返す
-  - どっかり
 - 81
+  - どっかり
   - 筋: logical move
 - 84
   - 前提: condition, premise
@@ -1451,3 +1451,73 @@ short chapter wow
   - かろうじて
 - 108
   - リス: squirrel
+
+## ch39: 夜を往く: through the night
+
+- 112
+  - 捕る: interesting kanji, also used in 捕まる
+  - やり尽くす
+- 113
+  - 門下
+  - 捻出
+  - もぐ: to pick (e.g. apples)
+  - 稲刈り
+  - 後押し
+  - 夜行
+- 114
+  - 棲家
+  - 軋む
+  - 胃袋
+  - うなされる
+  - 恩
+  - furikanji for meaning (コイツ→胃）
+- 115
+  - 抱える
+  - 適当 (should know already...)
+- 116
+  - 負担
+  - うんと
+  - 胃痛
+- 117
+  - 整える (learn kanji)
+  - 専念
+  - 封じ手
+    - adjournment system for suspending games
+- 118
+  - そっから
+  - 振る (kanji)
+- 119
+  - 得する (same kanji as 得る)
+- 120
+  - 敷いて言えば
+  - 視点
+  - 攻守
+  - 切り替え (meaning)
+  - 柔軟
+  - 畳み掛ける
+  - 付け焼き刃
+- 121
+  - 免状
+  - 署名
+  - 鷺・さぎ: heron
+  - 鶴・つる: crane
+- 122
+  - 卑下
+  - 過信
+  - 自滅
+  - 御多分。御多分にもれず
+- 123
+  - 縮まる
+- 124
+  - 鍛える
+- 125
+  - 摑む: that's a hell of a kanji for つかまう
+  - たたん: ???
+  - 挑戦権. more generally: 権 as suffix
+- 126
+  - 段幕. 弾幕と同じ言い方
+  - 煤ける
+
+god what a chapter. not a single page went by where there were no new words
+
+## ch40: 京都１: kyoto (part 1)
