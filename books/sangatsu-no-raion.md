@@ -1489,7 +1489,7 @@ short chapter wow
 - 119
   - 得する (same kanji as 得る)
 - 120
-  - 敷いて言えば
+  - しいていえば
   - 視点
   - 攻守
   - 切り替え (meaning)
@@ -1521,3 +1521,32 @@ short chapter wow
 god what a chapter. not a single page went by where there were no new words
 
 ## ch40: 京都１: kyoto (part 1)
+
+- 128
+  - 毛布: how did i forget that.
+- 129
+  - 押し切る: here, to force one's way
+- 130
+  - 青ざめる
+  - 拒否
+  - 後悔
+  - 渦巻く
+- 131
+  - 移植
+- 132
+  - 頃合
+  - 枕元
+  - おかん: nurse, right? 看護 or is it mom
+  - しつこい: 執拗い
+- 134
+  - お土産: how did i forget this
+- 135
+  - にこやか
+  - 元も子も
+  - 承知
+- 139
+  - 副: (prefix) assistant
+  - 優雅
+  - 真に受ける
+- 142
+  - 険しい
