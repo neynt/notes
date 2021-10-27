@@ -1512,7 +1512,7 @@ short chapter wow
   - 鍛える
 - 125
   - 摑む: that's a hell of a kanji for つかまう
-  - たたん: ???
+  - たたん: ??? oh it's 申し訳が立たない
   - 挑戦権. more generally: 権 as suffix
 - 126
   - 段幕. 弾幕と同じ言い方
@@ -1536,7 +1536,7 @@ god what a chapter. not a single page went by where there were no new words
 - 132
   - 頃合
   - 枕元
-  - おかん: nurse, right? 看護 or is it mom
+  - おかん: nurse, right? 看護 or is it mom. it's mom
   - しつこい: 執拗い
 - 134
   - お土産: how did i forget this
@@ -1550,3 +1550,42 @@ god what a chapter. not a single page went by where there were no new words
   - 真に受ける
 - 142
   - 険しい
+
+## ch41: 京都２: kyoto (part 2)
+
+- 145
+  - 鍬
+  - すぐさま
+- 149
+  - 支度
+- 150
+  - 築く
+- 152
+  - 貫く
+  - 積極的: meaning
+- 155
+  - 不吉
+  - 婚姻届
+- 159
+  - 阻まれる
+  - 退く
+  - 追伸
+
+## ch42: 京都３: kyoto (part 3)
+
+- 163
+  - 沼: swamp
+  - 脈打つ
+- 165
+  - 凌ぐ
+- 166
+  - 藻掻く
+  - 容赦
+- 175
+  - 垣間
+  - 閃光
+- 177
+  - 疲弊
+- 178
+  - 掻き集める
+  - 彷徨
