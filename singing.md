@@ -1,0 +1,29 @@
+## 2021-10-17 いじめっ子
+
+- sing louder
+- hit note to start; louder will happen
+- enunciate "whaT more can I say"
+- fumitsuketa: breath timing, exhalation consistency
+- nasal: sometimes you need *less* nasal air flow. "fumitsuketa ari no~"
+- transition from rap to singing: gotta hit the first notes
+- hello garou garou
+  - hello floated up at end
+- i'll give you FIRE
+  - fire pronunciation
+- unarikakeru:
+  - hold the u
+  - rhythm: too swingy
+- it's just nothing new
+  - just should be an accidental
+- HATE
+  - feel free to imitate the original attack
+  - but keep note
+- i'll tell you it was all for you
+  - there are more accidentals
+- rap
+  - breath control
+  - that's hurts you like i do: don't need to imitate original. come up with own
+  - keep consistent tone for rap
+  - also! meld rap and singing tone
+- hold the garou
+- record with a good throat, there's some grittiness
