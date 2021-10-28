@@ -40,12 +40,12 @@ YOU ARE KING
 張り詰めた思い込め                    My strained conviction
 
 [Chorus]
-```
-
-## notes
 
 [1] 逝く means to die, but like, "to go away".
 [2] Also a pun with "相変わらず": "the same as always", "unchanged"
+```
+
+## notes
 
 English mostly stolen from aquariantwin/Magenetra. Changed where I disagreed,
 but I know nothing and am probably wrong.
