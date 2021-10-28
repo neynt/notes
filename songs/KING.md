@@ -1,3 +1,5 @@
+# KING — original by Kanaria
+
 ```
 幽閉　利口　逝く前に                  Locking up the clever one before they die[1]
 ユーヘイじゃ利口に難儀ダーリン        You hey, it's a pain to get you to behave
