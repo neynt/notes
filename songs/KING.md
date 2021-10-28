@@ -1,6 +1,6 @@
 ```
 幽閉　利口　逝く前に                  Locking up the clever one before they die[1]
-ユーヘイじゃ利口に難儀ダーリン        You hey, it was a pain to get you to obey
+ユーヘイじゃ利口に難儀ダーリン        You hey, it's a pain to get you to behave
 幽閉　ストップ　知ってないし          Don't lock me up! It's not like I knew
 勘弁にしといて　なんて惨忍            Forgive me. You're so cruel
 
