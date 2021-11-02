@@ -1574,6 +1574,7 @@ god what a chapter. not a single page went by where there were no new words
 ## ch42: 京都３: kyoto (part 3)
 
 - 163
+  - みぞおち
   - 沼: swamp
   - 脈打つ
 - 165
@@ -1581,6 +1582,8 @@ god what a chapter. not a single page went by where there were no new words
 - 166
   - 藻掻く
   - 容赦
+- 168
+  - 剥がす
 - 175
   - 垣間
   - 閃光
