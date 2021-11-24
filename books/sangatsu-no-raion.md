@@ -1601,7 +1601,7 @@ god what a chapter. not a single page went by where there were no new words
   - 風流
   - 甲冑 (seen before)
 - 14
-  - 雨男
+  - **雨男**
   - 野外
   - 不向き
   - 励ます, 剥げる
@@ -1611,33 +1611,34 @@ god what a chapter. not a single page went by where there were no new words
 - 18
   - 物販
   - 大打撃
-  - 微妙: dicey
+  - **微妙**: dicey
 - 20
-  - 恐悦至極
-  - 一服
+  - **恐悦至極**
+  - 一服: a short rest
 - 21
-  - 懲りる
+  - **懲りる**
   - 指名
 - 24
   - 過疎化
   - 巡回
 - 25
   - 保存
-  - 卸す
+  - **卸す**
+  - 段取り
 - 27
   - 途方
 
 ## ch44: 小さなつぶやき: small whispers
 
 - 32
-  - 日持ち
-  - かぶる as "to be redundant"
+  - **日持ち**: this whole sentence
+  - **かぶる** as "to be redundant"
 - 33
   - 思いがけない
-  - 邪道
+  - **邪道**
 - 35
-  - 節約
-  - 反省
+  - **節約**
+  - **反省**
 - 38
   - 絞る
   - 纏まる
@@ -1653,17 +1654,17 @@ god what a chapter. not a single page went by where there were no new words
 - 46
   - 驚く: kanji
 - 47
-  - 噛む: to fumble one's words
+  - **噛む**: to fumble one's words
 - 48
   - 抽選
   - ざっくり
   - ひるむ
 - 51
-  - ほったらかす
+  - **ほったらかす**
 - 52
   - 抱える !
-  - さり気なく
-  - まんまと ??
+  - **さり気なく**
+  - **まんまと** ??
 - 53
   - 顧問
 - 55
@@ -1681,7 +1682,7 @@ god what a chapter. not a single page went by where there were no new words
 - 58
   - 存続
 - 59
-  - 改める !!
+  - **改める** !!
   - 略す
   - 結成
   - 相成る: become (formal)
