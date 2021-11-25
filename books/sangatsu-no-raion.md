@@ -1645,6 +1645,9 @@ god what a chapter. not a single page went by where there were no new words
   - 閃く
 - 39
   - 縁起
+- 40
+  - みようみまね
+  - こしらえる: shortened as こさえる
 - 43
   - 裾分け
   - 考案
