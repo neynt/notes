@@ -1695,17 +1695,15 @@ learn difference between 攻める, 改める
 
 ## ch46: 西陽: western sun
 
-all right let's come up with a few conventions for tagging words:
-
-- learn kanji: had to handwrite kanji to look it up, but recognized word by
-  pronunciation
-- guessed: guessed pronunciation, but unsure of meaning
-- unannotated: just a hard word
-- seen before: encountered in a previous chapter
-- to discuss: will bring up at book club
-- interesting kanji: word used an interesting kanji in the story
-
-- always start with canonical form of word, possibly followed by word as appears
+- all right let's come up with a few conventions for tagging words:
+  - learn kanji: had to handwrite kanji to look it up, but recognized word by
+    pronunciation
+  - guessed: guessed pronunciation, but unsure of meaning
+  - unannotated: just a hard word
+  - seen before: encountered in a previous chapter
+  - to discuss: will bring up at book club
+  - interesting kanji: word used an interesting kanji in the story
+  - always start with canonical form of word, possibly followed by word as appears
   in the story
 
 - 62
