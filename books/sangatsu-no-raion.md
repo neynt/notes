@@ -1726,7 +1726,7 @@ all right let's come up with a few conventions for tagging words:
 - 65
   - 勘: カン. intuition
 - 66
-  - sentence: (top-right)
+  - sentence: (top-right, to discuss)
     - 「強く」なればなる程負けた時くやしくなります
       - The stronger you get, the more frustrating it is to lose.
     - むしろかけた時間の分だけ負けるとくやしいので進めば進む程くやしくなります
@@ -1737,7 +1737,7 @@ all right let's come up with a few conventions for tagging words:
 - 67
   - ハトムギ: adlay, Job's tears
   - 自給自足: self-sufficiency (seen before)
-  - ヨクイニン: adlay with seed coat removed
+  - ヨクイニン: adlay with seed coat removed (to discuss)
   - 利尿: diuretic
   - 冠: crown/title. appears as 七冠. prounounced かんむり.
 - 70
