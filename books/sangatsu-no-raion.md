@@ -1772,10 +1772,10 @@ learn difference between 攻める, 改める
   - 半端ない: not hanpa. to a full extent
   - 芋焼酎: sweet potato shouchuu
   - 味気ない: wearisome
+- 80
   - sentence to discuss
     - 何か今売ってんだよ... コンビニで
   - 薬局: pharmacy
-- 80
   - ねじ伏せる: to hold down, twist someone's arm
   - 余裕
 - 81
@@ -1783,6 +1783,7 @@ learn difference between 攻める, 改める
   - ブドウ糖: glucose
 - 83
   - しがい: (grammar to discuss?)
+    - turns out, it's a word: 甲斐
 
 ## ch48: 混沌: disorder
 
@@ -1808,4 +1809,46 @@ learn difference between 攻める, 改める
 - 104
   - 自覚: self-awareness
 
-eh nothing
+## ch49: 隈倉: Kumakura
+
+- 108
+  - 縺れる: to get entangled (appears as もつれ)
+  - 熱戦: fierce fight
+- 109
+  - 挟む: to be on either side of (appears as 挟み)
+  - 双方: both parties
+  - 通算: total
+  - 奪取: usurpation, taking back
+- 110
+  - 混戦: free-for-all (kanji 1 from 混沌)
+  - 躱す: to dodge (appeared as かわす一手)
+- 111
+  - 立会人: witness, observer
+  - 優勢: superiority
+- 112
+  - 無効: (pronunciation)
+- 113
+  - 鍛錬: tempering metal
+  - 泰然: calm
+- 114
+  - 化粧水: skin lotion
+  - 乳液: body milk
+  - 保湿: moisturizing
+  - 嚔 (くしゃみ): sneeze
+- 117
+  - 預り証: cleaning receipt
+  - 溜まる: to accumlate (weird kanji)
+- 118
+  - 図星: bullseye
+- 119
+  - 脇が甘い: having weak defenses (appeared as ワキが甘い)
+- 120
+  - シワ: wrinkle
+- 123
+  - 清掃: clean-up
+  - 蹴破る: to kick in (a wall)
+    - 蹴る: to kick
+  - 弁償: reimbursement
+  - てんこ盛り: pile up high
+- 124
+  - 灼熱: becoming red hot
