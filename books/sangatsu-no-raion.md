@@ -1791,6 +1791,7 @@ learn difference between 攻める, 改める
   - 解せる: to understand. interesting pronunciation
   - 心の支え: moral support
 - 94
+  - 既に
   - 驕り昂ぶる: flaunting. what interesting kanji. to discuss
   - 神童: child prodigy
   - 寄りかかる: to lean against.
@@ -1852,3 +1853,43 @@ learn difference between 攻める, 改める
   - てんこ盛り: pile up high
 - 124
   - 灼熱: becoming red hot
+
+## ch50: 六月: June
+
+- 127
+  - 下駄箱: shoe rack
+- 128
+  - 静けさ: stillness
+- 129
+  - 押忍: ossu
+  - 躯幹: torso
+  - もはや: no longer
+- 130
+  - 松花堂: rectangular bento
+  - 争う: to compete
+- 131
+  - 特集: special program
+  - 静止画像: static image
+  - 模様: pattern, design
+- 132
+  - 鮮明: vivid
+  - 温厚: mild-mannered
+  - 獲る: interesting kanji
+- 133
+  - 風情: appearance, the likes of
+  - 順当: proper, right
+  - 年齢制限: age limit
+  - 要素: component
+  - to discuss: とりっぱぐれちゃう
+- 135
+  - 動揺: shaking. (third time writing this dammit)
+  - 徐々: gradually
+  - 根づく: to take root
+- 136
+  - 寒天: agar
+  - 水辺: waterfront (pronuncation)
+  - 目新しい: novel
+- 139
+  - 祝福: blessing
+
+## ch51: てんとう虫の気１: Ladybug Bush 1
