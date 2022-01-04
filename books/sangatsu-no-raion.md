@@ -1883,6 +1883,7 @@ learn difference between 攻める, 改める
   - to discuss: とりっぱぐれちゃう
 - 135
   - 動揺: shaking. (third time writing this dammit)
+  - 口コミ: word of mouth
   - 徐々: gradually
   - 根づく: to take root
 - 136
@@ -1892,4 +1893,38 @@ learn difference between 攻める, 改める
 - 139
   - 祝福: blessing
 
-## ch51: てんとう虫の気１: Ladybug Bush 1
+## ch51: てんとう虫の木１: Ladybug Bush 1
+
+- 145
+  - あすこ: like あそこ
+  - 植える: to plant
+- 146
+  - 植木: garden shrub
+  - 書籍: books
+  - 書庫: book storage
+
+## ch52: てんとう虫の木２: Ladybug Bush 2
+
+- 162
+  - 班: group
+  - 唐突: abrupt
+  - 悪循環: vicious cycle
+- 163
+  - おっとり: gently
+  - 媚: cajolery
+  - 萎縮: withering
+  - 疎む: to shun
+- 164
+  - 遠まき: surrounding at a distance
+- 166
+  - 単身赴任: job transfer away from one's family
+- 167
+  - 矛先: point of a spear
+
+## ch53: てんとう虫の木３: Ladybug Bush 3
+
+- 177
+  - 児童: children, juvenile
+- 178
+  - 図鑑: picture book
+  - 昆虫: insect
