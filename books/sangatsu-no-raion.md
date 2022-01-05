@@ -1909,6 +1909,7 @@ learn difference between 攻める, 改める
   - 班: group
   - 唐突: abrupt
   - 悪循環: vicious cycle
+  - おびえとまどい: what is the parsing?
 - 163
   - おっとり: gently
   - 媚: cajolery
@@ -1928,3 +1929,35 @@ learn difference between 攻める, 改める
 - 178
   - 図鑑: picture book
   - 昆虫: insect
+
+## ch54: 思い: sentiment
+
+- 10
+  - 八つ裂き: tearing limb to limb
+- 12
+  - えげつない: dirty
+- 17
+  - 検索: to look up
+- 18
+  - 泥沼: quagmire
+- 19
+  - 置き去る: to abandon
+  - 大騒動: great tumult
+  - 沈静化: quiet down
+- 20
+  - しょぼくれる: to be despirited
+  - 芯: heart
+- 21
+  - 念の為: just to be sure
+  - 大気圏: atmosphere
+  - 突入: rushing into
+- 23
+  - 介入: intervention
+  - 暴走: reckless
+  - 阻止: to hinder
+
+haha yep solving life problems with money as one is apt to do
+
+## ch55: 告白: confession
+
+no points for guessing what's gonna happen in this chapter
