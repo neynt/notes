@@ -1961,3 +1961,12 @@ haha yep solving life problems with money as one is apt to do
 ## ch55: 告白: confession
 
 no points for guessing what's gonna happen in this chapter
+
+- 31
+  - 下ごしらえ: mise en place
+- 33
+  - 躊躇: hestitation
+- 36
+  - いざとなったら: when needed
+
+i did not guess what was gonna happen in this chapter
