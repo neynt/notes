@@ -1970,3 +1970,14 @@ no points for guessing what's gonna happen in this chapter
   - いざとなったら: when needed
 
 i did not guess what was gonna happen in this chapter
+
+## ch56: 小さな世界: small world
+
+- 45
+  - さくらんぼ: cherry
+- 50
+  - 班: should really remember this one
+- 51
+  - 階級: social class
+- 55
+  - けしからん: scandalous
