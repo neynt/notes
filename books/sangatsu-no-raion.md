@@ -1981,3 +1981,12 @@ i did not guess what was gonna happen in this chapter
   - 階級: social class
 - 55
   - けしからん: scandalous
+
+## ch57: 手紙: letter
+
+- 60
+  - 勢い: force, vigor
+- 66
+  - やっかみ: jealousy (kanto)
+- 73
+  - 煮えくり返る: to seethe
