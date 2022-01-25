@@ -1975,8 +1975,14 @@ i did not guess what was gonna happen in this chapter
 
 - 45
   - さくらんぼ: cherry
+- 48
+  - なんだかんだ: somehow
+  - 愉快: pleasant
+- 49
+  - ふと: suddenly
 - 50
   - 班: should really remember this one
+  - お通夜: vigil
 - 51
   - 階級: social class
 - 55
@@ -1990,3 +1996,32 @@ i did not guess what was gonna happen in this chapter
   - やっかみ: jealousy (kanto)
 - 73
   - 煮えくり返る: to seethe
+
+## ch58: 梅雨の始まる: start of the rainy season
+
+- 77
+  - 鼻血: (pronunciation)
+- 80
+  - 協調: cooperation
+- 81
+  - 太刀打ち: crossing swords
+  - 母校: alma mater
+  - 丸く収まる: to settle peacefully
+- 86
+  - 称号: title
+  - 粉粉: in very small pieces
+
+## ch59: 蜂谷: hachiya
+
+- 100
+  - 振る舞い: behavior, conduct
+- 104
+  - 荒れる: to become stormy
+  - 仕留める: to shoot down an animal
+- 105
+  - 年齢: age
+- 107
+  - 腑に落ちない: it doesn't make sense
+  - 断じて: absolutely
+
+## ch60: 真昼の月: midday moon
