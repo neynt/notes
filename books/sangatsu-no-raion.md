@@ -2010,13 +2010,18 @@ i did not guess what was gonna happen in this chapter
 - 86
   - 称号: title
   - 粉粉: in very small pieces
+- 90
+  - から回る: to run idle, to spin emptily
 
 ## ch59: 蜂谷: hachiya
 
+- 95
+  - 貧乏ゆすり: fidgeting legs
 - 100
   - 振る舞い: behavior, conduct
 - 104
   - 荒れる: to become stormy
+  - いぶす: fumigate
   - 仕留める: to shoot down an animal
 - 105
   - 年齢: age
@@ -2025,3 +2030,22 @@ i did not guess what was gonna happen in this chapter
   - 断じて: absolutely
 
 ## ch60: 真昼の月: midday moon
+
+- 112
+  - mistranslation: 知恵が無い...役に立てない
+    - oh probably not actually
+- 115
+  - 心細い
+- 117
+  - 納めどころ
+
+## ch61: 冒険者たち: adventures
+
+- 127
+  - 力む: to strain oneself (appears as リキむ)
+- 128
+  - 彩る: to colour
+- 133
+  - かなぐり捨てる: to cast aside
+- 137
+  - 必須: essential
