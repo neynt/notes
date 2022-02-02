@@ -3,10 +3,10 @@
 ```
 ララライ ララライ 誰も知らない                         rararai, rararai, let's transcend
 名も無い今を 駆けて行くの                              the nameless now that nobody knows
+あの三日月へ 手を伸ばして                              let's stretch our hands out to the new moon
+ララライ ララライ 君を知りたい                         rararai, rararai, how many times will we meet
+声にならない 臆病な朝を たとえ何度迎えようとも         the silent cowardly morning that wants to know you?
 
-あの三日月へ 手を伸ばして                              
-ララライ ララライ 君を知りたい
-声にならない 臆病な朝を たとえ何度迎えようとも
 臍の緒がパチンと切られたその瞬間
 世界とはぐれてしまったみたいだ
 眼に映る景色が悲しく笑うなら
