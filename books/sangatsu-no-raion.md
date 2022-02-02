@@ -2045,7 +2045,11 @@ i did not guess what was gonna happen in this chapter
   - 力む: to strain oneself (appears as リキむ)
 - 128
   - 彩る: to colour
+  - 訊く: kanji means interrogation-type question
 - 133
+  - 垣間見る: to glance
   - かなぐり捨てる: to cast aside
 - 137
   - 必須: essential
+
+## ch62: 王国１: kingdom (1)
