@@ -37,9 +37,8 @@
 名も無い今を 駆けてゆくの                              (same)
 あの三日月へ 手を伸ばして                              (same)
 ララライ ララライ 君を知りたい                         (same)
-声にならない 臆病な朝を                                (same)
+声にならない 臆病な朝を 例え何度迎えようとも           (same)
 
-例え何度迎えようとも                                   no matter how many times I have to meet you
 夢ならば 醒めないで 現実なんてさ 身も蓋もないから      if it's a dream, don't wake me up, because reality's too blunt
 時は誰も待ってくれないの                               because time waits for no one.
 ```
