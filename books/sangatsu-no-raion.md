@@ -2053,3 +2053,28 @@ i did not guess what was gonna happen in this chapter
   - 必須: essential
 
 ## ch62: 王国１: kingdom (1)
+
+- 152
+  - 前人未到: untrodden
+  - 体調管理: health management
+- 158
+  - 読みの弱さ: poor eyesight?
+  - 克服: overcoming
+
+## ch63: 王国２: kingdom (2)
+
+- 161
+  - 目玉: eyeball
+  - 窺う: to peep (appears: 窺がっている)
+  - 淡々: uninterested, flowing gently
+- 166
+  - 潔い: manly. haven't seen this since ch14
+  - 情けない: pathetic. seen in ch19
+- 169
+  - 獲る: to win, obtain. last seen ch50
+- 172
+  - 行き当たりばったり: haphazard, unplanned
+- 179
+  - 薄曇り: slightly cloudy 
+
+the RealFeel
