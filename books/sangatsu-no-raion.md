@@ -2056,10 +2056,12 @@ i did not guess what was gonna happen in this chapter
 
 - 152
   - 前人未到: untrodden
+- 153
   - 体調管理: health management
 - 158
   - 読みの弱さ: poor eyesight?
   - 克服: overcoming
+  - 負わす
 
 ## ch63: 王国２: kingdom (2)
 
@@ -2069,6 +2071,7 @@ i did not guess what was gonna happen in this chapter
   - 淡々: uninterested, flowing gently
 - 166
   - 潔い: manly. haven't seen this since ch14
+- 167
   - 情けない: pathetic. seen in ch19
 - 169
   - 獲る: to win, obtain. last seen ch50
@@ -2078,3 +2081,39 @@ i did not guess what was gonna happen in this chapter
   - 薄曇り: slightly cloudy 
 
 the RealFeel
+
+## ch64: 銀の羽根: silver wings
+
+- 9
+  - 端折る: to abridge
+- 10
+  - 削る: to shave
+  - 問いただす: to interrogate, to grill
+- 11
+  - 取締役: board member
+- 13
+  - 手間: time, labour
+  - 降級: downgrading
+- 14
+  - 心血: heart and soul
+- 15
+  - 潜る: to dive
+  - 恐怖: fear
+- 16
+  - 尻目: backward glance
+- 17
+  - 練る: remember it this time
+  - 苦痛: pain
+- 18
+  - 張り裂ける: burst open
+- 22
+  - 競走: race
+
+## ch65: 川景色: river scenery
+
+- 28
+  - 粒あん: coarse red bean paste
+- 30
+  - 冷やし中華: chilled chinese noodle dish
+- 31
+  - 連鎖: chain
