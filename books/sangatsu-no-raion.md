@@ -2096,12 +2096,14 @@ the RealFeel
   - 降級: downgrading
 - 14
   - 心血: heart and soul
+  - かきむしる: to tear off
 - 15
   - 潜る: to dive
   - 恐怖: fear
 - 16
   - 尻目: backward glance
 - 17
+  - 正気の沙汰では無い: devoid of reason
   - 練る: remember it this time
   - 苦痛: pain
 - 18
@@ -2117,3 +2119,39 @@ the RealFeel
   - 冷やし中華: chilled chinese noodle dish
 - 31
   - 連鎖: chain
+
+## ch66: 陽の当たる場所: a place the sun shines
+
+- 40
+  - 盛大: grand
+  - 粟立つ: to get goosebumps
+- 43
+  - 敗者復活: repechage
+  - 華がない: unappealin
+- 47
+  - 祝する: to congratulate, celebrate
+  - 新鮮
+  - 生姜
+  - 丹念: painstaking, meticulous
+  - 収穫: harvest
+  - 白玉: rice flour dumpling?
+- 48
+  - 失敬: rudeness
+
+## ch67: 小さな世界: small world
+
+- 57
+  - 下山: descending a mountain
+  - 足手まとい: impediment
+- 58
+  - 優美: refinement, elegance
+  - 振舞: behavior
+  - 微笑: smile
+- 64
+  - 比喩: metaphor, allegory
+- 67
+  - 募集: recruitment
+- 69
+  - 揃い: set
+- 70
+  - 存続: continuance
