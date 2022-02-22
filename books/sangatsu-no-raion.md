@@ -2147,6 +2147,10 @@ the RealFeel
   - 優美: refinement, elegance
   - 振舞: behavior
   - 微笑: smile
+- 59
+  - 背負子: backpack (wooden rack with shoulder straps)
+- 61
+  - 流石
 - 64
   - 比喩: metaphor, allegory
 - 67
