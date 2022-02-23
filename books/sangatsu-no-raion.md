@@ -2159,3 +2159,18 @@ the RealFeel
   - 揃い: set
 - 70
   - 存続: continuance
+
+## ch68: 黒い霧: black mist
+
+- 74
+  - 年表: chronological table.
+- 80
+  - うんざり: fed up
+- 83
+  - 見て見ぬふり: pretending not to see something
+  - 代償
+- 84
+  - 肩をつける: to settle a problem
+  - 静まり返る: to become still as death
+
+## ch69: 光: light
