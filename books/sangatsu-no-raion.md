@@ -2184,3 +2184,5 @@ the RealFeel
   - 勃発
 - 104
   - 言いがかり
+
+WOW too many REAL FEEL.
