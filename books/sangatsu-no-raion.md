@@ -2174,3 +2174,13 @@ the RealFeel
   - 静まり返る: to become still as death
 
 ## ch69: 光: light
+
+- 91
+  - 創業
+- 95
+  - 荒立て
+- 97
+  - grammar: 姉がらせ
+  - 勃発
+- 104
+  - 言いがかり
