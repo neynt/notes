@@ -2164,8 +2164,15 @@ the RealFeel
 
 - 74
   - 年表: chronological table.
+- 77
+  - 聞こえよがし
+- 78
+  - 思う壺
 - 80
   - うんざり: fed up
+- 81
+  - 堰: dam
+  - 呂律: way of speaking
 - 83
   - 見て見ぬふり: pretending not to see something
   - 代償
@@ -2180,9 +2187,38 @@ the RealFeel
 - 95
   - 荒立て
 - 97
-  - grammar: 姉がらせ
+  - grammar: 嫌がらせ
   - 勃発
 - 104
   - 言いがかり
 
 WOW too many REAL FEEL.
+
+## ch70: 小さな手のひら: small palm
+
+- 114
+  - 就職
+- 117
+  - うやむや
+  - 暗黙
+- 118
+  - 篭る
+- 119
+  - 位: kanji for common word
+  - 偽善: hypocrisy
+- 121
+  - 牧場: ranch
+
+## ch71: 日向: sunny place
+
+- 140
+  - 誓い
+
+## ch72: 流れていくもの: flowing thin
+
+- 144
+  - ちょびっと: a little
+  - 粒子: particle, grain. "grainy"
+- 146
+  - 修羅場: scene of carnage
+  - 車座: sitting in a circle
