@@ -2197,6 +2197,7 @@ WOW too many REAL FEEL.
 ## ch70: 小さな手のひら: small palm
 
 - 114
+  - 挙句
   - 就職
 - 117
   - うやむや
@@ -2214,7 +2215,7 @@ WOW too many REAL FEEL.
 - 140
   - 誓い
 
-## ch72: 流れていくもの: flowing thin
+## ch72: 流れていくもの: flowing thing
 
 - 144
   - ちょびっと: a little
@@ -2222,3 +2223,52 @@ WOW too many REAL FEEL.
 - 146
   - 修羅場: scene of carnage
   - 車座: sitting in a circle
+- 148
+  - 矢面
+
+## ch73: 白い嵐: white storm
+
+- 161: 原泉: source of a spring
+- 162: 式次第: ceremony programme
+- 163:
+  - 花束: flower bouquet
+  - 贈呈: presentation (of a gift)
+  - 来賓: guest
+  - 撮影: photography
+  - 揮毫: commissioned calligraphy (signing shogi boards)
+  - 盛大: grand (seen before)
+- 168: 一矢報いる: to return a blow
+- 169: お召し物: clothing (polite)
+- 170:
+  - 沢山: takusan has a kanji wat
+  - 充実: substantiality
+- 172: 保つ: to maintain
+- 174: 上陸: striking land (of a typhoon)
+- 174: 日本列島: the Japanese islands
+
+## ch74: 白い嵐２: white storm (2)
+
+- 15
+  - 双方: both
+  - 威圧感: intimidating air
+  - 開催: hosting a contest
+  - 道楽: pastime
+- 16
+  - 家宝: heirloom
+- 18
+  - 吹っ飛ばす: to blow away
+- 19
+  - 脅威: threat
+  - 密集: crowding together
+- 22
+  - 咎める: to find fault
+- 25
+  - 跳ねる: to jump
+- 27
+  - 淡々: dispassionate
+  - 最善: the best
+
+ah yes, すみずみにまで流れ込んでゆくようだった. that's the programming contest
+feel
+
+## ch75: 白い嵐３: white storm (3)
