@@ -2287,45 +2287,43 @@ EUUUUUU
 ch starts 48 (jp), 46 (en)
 
 - 51
-  - 只今: at the moment (pron.)
-  - 構内: premises
-  - ごった返す: to be jammed with people
+  - 只今: at the moment (pron.). ただいま
+  - 構内: premises. こうない
+  - ごった返す: to be jammed with people. ごったがえす
 - 54
-  - 一斉: all at once
+  - 一斉: all at once. いっせい
 - 55
-  - 搬入口: service entrance
+  - 搬入口: service entrance. はんにゅうぐち
 - 61
-  - 後援会: support group, fan club
+  - 後援会: support group, fan club. こうえんかい
 
 ## ch77: 白い嵐５: white storm (5)
 
 ch starts 64 (jp), 61 (en)
 
 - 69
-  - 別断 ?
-  - まかり通って ? 
+  - 別断 ? particularly?
+  - まかり通って: to go overlooked
 - 70
-  解訳 ?
+  - 解釈: interpretation
 - 71
-  - 意思の＿＿ ?
+  - 疎通: mutual understanding. そつう
 - 72
-  - 翌朝
-  - _泊
-  - 
+  - 宿泊: lodging, accommodation. should've known. しゅくはく
 - 73
-  - でたらめ
+  - 出鱈目: nonsense. でたらめ
 
 ## ch78: 再始動: restart
 
 ch starts 78 (jp), 75 (en)
 
 - 79
-  - 予習
-- 81
-  - 平たい
+  - 予習: preparing for a lesson. よしゅう
 - 84
-  - 没収: confiscation
+  - 没収: confiscation. ぼっしゅう
 - 90
-  - 美技: fine play
+  - 美技: fine play. びぎ
 
 eeeee nikaidou's fine
+
+## ch79: 焼野が原１: burnt field (1)
