@@ -2272,3 +2272,60 @@ ah yes, すみずみにまで流れ込んでゆくようだった. that's the pr
 feel
 
 ## ch75: 白い嵐３: white storm (3)
+
+- 37
+  - 拝む: to beg/supplicate
+- 39
+  - 勢い (already seen)
+- 45
+  - 合致: agreement
+
+EUUUUUU
+
+## ch76: 白い嵐４: white storm (4)
+
+ch starts 48 (jp), 46 (en)
+
+- 51
+  - 只今: at the moment (pron.)
+  - 構内: premises
+  - ごった返す: to be jammed with people
+- 54
+  - 一斉: all at once
+- 55
+  - 搬入口: service entrance
+- 61
+  - 後援会: support group, fan club
+
+## ch77: 白い嵐５: white storm (5)
+
+ch starts 64 (jp), 61 (en)
+
+- 69
+  - 別断 ?
+  - まかり通って ? 
+- 70
+  解訳 ?
+- 71
+  - 意思の＿＿ ?
+- 72
+  - 翌朝
+  - _泊
+  - 
+- 73
+  - でたらめ
+
+## ch78: 再始動: restart
+
+ch starts 78 (jp), 75 (en)
+
+- 79
+  - 予習
+- 81
+  - 平たい
+- 84
+  - 没収: confiscation
+- 90
+  - 美技: fine play
+
+eeeee nikaidou's fine
