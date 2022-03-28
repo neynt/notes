@@ -2364,12 +2364,12 @@ start 94 (jp), 91 (en)
 start 110 (jp), 107 (en)
 
 - 112
-  - 在籍: being registered
+  - 在籍: being registered. ざいせき
 - 115
   - 佳境: good luck. かきょう
   - 渋い: astringent. しぶい
 - 123
-  - 傾き: slant
+  - 傾き: slant. かたむき
 
 ## ch81: 焼野が腹３: burnt field (3)
 
