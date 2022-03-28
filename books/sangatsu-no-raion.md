@@ -2327,3 +2327,52 @@ ch starts 78 (jp), 75 (en)
 eeeee nikaidou's fine
 
 ## ch79: 焼野が原１: burnt field (1)
+
+start 94 (jp), 91 (en)
+
+- 96
+  - 楕円: ellipse. だえん
+  - 枠: frame, border. わく
+  - 資金繰り: fundraising. しきんぐり
+  - 総務: general affairs. そうむ
+- 97
+  - 据え置く: to leave as is, to defer
+  - 心拍数: heart rate
+    - related: 拍数: count of beats in music
+  - 待機: standing by
+  - 茶化す: to make fun of
+  - 閑古鳥: cuckoo
+  - 閑古鳥が鳴く: to have a lack of activity
+- 101
+  - 往復: round trip
+  - 現役: active service
+  - 齧り付く: to sink one's teeth into. かじりつく or かぶりつく
+- 102
+  - 同窓会: alumni association
+- 103
+  - 繰り上げる: to move up, to advance. くりあげる
+  - 内示: unofficial announcement
+  - 担う: to carry, to bear. になう
+  - 降級: to lower in rank. こうきゅう (should've known!!)
+- 106
+  - 踏ん張る: to keep one's feet on the ground
+- 107
+  - 夥しい: great number. おびただしい
+
+## ch80: 焼野が腹２: burnt field (2)
+
+start 110 (jp), 107 (en)
+
+- 112
+  - 在籍: being registered
+- 115
+  - 佳境: good luck. かきょう
+  - 渋い: astringent. しぶい
+- 123
+  - 傾き: slant
+
+## ch81: 焼野が腹３: burnt field (3)
+
+start 128 (jp), 125 (en)
+
+no notes
