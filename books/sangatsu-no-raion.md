@@ -2336,26 +2336,26 @@ start 94 (jp), 91 (en)
   - 資金繰り: fundraising. しきんぐり
   - 総務: general affairs. そうむ
 - 97
-  - 据え置く: to leave as is, to defer
-  - 心拍数: heart rate
+  - 据え置く: to leave as is, to defer. すえおく
+  - 心拍数: heart rate: しんぱくすう
     - related: 拍数: count of beats in music
-  - 待機: standing by
-  - 茶化す: to make fun of
-  - 閑古鳥: cuckoo
+  - 待機: standing by: たいき
+  - 茶化す: to make fun of: ちゃかす
+  - 閑古鳥: cuckoo: かんこどり
   - 閑古鳥が鳴く: to have a lack of activity
 - 101
-  - 往復: round trip
-  - 現役: active service
+  - 往復: round trip: おうふく
+  - 現役: active service: げんえき
   - 齧り付く: to sink one's teeth into. かじりつく or かぶりつく
 - 102
-  - 同窓会: alumni association
+  - 同窓会: alumni association. どうそうかい
 - 103
   - 繰り上げる: to move up, to advance. くりあげる
-  - 内示: unofficial announcement
+  - 内示: unofficial announcement. ないじ
   - 担う: to carry, to bear. になう
   - 降級: to lower in rank. こうきゅう (should've known!!)
 - 106
-  - 踏ん張る: to keep one's feet on the ground
+  - 踏ん張る: to keep one's feet on the ground. ふんばる
 - 107
   - 夥しい: great number. おびただしい
 
