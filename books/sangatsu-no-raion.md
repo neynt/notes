@@ -2341,6 +2341,7 @@ start 94 (jp), 91 (en)
     - related: 拍数: count of beats in music
   - 待機: standing by: たいき
   - 茶化す: to make fun of: ちゃかす
+- 98
   - 閑古鳥: cuckoo: かんこどり
   - 閑古鳥が鳴く: to have a lack of activity
 - 101
@@ -2353,6 +2354,7 @@ start 94 (jp), 91 (en)
   - 繰り上げる: to move up, to advance. くりあげる
   - 内示: unofficial announcement. ないじ
   - 担う: to carry, to bear. になう
+- 105
   - 降級: to lower in rank. こうきゅう (should've known!!)
 - 106
   - 踏ん張る: to keep one's feet on the ground. ふんばる
@@ -2367,6 +2369,7 @@ start 110 (jp), 107 (en)
   - 在籍: being registered. ざいせき
 - 115
   - 佳境: good luck. かきょう
+- 116
   - 渋い: astringent. しぶい
 - 123
   - 傾き: slant. かたむき
@@ -2376,3 +2379,16 @@ start 110 (jp), 107 (en)
 start 128 (jp), 125 (en)
 
 no notes
+
+## ch82
+
+start 144 (jp), 141 (en)
+
+- 146
+  - 溶岩: lava. ようがん
+- 152
+  - 出稼ぎ: working away from home. でかせぎ
+
+## ch83
+
+## ch84
