@@ -2361,6 +2361,8 @@ start 94 (jp), 91 (en)
 - 107
   - 夥しい: great number. おびただしい
 
+what a hard chapter
+
 ## ch80: 焼野が腹２: burnt field (2)
 
 start 110 (jp), 107 (en)
@@ -2380,7 +2382,7 @@ start 128 (jp), 125 (en)
 
 no notes
 
-## ch82
+## ch82: 焼野が腹４: burnt field (4)
 
 start 144 (jp), 141 (en)
 
@@ -2389,6 +2391,6 @@ start 144 (jp), 141 (en)
 - 152
   - 出稼ぎ: working away from home. でかせぎ
 
-## ch83
+## ch83: ここにいること: being here
 
 ## ch84
