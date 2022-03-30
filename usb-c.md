@@ -14,12 +14,12 @@ connection standards:
 - USB 1.1: 12 Mbps. Ancient, obsolete.
 - USB 2.0: 480 Mbps. Old school.
 - USB 3.2
-  - Gen 2x2 aka USB 3.2: 20Gbps. Not really used much
-  - Gen 2 aka USB 3.1 Gen 2 aka USB 3.1: 10Gbps. Mainstream.
   - Gen 1 aka USB 3.1 Gen 1 aka USB 3.0: 5Gbps. Very mainstream.
+  - Gen 2 aka USB 3.1 Gen 2 aka USB 3.1: 10Gbps. Mainstream.
+  - Gen 2x2 aka USB 3.2: 20Gbps. Not really used much
 - USB4: "Encompasses" Thunderbolt 3
-  - USB4 40Gbps
   - USB4 20Gbps
+  - USB4 40Gbps
 
 USB cables are generally passive. They just serve as wires connecting the two
 ends. Due to overhead, only at most 2/3 of the stated bandwidth is available to
