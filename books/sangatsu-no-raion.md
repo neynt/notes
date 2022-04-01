@@ -2393,4 +2393,36 @@ start 144 (jp), 141 (en)
 
 ## ch83: ここにいること: being here
 
-## ch84
+start 158 (jp), 155 (en)
+
+- 161
+  - 棒状: cylinder
+- 164
+  - 名案: good idea. めいあん
+  - ハイカラ: mistranslated
+- 167
+  - 勢い: いきおい. (already seen!!)
+
+## ch84: 夏休み１: summer vacation (1)
+
+start 10 (jp), 7 (en)
+
+- 12
+  - 純利益: net income. じゅんりえき
+  - 骨折り損: waste of effort. ほねおりぞん
+- 13
+  - こさえる: to manufacture
+- 15
+  - て際: execution, skill. てぎわ
+- 16
+  - 剣幕: menacing look. けんまく
+- 17
+  - お言葉ですが: i'm sorry, but
+  - 理解するまい: the まい means "doesn't intend to"
+- 18
+  - 洗いざらい: wholly. あらいざらい
+  - 独善的: self-righteous. どくぜんてき
+  - 報い: punishment. むくい
+  - しんどい: tiresome, draining
+- 21
+  - 臨時: temporary. りんじ
