@@ -2396,10 +2396,10 @@ start 144 (jp), 141 (en)
 start 158 (jp), 155 (en)
 
 - 161
-  - 棒状: cylinder
+  - 棒状: cylinder. ぼうじょう
 - 164
   - 名案: good idea. めいあん
-  - ハイカラ: mistranslated
+  - ハイカラ: mistranslated. not "high calorie" i think?
 - 167
   - 勢い: いきおい. (already seen!!)
 
@@ -2413,7 +2413,7 @@ start 10 (jp), 7 (en)
 - 13
   - こさえる: to manufacture
 - 15
-  - て際: execution, skill. てぎわ
+  - 手際: execution, skill. てぎわ
 - 16
   - 剣幕: menacing look. けんまく
 - 17
@@ -2423,6 +2423,7 @@ start 10 (jp), 7 (en)
   - 洗いざらい: wholly. あらいざらい
   - 独善的: self-righteous. どくぜんてき
   - 報い: punishment. むくい
+- 20
   - しんどい: tiresome, draining
 - 21
   - 臨時: temporary. りんじ
