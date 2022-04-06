@@ -2427,3 +2427,41 @@ start 10 (jp), 7 (en)
   - しんどい: tiresome, draining
 - 21
   - 臨時: temporary. りんじ
+
+## ch85: 夏休み２: summer vacation (2)
+
+start p26
+
+- 32
+  - 招き: invitation
+- 33
+  - 流しそうめん: it's actually a thing!!
+  - 拙宅: one's home. せったく
+  - 竹林: bamboo grove. ちくりん
+  - せねば: ought to do
+- 35
+  - ややこしい: puzzling
+  - 硬直: stiffening. こうちょく
+  - 粘土: clay. ねんど
+- 36
+  - 傾斜: slope. けいしゃ
+  - 補足: seize. ほそく
+
+## ch86: あたらしい年: new year
+
+start p40
+
+- 44
+  - 根気: perseverence. こんき
+  - 甘やかす: to pamper, spoil
+- 45
+  - 癒す: to heal, to alleviate. いやす
+  - 暴挙: violence, reckless action. ぼうきょ
+- 48
+  - 釜: iron pot, kettle. かま
+- 49
+  - 遣い: unusual kanji
+- 51
+  - 偏差値: deviation value, standard score. へんさち
+
+## ch87: 経る時: passing time
