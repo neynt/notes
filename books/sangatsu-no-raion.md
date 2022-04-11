@@ -2465,3 +2465,8 @@ start p40
   - 偏差値: deviation value, standard score. へんさち
 
 ## ch87: 経る時: passing time
+
+start p54
+
+- 59
+  - 推薦: learn the kanji!!
