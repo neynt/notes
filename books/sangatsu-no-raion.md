@@ -2461,6 +2461,7 @@ start p40
   - 釜: iron pot, kettle. かま
 - 49
   - 遣い: unusual kanji
+  - the actual word is 気遣う
 - 51
   - 偏差値: deviation value, standard score. へんさち
 
@@ -2470,3 +2471,42 @@ start p54
 
 - 59
   - 推薦: learn the kanji!!
+
+## ch88: 春が来る: spring arrives
+
+start p69
+
+- 75
+  - しょっちゅう: constantly
+  - 思いやられる: to be worried about
+  - grass-eating, yes yes yes y
+- 81
+  - deai, wakare. now that the other guy's out of the picture...
+- 82
+  - 免れる: to escape danger, to avoid punishment
+
+wow what where did daddy come from all of a sudden whoa
+
+## ch89: 三月町の子: the child of sangatsu town
+
+start p86
+
+- 87
+  - 活躍: activity, great effort
+- 90
+  - 名門: notable family
+- 93
+  - お汁粉: shiruko. red bean soup with mochi. saw before but eh
+
+## ch90: 死神と呼ばれた男: the man called a grim reaper
+
+start p102
+
+- 106
+  - 凹む: (seen before) to be disheartened
+  - 縁起: omen (seen before 2x)
+- 107
+  - 疫病: plague
+- 115
+  - 棺: casket
+  - 取り繕う: to gloss over an error
