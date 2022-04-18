@@ -2483,7 +2483,7 @@ start p69
 - 81
   - deai, wakare. now that the other guy's out of the picture...
 - 82
-  - 免れる: to escape danger, to avoid punishment
+  - 免れる: to escape danger, to avoid punishment. まぬがれる
 
 wow what where did daddy come from all of a sudden whoa
 
@@ -2492,9 +2492,9 @@ wow what where did daddy come from all of a sudden whoa
 start p86
 
 - 87
-  - 活躍: activity, great effort
+  - 活躍: activity, great effort. かつやく
 - 90
-  - 名門: notable family
+  - 名門: notable family. めいもん
 - 93
   - お汁粉: shiruko. red bean soup with mochi. saw before but eh
 
@@ -2503,10 +2503,10 @@ start p86
 start p102
 
 - 106
-  - 凹む: (seen before) to be disheartened
-  - 縁起: omen (seen before 2x)
+  - 凹む: (seen before) to be disheartened. へこむ
+  - 縁起: omen (seen before 2x). えんぎ
 - 107
-  - 疫病: plague
+  - 疫病: plague. えきびょう
 - 115
-  - 棺: casket
-  - 取り繕う: to gloss over an error
+  - 棺: casket. ひつぎ
+  - 取り繕う: to gloss over an error. とりつくろう
