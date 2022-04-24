@@ -2480,10 +2480,8 @@ start p69
   - しょっちゅう: constantly
   - 思いやられる: to be worried about
   - grass-eating, yes yes yes y
-- 81
-  - deai, wakare. now that the other guy's out of the picture...
-- 82
-  - 免れる: to escape danger, to avoid punishment. まぬがれる
+- 81: deai, wakare. now that the other guy's out of the picture...
+- 82: 免れる: to escape danger, to avoid punishment. まぬがれる
 
 wow what where did daddy come from all of a sudden whoa
 
@@ -2491,12 +2489,9 @@ wow what where did daddy come from all of a sudden whoa
 
 start p86
 
-- 87
-  - 活躍: activity, great effort. かつやく
-- 90
-  - 名門: notable family. めいもん
-- 93
-  - お汁粉: shiruko. red bean soup with mochi. saw before but eh
+- 87: 活躍: activity, great effort. かつやく
+- 90: 名門: notable family. めいもん
+- 93: お汁粉: shiruko. red bean soup with mochi. saw before but eh
 
 ## ch90: 死神と呼ばれた男: the man called a grim reaper
 
@@ -2505,8 +2500,54 @@ start p102
 - 106
   - 凹む: (seen before) to be disheartened. へこむ
   - 縁起: omen (seen before 2x). えんぎ
-- 107
-  - 疫病: plague. えきびょう
+- 107: 疫病: plague. えきびょう
 - 115
   - 棺: casket. ひつぎ
   - 取り繕う: to gloss over an error. とりつくろう
+
+## ch91: 家族１: family (1)
+
+start p118
+
+- 122: 頑な: stubborn (na-adj)
+- 123: 準決勝: semifinal
+- 124: ほっかむり: covering one's head with a scarf
+- 125: 観念: to resign to one's fate
+- 127:
+  - 揶揄う: to tease
+  - 斜め上: to go off in an unexpected direction. to pop off
+  - からかい: teasing
+  - 反省: reflecting / being sorry. (seen before many times)
+- 129
+  - 脆い: fragile, easily moved
+  - 至難: most difficult
+- 130
+  - 肖像: portrait
+
+## ch92: 家族２: family (2)
+
+start p132
+
+- 136: 偏屈: "weirdo"
+- 138: 慎重: careful
+- 138: 徹底的: thorough
+- 138: 潜る: to go under, to dive
+- 139: 範疇: category
+- 147: 砕く: to break, to smash
+
+## ch93: bug
+
+start p150
+
+- 151: 滅多
+- 152: 尋常
+- 153: 経過 ?
+- 153: _作動
+- 154: 長考
+- 158: 形勢
+- 158: 深夜 (pron.?)
+- 160: 遮断
+- 161: 妬む
+- 161: 時間半端: instead of "we have some time", isn't it
+  "time's a bit tight"?? why else would they get souvenirs at
+  the airport instead of in town?
