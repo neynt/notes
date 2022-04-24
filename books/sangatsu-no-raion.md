@@ -2509,40 +2509,39 @@ start p102
 
 start p118
 
-- 122: 頑な: stubborn (na-adj)
-- 123: 準決勝: semifinal
+- 122: 頑な: stubborn (na-adj). かたくな
+- 123: 準決勝: semifinal. じゅんけっしょう
 - 124: ほっかむり: covering one's head with a scarf
-- 125: 観念: to resign to one's fate
+- 125: 観念: to resign to one's fate. かんねん
 - 127:
-  - 揶揄う: to tease
-  - 斜め上: to go off in an unexpected direction. to pop off
-  - からかい: teasing
-  - 反省: reflecting / being sorry. (seen before many times)
+  - 揶揄う: to tease. からかう
+  - 斜め上: to go off in an unexpected direction. to pop off. ななめうえ
+  - 反省: reflecting / being sorry. (seen before many times). はんせい
 - 129
-  - 脆い: fragile, easily moved
-  - 至難: most difficult
+  - 脆い: fragile, easily moved. もろい
+  - 至難: most difficult. しなん
 - 130
-  - 肖像: portrait
+  - 肖像: portrait. しょうぞう
 
 ## ch92: 家族２: family (2)
 
 start p132
 
-- 136: 偏屈: "weirdo"
-- 138: 慎重: careful
-- 138: 徹底的: thorough
-- 138: 潜る: to go under, to dive
-- 139: 範疇: category
-- 147: 砕く: to break, to smash
+- 136: 偏屈: "weirdo". へんくつ
+- 138: 慎重: careful. seen 3x ugh. しんちょう
+- 138: 徹底的: thorough. knew word, need to recognize kanji. てっていてき
+- 138: 潜る: to go under, to dive. くぐる
+- 139: 範疇: category. はんちゅう
+- 147: 砕く: to break, to smash. くだく
 
 ## ch93: bug
 
 start p150
 
-- 151: 滅多
-- 152: 尋常
-- 153: 経過 ?
-- 153: _作動
+- 151: 滅多. thoughless. めった
+- 152: 尋常. common/usual. knew word. じんじょう
+- 153: 経過. passage of time. けいか
+- 153: 誤作動.
 - 154: 長考
 - 158: 形勢
 - 158: 深夜 (pron.?)
