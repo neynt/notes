@@ -2541,12 +2541,12 @@ start p150
 - 151: 滅多. thoughless. めった
 - 152: 尋常. common/usual. knew word. じんじょう
 - 153: 経過. passage of time. けいか
-- 153: 誤作動.
-- 154: 長考
-- 158: 形勢
-- 158: 深夜 (pron.?)
-- 160: 遮断
-- 161: 妬む
+- 153: 誤作動. malfunction? ごさどう
+- 154: 長考. thinking for a long time. ちょうこう
+- 158: 形勢. condition, situation. けいせい
+- 158: 深夜. late night. しんや
+- 160: 遮断. isolation. しゃだん
+- 161: 妬む. to be jealous of. ねたむ
 - 161: 時間半端: instead of "we have some time", isn't it
   "time's a bit tight"?? why else would they get souvenirs at
   the airport instead of in town?
