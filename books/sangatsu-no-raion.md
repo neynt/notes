@@ -2532,6 +2532,7 @@ start p132
 - 138: 徹底的: thorough. knew word, need to recognize kanji. てっていてき
 - 138: 潜る: to go under, to dive. くぐる
 - 139: 範疇: category. はんちゅう
+- 140: 白髪混じり. streaked with grey (hair). しらがまじり
 - 147: 砕く: to break, to smash. くだく
 
 ## ch93: bug
@@ -2545,8 +2546,37 @@ start p150
 - 154: 長考. thinking for a long time. ちょうこう
 - 158: 形勢. condition, situation. けいせい
 - 158: 深夜. late night. しんや
+- 160: 凄まじい. terrific, fierce. すさまじい
 - 160: 遮断. isolation. しゃだん
 - 161: 妬む. to be jealous of. ねたむ
 - 161: 時間半端: instead of "we have some time", isn't it
   "time's a bit tight"?? why else would they get souvenirs at
   the airport instead of in town?
+
+## ch94: 家族３: family (3)
+
+start p164
+
+- 169: からすみ: dried mullet roe
+- 169: けいらんそうめん: fios de ovos (sweet egg strand dish)
+- 169: 明太子: pollack roe
+- 174: 失くす: interesting kanji.
+- 175: 踏ん張る: to plant one's feet.
+
+## ch95: 新しい日々: new days
+
+start p8
+
+- 11: 変わり映え: change for the better
+- 11: 怒涛: surging waves
+- 13: 編む: to knit
+- 14: 納品: delivery of goods
+- 14: 手芸: handicrafts
+- 15: 共通点: point in common
+- 16: 若造: youngster
+- 16: 譲る: to bequeath
+- 18: 勧誘: invitation
+
+## ch96: 昼休み: lunch break
+
+start p20
