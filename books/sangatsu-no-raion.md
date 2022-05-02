@@ -2580,3 +2580,18 @@ start p8
 ## ch96: 昼休み: lunch break
 
 start p20
+
+- 22: 英雄: hero
+- 23: ナメクジ: slug
+- 23: 生贄: living sacrifice
+- 24: 明朝: tomorrow morning. (pron.)
+- 24: 没収: confiscation
+- 26: 突き詰める: to be obsessed with a thought
+- 28: 修行: training
+- 28: 心の狭い: narrow-minded, petty
+- 29: 居心地がわるい: uncomfortable
+- 29: メソメソ: sobbing. (got dakuten'd?)
+- 30: 教わる: to be taught
+- 33: 見え見え: obvious, transparent
+
+WHOLESOME. end-of-chapter shogi notes are also worth reading.
