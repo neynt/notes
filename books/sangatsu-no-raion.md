@@ -2559,39 +2559,39 @@ start p164
 
 - 169: からすみ: dried mullet roe
 - 169: けいらんそうめん: fios de ovos (sweet egg strand dish)
-- 169: 明太子: pollack roe
-- 174: 失くす: interesting kanji.
-- 175: 踏ん張る: to plant one's feet.
+- 169: 明太子: pollack roe. めんたいこ
+- 174: 失くす: interesting kanji. なくす
+- 175: 踏ん張る: to plant one's feet. 踏ん張る
 
 ## ch95: 新しい日々: new days
 
 start p8
 
-- 11: 変わり映え: change for the better
-- 11: 怒涛: surging waves
-- 13: 編む: to knit
-- 14: 納品: delivery of goods
-- 14: 手芸: handicrafts
-- 15: 共通点: point in common
-- 16: 若造: youngster
-- 16: 譲る: to bequeath
-- 18: 勧誘: invitation
+- 11: 変わり映え: change for the better. かわりばえ
+- 11: 怒涛: surging waves. どとう
+- 13: 編む: to knit. あむ
+- 14: 納品: delivery of goods. のうひん
+- 14: 手芸: handicrafts. しゅげい
+- 15: 共通点: point in common. きょうつうてん
+- 16: 若造: youngster. わかぞう
+- 16: 譲る: to bequeath. ゆずる
+- 18: 勧誘: invitation. 勧誘
 
 ## ch96: 昼休み: lunch break
 
 start p20
 
-- 22: 英雄: hero
+- 22: 英雄: hero. えいゆう
 - 23: ナメクジ: slug
-- 23: 生贄: living sacrifice
-- 24: 明朝: tomorrow morning. (pron.)
-- 24: 没収: confiscation
-- 26: 突き詰める: to be obsessed with a thought
-- 28: 修行: training
-- 28: 心の狭い: narrow-minded, petty
-- 29: 居心地がわるい: uncomfortable
+- 23: 生贄: living sacrifice. いけにえ
+- 24: 明朝: tomorrow morning. (pron.). みょうちょう
+- 24: 没収: confiscation. ぼっしゅう. (seen before)
+- 26: 突き詰める: to be obsessed with a thought. つきつめる
+- 28: 修行: training. しゅぎょう
+- 28: 心の狭い: narrow-minded, petty. こころせまい
+- 29: 居心地がわるい: uncomfortable. いごこちがわるい
 - 29: メソメソ: sobbing. (got dakuten'd?)
-- 30: 教わる: to be taught
+- 30: 教わる: to be taught. おそわる
 - 33: 見え見え: obvious, transparent
 
 WHOLESOME. end-of-chapter shogi notes are also worth reading.
