@@ -2595,3 +2595,38 @@ start p20
 - 33: 見え見え: obvious, transparent
 
 WHOLESOME. end-of-chapter shogi notes are also worth reading.
+
+## ch97: もうひとつの家: other family
+
+start p36
+
+- 37: 詐欺: scam.
+- 37: 身構え: posture, attitude
+- 38: 持ち主: owner (of talent)
+- 38: 派遣: temp work
+- 41: 桁違い: in a different league
+- 42: 持論: pet theory
+- 45: 居候: freeloader
+- 46: ぞんざい: slovenly
+- 47: 結び: concluding
+
+## ch98: やわらかい風: soft wind
+
+start p50
+
+- 54: 恐縮. to be thankful
+- 57: 後ろめたい. guilty
+- 63: 優良. superior, fine, excellent
+- 64: 辞退. declining
+
+## ch99: 雨の降る街: a town where it rains
+
+start p66
+
+- 67: 太り気味. plump
+- 68: 味噌. miso. (easy, learn to read this)
+- 69: teehee the BULBS
+- 70: 間取り: house plan
+- 72: november or december?
+- 76: 一寸先は闇: the future is a closed book
+- 76: 起こりうる: to be possible to occur
