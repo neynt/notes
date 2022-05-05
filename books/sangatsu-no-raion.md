@@ -2600,33 +2600,33 @@ WHOLESOME. end-of-chapter shogi notes are also worth reading.
 
 start p36
 
-- 37: 詐欺: scam.
-- 37: 身構え: posture, attitude
-- 38: 持ち主: owner (of talent)
-- 38: 派遣: temp work
-- 41: 桁違い: in a different league
-- 42: 持論: pet theory
-- 45: 居候: freeloader
+- 37: 詐欺: scam. さぎ
+- 37: 身構え: posture, attitude. みがまえ
+- 38: 持ち主: owner (of talent). もちぬし
+- 38: 派遣: temp work. はけん
+- 41: 桁違い: in a different league. けたちがい
+- 42: 持論: pet theory. じろん
+- 45: 居候: freeloader. いそうろう
 - 46: ぞんざい: slovenly
-- 47: 結び: concluding
+- 47: 結び: concluding. むすび
 
 ## ch98: やわらかい風: soft wind
 
 start p50
 
-- 54: 恐縮. to be thankful
-- 57: 後ろめたい. guilty
-- 63: 優良. superior, fine, excellent
-- 64: 辞退. declining
+- 54: 恐縮. to be thankful. きょうしゅく
+- 57: 後ろめたい. guilty. うしろめたい
+- 63: 優良. superior, fine, excellent. ゆうりょう
+- 64: 辞退. declining. じたい
 
 ## ch99: 雨の降る街: a town where it rains
 
 start p66
 
-- 67: 太り気味. plump
+- 67: 太り気味. plump. ふとりぎみ
 - 68: 味噌. miso. (easy, learn to read this)
 - 69: teehee the BULBS
-- 70: 間取り: house plan
+- 70: 間取り: house plan. まどり
 - 72: november or december?
-- 76: 一寸先は闇: the future is a closed book
-- 76: 起こりうる: to be possible to occur
+- 76: 一寸先は闇: the future is a closed book. いっすんさきはやみ
+- 76: 起こりうる: to be possible to occur.
