@@ -2623,10 +2623,35 @@ start p50
 
 start p66
 
-- 67: 太り気味. plump. ふとりぎみ
-- 68: 味噌. miso. (easy, learn to read this)
+- 67: 太り気味: plump. ふとりぎみ
+- 68: 味噌: miso. (easy, learn to read this)
 - 69: teehee the BULBS
 - 70: 間取り: house plan. まどり
 - 72: november or december?
 - 76: 一寸先は闇: the future is a closed book. いっすんさきはやみ
 - 76: 起こりうる: to be possible to occur.
+
+## ch100: 泳ぐ人１: swimming man (1)
+
+start p82
+
+- 85: つま先: tip of toes
+- 85: 得体: nature, character
+- 85: もやしっ子: frail child. (もやし: bean sprouts)
+- 86: 乱す: to throw into disorder
+- 86: 現役: student taking entrance exams on first try? (seen before)
+- 87: 一服: a puff, a dose of rest
+- 93: 息継ぎ: taking a short breath (while swimming)
+- 94: 暴れる: to act violently
+
+## ch101: 泳ぐ人２: swimming man (2)
+
+start p98
+
+- 101: 見越す: to wait
+- 101: 大概: generally. (learn that second kanji)
+- 101: 辛抱強い: patient, persevering
+- 104: 脇: one's side
+- 104: 潮: tide
+
+## ch102: 訪問者１: visitor (1)
