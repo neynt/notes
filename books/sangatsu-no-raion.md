@@ -2655,3 +2655,12 @@ start p98
 - 104: 潮: tide
 
 ## ch102: 訪問者１: visitor (1)
+
+start p116
+
+- 116: しばし: for a short while
+- 116: 途切れる: to cut off
+- 120: 藪: (medical) quack
+- 124: 負担: burden
+
+NANI the FUCK.
