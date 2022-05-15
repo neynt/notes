@@ -2636,31 +2636,31 @@ start p66
 start p82
 
 - 85: つま先: tip of toes
-- 85: 得体: nature, character
+- 85: 得体: nature, character. えたい
 - 85: もやしっ子: frail child. (もやし: bean sprouts)
-- 86: 乱す: to throw into disorder
-- 86: 現役: student taking entrance exams on first try? (seen before)
-- 87: 一服: a puff, a dose of rest
-- 93: 息継ぎ: taking a short breath (while swimming)
-- 94: 暴れる: to act violently
+- 86: 乱す: to throw into disorder. みだす
+- 86: 現役: student taking entrance exams on first try? (seen before). げんえき
+- 87: 一服: a puff, a dose of rest. いっぷく
+- 93: 息継ぎ: taking a short breath (while swimming). いきつぎ
+- 94: 暴れる: to act violently. あばれる
 
 ## ch101: 泳ぐ人２: swimming man (2)
 
 start p98
 
-- 101: 見越す: to wait
-- 101: 大概: generally. (learn that second kanji)
-- 101: 辛抱強い: patient, persevering
-- 104: 脇: one's side
-- 104: 潮: tide
+- 101: 見越す: to anticipate. みこす
+- 101: 大概: generally. (learn that second kanji). たいがい
+- 101: 辛抱強い: patient, persevering. しんぼうづよい
+- 104: 脇: one's side. わき
+- 104: 潮: tide. しお
 
 ## ch102: 訪問者１: visitor (1)
 
 start p116
 
 - 116: しばし: for a short while
-- 116: 途切れる: to cut off
-- 120: 藪: (medical) quack
-- 124: 負担: burden
+- 116: 途切れる: to cut off. とぎれる
+- 120: 藪: (medical) quack. ヤブ
+- 124: 負担: burden. ふたん
 
 NANI the FUCK.
