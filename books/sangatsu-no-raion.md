@@ -2670,52 +2670,56 @@ NANI the FUCK.
 start p132
 
 - 139: オンパレード: succession of things. "on parade" wasei eigo
-- 141: 単刀直入: yet ANOTHER word for frank
-- 143: 説得, 納得. persuasion, acceptance. the circle of life.
+- 141: 単刀直入: yet ANOTHER word for frank. たんとうちょくにゅう
+- 143: 説得, 納得. persuasion, acceptance. the circle of life. せっとく, なっとく
 - 148: 仕切り直し: going back to square one
-- 148: 退散: dispersal
-- 148: 水入れず: being by oneself with no outsiders
+- 148: 退散: dispersal. たいさん
+- 148: 水入らず: being by oneself with no outsiders
 
 ## ch104: 約束: promise
 
 start p150
 
-- 152: 養う: to support, to bring up (verb)
-- 152: 養育費: child support
-- 153: 慮る: to consider carefully. i think that's a new record for furis on a kanji
-- 154: 躓く: to stumble, to fail
-- 162: 中古: secondhand
-- 162: 欄: section (e.g. in a newspaper, page)
-- 163: 憚る: to hesitate
-- 163: 省略: abridgment
-- 163: 不倫: adultery, affair
-- 164: 補足: supplement
-- 168: 満を持して: long-awaited
+- 152: 養う: to support, to bring up (verb). やしなう
+- 152: 養育費: child support. よういくひ
+- 153: 慮る: to consider carefully. i think that's a new record for furis on a kanji. おもんばかる
+- 154: 躓く: to stumble, to fail. つまずく
+- 162: 中古: secondhand. ちゅうこ
+- 162: 欄: section (e.g. in a newspaper, page). らん
+- 163: 憚る: to hesitate. はばかる
+- 163: 省略: abridgment. しょうりゃく
+- 163: 不倫: adultery, affair. ふりん
+- 164: 補足: supplement. ほそく
+- 170: 満を持して: long-awaited. まんをじして
 
 ## ch105: 小さいおはなし: a small talk
 
 start p7
 
-- 9: 婚約: betrothal
-- 11: 真に: pron.
-- 11: 蠢く: to wriggle, to squirm
-- 11: 有象無象: riffraff
-- 11: 直談判: direct talks
-- 11: 劣悪: abysmal
+- 9: 婚約: betrothal. こんやく
+- 11: 真に: pron. まことに
+- 11: 蠢く: to wriggle, to squirm. うごめく
+- 11: 有象無象: riffraff. うぞうむぞう
+- 11: 直談判: direct talks. じかだんぱん
+- 11: 劣悪: abysmal. めつあく
 - 11: 中２ハート: we all know what chuuni that is
-- 12: 賜物: boon, fruit of hard work
-- 12: 推理: deductions
-- 13: 誇張: exaggeration
+- 12: 賜物: boon, fruit of hard work. たまもの
+- 12: 推理: deductions. すいり
+- 13: 誇張: exaggeration. こちょう
 - 13: ツラする: to have a kind of face
-- 15: 伯母: aunt (uk)
-- 15: 丸め込む: to win over
-- 15: 危機管理: crisis management
-- 15: 至近距離: point-blank range
-- 15: 生息: inhabiting, living
-- 16: 薄れる: to become dim
+- 15: 伯母: aunt (uk). おば
+- 15: 丸め込む: to win over. まるめこむ
+- 15: 危機管理: crisis management. ききかんり
+- 15: 至近距離: point-blank range. しきんきょり
+- 15: 生息: inhabiting, living. せいそく
+- 16: 薄れる: to become dim. うすれる
 - 16: こそばゆい: embarrassed, awkward, ticklish
-- 20: 鼻声: nasal voice
-- 22: 芝居: acting
-- 23: 沈黙: silence
+- 20: 鼻声: nasal voice. はなごえ
+- 22: 芝居: acting. しばい
+- 23: 沈黙: silence. ちんもく
 
 weh weh. 断りはいろいろな形がある.
+
+## ch106: たのしい晩ごはん: fun dinner
+
+start p25
