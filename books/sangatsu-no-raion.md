@@ -2726,8 +2726,8 @@ weh weh. 断りはいろいろな形がある.
 start p25
 
 - 27: おぜん: four-legged tray for festive food
-- 28: 海苔: should learn 2nd kanji
-- 32: 大幅: drastic
+- 28: 海苔: should learn 2nd kanji. のり
+- 32: 大幅: drastic. おおはば
 
 well that was short
 
@@ -2735,16 +2735,16 @@ well that was short
 
 start p33
 
-- 36: 冥土: hades
-- 36: 度肝: guts
-- 36: 度肝を抜く: to astonish
+- 36: 冥土: hades. めいど
+- 36: 度肝: guts. どぎも
+- 36: 度肝を抜く: to astonish. どぎもをぬく
 
 ## ch108: 大阪２: osaka (2)
 
 start p47
 
-- 51: 燥ぐ: to be in high spirits
-- 55: 噴煙: (eruption of) smoke
-- 58: 展開: development (of a situation)
+- 51: 燥ぐ: to be in high spirits. はしゃぐ
+- 55: 噴煙: (eruption of) smoke. ふんえん
+- 58: 展開: development (of a situation). てんかい
 
 funny boy
