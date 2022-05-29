@@ -2743,4 +2743,8 @@ start p33
 
 start p47
 
-- 51: 燥ぐ
+- 51: 燥ぐ: to be in high spirits
+- 55: 噴煙: (eruption of) smoke
+- 58: 展開: development (of a situation)
+
+funny boy
