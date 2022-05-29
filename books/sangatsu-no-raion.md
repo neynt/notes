@@ -2714,6 +2714,7 @@ start p7
 - 15: 生息: inhabiting, living. せいそく
 - 16: 薄れる: to become dim. うすれる
 - 16: こそばゆい: embarrassed, awkward, ticklish
+- 19: 急かす: to rush. せかす
 - 20: 鼻声: nasal voice. はなごえ
 - 22: 芝居: acting. しばい
 - 23: 沈黙: silence. ちんもく
@@ -2723,3 +2724,23 @@ weh weh. 断りはいろいろな形がある.
 ## ch106: たのしい晩ごはん: fun dinner
 
 start p25
+
+- 27: おぜん: four-legged tray for festive food
+- 28: 海苔: should learn 2nd kanji
+- 32: 大幅: drastic
+
+well that was short
+
+## ch107: 大阪１: osaka (1)
+
+start p33
+
+- 36: 冥土: hades
+- 36: 度肝: guts
+- 36: 度肝を抜く: to astonish
+
+## ch108: 大阪２: osaka (2)
+
+start p47
+
+- 51: 燥ぐ
