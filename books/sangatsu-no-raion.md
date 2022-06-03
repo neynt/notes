@@ -2738,13 +2738,51 @@ start p33
 - 36: 冥土: hades. めいど
 - 36: 度肝: guts. どぎも
 - 36: 度肝を抜く: to astonish. どぎもをぬく
+- 40: 回避: evasion. かいひ
+- 46: チグハグ: inconsistent, incoherent
 
 ## ch108: 大阪２: osaka (2)
 
 start p47
 
 - 51: 燥ぐ: to be in high spirits. はしゃぐ
+- 55: 噴火: volcanic eruption. ふんか
 - 55: 噴煙: (eruption of) smoke. ふんえん
+- 55: 花壇: flowerbed. かだん
 - 58: 展開: development (of a situation). てんかい
 
 funny boy
+
+## ch109: 大阪３: osaka (3)
+
+start p61
+
+- 66: 核心: core of the matter
+- 68: 壮大: grand
+- 68: 戦略: strategy
+- 69: 遭遇: encounter
+- 69: 同伴: accompanying
+- 70: 台詞: spoken line
+
+## ch110: 大阪４: osaka (4)
+
+start p75
+
+- 76: 卑怯者: coward
+- 78: 肉を切らせて骨を断つ: to lose the battle but win the war. colorful
+- 86: 同族嫌悪: disliking people similar to oneself
+- 87: 展望: outlook
+
+## ch111: カッコウの鳴く夜: the evening the cuckoo called
+
+start p93
+
+- 97: マジギレ: being truly angry
+- 98: 戦意喪失: losing the will to fight
+- 102: お勘定: bill (at a restaurant)
+- 103: 裁判所: court (of law)
+- 103: 稽古: practice, training, study
+- 103: 幸い: luckily
+- 109: ぽつん: standing alone, falling in drops
+
+## ch112: にちようび１: sunday (1)
