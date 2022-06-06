@@ -2786,3 +2786,23 @@ start p93
 - 109: ぽつん: standing alone, falling in drops
 
 ## ch112: にちようび１: sunday (1)
+
+start p111
+
+- 多幸感
+
+oooooooof
+
+## ch113: にちようび２: sunday (2)
+
+start p125
+
+- 133: ?便
+- 133: 無我夢中
+- 134: 後を?う
+- 140: 南極
+- 140: 透き
+
+## ch114: やさしい歌
+
+start p141
