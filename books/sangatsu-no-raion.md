@@ -2755,41 +2755,41 @@ funny boy
 
 ## ch109: 大阪３: osaka (3)
 
-start p61
+start p61. (for 2022-06-20)
 
-- 66: 核心: core of the matter
-- 68: 壮大: grand
-- 68: 戦略: strategy
-- 69: 遭遇: encounter
-- 69: 同伴: accompanying
-- 70: 台詞: spoken line
+- 66: 核心: core of the matter. かくしん
+- 68: 壮大: grand. そうだい
+- 68: 戦略: strategy. せんりゃく
+- 69: 遭遇: encounter. そうぐう
+- 69: 同伴: accompanying. どうはん
+- 70: 台詞: spoken line. せりふ
 
 ## ch110: 大阪４: osaka (4)
 
 start p75
 
-- 76: 卑怯者: coward
+- 76: 卑怯者: coward. ひきょうもの
 - 78: 肉を切らせて骨を断つ: to lose the battle but win the war. colorful
-- 86: 同族嫌悪: disliking people similar to oneself
-- 87: 展望: outlook
+- 86: 同族嫌悪: disliking people similar to oneself. どうぞくけんお
+- 87: 展望: outlook. てんぼう
 
 ## ch111: カッコウの鳴く夜: the evening the cuckoo called
 
 start p93
 
 - 97: マジギレ: being truly angry
-- 98: 戦意喪失: losing the will to fight
-- 102: お勘定: bill (at a restaurant)
-- 103: 裁判所: court (of law)
-- 103: 稽古: practice, training, study
-- 103: 幸い: luckily
+- 98: 戦意喪失: losing the will to fight. せんいそうしつ
+- 102: お勘定: bill (at a restaurant). おかんじょう
+- 103: 裁判所: court (of law). さいばんしょ
+- 103: 稽古: practice, training, study. けいこ
+- 103: 幸い: luckily. さいわい
 - 109: ぽつん: standing alone, falling in drops
 
 ## ch112: にちようび１: sunday (1)
 
 start p111
 
-- 多幸感
+- 多幸感. euphoria. たこうかん
 
 oooooooof
 
