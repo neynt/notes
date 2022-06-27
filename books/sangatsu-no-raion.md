@@ -2755,7 +2755,7 @@ funny boy
 
 ## ch109: 大阪３: osaka (3)
 
-start p61. (for 2022-06-20)
+start p61. (for 2022-06-27)
 
 - 66: 核心: core of the matter. かくしん
 - 68: 壮大: grand. そうだい

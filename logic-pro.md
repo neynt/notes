@@ -38,3 +38,20 @@
 - File > Bounce project or section.
 - If project is too loud, can turn down master gain or add an adaptive limiter
   to the output channel strip.
+
+## Loop Community - [Overview of virtual instruments](https://www.youtube.com/watch?v=AoQaCqPgDnA)
+
+- Logic Sampler (Multi-Sample): Sampler. Basic instruments in "Factory"
+  presets. Grand piano, celesta, guitars, etc. Can adjust some basic affects
+  and ADSR. Used to be called EXS24.
+- Drummer: AI drum track generator.
+- ES2: Synthesizer. Synth bass, synth leads, synth pads. Use and explore the
+  presets.
+- Retro Synth: Basic synth. Good for basic waveforms. Also has wavetable and FM
+  synthesis. Play around with presets!!
+- Alchemy: Kinda similar to omnisphere. Very flexible synth with a rich,
+  categorized library.
+- Vintage organ: Organ simulator.
+- Studio strings: "Real sounding strings". Violins, string sections, different
+  articulations.
+- Vintage electric piano: It's an electric piano.
