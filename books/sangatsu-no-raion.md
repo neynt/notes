@@ -2763,6 +2763,10 @@ start p61. (for 2022-06-27)
 - 69: 遭遇: encounter. そうぐう
 - 69: 同伴: accompanying. どうはん
 - 70: 台詞: spoken line. せりふ
+- 71: 発展登場
+- 71: 生涯年収
+- 71: 初々しい
+- 72: 尚更
 
 ## ch110: 大阪４: osaka (4)
 
@@ -2779,6 +2783,7 @@ start p93
 
 - 97: マジギレ: being truly angry
 - 98: 戦意喪失: losing the will to fight. せんいそうしつ
+- 99: 強硬手段
 - 102: お勘定: bill (at a restaurant). おかんじょう
 - 103: 裁判所: court (of law). さいばんしょ
 - 103: 稽古: practice, training, study. けいこ
@@ -2797,12 +2802,23 @@ oooooooof
 
 start p125
 
-- 133: ?便
-- 133: 無我夢中
-- 134: 後を?う
-- 140: 南極
-- 140: 透き
+- 133: 穏便: gentle, simply. おんびん
+- 133: 無我夢中: losing oneself in something.
+- 134: 後を追う: to chase, to pursue.
+- 140: 南極: south pole. なんきょく
+- 140: 透き通る: to be transparent. すきとおる
 
-## ch114: やさしい歌
+## ch114: やさしい歌: gentle song.
 
 start p141
+
+- 147: 時分: time, era
+- 148: 順に: one by one
+- 148: 看取り: caring for the sick
+- 148: 背負う: to carry on one's back, to carry a burden
+- 149: 口癖: manner of talking
+- 150: 書体じみる: to be worn out from domestic life
+- 154: 猛烈: fierce
+- 154: 自己資金: personal funds
+- 154: 増築: addition to a building
+- 154: 融資額: loan amount
