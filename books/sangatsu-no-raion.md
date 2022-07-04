@@ -2800,7 +2800,7 @@ oooooooof
 
 ## ch113: にちようび２: sunday (2)
 
-start p125
+start p125. for 2022-07-04
 
 - 133: 穏便: gentle, simply. おんびん
 - 133: 無我夢中: losing oneself in something.
@@ -2812,13 +2812,13 @@ start p125
 
 start p141
 
-- 147: 時分: time, era
-- 148: 順に: one by one
-- 148: 看取り: caring for the sick
-- 148: 背負う: to carry on one's back, to carry a burden
-- 149: 口癖: manner of talking
-- 150: 書体じみる: to be worn out from domestic life
-- 154: 猛烈: fierce
-- 154: 自己資金: personal funds
-- 154: 増築: addition to a building
-- 154: 融資額: loan amount
+- 147: 時分: time, era. じぶん
+- 148: 順に: one by one. じゅんに
+- 148: 看取り: caring for the sick. みとり
+- 148: 背負う: to carry on one's back, to carry a burden. せおう
+- 149: 口癖: manner of talking. くちぐせ
+- 150: 所帯じみる: to be worn out from domestic life. しょたいじみる
+- 154: 猛烈 fierce. もうれつ
+- 154: 自己資金: personal funds. じこしきん
+- 154: 増築: addition to a building. ぞうちく
+- 154: 融資額: loan amount. ゆうしがく
