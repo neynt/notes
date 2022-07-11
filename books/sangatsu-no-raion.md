@@ -2817,8 +2817,53 @@ start p141
 - 148: 看取り: caring for the sick. みとり
 - 148: 背負う: to carry on one's back, to carry a burden. せおう
 - 149: 口癖: manner of talking. くちぐせ
+- 149: 子は鎹: children are a bond between husband and wife. こはかすがい
 - 150: 所帯じみる: to be worn out from domestic life. しょたいじみる
 - 154: 猛烈 fierce. もうれつ
 - 154: 自己資金: personal funds. じこしきん
 - 154: 増築: addition to a building. ぞうちく
 - 154: 融資額: loan amount. ゆうしがく
+- 156: 伴侶: priest, companion. はんりょ
+
+## end of volume 11, fighter
+
+(for 2022-07-11)
+
+- 165: 晒し者: public humiliation
+- 165: 浮き彫り: bringing to the forefront
+- 166: 敷く: to spread, to lay out
+- 172: 命綱: lifeline
+- 175: 射す: to shine. same kanji as 射つ
+
+i feel like this is exactly what happened to me wrt coding
+
+## ch115: およばれ: party invitation
+
+start p14
+
+- 18: 円安: depreciation of the yen
+- 18: skipped some economic terms
+- 19: 徳: virtue
+- 19: 佇まい: apperance, feel
+- 19: 慕う: to yearn for, to follow, to idolize
+- 19: 老ける: to age
+- 20: 文箱: box for letters
+- 20: 原告: modern Japanese (school subject)
+- 20: 風評被害: reputational risk
+- jeez this is long and wordy
+- 21: 包容力: broad-mindedness
+- 21: 秘める: to hide, to keep a secret
+
+uhh what's kiriyama doing?
+
+## ch116: 忠実なる愛犬エリザベス物語: the tale of elizabeth, the faithful dog
+
+start p24
+
+- 24: 子息: son (honorific)
+- 24: 仕える: to serve
+- 25: 無粋: boorish
+- 25: 言語道断: preposterous
+- 27: 捧げる: to dedicate
+- 29: 赤子: baby
+- 31: 果報者: lucky fellow
