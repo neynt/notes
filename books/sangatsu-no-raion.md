@@ -2829,11 +2829,11 @@ start p141
 
 (for 2022-07-11)
 
-- 165: 晒し者: public humiliation
-- 165: 浮き彫り: bringing to the forefront
-- 166: 敷く: to spread, to lay out
-- 172: 命綱: lifeline
-- 175: 射す: to shine. same kanji as 射つ
+- 165: 晒し者: public humiliation. さらしもの
+- 165: 浮き彫り: bringing to the forefront. うきぼり
+- 166: 敷く: to spread, to lay out. しく
+- 172: 命綱: lifeline. いのちづな
+- 175: 射す: to shine. same kanji as 射つ. さす
 
 i feel like this is exactly what happened to me wrt coding
 
@@ -2841,18 +2841,18 @@ i feel like this is exactly what happened to me wrt coding
 
 start p14
 
-- 18: 円安: depreciation of the yen
+- 18: 円安: depreciation of the yen. えんやす
 - 18: skipped some economic terms
-- 19: 徳: virtue
-- 19: 佇まい: apperance, feel
-- 19: 慕う: to yearn for, to follow, to idolize
-- 19: 老ける: to age
-- 20: 文箱: box for letters
-- 20: 原告: modern Japanese (school subject)
-- 20: 風評被害: reputational risk
+- 19: 徳: virtue. とく
+- 19: 佇まい: apperance, feel. たたずまい
+- 19: 慕う: to yearn for, to follow, to idolize. したう
+- 19: 老ける: to age. ふける
+- 20: 文箱: box for letters. ふばこ
+- 20: 現国: modern Japanese (school subject). げんこく
+- 20: 風評被害: reputational risk. ふひょうひがい
 - jeez this is long and wordy
-- 21: 包容力: broad-mindedness
-- 21: 秘める: to hide, to keep a secret
+- 21: 包容力: broad-mindedness. ほうようりょく
+- 21: 秘める: to hide, to keep a secret. ひめる
 
 uhh what's kiriyama doing?
 
@@ -2860,10 +2860,10 @@ uhh what's kiriyama doing?
 
 start p24
 
-- 24: 子息: son (honorific)
-- 24: 仕える: to serve
-- 25: 無粋: boorish
-- 25: 言語道断: preposterous
-- 27: 捧げる: to dedicate
-- 29: 赤子: baby
-- 31: 果報者: lucky fellow
+- 24: 子息: son (honorific). しそく
+- 24: 仕える: to serve. つかえる
+- 25: 無粋: boorish. ぶすい
+- 25: 言語道断: preposterous. げんごどうだん
+- 27: 捧げる: to dedicate. ささげる
+- 29: 赤子: baby. あかご
+- 31: 果報者: lucky fellow. (last seen chapter 2!!). かほうもの
