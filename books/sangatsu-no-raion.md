@@ -2872,30 +2872,30 @@ start p24
 
 for 2022-07-18. start p32
 
-- 34: 早朝: early morning (pron).
+- 34: 早朝: early morning (pron). そうちょう
 - 36: うぜらしか: うるさい, kagoshima-ben.
 - 36: チャンバラ: sword play
-- 37: 詫びる: to apologize
-- 37: 戦: war
+- 37: 詫びる: to apologize. わびる
+- 37: 戦: war. いくさ
 - 37: さりとて: however
 - 37: むしりとる: to tear off
-- 37: 噴火: eruption. definitely seen before
-- 37: 棒杙: wooden stake. was not in my IME.
-- 41: 滅法: astonishingly
-- 43: 日焼け止め: sunscreen
+- 37: 噴火: eruption. definitely seen before. ふんか
+- 37: 棒杙: wooden stake. was not in my IME. ぼうぐい
+- 41: 滅法: astonishingly. めっぽう
+- 43: 日焼け止め: sunscreen. ひやけどめ
 - 43: WITH lol
-- 43: 娶る: to take a wife
-- 44: 聖母: holy mother
+- 43: 娶る: to take a wife. めとる
+- 44: 聖母: holy mother. せいぼ
 - 44: 乏しい: lacking
 - 45: 禿鷹: vulture. ハゲタカ
-- 46: 招き: invitation (pron).
-- 47: 浮輪: life ring
+- 46: 招き: invitation (pron). まねき
+- 47: 浮輪: life ring. うきわ
 
 ## ch118: 薩摩編２: the satsuma arc (2)
 
 start p50
 
 - 52: しんどい: tired, frazzled
-- 54: 濃厚: rich, likely
-- 59: 奪取: usurpation
-- 60: 満載: full load
+- 54: 濃厚: rich, likely. のうこう
+- 59: 奪取: usurpation. だっしゅ
+- 60: 満載: full load. まんさい. looks very similar to 万歳
