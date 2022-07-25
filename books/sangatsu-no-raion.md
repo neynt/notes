@@ -2904,23 +2904,23 @@ start p50
 
 start p66. for 2022-07-25
 
-- 71: 鉄壁: ironclad
-- 71: 広大: vast (pron)
+- 71: 鉄壁: ironclad. てっぺき
+- 71: 広大: vast (pron). こうだい
 - 71: ことごとく: altogether, entirely
-- 71: 占う: predict (pron)
-- 72: 集い: meeting (pron)
-- 72: 宴: party, feast
-- 72: 酒豪: heavy drinker
-- 76: 容赦: forgiveness
-- 79: 投入: throwing in, investing
-- 80: 悪あがき: vain struggle
+- 71: 占う: predict (pron). うらなう
+- 72: 集い: meeting (pron). つどい
+- 72: 宴: party, feast. うたげ
+- 72: 酒豪: heavy drinker. しゅごう
+- 76: 容赦: forgiveness. ようしゃ
+- 79: 投入: throwing in, investing. last seen ch5. とうにゅう
+- 80: 悪あがき: vain struggle. わるあがき
 
 ## ch120: 薩摩編４: the satsuma arc (4)
 
 start p82
 
 - 84: oof
-- 86: 穴場: hole-in-the-wall
-- 88: 添い遂げる: to remain married for life
-- 89: 毛頭ない: not in the slightest
+- 86: 穴場: hole-in-the-wall. あなば
+- 88: 添い遂げる: to remain married for life. そいとげる
+- 89: 毛頭ない: not in the slightest. もうとうない
 - 91: したり顔: self-satisfied look
