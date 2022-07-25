@@ -2899,3 +2899,28 @@ start p50
 - 54: 濃厚: rich, likely. のうこう
 - 59: 奪取: usurpation. だっしゅ
 - 60: 満載: full load. まんさい. looks very similar to 万歳
+
+## ch119: 薩摩編３: the satsuma arc (3)
+
+start p66. for 2022-07-25
+
+- 71: 鉄壁: ironclad
+- 71: 広大: vast (pron)
+- 71: ことごとく: altogether, entirely
+- 71: 占う: predict (pron)
+- 72: 集い: meeting (pron)
+- 72: 宴: party, feast
+- 72: 酒豪: heavy drinker
+- 76: 容赦: forgiveness
+- 79: 投入: throwing in, investing
+- 80: 悪あがき: vain struggle
+
+## ch120: 薩摩編４: the satsuma arc (4)
+
+start p82
+
+- 84: oof
+- 86: 穴場: hole-in-the-wall
+- 88: 添い遂げる: to remain married for life
+- 89: 毛頭ない: not in the slightest
+- 91: したり顔: self-satisfied look
