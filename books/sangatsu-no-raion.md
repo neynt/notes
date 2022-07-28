@@ -2929,20 +2929,20 @@ start p82
 
 start p92
 
-- 96: 砂蒸し: sand bath
-- 97: 壮絶: grand
-- 98: 原価: unit price
-- 98: 寒天: agar (last seen ch50)
-- 98: 抑える: to hold back an enemy
+- 96: 砂蒸し: sand bath. すなむし
+- 97: 壮絶: grand. そうぜつ
+- 98: 原価: unit price. げんか
+- 98: 寒天: agar (last seen ch50). かんてん
+- 98: 抑える: to hold back an enemy. おさえる
 
 ## ch122: ぼんぼりの灯る道２: the path lit by the paper lanterns (2)
 
 start p106
 
-- 108: 真っ向: right in front
-- 108: 冷夏: cool summer
-- 110: 大海原: the great deep
-- 117: 暗示: hint, suggestion
-- 118: 厄介: nuisance
-- 120: 試行錯誤: trial and error
-- 120: 暁: daybreak
+- 108: 真っ向: right in front. まっこう
+- 108: 冷夏: cool summer. れいか
+- 110: 大海原: the great deep. おおうなばら
+- 117: 暗示: hint, suggestion. あんじ
+- 118: 厄介: nuisance. やっかい
+- 120: 試行錯誤: trial and error. しこうさくご
+- 120: 暁: daybreak. あかつき
