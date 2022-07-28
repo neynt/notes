@@ -2924,3 +2924,25 @@ start p82
 - 88: 添い遂げる: to remain married for life. そいとげる
 - 89: 毛頭ない: not in the slightest. もうとうない
 - 91: したり顔: self-satisfied look
+
+## ch121: ぼんぼりの灯る道１: the path lit by the paper lanterns (1)
+
+start p92
+
+- 96: 砂蒸し: sand bath
+- 97: 壮絶: grand
+- 98: 原価: unit price
+- 98: 寒天: agar (last seen ch50)
+- 98: 抑える: to hold back an enemy
+
+## ch122: ぼんぼりの灯る道２: the path lit by the paper lanterns (2)
+
+start p106
+
+- 108: 真っ向: right in front
+- 108: 冷夏: cool summer
+- 110: 大海原: the great deep
+- 117: 暗示: hint, suggestion
+- 118: 厄介: nuisance
+- 120: 試行錯誤: trial and error
+- 120: 暁: daybreak
