@@ -2946,3 +2946,7 @@ start p106
 - 118: 厄介: nuisance. やっかい
 - 120: 試行錯誤: trial and error. しこうさくご
 - 120: 暁: daybreak. あかつき
+
+## ch123: ぼんぼりの灯る道３: the path lit by the paper lanterns (3)
+
+start p122
