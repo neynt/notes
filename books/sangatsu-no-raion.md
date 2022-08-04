@@ -2949,4 +2949,27 @@ start p106
 
 ## ch123: ぼんぼりの灯る道３: the path lit by the paper lanterns (3)
 
-start p122
+start p122. for 2022-08-08
+
+- 126: 器: bowl
+- 126: 容器: container
+- 126: 出費: expenses
+- 126: てんてこまい: very busy
+- 128: 築く: to build (last seen ch41)
+- 129: 距離を置く: to distance oneself from something
+- 133: 活路: means of survival
+- 133: もしくは: otherwise
+- 133: 勝る: to excel
+- 134: 葬儀屋: funeral parlor
+- 134: 仕立てる: to tailor, to make clothes
+- 134: 余る: to be left over
+- 136: 若干: some
+- 136: 傾向: tendency. should've known
+- 137: 早急: immediate
+- 137: 平静: serenity
+- 137: 分析: analysis
+- 137: 試みる: to try (pron.)
+
+## ch124: ぼんぼりの灯る道４: the path lit by the paper lanterns (4)
+
+start p138
