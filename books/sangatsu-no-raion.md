@@ -2973,3 +2973,19 @@ start p122. for 2022-08-08
 ## ch124: ぼんぼりの灯る道４: the path lit by the paper lanterns (4)
 
 start p138
+
+- 139: 束: counter for bundles
+- 140: 具沢山: full of ingredients
+- 141: しんなり: soft, supple
+- 141: 薬味: condiment (e.g. daikon, wasabi, ginger)
+- 142: imagine just having shiso leaf growing in your backyard
+- 142: 生い茂る: to grow thickly
+- 142: 採る: to pick (kanji)
+- 142: 締まる: to firm up
+- 143: 潜る: to pass through
+- 143: i got hungry reading this page
+- 144: 塩分: salt content. (pron)
+- 144: 必然性: necessity
+- 147: 丹念: diligence
+- 147: 厭う: to be loath to
+- 149: 音声: voice, speech.
