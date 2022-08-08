@@ -2951,41 +2951,41 @@ start p106
 
 start p122. for 2022-08-08
 
-- 126: 器: bowl
-- 126: 容器: container
-- 126: 出費: expenses
-- 126: てんてこまい: very busy
-- 128: 築く: to build (last seen ch41)
-- 129: 距離を置く: to distance oneself from something
-- 133: 活路: means of survival
+- 126: 器: bowl. うつわ
+- 126: 容器: container. ようき
+- 126: 出費: expenses. しゅっぴ
+- 126: てんてこまい: very busy.
+- 128: 築く: to build (last seen ch41). きずく
+- 129: 距離を置く: to distance oneself from something. きょりをおく
+- 133: 活路: means of survival. かつろ
 - 133: もしくは: otherwise
-- 133: 勝る: to excel
-- 134: 葬儀屋: funeral parlor
-- 134: 仕立てる: to tailor, to make clothes
-- 134: 余る: to be left over
-- 136: 若干: some
-- 136: 傾向: tendency. should've known
-- 137: 早急: immediate
-- 137: 平静: serenity
-- 137: 分析: analysis
-- 137: 試みる: to try (pron.)
+- 133: 勝る: to excel. まさる
+- 134: 葬儀屋: funeral parlor. そうぎや
+- 134: 仕立てる: to tailor, to make clothes. したてる
+- 134: 余る: to be left over. あまる
+- 136: 若干: some. じゃっかん
+- 136: 傾向: tendency. should've known. けいこう
+- 137: 早急: immediate. そうきゅう
+- 137: 平静: serenity. へいせい
+- 137: 分析: analysis. ぶんせき
+- 137: 試みる: to try (pron.). こころみる
 
 ## ch124: ぼんぼりの灯る道４: the path lit by the paper lanterns (4)
 
 start p138
 
-- 139: 束: counter for bundles
-- 140: 具沢山: full of ingredients
+- 139: 束: counter for bundles. ばた
+- 140: 具沢山: full of ingredients. ぐだくさん
 - 141: しんなり: soft, supple
-- 141: 薬味: condiment (e.g. daikon, wasabi, ginger)
+- 141: 薬味: condiment (e.g. daikon, wasabi, ginger). やくみ
 - 142: imagine just having shiso leaf growing in your backyard
-- 142: 生い茂る: to grow thickly
-- 142: 採る: to pick (kanji)
-- 142: 締まる: to firm up
-- 143: 潜る: to pass through
+- 142: 生い茂る: to grow thickly. おいしげる
+- 142: 採る: to pick (kanji). とる
+- 142: 締まる: to firm up. しまる
+- 143: 潜る: to pass through. くぐる
 - 143: i got hungry reading this page
-- 144: 塩分: salt content. (pron)
-- 144: 必然性: necessity
-- 147: 丹念: diligence
-- 147: 厭う: to be loath to
-- 149: 音声: voice, speech.
+- 144: 塩分: salt content. (pron). えんぶん
+- 144: 必然性: necessity. ひつぜんせい
+- 147: 丹念: diligence. たんねん
+- 147: 厭う: to be loath to. いとう
+- 149: 音声: voice, speech. おんせい
