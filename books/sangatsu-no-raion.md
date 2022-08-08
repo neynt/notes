@@ -2988,4 +2988,4 @@ start p138
 - 144: 必然性: necessity. ひつぜんせい
 - 147: 丹念: diligence. たんねん
 - 147: 厭う: to be loath to. いとう
-- 149: 音声: voice, speech. おんせい
+- 149: 音声: voice, speech. おんせk
