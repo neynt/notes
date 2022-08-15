@@ -2974,7 +2974,7 @@ start p122. for 2022-08-08
 
 start p138
 
-- 139: 束: counter for bundles. ばた
+- 139: 束: counter for bundles. たば
 - 140: 具沢山: full of ingredients. ぐだくさん
 - 141: しんなり: soft, supple
 - 141: 薬味: condiment (e.g. daikon, wasabi, ginger). やくみ
@@ -2988,4 +2988,21 @@ start p138
 - 144: 必然性: necessity. ひつぜんせい
 - 147: 丹念: diligence. たんねん
 - 147: 厭う: to be loath to. いとう
-- 149: 音声: voice, speech. おんせk
+- 149: 音声: voice, speech. おんせ
+
+## ch125: ぼんぼりの灯る道５: the path lit by the paper lanterns (5)
+
+start p152
+
+- 155: 跳ねる: to jump
+- 155: 鋭い: sharp
+- 158: 回避: to avoid
+- 160: 失態: blunder
+- 165: 窮屈: narrow, cramped
+
+## ch126: 夏祭りの夜: the night of the summer festival
+
+start p168
+
+- 179: 軒下: under the eaves
+- 181: 絵日記: picture diary
