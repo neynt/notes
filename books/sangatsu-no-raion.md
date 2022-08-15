@@ -2994,15 +2994,15 @@ start p138
 
 start p152
 
-- 155: 跳ねる: to jump
-- 155: 鋭い: sharp
-- 158: 回避: to avoid
-- 160: 失態: blunder
-- 165: 窮屈: narrow, cramped
+- 155: 跳ねる: to jump. はねる
+- 155: 鋭い: sharp. するどい
+- 158: 回避: to avoid. かいひ
+- 160: 失態: blunder. しったい
+- 165: 窮屈: narrow, cramped. きゅうくつ
 
 ## ch126: 夏祭りの夜: the night of the summer festival
 
 start p168
 
-- 179: 軒下: under the eaves
-- 181: 絵日記: picture diary
+- 179: 軒下: under the eaves. のきした
+- 181: 絵日記: picture diary. えにっき
