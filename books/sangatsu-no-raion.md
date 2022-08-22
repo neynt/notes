@@ -3006,3 +3006,27 @@ start p168
 
 - 179: 軒下: under the eaves. のきした
 - 181: 絵日記: picture diary. えにっき
+
+## ch127: 遠い花火: distant fireworks
+
+start p10. for 2022-08-23
+
+- 13: 咄嗟に: at once, right away. both these kanji are fake
+- 14: あかん: not allowed (kansai)
+- 15: はしゃいで: to make merry
+- 16: 親近感: feeling of kinship
+- 17: 一択: one possible choice
+- 18: 瀕死: on the verge of death
+- 18: 重症: serious wound
+- 20: my god the eyeball that's amazing
+
+## ch128: 銀座: ginza
+
+start p22
+
+- 25: 銘柄: brands
+- 26: 良心的: honest
+- 27: 相愛: mutual love
+- 30: 呆れる: to be shocked
+
+## ch129: 風の２万空理１: the wind's ... 20,000 miles (1)?
