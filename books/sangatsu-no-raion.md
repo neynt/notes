@@ -3016,7 +3016,7 @@ start p10. for 2022-08-23
 - 15: はしゃいで: to make merry
 - 16: 親近感: feeling of kinship
 - 17: 一択: one possible choice
-- 18: 瀕死: on the verge of death
+- 18: 瀕死: on the verge of deathG
 - 18: 重症: serious wound
 - 20: my god the eyeball that's amazing
 
@@ -3030,3 +3030,22 @@ start p22
 - 30: 呆れる: to be shocked
 
 ## ch129: 風の２万空理１: the wind's ... 20,000 miles (1)?
+
+start p32. for 2022-08-30
+
+- 33: 著しく: considerably
+- 35: 比較的: comparatively
+- 36: 見えるそう
+- 37: たぎる: to well up (emotions)
+- 37: 劣る: to be inferior to
+
+## ch130: 真夏の底: midsummer's end
+
+start p44
+
+- 45: 流し: kitchen sink
+- 46: ブラック: exploitative (of employees)
+- 46: 皺寄せ: shifting (burden) onto
+- 46: 長寿: long life
+
+we really gonna spin off this sideplot?
