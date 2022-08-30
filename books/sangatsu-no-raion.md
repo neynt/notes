@@ -3035,7 +3035,6 @@ start p32. for 2022-08-30
 
 - 33: 著しく: considerably
 - 35: 比較的: comparatively
-- 36: 見えるそう
 - 37: たぎる: to well up (emotions)
 - 37: 劣る: to be inferior to
 
