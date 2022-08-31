@@ -3031,20 +3031,20 @@ start p22
 
 ## ch129: 風の２万空理１: the wind's ... 20,000 miles (1)?
 
-start p32. for 2022-08-30
+start p32. for 2022-08-31
 
-- 33: 著しく: considerably
-- 35: 比較的: comparatively
+- 33: 著しく: considerably. いちじるしく
+- 35: 比較的: comparatively. ひかくてき
 - 37: たぎる: to well up (emotions)
-- 37: 劣る: to be inferior to
+- 37: 劣る: to be inferior to. おとる
 
 ## ch130: 真夏の底: midsummer's end
 
 start p44
 
-- 45: 流し: kitchen sink
+- 45: 流し: kitchen sink. ながし
 - 46: ブラック: exploitative (of employees)
-- 46: 皺寄せ: shifting (burden) onto
-- 46: 長寿: long life
+- 46: 皺寄せ: shifting (burden) onto. しわよせ
+- 46: 長寿: long life. ちょうじゅ
 
 we really gonna spin off this sideplot?
