@@ -3048,3 +3048,23 @@ start p44
 - 46: 長寿: long life. ちょうじゅ
 
 we really gonna spin off this sideplot?
+
+## ch131: 風の２万空理２: the wind's 20,000 miles (2)
+
+start p56
+
+- 57: 帆: sail
+- 60: 正夢: dream that comes true
+
+## ch132: 風の２万空理３: the wind's 20,000 miles (3)
+
+start p68
+
+- 69: 山岳: mountain chain
+- 69: 清々しい: refreshing
+- 70: 登山: mountain climbing. (pron.)
+- 71: 誘導: leading, introduction
+- 73: 効き目: effect, virtue
+- 74: 歯が立たない: unable to compete with
+- 75: 無尽蔵: inexhaustible supply
+- 77: 手柄: achievement
