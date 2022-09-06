@@ -3053,18 +3053,18 @@ we really gonna spin off this sideplot?
 
 start p56
 
-- 57: 帆: sail
-- 60: 正夢: dream that comes true
+- 57: 帆: sail. ほ
+- 60: 正夢: dream that comes true. まさゆめ
 
 ## ch132: 風の２万空理３: the wind's 20,000 miles (3)
 
 start p68
 
-- 69: 山岳: mountain chain
-- 69: 清々しい: refreshing
-- 70: 登山: mountain climbing. (pron.)
-- 71: 誘導: leading, introduction
-- 73: 効き目: effect, virtue
-- 74: 歯が立たない: unable to compete with
-- 75: 無尽蔵: inexhaustible supply
-- 77: 手柄: achievement
+- 69: 山岳: mountain chain. さんがく
+- 69: 清々しい: refreshing. すがすがしい
+- 70: 登山: mountain climbing (pron). とざん
+- 71: 誘導: leading, introduction. ゆうどう
+- 73: 効き目: effect, virtue. ききめ
+- 74: 歯が立たない: unable to compete with. はがたたない
+- 75: 無尽蔵: inexhaustible supply. むじんぞう
+- 77: 手柄: achievement. てがら
