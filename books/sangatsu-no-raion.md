@@ -3062,9 +3062,15 @@ start p68
 
 - 69: 山岳: mountain chain. さんがく
 - 69: 清々しい: refreshing. すがすがしい
+- 69: 端正
 - 70: 登山: mountain climbing (pron). とざん
 - 71: 誘導: leading, introduction. ゆうどう
+- 72: 閃く
 - 73: 効き目: effect, virtue. ききめ
 - 74: 歯が立たない: unable to compete with. はがたたない
 - 75: 無尽蔵: inexhaustible supply. むじんぞう
 - 77: 手柄: achievement. てがら
+
+## ch133: 風の２万空理４: the wind's 20,000 miles (4)
+
+start p80
