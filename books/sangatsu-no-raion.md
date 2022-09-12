@@ -3074,3 +3074,16 @@ start p68
 ## ch133: 風の２万空理４: the wind's 20,000 miles (4)
 
 start p80
+
+- 87: しぶとい: tenacious
+- 87: couldn't read word corresponding to "kids"
+- 91: 対話: dialogue
+
+## ch134: 風の２万空理５: the wind's 20,000 miles (5)
+
+start p92
+
+- 96: 寸前: just before, on the verge of
+- 97: 堪能: proficient, skillful
+
+two short ones this week
