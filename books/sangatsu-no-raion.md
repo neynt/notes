@@ -3077,13 +3077,16 @@ start p80
 
 - 87: しぶとい: tenacious
 - 87: couldn't read word corresponding to "kids"
-- 91: 対話: dialogue
+- 91: 対話: dialogue. たいわ
 
 ## ch134: 風の２万空理５: the wind's 20,000 miles (5)
 
 start p92
 
-- 96: 寸前: just before, on the verge of
-- 97: 堪能: proficient, skillful
+- 96: 寸前: just before, on the verge of. すんぜん
+- 97: 堪能: proficient, skillful. たんのう
 
 two short ones this week
+
+## ch135: 風の２万空理６: the wind's 20,000 miles (6)
+
