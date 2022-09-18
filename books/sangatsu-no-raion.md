@@ -3090,3 +3090,19 @@ two short ones this week
 
 ## ch135: 風の２万空理６: the wind's 20,000 miles (6)
 
+start p100
+
+- 101: 手加減: measuring by feel
+- 109: 配信: distribution, streaming
+- 111: 記す: to remember, to write down
+- 112: とびきり: extra-fine, unequalled
+
+wew
+
+## ch136: 雨の匂い: the smell of rain
+
+start p114
+
+- 117: 推測: conjecture
+- 117: 自称: self-proclaimed
+- 118: 付き添う: to attend on, to escort
