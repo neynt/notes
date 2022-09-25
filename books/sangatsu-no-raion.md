@@ -3106,3 +3106,31 @@ start p114
 - 117: 推測: conjecture
 - 117: 自称: self-proclaimed
 - 118: 付き添う: to attend on, to escort
+
+## ch137: 雨の匂い　河の匂い１: the smell of the rain, the smell of the river (1)
+
+start p129
+
+- 131: 待機: to be on standby
+- 131: 承知: to understand, to consent
+- 131: 処置: to do a medical treatment
+- 133: 診断書: medical certificate
+- 134: ゲリラ豪雨: sudden rain
+- 136: 入道雲: thunderhead
+- 137: 要請: appeal, call for something
+- 137: 喪服: mourning dress
+- 137: 継ぐ: to succeed a position, to inherit
+
+- note: what is 斎屋?
+
+## ch128: 雨の匂い　川の匂い２: the smell of the rain, the msell of the river (2)
+
+start p142
+
+- 145: ピンと: intuitively, instinctively
+- 147: 切迫: pressure, urgency
+- 149: 交える: to mix
+- 149: 顕微鏡: microscope
+- 150: 迷路: maze, labyrinth
+- 150: 引き裂く: to tear up
+- 153: 空腹: empty stomach
