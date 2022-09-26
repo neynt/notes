@@ -3111,15 +3111,15 @@ start p114
 
 start p129
 
-- 131: 待機: to be on standby
-- 131: 承知: to understand, to consent
-- 131: 処置: to do a medical treatment
-- 133: 診断書: medical certificate
-- 134: ゲリラ豪雨: sudden rain
-- 136: 入道雲: thunderhead
-- 137: 要請: appeal, call for something
-- 137: 喪服: mourning dress
-- 137: 継ぐ: to succeed a position, to inherit
+- 131: 待機: to be on standby. たいき
+- 131: 承知: to understand, to consent. しょうち
+- 131: 処置: to do a medical treatment. しょち
+- 133: 診断書: medical certificate. しんだんしょ
+- 134: ゲリラ豪雨: sudden rain. げりらごうう
+- 136: 入道雲: thunderhead. にゅうどうぐも
+- 137: 要請: appeal, call for something. ようせい
+- 137: 喪服: mourning dress. もふく
+- 137: 継ぐ: to succeed a position, to inherit. つぐ
 
 - note: what is 斎屋?
 
@@ -3128,9 +3128,9 @@ start p129
 start p142
 
 - 145: ピンと: intuitively, instinctively
-- 147: 切迫: pressure, urgency
-- 149: 交える: to mix
-- 149: 顕微鏡: microscope
-- 150: 迷路: maze, labyrinth
-- 150: 引き裂く: to tear up
-- 153: 空腹: empty stomach
+- 147: 切迫: pressure, urgency. せっぱく
+- 149: 交える: to mix. まじえる
+- 149: 顕微鏡: microscope. けんびきょう
+- 150: 迷路: maze, labyrinth. めいろ
+- 150: 引き裂く: to tear up. ひきさく
+- 153: 空腹: empty stomach. くうふく
