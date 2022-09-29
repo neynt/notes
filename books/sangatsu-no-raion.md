@@ -3121,9 +3121,9 @@ start p129
 - 137: 喪服: mourning dress. もふく
 - 137: 継ぐ: to succeed a position, to inherit. つぐ
 
-- note: what is 斎屋?
+- note: what is 斎屋? --> like a 斎場
 
-## ch128: 雨の匂い　川の匂い２: the smell of the rain, the msell of the river (2)
+## ch138: 雨の匂い　川の匂い２: the smell of the rain, the smell of the river (2)
 
 start p142
 
@@ -3134,3 +3134,19 @@ start p142
 - 150: 迷路: maze, labyrinth. めいろ
 - 150: 引き裂く: to tear up. ひきさく
 - 153: 空腹: empty stomach. くうふく
+
+## ch139: 目の前に横たわるもの: the thing lying right in front of your eyes
+
+start p154
+
+- 157: 殺菌: sterilization
+- 165: 虫がいい: selfish, asking too much
+
+FINALLY the plot we CAME FOR
+
+## ch140: ふわふわの宝物: fluffy treasure
+
+start p13
+
+- 18: 爆誕: sudden emergence
+- 20: 絶える: to die out, to peter out, to cease
