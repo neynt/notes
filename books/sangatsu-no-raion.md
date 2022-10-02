@@ -3139,8 +3139,8 @@ start p142
 
 start p154
 
-- 157: 殺菌: sterilization
-- 165: 虫がいい: selfish, asking too much
+- 157: 殺菌: sterilization. さっきん
+- 165: 虫がいい: selfish, asking too much.
 
 FINALLY the plot we CAME FOR
 
@@ -3148,5 +3148,5 @@ FINALLY the plot we CAME FOR
 
 start p13
 
-- 18: 爆誕: sudden emergence
-- 20: 絶える: to die out, to peter out, to cease
+- 18: 爆誕: sudden emergence. ばくたん
+- 20: 絶える: to die out, to peter out, to cease. たえる
