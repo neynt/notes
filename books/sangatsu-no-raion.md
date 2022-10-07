@@ -3150,3 +3150,29 @@ start p13
 
 - 18: 爆誕: sudden emergence. ばくたん
 - 20: 絶える: to die out, to peter out, to cease. たえる
+
+## ch141: なつかしい味１: nostalgic flavor (1)
+
+start p25. for 2022-10-10
+
+- 27: 甘煮: stew of thick sweet sauce of soy sauce, sugar, mirin.
+- 27: 香ばしい: aromatic
+- 31: 獣医: veterinarian
+- 33: 薄皮: thin skin
+- 33: 粗い: coarse, rough
+- 33: 布巾: dish towel
+- 35: 歯触り: texture (of food)
+- 35: 匙: spoon
+
+## ch142: なつかしい味２: nostalgic flavor (2)
+
+start p37
+
+- 38: 伝言: text message
+- 39: 入港: entry into port
+- 40: 窓辺: by the window
+- 40: 頻繁: frequent, incessant
+- 42: 器が小さい: small-minded, unforgiving
+- 46: 延々: prolong
+- 47: 恋バナ: talking about love interests
+- 48: 嘆く: to lament
