@@ -3155,24 +3155,27 @@ start p13
 
 start p25. for 2022-10-10
 
-- 27: 甘煮: stew of thick sweet sauce of soy sauce, sugar, mirin.
-- 27: 香ばしい: aromatic
-- 31: 獣医: veterinarian
-- 33: 薄皮: thin skin
-- 33: 粗い: coarse, rough
-- 33: 布巾: dish towel
-- 35: 歯触り: texture (of food)
-- 35: 匙: spoon
+- 27: 甘煮: stew of thick sweet sauce of soy sauce, sugar, mirin. うまに
+- 27: 香ばしい: aromatic. こうばしい
+- 31: 獣医: veterinarian. じゅうい
+- 33: 薄皮: thin skin. うすかわ
+- 33: 粗い: coarse, rough. あらい
+- 33: 布巾: dish towel. ふじん
+- 35: 歯触り: texture (of food). はざわり
+- 35: 匙: spoon. さじ
 
 ## ch142: なつかしい味２: nostalgic flavor (2)
 
 start p37
 
-- 38: 伝言: text message
-- 39: 入港: entry into port
-- 40: 窓辺: by the window
-- 40: 頻繁: frequent, incessant
-- 42: 器が小さい: small-minded, unforgiving
-- 46: 延々: prolong
-- 47: 恋バナ: talking about love interests
-- 48: 嘆く: to lament
+- 38: 伝言: text message. でんごん
+- 39: 入港: entry into port. にゅうこう
+- 40: 窓辺: by the window. まどべ
+- 40: 頻繁: frequent, incessant. ひんぺん
+- 42: 器が小さい: small-minded, unforgiving. うつわがちいさい
+- 46: 延々: prolong. えんえん
+- 47: 恋バナ: talking about love interests. こいばな
+- 48: 嘆く: to lament. なげく
+
+oh whoa this article is pretty recent eh
+oh whoa alphago was a while ago eh
