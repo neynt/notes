@@ -30,10 +30,11 @@ At 08:00 and 20:00 (timing is flexible, can be +/- 2h if needed):
 3. Turn on the big bright light for better visibility. (Left back corner of
    room behind bed, turn black knob of top light)
 4. Put on gloves (optional)
-5. Open cage. Look around and discard bedding that has been soiled by pee. It's
-   yellow and sometimes still damp. His favorite spot is inside the shelter,
-   closest to the front of the cage. You will need to remove the lid of the
-   shelter to access it. This should be the only place ~90% of the time.
+5. Open cage. Use hanging clothes organizer to hold the lid open. Look around
+   and discard bedding that has been soiled by pee. It's yellow and sometimes
+   still damp. His favorite spot is inside the shelter, closest to the front of
+   the cage. You will need to remove the lid of the shelter to access it. This
+   should be the only place ~90% of the time.
 6. Refill food if the bowl is empty. Use ~0.5cm layer of Sunburst seed blend at
    the bottom of the food bowl, and 3 critter cubes. Should happen every 2-3
    days.
