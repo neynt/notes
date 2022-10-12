@@ -18,7 +18,7 @@ At 08:00 and 20:00 (timing is flexible, can be +/- 2h if needed):
 
 ### play
 
-- Laser pointer on the bed. Aim away from eyes
+- Laser pointer on the bed. Aim away from eyes!
 
 ### smokeynomicon -- advanced techniques for experts only
 - If there is a lot of leftover food, save it in the fridge using one of the
