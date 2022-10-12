@@ -32,8 +32,8 @@ At 08:00 and 20:00 (timing is flexible, can be +/- 2h if needed):
 ### dailies
 1. Get green waste bag from under the kitchen sink.
 2. Lock cats out of room.
-3. Turn on the big bright light for better visibility. (Left back corner of
-   room behind bed, turn black knob of top light)
+3. Turn on the big bright light for better visibility. (Top light of the lamp
+   in the back left corner of the room, behind bed)
 4. Put on gloves (optional)
 5. Open cage. Use hanging clothes organizer to hold the lid open. Look around
    and discard bedding that has been soiled by pee. It's yellow and sometimes
