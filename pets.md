@@ -12,7 +12,8 @@ At 08:00 and 20:00 (timing is flexible, can be +/- 2h if needed):
 
 - Refill water.
 - Feed 1 can of Friskies.
-- Lock him in for 15m to finish eating.
+- Lock him in for 15m to finish eating. He is easily distracted from food so be
+  careful not to disturb him during this time.
 - Discard any uneaten food. Clean bowl in kitchen sink.
 
 ### smokeynomicon -- advanced techniques for experts only
