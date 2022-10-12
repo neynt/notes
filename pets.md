@@ -16,6 +16,10 @@ At 08:00 and 20:00 (timing is flexible, can be +/- 2h if needed):
   careful not to disturb him during this time.
 - Discard any uneaten food. Clean bowl in kitchen sink.
 
+### play
+
+- Laser pointer on the bed. Aim away from eyes
+
 ### smokeynomicon -- advanced techniques for experts only
 - If there is a lot of leftover food, save it in the fridge using one of the
   reusable dish covers. When he's hungry again, heat it up with a touch of
