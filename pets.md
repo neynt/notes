@@ -55,3 +55,7 @@ At 08:00 and 20:00 (timing is flexible, can be +/- 2h if needed):
 - Feed individual pieces of food with your finger
 - Sprinkle little bits of Sunburst herb mix in cage or in food bowl. This
   should be less than 5% of his diet.
+
+## general tips
+
+- Consider saving a bag by using the same bag for waste from hammy & smokey.
