@@ -3179,3 +3179,24 @@ start p37
 
 oh whoa this article is pretty recent eh
 oh whoa alphago was a while ago eh
+
+## ch143: 赤い橋のほとりで１: by the side of the red bridge (1)
+
+start p51
+
+- 52: 重々: repeatedly, fully
+- 54: 皆無: nonexistent
+- 55: 共通: common, shared, mutual
+- 58: 竿: rod
+- 58: 針: hook. pronunciation
+- 61: うっとり: ecstatically, spellbound
+- 61: 細工: craftsmanship
+
+## ch144: 赤い橋のほとりで２: by the side of the red bridge (2)
+
+start p63
+
+- 71: the reading wow
+- 72: みっしり: fully, tightly
+
+guess we better light it up
