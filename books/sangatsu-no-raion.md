@@ -3182,7 +3182,7 @@ oh whoa alphago was a while ago eh
 
 ## ch143: 赤い橋のほとりで１: by the side of the red bridge (1)
 
-start p51
+start p51. for 2022-11-21
 
 - 52: 重々: repeatedly, fully
 - 54: 皆無: nonexistent
@@ -3200,3 +3200,25 @@ start p63
 - 72: みっしり: fully, tightly
 
 guess we better light it up
+
+## ch145: 赤い橋のほとりで３: by the side of the red bridge (3)
+
+start p75. for 2022-11-27
+
+- 77: はぐらかす: to dodge a question, to evade
+- 77: 妄執: deep-rooted delusion
+- 78: 秀才: prodigy
+- 78: あっという間に: in an instant
+- 78: 例える: to compare, to liken
+- 79: 形相: look, expression
+- 79: 墜落必死: certain fall/crash
+- 80: 漕ぐ: to pedal
+- 82: 脚本: screenplay
+
+## ch146: 赤い橋のほとりで４: by the side of the red bridge (4)
+
+start p83.
+
+- 84: ご歓談: chatting
+
+rip
