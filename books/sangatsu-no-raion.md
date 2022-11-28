@@ -3206,19 +3206,19 @@ guess we better light it up
 start p75. for 2022-11-27
 
 - 77: はぐらかす: to dodge a question, to evade
-- 77: 妄執: deep-rooted delusion
-- 78: 秀才: prodigy
+- 77: 妄執: deep-rooted delusion. もうしゅう
+- 78: 秀才: prodigy. しゅうさい
 - 78: あっという間に: in an instant
 - 78: 例える: to compare, to liken
-- 79: 形相: look, expression
-- 79: 墜落必死: certain fall/crash
-- 80: 漕ぐ: to pedal
-- 82: 脚本: screenplay
+- 79: 形相: look, expression. ぎょうそう
+- 79: 墜落必死: certain fall/crash. ついらくひっし
+- 80: 漕ぐ: to pedal. こぐ
+- 82: 脚本: screenplay. きゃくほん
 
 ## ch146: 赤い橋のほとりで４: by the side of the red bridge (4)
 
 start p83.
 
-- 84: ご歓談: chatting
+- 84: ご歓談: chatting. ごかんだん
 
 rip
