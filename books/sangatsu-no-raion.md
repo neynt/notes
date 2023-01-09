@@ -3222,3 +3222,34 @@ start p83.
 - 84: ご歓談: chatting. ごかんだん
 
 rip
+
+## ch147: 赤い橋のほとりで５: by the side of the red bridge (5)
+
+start p95. for 2023-01-10
+
+- 96: 空き地: vacant land. あきち
+- 96: 夜風: evening wind. よかぜ
+- 101: ペンキ: paint
+- 101: 画策: scheming. かくさく
+- 102: 冷凍庫: freezer. れいとうこ
+- 102: 馴染み: friendship, intimacy. なじみ, same as from 幼馴染
+- 103: 打ち解ける: to open one's heart. うちとける
+
+## ch148: 秋の風景１: autumn scenery
+
+start p107
+
+- 108: 佳境: good part (of a story). かきょう
+- 110: 断然: firmly, absolutely. だんぜん
+- 111: やぶさめ: horseback archery
+- 111: 満載: full load. まんさい
+- 111: 企画: planning. きかく
+- 111: 斜面: inclined plane. しゃめん
+- 111: 素材: ingredient, material. そざい
+- 111: 出場: participating in a tournament. last seen ch3. しゅつじょう
+- 112: 名案: good idea. めいあん
+- 113: おさらい: rehearsal
+- 113: 奇襲: surprise attack. きしゅう
+- 114: 審判: referee. しんぱん
+- 115: 磯辺焼き: what is this? fried food wrapped in nori? いそべやき
+- 117: ブロックサイン: hand signal. wasei eigo
