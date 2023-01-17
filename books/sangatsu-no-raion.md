@@ -3231,15 +3231,17 @@ start p95. for 2023-01-10
 - 96: 夜風: evening wind. よかぜ
 - 101: ペンキ: paint
 - 101: 画策: scheming. かくさく
+- 101: 感無量
 - 102: 冷凍庫: freezer. れいとうこ
-- 102: 馴染み: friendship, intimacy. なじみ, same as from 幼馴染
+- 102: 馴染む: to become accustomed to
 - 103: 打ち解ける: to open one's heart. うちとける
 
-## ch148: 秋の風景１: autumn scenery
+## ch148: 秋の風景１: auptumn scenery (1)
 
 start p107
 
 - 108: 佳境: good part (of a story). かきょう
+- 110: あがく
 - 110: 断然: firmly, absolutely. だんぜん
 - 111: やぶさめ: horseback archery
 - 111: 満載: full load. まんさい
@@ -3247,9 +3249,26 @@ start p107
 - 111: 斜面: inclined plane. しゃめん
 - 111: 素材: ingredient, material. そざい
 - 111: 出場: participating in a tournament. last seen ch3. しゅつじょう
+- 111: わんわく
 - 112: 名案: good idea. めいあん
 - 113: おさらい: rehearsal
 - 113: 奇襲: surprise attack. きしゅう
 - 114: 審判: referee. しんぱん
-- 115: 磯辺焼き: what is this? fried food wrapped in nori? いそべやき
+- 115: 磯辺焼き: what is this? roasted food wrapped in nori? いそべやき
 - 117: ブロックサイン: hand signal. wasei eigo
+
+## ch149: 秋の景色２: autumn scenery (2)
+
+start p121. for 2023-01-16
+
+- 123: 雨乞い: rainmaking
+- 123: 疑る: to be sus
+- 123: 供物: offering (to the gods)
+- 128: 災難: disaster
+- 131: 双眼鏡: binoculars
+
+## ch150: 秋の風景３: autumn scenery (3)
+
+start p133
+
+- 135: 頓死 sudden death
