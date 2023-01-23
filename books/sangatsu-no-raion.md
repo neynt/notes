@@ -3257,7 +3257,7 @@ start p107
 - 115: 磯辺焼き: what is this? roasted food wrapped in nori? いそべやき
 - 117: ブロックサイン: hand signal. wasei eigo
 
-## ch149: 秋の景色２: autumn scenery (2)
+## ch149: 秋の風景２: autumn scenery (2)
 
 start p121. for 2023-01-16
 
@@ -3272,3 +3272,38 @@ start p121. for 2023-01-16
 start p133
 
 - 135: 頓死 sudden death
+
+## ch151: 秋の風景４: autumn scenery (4)
+
+start p145. for 2023-01-23
+
+- 146: 未期: ???
+- 146: おなしゃす: shortening of お願いします
+- 150: 振りかざす: to brandish a weapon. ふ
+- 150: 融通: lending, versatility. ゆうずう
+- 151: けしからん: disgraceful
+- 151: 集合: meetup. ch7. しゅうごう
+- 152: 抽選: lottery. ch45. ちゅうせん
+- 154: 鼻高々: proud of oneself. はなたかだか
+- 154: 包帯: bandage. ほうたい
+
+## ch152: 秋の風景５: autumn scenery (5)
+
+start p157
+
+- 158: 惜しい. おしい
+- 159: 坊主頭: buzz cut. ぼうずあたま
+- 159: 聖なる: holy. せいなる
+- 160: ひたすら: singlemindedly
+- 160: えげつない: nasty
+- 160: 大漁: big catch (fish). たいりょう
+- 160: 漁船: fishing boat. ぎょせん
+- 161: うんちく: vast stock of knowledge
+- 162: 野生児: feral child. やせいじ
+- 163: 創作意欲: creative urge. そうさくいよく
+- 163: ちゃっかり: shrewdly
+- 165: that's a page
+- 167: 寄り添う: to get close
+- 170: 埋め合わせ. うめあわせ
+- 173: あっけない: abruptly, unsatisfyingly
+- 179: 降り積もる: to fall and pile up. ふりつもる
