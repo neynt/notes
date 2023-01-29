@@ -3307,3 +3307,25 @@ start p157
 - 170: 埋め合わせ. うめあわせ
 - 173: あっけない: abruptly, unsatisfyingly
 - 179: 降り積もる: to fall and pile up. ふりつもる
+
+## ch154: 星のふる夜に１: A night the stars fell (1)
+
+start p11. Apparently ch153 was combined with ch152 in the tankobon.
+
+- 13: ふやける: to swell up by absorbing liquid
+- 14: 眼帯: eyepatch
+- 17: 急遽: in a hurry
+- 17: ただでさえ: in addition to
+
+## ch155: 星のふる夜に２: A night the stars fell (2)
+
+start p21
+
+- 23: てっきり: surely, without a doubt
+- 23: 訂正: correction
+- 23: そびれる: to miss a chance
+- 24: 唐突: abrupt, sudden
+- 24: ぱいせん: dank senpai
+- 24: 超越: transcendence
+- 29: 申告漏れ: undeclared income
+- 31: 炎: flame
