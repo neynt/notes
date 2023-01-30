@@ -3328,4 +3328,4 @@ start p21
 - 24: ぱいせん: dank senpai
 - 24: 超越: transcendence. ちょうえつ
 - 29: 申告漏れ: undeclared income. しんこくもれ
-- 31: 炎: flame
+- 31: 炎: flame. ほのお
