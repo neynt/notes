@@ -3330,21 +3330,41 @@ start p21
 - 29: 申告漏れ: undeclared income. しんこくもれ
 - 31: 炎: flame. ほのお
 
-## ch156: あづさ１号１: Adusa 1 (1)
+## ch156: あづさ１号１: Adusa Number 1 (1)
 
 start p35. for 2023-02-06
 
-- 36: 生き馬の目を抜く: to keep your wits about you
-- 36: 射抜け: to shoot through something
-- 36: 素早い: quick, nimble
-- 36: 由来: origin, source
-- 37: 揃う: to make a full set, to gather
+- 36: 生き馬の目を抜く: to keep your wits about you. いきうまのめをうく
+- 36: 射抜け: to shoot through something. いぬけ
+- 36: 素早い: quick, nimble. そばやい
+- 36: 由来: origin, source. ゆらい
+- 37: 揃う: to make a full set, to gather. そろう　
 - 38: 真逆: masaka. by no means. uk
-- 40: 恩知らず: ungrateful
-- 41: 起床: to get out of bed
-- 41: 闘志: will to fight
-- 41: 溜め込む: to save up
-- 42: 黄金: golden
-- 42: 鎧: armor
-- 42: 纏う: to be clad in
-- 43: 無愛想: to be unfriendly
+- 40: 恩知らず: ungrateful. おんしらず
+- 41: 起床: to get out of bed. きしょう
+- 41: 闘志: will to fight. とうし
+- 41: 溜め込む: to save up. ためこむ
+- 42: 黄金: golden. おうごん
+- 42: 鎧: armor. よろい
+- 42: 纏う: to be clad in. まとう
+- 43: 無愛想: to be unfriendly. ぶあいそう
+
+## ch157: あづさ一号２: Azusa Number 1 (2)
+
+start p47.
+
+you know what i'll try something different: read english first to get an
+outline of meaning. then when reading raw, you're primed and will have an
+easier time recognizing and can follow along with nuance better than if
+unprimed. no idea if this will help or hinder long term learning.
+
+- 49: 讃える: to extol
+- 49: 秀才: prodigy
+- 50: 堺: boundary
+- 50: 恨む: to resent
+- 50: 生涯: lifetime
+- 51: 群がる: to swarm, to gather
+- 51: 舵: rudder
+- 51: 発売: offering for sale
+- 52: 凡百: many
+- 53: うんざり: to be fed up
