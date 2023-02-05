@@ -3358,13 +3358,13 @@ outline of meaning. then when reading raw, you're primed and will have an
 easier time recognizing and can follow along with nuance better than if
 unprimed. no idea if this will help or hinder long term learning.
 
-- 49: 讃える: to extol
-- 49: 秀才: prodigy
-- 50: 堺: boundary
-- 50: 恨む: to resent
-- 50: 生涯: lifetime
-- 51: 群がる: to swarm, to gather
-- 51: 舵: rudder
-- 51: 発売: offering for sale
-- 52: 凡百: many
+- 49: 讃える: to extol. たたえる
+- 49: 秀才: prodigy. しゅうさい
+- 50: 堺: boundary. さかい
+- 50: 恨む: to resent. うらむ
+- 50: 生涯: lifetime. しょうがい
+- 51: 群がる: to swarm, to gather. うらがる
+- 51: 舵: rudder. かじ
+- 51: 発売: offering for sale. はつばい
+- 52: 凡百: many. ぼんびゃく
 - 53: うんざり: to be fed up
