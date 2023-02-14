@@ -3338,7 +3338,7 @@ start p35. for 2023-02-06
 - 36: 射抜け: to shoot through something. いぬけ
 - 36: 素早い: quick, nimble. そばやい
 - 36: 由来: origin, source. ゆらい
-- 37: 揃う: to make a full set, to gather. そろう　
+- 37: 揃う: to make a full set, to gather. そろう
 - 38: 真逆: masaka. by no means. uk
 - 40: 恩知らず: ungrateful. おんしらず
 - 41: 起床: to get out of bed. きしょう
@@ -3368,3 +3368,23 @@ unprimed. no idea if this will help or hinder long term learning.
 - 51: 発売: offering for sale. はつばい
 - 52: 凡百: many. ぼんびゃく
 - 53: うんざり: to be fed up
+
+## ch158: あづさ一号３: Azusa Number 1 (3)
+
+start p59. for 2023-02-15
+
+- 60: 好奇心: curiosity
+- 63: 拒む: to refuse
+- 68: 徒労: wasted effort
+- 70: 丹念: painstaking
+
+## ch159: あづさ一号４: Azusa Number 1 (4)
+
+start p71.
+
+- 72: せっかち: impatient
+- 73: ぎゅうぎゅう: packing in tightly
+- 73: 基礎: foundational
+- 74: 野蛮: barbaric
+- 77: 鍛える: to forge. (seen ch39)
+- 77: 筋肉: muscle. makes sense, "sinewy meat"
