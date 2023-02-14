@@ -3373,10 +3373,10 @@ unprimed. no idea if this will help or hinder long term learning.
 
 start p59. for 2023-02-15
 
-- 60: 好奇心: curiosity
-- 63: 拒む: to refuse
-- 68: 徒労: wasted effort
-- 70: 丹念: painstaking
+- 60: 好奇心: curiosity. こうきしん
+- 63: 拒む: to refuse. こばむ
+- 68: 徒労: wasted effort. とろう
+- 70: 丹念: painstaking. たんねん
 
 ## ch159: あづさ一号４: Azusa Number 1 (4)
 
@@ -3384,7 +3384,7 @@ start p71.
 
 - 72: せっかち: impatient
 - 73: ぎゅうぎゅう: packing in tightly
-- 73: 基礎: foundational
-- 74: 野蛮: barbaric
+- 73: 基礎: foundational. きそ
+- 74: 野蛮: barbaric. やばん
 - 77: 鍛える: to forge. (seen ch39)
-- 77: 筋肉: muscle. makes sense, "sinewy meat"
+- 77: 筋肉: muscle. makes sense, "sinewy meat". きんにく
