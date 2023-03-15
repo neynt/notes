@@ -3394,19 +3394,19 @@ start p71.
 start p83. for 2023-03-14?
 
 - 93: むせかえる: to choke/sob
-- 94: 皆無: nonexistent
+- 94: 皆無: nonexistent. かいむ
 - 94: ヤケ: 自棄: desperation
-- 94: ウサ晴らし: distraction
-- 95: 決行: to carry out
+- 94: ウサ晴らし: distraction. うさばらし
+- 95: 決行: to carry out. けっこう
 - 95: しかるのち: thereafter
-- 95: 境目: boundary
+- 95: 境目: boundary. さかいめ
 - 97: うがい: rinsing your mouth
 
 ## ch161: 道１: Path (1)
 
-- 104: 呪文: incantation
-- 106: 贅沢: luxury
-- 107: 中堅: mid-level
-- 107: 躊躇: hesitation
+- 104: 呪文: incantation. じゅもん
+- 106: 贅沢: luxury. ぜいたく
+- 107: 中堅: mid-level. ちゅうけん
+- 107: 躊躇: hesitation. ちゅうちょ
 
 can we be done with the shogi tbh
