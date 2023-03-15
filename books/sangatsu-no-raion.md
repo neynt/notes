@@ -3388,3 +3388,25 @@ start p71.
 - 74: 野蛮: barbaric. やばん
 - 77: 鍛える: to forge. (seen ch39)
 - 77: 筋肉: muscle. makes sense, "sinewy meat". きんにく
+
+## ch160: あづさ一号４: Azusa Number 1 (5)
+
+start p83. for 2023-03-14?
+
+- 93: むせかえる: to choke/sob
+- 94: 皆無: nonexistent
+- 94: ヤケ: 自棄: desperation
+- 94: ウサ晴らし: distraction
+- 95: 決行: to carry out
+- 95: しかるのち: thereafter
+- 95: 境目: boundary
+- 97: うがい: rinsing your mouth
+
+## ch161: 道１: Path (1)
+
+- 104: 呪文: incantation
+- 106: 贅沢: luxury
+- 107: 中堅: mid-level
+- 107: 躊躇: hesitation
+
+can we be done with the shogi tbh
