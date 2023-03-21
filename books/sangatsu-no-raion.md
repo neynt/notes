@@ -3389,9 +3389,9 @@ start p71.
 - 77: 鍛える: to forge. (seen ch39)
 - 77: 筋肉: muscle. makes sense, "sinewy meat". きんにく
 
-## ch160: あづさ一号４: Azusa Number 1 (5)
+## ch160: あづさ一号５: Azusa Number 1 (5)
 
-start p83. for 2023-03-14?
+start p83. for 2023-03-15
 
 - 93: むせかえる: to choke/sob
 - 94: 皆無: nonexistent. かいむ
@@ -3404,9 +3404,29 @@ start p83. for 2023-03-14?
 
 ## ch161: 道１: Path (1)
 
+- 104: なぞる: to trace
 - 104: 呪文: incantation. じゅもん
 - 106: 贅沢: luxury. ぜいたく
 - 107: 中堅: mid-level. ちゅうけん
 - 107: 躊躇: hesitation. ちゅうちょ
 
 can we be done with the shogi tbh
+
+## ch162: 道２: Path (2)
+
+start 109. for 2023-03-21
+
+- 110: 侵害: violation
+- 111: 克明: detailed
+- 117: 爽快: exhilarating
+
+## ch163: 道３: Path (3)
+
+start 119
+
+- 122: 手堅い: solid
+- 122: 実利: utility
+- 122: 仕草: gesture
+- 123: 遡る: to trace back to the past
+- 123: 重機: heavy machinery
+- 126: 重たい: heavy
