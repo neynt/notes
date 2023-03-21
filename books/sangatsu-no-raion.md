@@ -3416,17 +3416,17 @@ can we be done with the shogi tbh
 
 start 109. for 2023-03-21
 
-- 110: 侵害: violation
-- 111: 克明: detailed
-- 117: 爽快: exhilarating
+- 110: 侵害: violation. しんがい
+- 111: 克明: detailed. こくめい
+- 117: 爽快: exhilarating. そうかい
 
 ## ch163: 道３: Path (3)
 
 start 119
 
-- 122: 手堅い: solid
-- 122: 実利: utility
-- 122: 仕草: gesture
-- 123: 遡る: to trace back to the past
-- 123: 重機: heavy machinery
-- 126: 重たい: heavy
+- 122: 手堅い: solid. てがたい
+- 122: 実利: utility. じつり
+- 122: 仕草: gesture. しぐさ
+- 123: 遡る: to trace back to the past. さかのぼる
+- 123: 重機: heavy machinery. じゅうき
+- 126: 重たい: heavy. おもたい
