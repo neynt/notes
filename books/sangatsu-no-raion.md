@@ -3414,19 +3414,45 @@ can we be done with the shogi tbh
 
 ## ch162: 道２: Path (2)
 
-start 109. for 2023-03-21
+start p109. for 2023-03-21
 
 - 110: 侵害: violation. しんがい
 - 111: 克明: detailed. こくめい
+- 114: ざま: sorry state
 - 117: 爽快: exhilarating. そうかい
 
 ## ch163: 道３: Path (3)
 
-start 119
+start p119
 
 - 122: 手堅い: solid. てがたい
 - 122: 実利: utility. じつり
 - 122: 仕草: gesture. しぐさ
+- 123: 近況: present state. きんきょう　
+- 123: 飄々: aloof. ひょうひょう
 - 123: 遡る: to trace back to the past. さかのぼる
 - 123: 重機: heavy machinery. じゅうき
 - 126: 重たい: heavy. おもたい
+
+## ch164: 道４: Path (4)
+
+start p129. for 2023-03-27
+
+- 130: かすめる: 掠める. to brush lightly, to appear and quickly disappear
+- 131: 迷路: maze. seen ch138
+- 131: 闇雲: haphazard
+- 137: 報い: reward, punishment
+
+## ch165: 道５: Path (5)
+
+start p139
+
+- 142: 図太い: bolder?
+- 143: 引きずって
+- 144: ゆかり: red perilla?
+- 146: cabin?
+- 147: 泥水
+- 147: 雑草
+- 149: 手放
+
+oh yes. i wanna be the very best for what
