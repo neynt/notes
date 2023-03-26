@@ -3453,5 +3453,6 @@ start p139
 - 146: 植える: to plant. うえる
 - 147: 泥水: muddy water. どろみず
 - 147: 雑草: weeds. ざっそう
+- 149: 手放し: to let go. originally confused as a suru verb. てばなし
 
 oh yes. i wanna be the very best for what
