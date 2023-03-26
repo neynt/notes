@@ -3439,20 +3439,19 @@ start p119
 start p129. for 2023-03-27
 
 - 130: かすめる: 掠める. to brush lightly, to appear and quickly disappear
-- 131: 迷路: maze. seen ch138
-- 131: 闇雲: haphazard
-- 137: 報い: reward, punishment
+- 131: 迷路: maze. seen ch138. めいろ
+- 131: 闇雲: haphazard. やみくも
+- 137: 報い: reward, punishment. むくい
 
 ## ch165: 道５: Path (5)
 
 start p139
 
-- 142: 図太い: bolder?
-- 143: 引きずって
-- 144: ゆかり: red perilla?
-- 146: cabin?
-- 147: 泥水
-- 147: 雑草
-- 149: 手放
+- 142: 図太い: bold. ずぶとい
+- 143: 引きずって. to prolong
+- 144: ゆかり: name of this purple shiso-based furikake
+- 146: 植える: to plant. うえる
+- 147: 泥水: muddy water. どろみず
+- 147: 雑草: weeds. ざっそう
 
 oh yes. i wanna be the very best for what
