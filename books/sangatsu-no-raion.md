@@ -3461,33 +3461,33 @@ oh yes. i wanna be the very best for what
 
 start p151. for 2023-04-03
 
-- 153: 墨: ink
+- 153: 墨: ink. すみ
 - 155: ひっぱりだこ: being very popular
-- 155: 若き日: younger days
-- 155: 舵を切る: to change direction
-- 161: 失くす: to lose (unusual kanji)
+- 155: 若き日: younger days. わかきひ
+- 155: 舵を切る: to change direction. かじをきる
+- 161: 失くす: to lose (unusual kanji). なくす
 
 ## special episode: あかりの銀座物語
 
 start p171
 
-- 173: 看板娘: poster girl
-- 173: 姪: aunt
-- 174: 冷める: to cool down
+- 173: 看板娘: poster girl. かんばんむすめ
+- 173: 姪: aunt. めい
+- 174: 冷める: to cool down. さめる
 - 174: キュウリ: cucumber
 - 174: らっきょう: leek
-- 178: 晩酌: evening drink
-- 178: 等: something like
-- 179: 炭水化物: carbohydrate
+- 178: 晩酌: evening drink. ばんしゃく
+- 178: 等: something like. など
+- 179: 炭水化物: carbohydrate. たんすいかぶつ
 
 ## ch167: 冬の鈴音: sound of a bell in winter
 
 start p12
 
-- 14: 校舎: school building
-- 14: 銀杏: ginkgo
-- 14: 稼動: operation of a machine
-- 15: 控える: to prepare for
-- 15: 就活: job hunting
-- 21: 測る: to measure
+- 14: 校舎: school building. こうしゃ
+- 14: 銀杏: ginkgo. いちょう
+- 14: 稼動: operation of a machine. かどう
+- 15: 控える: to prepare for. ひかえる
+- 15: 就活: job hunting. しゅうかつ
+- 21: 測る: to measure. はかる
 - 21: ほぐして: 保護にする to make null and void
