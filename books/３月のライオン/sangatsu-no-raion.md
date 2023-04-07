@@ -2825,7 +2825,7 @@ start p141
 - 154: 融資額: loan amount. ゆうしがく
 - 156: 伴侶: priest, companion. はんりょ
 
-## end of volume 11, fighter
+## ch114.5: end of volume 11, fighter
 
 (for 2022-07-11)
 
@@ -3465,9 +3465,10 @@ start p151. for 2023-04-03
 - 155: ひっぱりだこ: being very popular
 - 155: 若き日: younger days. わかきひ
 - 155: 舵を切る: to change direction. かじをきる
+- 155: 唖然: dumbfounded あぜん
 - 161: 失くす: to lose (unusual kanji). なくす
 
-## special episode: あかりの銀座物語
+## ch166.5: special episode: あかりの銀座物語
 
 start p171
 
@@ -3491,3 +3492,25 @@ start p12
 - 15: 就活: job hunting. しゅうかつ
 - 21: 測る: to measure. はかる
 - 21: ほぐして: 保護にする to make null and void
+
+## ch168: １２月の雨１: december rain (1)
+
+- 26: 猛追
+- 26: 消耗
+
+the dialogue-free sequence was pretty lit
+nice seeing this side to mr meijin's life
+
+## ch169: １２月の雨２: december rain (2)
+
+- 41: 足？丈夫
+- 42: 音大
+- 43: ?当同然
+- 43: 疲?
+- 43: 病?保育
+- 44: 居抜き
+- 44: 光熱費
+- 44: tuition
+- 45: 難色
+- 46: ?着: fixated
+- 47: ?じ込める
