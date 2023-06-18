@@ -3,7 +3,8 @@
 ### litter boxes
 
 There are four litter boxes: common washroom, laundry area, living room, and
-master bathroom. Each should be scooped daily, and fully changed monthly.
+master bathroom. Each should be scooped daily, and fully changed monthly or
+whenever you notice it's nasty.
 
 1. Get green waste bag from under the kitchen sink.
 2. For each litter box:
