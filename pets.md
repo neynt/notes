@@ -49,6 +49,7 @@ When I'm actually around, I usually follow this schedule.
 
 - Weekday feeding times: 07:00, 19:00, 21:00, 23:00.
 - Weekend feeding times: 07:00, 12:00, 17:00, 22:00.
+  - Uh maybe it's bad to make these inconsistent?
 - Feed a fresh can. He will usually leave about half the food, which you can
   save as leftovers by covering the bowl with a small plate and putting it in
   the fridge.
