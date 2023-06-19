@@ -55,11 +55,10 @@ together. Then plug it back in and pour in fresh water.
 
 ## brushing
 
-- There is a brush you can use to groom Smokey.
-- He likes having his cheeks brushed.
-- He doesn't have too much patience for having the rest of his body brushed.
-  Brush his cheeks a lot to build up good will, then you can go for the rest of
-  his length.
+- There is a brush you can use to remove excess hair from the cats.
+- Smokey likes having his cheeks brushed. He doesn't have too much patience for
+  having the rest of his body brushed. Brush his cheeks a lot to build up good
+  will, then you can go for the rest of his length.
 
 ## nail clipping
 
