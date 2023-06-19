@@ -28,9 +28,9 @@ When I'm actually around, I usually follow this schedule.
 - Feeding times: 07:00, 18:00, 23:00
 - Feed 1 can of Royal Canin each, in a small white plate.
 - First place down Quincy's food in the common area and have him start eating.
-  Then, place down Qualia's food in the master bedroom.
-  - Quincy eats whatever plate is put down first.
-  - Qualia will follow you to the master bedroom to eat from the other plate.
+  This distracts him so that you can put down Qualia's food uninterrupted.
+- Then, place down Qualia's food in the master bedroom and close the door.
+- Open the door after 15 minutes and let Quincy eat whatever Qualia left over.
 
 ## litter boxes
 
