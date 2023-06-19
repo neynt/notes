@@ -82,6 +82,7 @@ Taking care of cats is a lot of work! If you can't do everything, prioritize in
 this order.
 
 - Food and litter box are, of course, musts.
-- Brushing daily is important to prevent hairballs.
+- Brushing daily is nice to prevent hairballs.
 - Nail clipping weekly is important as well to prevent curled back nails, but
-  can be difficult.
+  can be skipped if it's too difficult.
+- Finally playing with the cats for enrichment.
