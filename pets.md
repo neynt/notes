@@ -11,6 +11,14 @@ whenever you notice it's nasty.
    - Top up litter if it's running low. Litter should be ~3in deep.
 3. Tie green bag and discard in building's waste chute.
 
+## water
+
+The cat fountain should be refilled every week and whenever it's running low.
+
+When you refill the cat fountain, do a full clean. Unplug it, dump out existing
+water, wipe inside surfaces, clean the filter sponge, and put it all back
+together. Then plug it back in and pour in fresh water.
+
 ## smokey
 
 ### feeding
