@@ -1,6 +1,4 @@
-## smokey
-
-### litter boxes
+## litter boxes
 
 There are four litter boxes: common washroom, laundry area, living room, and
 master bathroom. Each should be scooped daily, and fully changed monthly or
@@ -12,6 +10,8 @@ whenever you notice it's nasty.
    - Use metal scoop to remove waste and clumps from each litter box.
    - Top up litter if it's running low. Litter should be ~3in deep.
 3. Tie green bag and discard in building's waste chute.
+
+## smokey
 
 ### feeding
 
@@ -41,7 +41,7 @@ whenever you notice it's nasty.
 - When we adopted Smokey he had no front claws :(
 - There is a nail clipper you can use to maintain Smokey's back claws.
 
-### smokeynomicon -- advanced techniques for experts only
+### smokeynomicon -- advanced techniques
 
 #### more frequent feeding schedule
 
@@ -57,3 +57,32 @@ When I'm actually around, I usually follow this schedule.
   to the touch after mixing, usually 15-25s.
    - Don't add too much water or overmix. He likes it softened but not pasty.
 - Only feed leftovers once; discard the remaining afterward.
+
+## quincy & qualia
+
+### feeding
+
+- Feeding times: 07:00, 18:00, 23:00
+- Feed 1 can of Royal Canin each, in a small white plate.
+- First place down Quincy's food in the common area and have him start eating.
+  Then, place down Qualia's food in the master bedroom.
+  - Quincy eats whatever plate is put down first.
+  - Qualia will follow you to the master bedroom to eat from the other plate.
+
+### brushing
+
+- Brush similarly to Smokey.
+
+### nail clipping
+
+- When they are sleeping it's a good time to get a few nails clipped.
+
+## priorities
+
+Taking care of cats is a lot of work! If you can't do everything, prioritize in
+this order.
+
+- Food and litter box are, of course, musts.
+- Brushing daily is important to prevent hairballs.
+- Nail clipping weekly is important as well to prevent curled back nails, but
+  can be difficult.
