@@ -26,3 +26,11 @@
 - ほんまに堪忍どす: kansaiben for "please bear with me"
 - 寝たはる: はる is kansaiben for "いる"
 - うっとこ: kansaiben for "at my place"
+
+## ep5
+
+- 00:00:18: 紅葉: leaves turning red
+- 00:03:00: 募る: to grow in intensity
+- 00:04:02: 衣: glaze, batter
+- 00:10:43: いけず: unkind
+- 00:12:11: おふくろ: one's mother
